@@ -1,58 +1,18 @@
 {
-  "brief_id": "SKYBRIEF-2025-12-20",
-  "headline": "Tonight’s SkyBrief: fresh transients, survey milestones, and new data releases",
-  "night_of": "2025-12-20",
-  "window_local": "Nightly around 02:30 America/Los_Angeles",
-  "generated_at": "2025-12-20T02:30:00-08:00",
-  "generator": "static-starter (replace with nightly GitHub Action)",
-
-  "sources": [
-    {
-      "name": "Rubin Observatory News",
-      "kind": "web/news",
-      "url": "https://rubinobservatory.org/news"
-    },
-    {
-      "name": "ESO Press Releases",
-      "kind": "web/press",
-      "url": "https://www.eso.org/public/news/"
-    },
-    {
-      "name": "NASA APOD",
-      "kind": "web/daily",
-      "url": "https://apod.nasa.gov/apod/astropix.html"
-    },
-    {
-      "name": "arXiv astro-ph (recent)",
-      "kind": "preprints",
-      "url": "https://arxiv.org/list/astro-ph/recent"
-    }
-  ],
-
+  "project": "SkyBrief",
+  "generated_at": "2025-12-20T00:00:00Z",
   "items": [
     {
-      "title": "Commissioning update: survey pipeline performance and first-night style diagnostics",
-      "summary": "A quick overview of instrument status, early data quality checks, and what the team is watching as cadence ramps.",
-      "source": "Rubin Observatory News",
-      "published_at": "2025-12-19T18:10:00-08:00",
-      "link": "https://rubinobservatory.org/news",
-      "tags": ["rubin", "lsst", "survey"]
-    },
-    {
-      "title": "Transient highlight: a fast-rising candidate worth follow-up",
-      "summary": "A candidate transient event flagged by open alert streams; follow-up spectroscopy recommended if accessible.",
-      "source": "Open alerts (example)",
-      "published_at": "2025-12-19T23:40:00-08:00",
-      "link": "https://www.ztf.caltech.edu/",
-      "tags": ["transient", "alerts"]
-    },
-    {
-      "title": "Preprint spotlight: new constraints from wide-field time-domain observations",
-      "summary": "A recent astro-ph preprint using survey data products to improve constraints on a time-domain population model.",
-      "source": "arXiv astro-ph",
-      "published_at": "2025-12-20T01:05:00-08:00",
-      "link": "https://arxiv.org/list/astro-ph/recent",
-      "tags": ["arxiv", "time-domain"]
+      "title": "Welcome to SkyBrief",
+      "summary": "This is a placeholder item. Nightly updates will appear here once the GitHub Action runs.",
+      "published_at": "2025-12-20T00:00:00Z",
+      "url": "https://example.com",
+      "tags": ["setup"],
+      "source": {
+        "name": "SkyBrief",
+        "type": "static",
+        "url": "https://example.com"
+      }
     }
   ]
 }
