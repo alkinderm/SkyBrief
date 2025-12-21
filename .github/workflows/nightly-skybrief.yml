@@ -1,0 +1,39 @@
+name: Nightly SkyBrief Update
+
+on:
+  schedule:
+    # Runs nightly at 10:30 UTC (~2:30am Pacific; adjust if you want)
+    - cron: "30 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser python-dateutil requests
+
+      - name: Generate SkyBrief update
+        run: |
+          python scripts/build_update.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "skybrief-bot"
+          git config user.email "skybrief-bot@users.noreply.github.com"
+          git add data/update.json
+          git diff --staged --quiet || (git commit -m "Nightly SkyBrief update" && git push)
