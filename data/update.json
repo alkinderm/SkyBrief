@@ -1,17 +1,89 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2025-12-20T00:00:00Z",
+  "generated_at": "2025-12-21T10:44:59Z",
   "items": [
     {
-      "title": "Welcome to SkyBrief",
-      "summary": "This is a placeholder item. Nightly updates will appear here once the GitHub Action runs.",
-      "published_at": "2025-12-20T00:00:00Z",
-      "url": "https://example.com",
-      "tags": ["setup"],
+      "title": "Organization Release: New Public Science Center Opens at Kitt Peak National Observatory",
+      "summary": "<img align=\"left\" alt=\"Opening of the Windows on the Universe Center for Astronomy Outreach, the first science center located inside a telescope\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2534a.jpg\" />Windo…",
+      "published_at": "2025-12-17T16:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2534/",
+      "tags": [
+        "noirlab"
+      ],
       "source": {
-        "name": "SkyBrief",
-        "type": "static",
-        "url": "https://example.com"
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Science Release: Bright Blue Cosmic Outbursts Likely Caused by Large Black Holes Shredding Massive Companions",
+      "summary": "<img align=\"left\" alt=\"Most luminous fast blue optical transient\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2533a.jpg\" />In 2024, astronomers discovered the brightest Luminous Fast Blue Optical Transient (L…",
+      "published_at": "2025-12-16T18:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2533/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Photo Release: Gemini North Color Images Reveal Greenish Glow of Comet 3I/ATLAS",
+      "summary": "<img align=\"left\" alt=\"Comet 3I/ATLAS on 26 November 2025\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2532a.jpg\" />Gemini North captured new images of Comet 3I/ATLAS after it reemerged from behind the Sun on…",
+      "published_at": "2025-12-12T17:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2532/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Science Release: Gemini and Blanco Telescopes Unlock Clues to Origin of Longest Gamma-ray Burst Ever Observed",
+      "summary": "<img align=\"left\" alt=\"Artist’s illustration of GRB 250702B\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2531a.jpg\" />Astronomers have observed the longest-ever gamma-ray burst — a powerful, extragalactic exp…",
+      "published_at": "2025-12-08T15:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2531/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Photo Release: Gemini South Celebrates 25th Anniversary With Stunning Snapshot of the Butterfly Nebula",
+      "summary": "<img align=\"left\" alt=\"Gemini South Images the Butterfly Nebula\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2530a.jpg\" />To celebrate 25 years since the completion of the International Gemini Observatory, st…",
+      "published_at": "2025-11-26T17:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2530/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Photo Release: Students in Hawai‘i Name Mesmerizing Image Ua ʻŌhiʻa Lani for the International Gemini Observatory’s 25th Anniversary",
+      "summary": "<img align=\"left\" alt=\"Ua ʻŌhiʻa Lani: An Image to Celebrate Gemini North’s 25th Anniversary\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2529a.jpg\" />To celebrate 25 years since the completion of the Interna…",
+      "published_at": "2025-11-19T17:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2529/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     }
   ]
