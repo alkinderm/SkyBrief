@@ -4,448 +4,322 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>SkyBrief</title>
-  <meta name="description" content="Nightly astronomy discovery briefs from open-source observatories." />
+  <meta name="description" content="SkyBrief: nightly discovery updates from open-source observatory feeds." />
 
   <style>
-    :root{
-      --bg: #070A12;
-      --panel: rgba(255,255,255,0.06);
-      --panel2: rgba(255,255,255,0.10);
-      --text: rgba(255,255,255,0.92);
-      --muted: rgba(255,255,255,0.65);
-      --line: rgba(255,255,255,0.10);
-      --accent: #7C5CFF;
-      --accent2:#00D4FF;
-      --good:#41f0a6;
-      --warn:#ffd36e;
-      --bad:#ff6b8b;
-      --radius: 18px;
-      --shadow: 0 18px 45px rgba(0,0,0,0.35);
-      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-    }
-    *{box-sizing:border-box}
+    :root { --bg:#0b1020; --panel:#111a33; --ink:#e9ecff; --muted:#a9b2da; --accent:#6dd6ff; --accent2:#9bffb0; --line:rgba(255,255,255,.10); }
+    * { box-sizing:border-box; }
     body{
-      margin:0;
-      font-family: var(--sans);
-      color:var(--text);
+      margin:0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+      color:var(--ink);
       background:
-        radial-gradient(900px 500px at 20% 0%, rgba(124,92,255,0.30), transparent 55%),
-        radial-gradient(700px 500px at 80% 10%, rgba(0,212,255,0.22), transparent 50%),
-        radial-gradient(900px 700px at 50% 120%, rgba(65,240,166,0.12), transparent 55%),
+        radial-gradient(1100px 700px at 20% -10%, rgba(109,214,255,.18), transparent 60%),
+        radial-gradient(900px 600px at 90% 10%, rgba(155,255,176,.12), transparent 55%),
+        radial-gradient(900px 700px at 50% 120%, rgba(180,126,255,.12), transparent 55%),
         var(--bg);
       min-height:100vh;
     }
-    a{color:inherit; text-decoration:none}
-    a:hover{text-decoration:underline}
-    .wrap{max-width:1120px; margin:0 auto; padding:28px 18px 60px}
+    a { color: var(--accent); text-decoration:none; }
+    a:hover { text-decoration:underline; }
+
     header{
-      display:flex; gap:14px; align-items:center; justify-content:space-between;
-      padding:14px 16px;
-      border:1px solid var(--line);
-      border-radius: var(--radius);
-      background: linear-gradient(180deg, rgba(255,255,255,0.07), rgba(255,255,255,0.03));
-      box-shadow: var(--shadow);
-      backdrop-filter: blur(10px);
+      padding: 40px 18px 18px;
+      max-width: 1100px;
+      margin: 0 auto;
     }
     .brand{
       display:flex; align-items:center; gap:12px;
-      min-width: 220px;
     }
     .logo{
-      width:38px; height:38px; border-radius: 12px;
-      background: conic-gradient(from 210deg, var(--accent), var(--accent2), var(--good), var(--accent));
-      box-shadow: 0 10px 25px rgba(124,92,255,0.25);
+      width:44px; height:44px; border-radius:14px;
+      background: linear-gradient(135deg, rgba(109,214,255,.9), rgba(155,255,176,.75));
+      box-shadow: 0 20px 50px rgba(0,0,0,.35);
       position:relative;
-    }
-    .logo:after{
-      content:"";
-      position:absolute; inset:7px;
-      border-radius:10px;
-      background: rgba(0,0,0,0.55);
-      border:1px solid rgba(255,255,255,0.12);
-    }
-    h1{font-size:18px; margin:0; letter-spacing:0.2px}
-    .tag{margin:2px 0 0; font-size:12px; color:var(--muted)}
-    .controls{
-      display:flex; gap:10px; align-items:center; flex-wrap:wrap; justify-content:flex-end;
-    }
-    .pill{
-      display:flex; gap:8px; align-items:center;
-      padding:9px 12px;
-      border:1px solid var(--line);
-      border-radius: 999px;
-      background: rgba(255,255,255,0.04);
-      font-size:13px;
-      color: var(--muted);
-    }
-    .pill strong{color:var(--text); font-weight:600}
-    .btn{
-      padding:9px 12px;
-      border-radius: 999px;
-      border:1px solid var(--line);
-      background: rgba(255,255,255,0.06);
-      color: var(--text);
-      font-size:13px;
-      cursor:pointer;
-      transition: transform .08s ease, background .15s ease;
-    }
-    .btn:hover{background: rgba(255,255,255,0.10)}
-    .btn:active{transform: translateY(1px)}
-    .grid{
-      margin-top:18px;
-      display:grid;
-      grid-template-columns: 1.35fr 0.65fr;
-      gap:16px;
-    }
-    @media (max-width: 960px){
-      .grid{grid-template-columns:1fr}
-      .brand{min-width:auto}
-    }
-    .card{
-      border:1px solid var(--line);
-      border-radius: var(--radius);
-      background: rgba(255,255,255,0.04);
-      box-shadow: var(--shadow);
-      backdrop-filter: blur(10px);
       overflow:hidden;
     }
-    .card .hd{
-      padding:14px 16px;
-      border-bottom: 1px solid var(--line);
-      display:flex; align-items:center; justify-content:space-between; gap:10px;
+    .logo:before{
+      content:"";
+      position:absolute; inset:-40%;
+      background: radial-gradient(circle at 30% 30%, rgba(255,255,255,.85), transparent 40%);
+      transform: rotate(18deg);
     }
-    .card .hd h2{
-      margin:0;
-      font-size:14px;
-      letter-spacing:0.3px;
-      color: rgba(255,255,255,0.88);
-      text-transform: uppercase;
-    }
-    .badge{
-      font-family: var(--mono);
-      font-size:12px;
-      padding:6px 10px;
-      border-radius:999px;
-      border:1px solid var(--line);
-      background: rgba(255,255,255,0.05);
-      color: rgba(255,255,255,0.80);
-    }
-    .content{padding:14px 16px}
-    .brief-title{
-      font-size:22px; margin:4px 0 8px;
-      letter-spacing: 0.2px;
-    }
-    .brief-meta{
-      display:flex; gap:10px; flex-wrap:wrap;
-      color: var(--muted); font-size:13px; margin-bottom:12px;
-    }
-    .kpi{
-      display:flex; gap:12px; flex-wrap:wrap;
-      margin: 6px 0 14px;
-    }
-    .kpi .box{
-      padding:10px 12px;
-      border-radius: 14px;
-      border:1px solid var(--line);
-      background: rgba(255,255,255,0.05);
-      min-width: 160px;
-    }
-    .kpi .label{font-size:12px; color:var(--muted)}
-    .kpi .value{font-size:16px; font-weight:650; margin-top:3px}
-    .items{display:flex; flex-direction:column; gap:10px}
-    .item{
-      padding:12px 12px;
-      border-radius: 14px;
-      border:1px solid var(--line);
-      background: rgba(255,255,255,0.045);
-      transition: background .15s ease, transform .08s ease;
-    }
-    .item:hover{background: rgba(255,255,255,0.07)}
-    .item:active{transform: translateY(1px)}
-    .item .top{
-      display:flex; align-items:flex-start; justify-content:space-between; gap:10px;
-    }
-    .item h3{
-      margin:0;
-      font-size:15px;
-      line-height:1.25;
-    }
-    .item p{
-      margin:8px 0 0;
-      color: var(--muted);
-      font-size:13px;
-      line-height:1.45;
-    }
-    .chiprow{
+    h1{ margin:0; font-size: 34px; letter-spacing: .2px; }
+    .subtitle{
       margin-top:10px;
-      display:flex; gap:8px; flex-wrap:wrap;
       color: var(--muted);
-      font-size:12px;
+      line-height: 1.45;
+      max-width: 72ch;
     }
-    .chip{
-      padding:5px 8px;
-      border-radius:999px;
-      border:1px solid var(--line);
-      background: rgba(0,0,0,0.18);
-      font-family: var(--mono);
+
+    main{
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 18px 60px;
     }
-    .side .content{padding:0}
-    .side section{
-      padding:14px 16px;
-      border-bottom: 1px solid var(--line);
+
+    .toolbar{
+      margin-top:18px;
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+      align-items:center;
+      justify-content:space-between;
+      padding: 12px;
+      border: 1px solid var(--line);
+      background: rgba(17,26,51,.70);
+      border-radius: 16px;
+      backdrop-filter: blur(10px);
     }
-    .side section:last-child{border-bottom:none}
-    .side h3{
-      margin:0 0 10px;
-      font-size:13px;
-      letter-spacing:0.3px;
-      text-transform:uppercase;
-      color: rgba(255,255,255,0.86);
-    }
-    .source{
-      display:flex; flex-direction:column; gap:6px;
+    .left, .right { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    input[type="search"]{
+      width:min(520px, 80vw);
       padding:10px 12px;
-      border:1px solid var(--line);
-      border-radius: 14px;
-      background: rgba(255,255,255,0.045);
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: rgba(0,0,0,.20);
+      color: var(--ink);
+      outline:none;
     }
-    .source .name{font-weight:650; font-size:13px}
-    .source .url{font-size:12px; color:var(--muted); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
-    .foot{
-      margin-top:16px;
-      color: rgba(255,255,255,0.55);
-      font-size:12px;
-      display:flex; justify-content:space-between; gap:10px; flex-wrap:wrap;
+    .pill{
+      font-size: 12px;
+      padding: 7px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      color: var(--muted);
+      background: rgba(0,0,0,.15);
+    }
+    .btn{
+      cursor:pointer;
+      border: 1px solid var(--line);
+      background: rgba(0,0,0,.18);
+      color: var(--ink);
+      padding: 9px 12px;
+      border-radius: 12px;
+    }
+    .btn:hover{ border-color: rgba(109,214,255,.55); }
+
+    .grid{
+      margin-top: 18px;
+      display:grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 14px;
+    }
+    .card{
+      grid-column: span 12;
+      border: 1px solid var(--line);
+      background: rgba(17,26,51,.65);
+      border-radius: 18px;
+      padding: 14px 14px 12px;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 18px 60px rgba(0,0,0,.25);
+    }
+    @media (min-width: 820px){
+      .card { grid-column: span 6; }
+    }
+
+    .cardTop{
+      display:flex; gap:10px; align-items:flex-start; justify-content:space-between;
+    }
+    .title{
+      margin:0;
+      font-size: 16px;
+      line-height: 1.3;
+    }
+    .meta{
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 12px;
+      display:flex; gap:10px; flex-wrap:wrap;
+    }
+    .tag{
+      font-size: 11px;
+      padding: 4px 8px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      color: var(--muted);
+      background: rgba(0,0,0,.12);
+      white-space:nowrap;
+    }
+    .summary{
+      margin: 10px 0 0;
+      color: rgba(233,236,255,.92);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+    .links{
+      margin-top: 10px;
+      display:flex; gap:10px; flex-wrap:wrap;
+    }
+    .smalllink{
+      font-size: 12px;
+      padding: 7px 10px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: rgba(0,0,0,.14);
+    }
+
+    footer{
+      max-width:1100px;
+      margin:0 auto;
+      padding: 0 18px 30px;
+      color: var(--muted);
+      font-size: 12px;
     }
     .error{
-      border:1px solid rgba(255,107,139,0.35);
-      background: rgba(255,107,139,0.10);
-      color: rgba(255,255,255,0.90);
+      border: 1px solid rgba(255,120,120,.35);
+      background: rgba(255,120,120,.08);
+      padding: 12px;
       border-radius: 14px;
-      padding:12px;
-      font-size:13px;
+      color: rgba(255,220,220,.95);
+      margin-top: 16px;
+      white-space: pre-wrap;
     }
-    .tiny{font-family: var(--mono); font-size:11px; color: rgba(255,255,255,0.55)}
   </style>
 </head>
 
 <body>
-  <div class="wrap">
-    <header>
-      <div class="brand">
-        <div class="logo" aria-hidden="true"></div>
-        <div>
-          <h1>SkyBrief</h1>
-          <div class="tag">Nightly discovery briefs from open sources</div>
+  <header>
+    <div class="brand">
+      <div class="logo" aria-hidden="true"></div>
+      <div>
+        <h1>SkyBrief</h1>
+        <div class="subtitle">
+          Nightly discovery updates from open observatory feeds. Built for quick scanning, with sources linked for every item.
         </div>
       </div>
-
-      <div class="controls">
-        <div class="pill">Last updated: <strong id="lastUpdated">—</strong></div>
-        <button class="btn" id="refreshBtn" type="button">Refresh</button>
-        <a class="btn" href="data/update.json" target="_blank" rel="noopener">View JSON</a>
-      </div>
-    </header>
-
-    <div class="grid">
-      <main class="card">
-        <div class="hd">
-          <h2>Tonight’s Brief</h2>
-          <span class="badge" id="briefId">SKYBRIEF</span>
-        </div>
-
-        <div class="content">
-          <div class="brief-title" id="headline">Loading…</div>
-
-          <div class="brief-meta">
-            <span id="dateLine">—</span>
-            <span>•</span>
-            <span id="windowLine">—</span>
-          </div>
-
-          <div class="kpi" id="kpis"></div>
-
-          <div class="items" id="items"></div>
-
-          <div class="foot">
-            <span>Built for quick, source-linked summaries.</span>
-            <span class="tiny" id="buildNote">—</span>
-          </div>
-
-          <div id="errorBox" style="margin-top:12px; display:none;" class="error"></div>
-        </div>
-      </main>
-
-      <aside class="card side">
-        <div class="hd">
-          <h2>Sources</h2>
-          <span class="badge">OPEN</span>
-        </div>
-
-        <div class="content">
-          <section>
-            <h3>Feed list</h3>
-            <div id="sources"></div>
-          </section>
-
-          <section>
-            <h3>About</h3>
-            <div style="color: var(--muted); font-size: 13px; line-height: 1.45;">
-              SkyBrief reads a nightly-generated <span class="tiny">data/update.json</span> file.
-              To make it truly “live”, schedule a job (GitHub Actions) to rebuild that JSON every night,
-              then Netlify auto-deploys the updated site.
-            </div>
-          </section>
-        </div>
-      </aside>
     </div>
-  </div>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <div class="left">
+        <input id="q" type="search" placeholder="Search: Rubin, supernova, comet, JWST, asteroid…" autocomplete="off" />
+        <span class="pill" id="statusPill">Loading…</span>
+      </div>
+      <div class="right">
+        <button class="btn" id="refreshBtn">Refresh</button>
+        <span class="pill" id="updatedAtPill">—</span>
+      </div>
+    </div>
+
+    <div id="error" class="error" style="display:none;"></div>
+    <div id="grid" class="grid" aria-live="polite"></div>
+  </main>
+
+  <footer>
+    Tip: this site updates from <code>data/update.json</code>, generated nightly by GitHub Actions.
+  </footer>
 
 <script>
-  const UPDATE_URL = "data/update.json";
+  const grid = document.getElementById("grid");
+  const q = document.getElementById("q");
+  const statusPill = document.getElementById("statusPill");
+  const updatedAtPill = document.getElementById("updatedAtPill");
+  const errorBox = document.getElementById("error");
+  const refreshBtn = document.getElementById("refreshBtn");
 
-  const $ = (id) => document.getElementById(id);
+  let DATA = null;
 
-  function fmtDate(iso){
-    try{
+  function fmtDate(iso) {
+    try {
       const d = new Date(iso);
       return d.toLocaleString(undefined, { year:"numeric", month:"short", day:"2-digit", hour:"2-digit", minute:"2-digit" });
-    }catch(e){ return iso; }
+    } catch { return iso; }
   }
 
-  function safeText(v, fallback="—"){
-    if (v === null || v === undefined) return fallback;
-    if (typeof v !== "string") return String(v);
-    return v.trim() || fallback;
-  }
+  function normalize(s){ return (s || "").toLowerCase(); }
 
-  function setError(msg){
-    const box = $("errorBox");
-    box.style.display = "block";
-    box.textContent = msg;
-  }
-
-  function clearError(){
-    const box = $("errorBox");
-    box.style.display = "none";
-    box.textContent = "";
-  }
-
-  function renderKpis(update){
-    const kpis = $("kpis");
-    kpis.innerHTML = "";
-
-    const cards = [
-      { label: "Items tonight", value: update.items?.length ?? 0 },
-      { label: "Sources", value: update.sources?.length ?? 0 },
-      { label: "Window", value: safeText(update.window_local, "Nightly") }
-    ];
-
-    for (const c of cards){
-      const el = document.createElement("div");
-      el.className = "box";
-      el.innerHTML = `<div class="label">${c.label}</div><div class="value">${c.value}</div>`;
-      kpis.appendChild(el);
-    }
-  }
-
-  function renderItems(items){
-    const wrap = $("items");
-    wrap.innerHTML = "";
-
-    if (!items || items.length === 0){
-      const empty = document.createElement("div");
-      empty.className = "item";
-      empty.innerHTML = `<h3>No items found</h3><p>The updater may not have run yet. Check back tomorrow night.</p>`;
-      wrap.appendChild(empty);
+  function render(items) {
+    grid.innerHTML = "";
+    if (!items.length) {
+      grid.innerHTML = `<div class="card"><p class="summary">No items match your search.</p></div>`;
       return;
     }
 
-    for (const it of items){
+    for (const it of items) {
+      const tags = (it.tags || []).slice(0, 6);
+      const src = it.source || {};
+      const title = it.title || "Untitled update";
+      const when = it.published_at ? fmtDate(it.published_at) : "—";
+      const summary = it.summary || it.description || "";
+      const link = it.url || src.url || "#";
+
       const card = document.createElement("div");
-      card.className = "item";
-
-      const title = safeText(it.title, "Untitled update");
-      const summary = safeText(it.summary, "");
-      const link = safeText(it.link, "");
-      const source = safeText(it.source, "Unknown source");
-      const published = it.published_at ? fmtDate(it.published_at) : "—";
-      const tags = Array.isArray(it.tags) ? it.tags : [];
-
+      card.className = "card";
       card.innerHTML = `
-        <div class="top">
-          <div style="min-width:0;">
-            <h3>${link ? `<a href="${link}" target="_blank" rel="noopener">${title}</a>` : title}</h3>
+        <div class="cardTop">
+          <div>
+            <h3 class="title"><a href="${link}" target="_blank" rel="noopener">${escapeHtml(title)}</a></h3>
+            <div class="meta">
+              <span class="tag">Published: ${escapeHtml(when)}</span>
+              ${src.name ? `<span class="tag">Source: ${escapeHtml(src.name)}</span>` : ""}
+              ${src.type ? `<span class="tag">${escapeHtml(src.type)}</span>` : ""}
+              ${tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join("")}
+            </div>
           </div>
-          <div class="tiny" title="Published">${published}</div>
         </div>
-        ${summary ? `<p>${summary}</p>` : ""}
-        <div class="chiprow">
-          <span class="chip">${source}</span>
-          ${tags.slice(0,4).map(t => `<span class="chip">#${t}</span>`).join("")}
+        ${summary ? `<p class="summary">${escapeHtml(summary)}</p>` : ""}
+        <div class="links">
+          ${it.url ? `<a class="smalllink" href="${it.url}" target="_blank" rel="noopener">Open item</a>` : ""}
+          ${src.url ? `<a class="smalllink" href="${src.url}" target="_blank" rel="noopener">Source homepage</a>` : ""}
         </div>
       `;
-      wrap.appendChild(card);
+      grid.appendChild(card);
     }
   }
 
-  function renderSources(sources){
-    const wrap = $("sources");
-    wrap.innerHTML = "";
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, (m) => ({
+      "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;"
+    }[m]));
+  }
 
-    if (!sources || sources.length === 0){
-      wrap.innerHTML = `<div class="source"><div class="name">No sources configured</div><div class="url">Add sources in data/update.json</div></div>`;
-      return;
-    }
+  function filterItems(term) {
+    if (!DATA) return [];
+    const t = normalize(term);
+    if (!t) return DATA.items;
 
-    for (const s of sources){
-      const div = document.createElement("div");
-      div.className = "source";
-      const name = safeText(s.name, "Source");
-      const url = safeText(s.url, "");
-      const kind = safeText(s.kind, "feed");
-      div.innerHTML = `
-        <div class="name">${url ? `<a href="${url}" target="_blank" rel="noopener">${name}</a>` : name}</div>
-        <div class="url">${kind}${url ? ` • ${url}` : ""}</div>
-      `;
-      wrap.appendChild(div);
+    return DATA.items.filter(it => {
+      const hay = [
+        it.title, it.summary, it.description,
+        (it.tags || []).join(" "),
+        it.source?.name, it.source?.type
+      ].join(" ");
+      return normalize(hay).includes(t);
+    });
+  }
+
+  async function load() {
+    errorBox.style.display = "none";
+    statusPill.textContent = "Loading…";
+    try {
+      const bust = `?v=${Date.now()}`; // cache-bust for Netlify/browser
+      const res = await fetch(`data/update.json${bust}`, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Failed to load data/update.json (HTTP ${res.status})`);
+      DATA = await res.json();
+
+      const count = (DATA.items || []).length;
+      statusPill.textContent = `${count} items`;
+      updatedAtPill.textContent = DATA.generated_at ? `Updated: ${fmtDate(DATA.generated_at)}` : "Updated: —";
+
+      DATA.items.sort((a,b) => (b.published_at || "").localeCompare(a.published_at || ""));
+      render(filterItems(q.value));
+    } catch (e) {
+      statusPill.textContent = "Error";
+      errorBox.style.display = "block";
+      errorBox.textContent =
+        "SkyBrief couldn't load its nightly update feed.\n\n" +
+        "Common fixes:\n" +
+        "• Ensure data/update.json exists in the repo.\n" +
+        "• Ensure Netlify deploy is pointing at the correct branch.\n\n" +
+        `Error: ${e.message}`;
     }
   }
 
-  async function loadUpdate(){
-    clearError();
+  q.addEventListener("input", () => render(filterItems(q.value)));
+  refreshBtn.addEventListener("click", load);
 
-    // cache-bust so "Refresh" fetches the newest JSON
-    const bust = `?t=${Date.now()}`;
-
-    const res = await fetch(UPDATE_URL + bust, { cache: "no-store" });
-    if (!res.ok) throw new Error(`Could not load ${UPDATE_URL} (HTTP ${res.status})`);
-    const update = await res.json();
-
-    $("headline").textContent = safeText(update.headline, "SkyBrief nightly brief");
-    $("briefId").textContent = safeText(update.brief_id, "SKYBRIEF");
-    $("lastUpdated").textContent = update.generated_at ? fmtDate(update.generated_at) : "—";
-    $("dateLine").textContent = update.night_of ? `Night of ${safeText(update.night_of)}` : "Nightly";
-    $("windowLine").textContent = update.window_local ? `Runs: ${safeText(update.window_local)}` : "Runs nightly";
-    $("buildNote").textContent = update.generator ? `Generator: ${safeText(update.generator)}` : "";
-
-    renderKpis(update);
-    renderItems(update.items);
-    renderSources(update.sources);
-
-    return update;
-  }
-
-  $("refreshBtn").addEventListener("click", async () => {
-    $("refreshBtn").textContent = "Refreshing…";
-    try{ await loadUpdate(); }
-    catch(e){ setError(e.message || String(e)); }
-    finally{ $("refreshBtn").textContent = "Refresh"; }
-  });
-
-  // Initial load
-  loadUpdate().catch(e => setError(e.message || String(e)));
+  load();
 </script>
 </body>
 </html>
