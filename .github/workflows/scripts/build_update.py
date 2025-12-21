@@ -1,65 +1,104 @@
 import json
-import os
-from datetime import datetime, timezone
-from dateutil import tz
+import time
+import datetime as dt
+from typing import List, Dict, Any
+
 import feedparser
 
-PACIFIC = tz.gettz("America/Los_Angeles")
-
+# Edit/expand this list any time.
 FEEDS = [
-    {"name": "arXiv astro-ph (new)", "kind": "rss", "url": "https://rss.arxiv.org/rss/astro-ph"},
-    {"name": "ESA/Hubble News", "kind": "rss", "url": "https://esahubble.org/feeds/news/"}
+    {
+        "name": "Rubin Observatory News",
+        "type": "rss",
+        "url": "https://rubinobservatory.org/rss.xml",
+        "tags": ["rubin", "lsst", "survey"]
+    },
+    {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/",
+        "tags": ["noirlab", "ctio", "gemini", "astro"]
+    },
+    {
+        "name": "Chandra Press Releases",
+        "type": "rss",
+        "url": "https://chandra.harvard.edu/rss/press.xml",
+        "tags": ["chandra", "xray"]
+    },
+    {
+        "name": "ESA/Hubble News",
+        "type": "rss",
+        "url": "https://esahubble.org/feed/news/",
+        "tags": ["hubble", "esa"]
+    },
+    {
+        "name": "NASA APOD",
+        "type": "rss",
+        "url": "https://apod.nasa.gov/apod.rss",
+        "tags": ["apod", "nasa"]
+    }
 ]
 
-STATIC_SOURCES = [
-    {"name": "Rubin Observatory News", "kind": "web/news", "url": "https://rubinobservatory.org/news"},
-    {"name": "ESO Press Releases", "kind": "web/press", "url": "https://www.eso.org/public/news/"},
-    {"name": "NASA APOD", "kind": "web/daily", "url": "https://apod.nasa.gov/apod/astropix.html"}
-]
+MAX_ITEMS_PER_FEED = 6
+MAX_TOTAL_ITEMS = 40
 
-def parse_dt(entry):
-    t = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
-    if not t:
-        return None
-    return datetime(*t[:6], tzinfo=timezone.utc)
+def to_iso8601(struct_time) -> str:
+    # feedparser returns time.struct_time sometimes
+    return dt.datetime.fromtimestamp(time.mktime(struct_time), tz=dt.timezone.utc).isoformat().replace("+00:00", "Z")
+
+def parse_entry(entry) -> Dict[str, Any]:
+    title = getattr(entry, "title", "").strip()
+    link = getattr(entry, "link", "").strip()
+    summary = getattr(entry, "summary", "") or getattr(entry, "description", "")
+    summary = " ".join(summary.split()).strip()
+
+    published = None
+    if hasattr(entry, "published_parsed") and entry.published_parsed:
+        published = to_iso8601(entry.published_parsed)
+    elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
+        published = to_iso8601(entry.updated_parsed)
+
+    return {
+        "title": title,
+        "summary": summary[:320] + ("…" if len(summary) > 320 else ""),
+        "published_at": published or None,
+        "url": link
+    }
 
 def main():
-    now_utc = datetime.now(timezone.utc)
-    now_pacific = now_utc.astimezone(PACIFIC)
-    night_of = now_pacific.strftime("%Y-%m-%d")
+    items: List[Dict[str, Any]] = []
+    now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
-    items = []
+    for feed in FEEDS:
+        parsed = feedparser.parse(feed["url"])
+        entries = getattr(parsed, "entries", [])[:MAX_ITEMS_PER_FEED]
 
-    for f in FEEDS:
-        feed = feedparser.parse(f["url"])
-        for e in feed.entries[:6]:
-            dt = parse_dt(e)
-            items.append({
-                "title": (getattr(e, "title", "") or "").strip()[:140],
-                "summary": (getattr(e, "summary", "") or "").replace("\n", " ").strip()[:240],
-                "source": f["name"],
-                "published_at": dt.astimezone(PACIFIC).isoformat() if dt else None,
-                "link": getattr(e, "link", ""),
-                "tags": ["feed"]
-            })
+        for e in entries:
+            it = parse_entry(e)
+            if not it["title"] and not it["url"]:
+                continue
+            it["tags"] = list(dict.fromkeys(feed.get("tags", []) + []))  # dedupe, preserve order
+            it["source"] = {"name": feed["name"], "type": feed["type"], "url": feed["url"]}
+            items.append(it)
 
-    items.sort(key=lambda x: x["published_at"] or "", reverse=True)
-    items = items[:10]
+    # Sort newest-first; None dates go last
+    def sort_key(x):
+        return x["published_at"] or "0000-01-01T00:00:00Z"
+    items.sort(key=sort_key, reverse=True)
 
-    update = {
-        "brief_id": f"SKYBRIEF-{night_of}",
-        "headline": "Tonight’s SkyBrief: top open updates across the sky",
-        "night_of": night_of,
-        "window_local": "Nightly around 02:30 America/Los_Angeles",
-        "generated_at": now_pacific.isoformat(),
-        "generator": "github-actions + feedparser",
-        "sources": STATIC_SOURCES + FEEDS,
+    # Trim
+    items = items[:MAX_TOTAL_ITEMS]
+
+    out = {
+        "project": "SkyBrief",
+        "generated_at": now,
         "items": items
     }
 
-    os.makedirs("data", exist_ok=True)
     with open("data/update.json", "w", encoding="utf-8") as f:
-        json.dump(update, f, ensure_ascii=False, indent=2)
+        json.dump(out, f, ensure_ascii=False, indent=2)
+
+    print(f"Wrote data/update.json with {len(items)} items.")
 
 if __name__ == "__main__":
     main()
