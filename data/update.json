@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2025-12-21T10:44:59Z",
+  "generated_at": "2025-12-22T10:48:13Z",
   "items": [
+    {
+      "title": "Self-gravitating Superfluids: The Gross-Pitaevskii-Poisson Framework",
+      "summary": "arXiv:2512.16936v1 Announce Type: new Abstract: We provide an overview of the Gross-Pitaevskii-Poisson equation (GPPE) that is used to model self-gravitating superfluid systems, which include gravitationally collapsed boson and axion stars and dark-matter haloes. We outline how t…",
+      "published_at": "2025-12-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.16936",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Nature of Galactic Spiral Arms",
+      "summary": "arXiv:2512.16966v1 Announce Type: new Abstract: Spiral arms are the defining features of broad morphological classes of disc galaxies, but their nature and influence on galaxy evolution is still under debate. A key diagnostic for their nature is the spiral arm pattern speed: the…",
+      "published_at": "2025-12-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.16966",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "ESO Expanding Horizon White Paper: Revealing the properties of matter at supranuclear densities with gravitational waves",
+      "summary": "arXiv:2512.16971v1 Announce Type: new Abstract: Understanding dense matter under extreme conditions is one of the most fundamental puzzles in modern physics. Complex interactions give rise to emergent, collective phenomena. While nuclear experiments and Earth - based colliders pr…",
+      "published_at": "2025-12-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.16971",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The accretion of quasars at the epoch of reionisation: $JWST$ catches the primeval monsters slowly feasting",
+      "summary": "arXiv:2512.16981v1 Announce Type: new Abstract: Quasars (QSOs) emit an enormous amount of light as a result of the accretion of gas onto supermassive black holes (SMBHs). Thanks to their luminosity, the most distant known QSOs allow us to trace the growth of SMBHs deep into the e…",
+      "published_at": "2025-12-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.16981",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Reviving sub-keV warm dark matter: a UVLF-based analysis",
+      "summary": "arXiv:2512.16987v1 Announce Type: new Abstract: Thermal warm dark matter (WDM) particles with $m_{\\rm WDM} \\leq 1~\\mathrm{keV}$ are ruled out at more than $4\\sigma$ by multiple observational probes, owing to the strong suppression of small-scale structure induced by early-time fr…",
+      "published_at": "2025-12-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.16987",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The final stages of binary evolution using multi-messenger studies",
+      "summary": "arXiv:2512.16988v1 Announce Type: new Abstract: Ultracompact Galactic binaries with orbital periods below an hour are among the strongest persistent gravitational-wave (GW) sources in the mHz band and will constitute the dominant population detected by the Laser Interferometer Sp…",
+      "published_at": "2025-12-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.16988",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: New Public Science Center Opens at Kitt Peak National Observatory",
       "summary": "<img align=\"left\" alt=\"Opening of the Windows on the Universe Center for Astronomy Outreach, the first science center located inside a telescope\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2534a.jpg\" />Windo…",
