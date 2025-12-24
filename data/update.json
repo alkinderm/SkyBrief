@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2025-12-23T10:49:31Z",
+  "generated_at": "2025-12-24T10:47:31Z",
   "items": [
     {
-      "title": "A Correlation Between Black Hole Mass and Dark Matter Halo Concentration in Cosmological Simulations",
-      "summary": "arXiv:2512.17964v1 Announce Type: new Abstract: We report the discovery of a positive correlation between supermassive black hole mass and dark matter halo concentration at fixed halo mass in cosmological hydrodynamical simulations. Analyzing central galaxies in TNG100 (N = 18,95…",
-      "published_at": "2025-12-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.17964",
+      "title": "Breakthrough Listen Observations of 3I/ATLAS with the Green Bank Telescope at 1-12 GHz",
+      "summary": "arXiv:2512.19763v1 Announce Type: new Abstract: 3I/ATLAS, an interstellar object, made its closest approach to Earth on 2025 December 19. On 2025 December 18, the Breakthrough Listen program conducted a technosignature search toward 3I/ATLAS using the 100 m Robert C. Byrd Green B…",
+      "published_at": "2025-12-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.19763",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "CoBiTS: Single-detector discrimination of binary black hole signals from glitches using deep learning",
-      "summary": "arXiv:2512.17975v1 Announce Type: new Abstract: We develop a Conformer neural network, called Conformer Binary neTwork Search, or CoBiTS, for distinguishing binary black hole (BBH) gravitational wave (GW) signals from non-Gaussian and non-stationary noise artifacts in the data fr…",
-      "published_at": "2025-12-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.17975",
+      "title": "SN 2025ogs: A Spectroscopically-Normal Type Ia Supernova at z = 2 as a Benchmark for Redshift Evolution",
+      "summary": "arXiv:2512.19783v1 Announce Type: new Abstract: The Nancy Grace Roman Space Telescope will provide a revolutionary measurement of the Universe's expansion kinematics, driven by dark matter and dark energy, out to $z \\approx 3$. The accuracy of this measurement is predicated on th…",
+      "published_at": "2025-12-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.19783",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Bridging stellar evolution and planet formation: from birth, to survivors of the fittest, to the second generation of planets",
-      "summary": "arXiv:2512.17976v1 Announce Type: new Abstract: Stars and planets form, live, and evolve in unison. Throughout the life of a star, dusty circumstellar discs and stellar outflows influence the further evolution of both the star(s) and their orbiting planet(s). Planet-forming discs…",
-      "published_at": "2025-12-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.17976",
+      "title": "K-DRIFT Science Theme: Illuminating the Next Era of Galaxy Cluster Science",
+      "summary": "arXiv:2512.19787v1 Announce Type: new Abstract: The KASI Deep Rolling Imaging Fast Telescope (K-DRIFT) is a pioneering instrument designed to explore low-surface-brightness (LSB) phenomena. This white paper presents a compelling array of science cases that showcase K-DRIFT's uniq…",
+      "published_at": "2025-12-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.19787",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Diffusive or Ballistic? Distributions and Spectra of PeV Cosmic Rays around Microquasars",
-      "summary": "arXiv:2512.17994v1 Announce Type: new Abstract: In the standard Galactic cosmic-ray (CR) paradigm, protons are accelerated up to ~1 PeV by Galactic sources. While supernova remnants (SNRs) have been traditionally considered as the primary accelerators, recent observations by LHAA…",
-      "published_at": "2025-12-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.17994",
+      "title": "A multiwavelength study of an early galaxy group merger in COSMOS revealed by two tailed radio galaxies at z = 0.35",
+      "summary": "arXiv:2512.19792v1 Announce Type: new Abstract: We report the discovery of two tailed radio galaxies in the COSMOS field, associated with a massive, dynamically unrelaxed galaxy group detected in X-rays at z = 0.349. One of them is a wide-angle tail (WAT) galaxy, supporting the r…",
+      "published_at": "2025-12-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.19792",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Pulsational Instability of Quasi-Stars: Interpreting the Variability of Little Red Dots",
-      "summary": "arXiv:2512.17997v1 Announce Type: new Abstract: The JWST discovery of \"Little Red Dots\" (LRDs) has revealed a population of compact, red sources at $z \\sim 5-10$ that likely host supermassive black holes (SMBHs). Recent observations of the gravitationally lensed LRD R2211-RX1 rev…",
-      "published_at": "2025-12-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.17997",
+      "title": "New and updated timing models for seven young energetic X-ray pulsars, including the Big Glitcher PSR J0537-6910",
+      "summary": "arXiv:2512.19800v1 Announce Type: new Abstract: We present new timing models and update our previous ones for the rotational evolution of seven young energetic pulsars, including four of the top five in spin-down luminosity Edot among all known pulsars. For each of the six pulsar…",
+      "published_at": "2025-12-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.19800",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "First-Principles Formalism for Simulating Self-Interacting Dark Matter",
-      "summary": "arXiv:2512.17998v1 Announce Type: new Abstract: It is plausible that the dark matter particles have non-gravitational interactions among themselves. If such self interactions are large enough, they could leave an imprint on the morphology of galaxies. These effects can be studied…",
-      "published_at": "2025-12-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.17998",
+      "title": "Obtaining Magnetization of Super-Alfv\\'enic Turbulence with the Structure Functions of Gradient Directions",
+      "summary": "arXiv:2512.19816v1 Announce Type: new Abstract: Super-Alfv\\'enic turbulence is widespread in astrophysical environments, including molecular clouds and the diffuse plasma of galaxy clusters. At large scales, magnetic fields play only a minor dynamical role; however, for sufficien…",
+      "published_at": "2025-12-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.19816",
       "tags": [
         "arxiv",
         "astro-ph"
