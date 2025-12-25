@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2025-12-24T10:47:31Z",
+  "generated_at": "2025-12-25T10:47:41Z",
   "items": [
     {
-      "title": "Breakthrough Listen Observations of 3I/ATLAS with the Green Bank Telescope at 1-12 GHz",
-      "summary": "arXiv:2512.19763v1 Announce Type: new Abstract: 3I/ATLAS, an interstellar object, made its closest approach to Earth on 2025 December 19. On 2025 December 18, the Breakthrough Listen program conducted a technosignature search toward 3I/ATLAS using the 100 m Robert C. Byrd Green B…",
-      "published_at": "2025-12-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.19763",
+      "title": "BASS.L. Near-infrared Data Release 3: A Spectral Atlas and Characterization of AGN",
+      "summary": "arXiv:2512.20702v1 Announce Type: new Abstract: We present an analysis of near-infrared (NIR) emission-line properties, AGN diagnostics, and circumnuclear gas dynamics for 453 hard X-ray selected (14$-$195 keV) AGN from the BAT AGN Spectroscopic Survey (BASS) NIR Data Release 3 (…",
+      "published_at": "2025-12-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.20702",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "SN 2025ogs: A Spectroscopically-Normal Type Ia Supernova at z = 2 as a Benchmark for Redshift Evolution",
-      "summary": "arXiv:2512.19783v1 Announce Type: new Abstract: The Nancy Grace Roman Space Telescope will provide a revolutionary measurement of the Universe's expansion kinematics, driven by dark matter and dark energy, out to $z \\approx 3$. The accuracy of this measurement is predicated on th…",
-      "published_at": "2025-12-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.19783",
+      "title": "Flux rope formation through flux cancellation of sheared coronal arcades in a 3D convectively-driven MHD simulation",
+      "summary": "arXiv:2512.20716v1 Announce Type: new Abstract: Context. Space weather and its potential negative consequences for life on Earth has received increasing attention in recent decades. Particularly predicting CME onset has become important from a security perspective. To predict CME…",
+      "published_at": "2025-12-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.20716",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "K-DRIFT Science Theme: Illuminating the Next Era of Galaxy Cluster Science",
-      "summary": "arXiv:2512.19787v1 Announce Type: new Abstract: The KASI Deep Rolling Imaging Fast Telescope (K-DRIFT) is a pioneering instrument designed to explore low-surface-brightness (LSB) phenomena. This white paper presents a compelling array of science cases that showcase K-DRIFT's uniq…",
-      "published_at": "2025-12-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.19787",
+      "title": "A Physics Informed Neural Network For Deriving MHD State Vectors From Global Active Regions Observations",
+      "summary": "arXiv:2512.20747v1 Announce Type: new Abstract: Solar active regions (ARs) do not appear randomly but cluster along longitudinally warped toroidal bands ('toroids') that encode information about magnetic structures in the tachocline, where global-scale organization likely origina…",
+      "published_at": "2025-12-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.20747",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A multiwavelength study of an early galaxy group merger in COSMOS revealed by two tailed radio galaxies at z = 0.35",
-      "summary": "arXiv:2512.19792v1 Announce Type: new Abstract: We report the discovery of two tailed radio galaxies in the COSMOS field, associated with a massive, dynamically unrelaxed galaxy group detected in X-rays at z = 0.349. One of them is a wide-angle tail (WAT) galaxy, supporting the r…",
-      "published_at": "2025-12-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.19792",
+      "title": "Simultaneous JWST, NuSTAR, and VLA Monitoring of Sgr A*: A Unified Picture of the Variable IR, X-ray and Radio Emission",
+      "summary": "arXiv:2512.20786v1 Announce Type: new Abstract: Flux variability is a fundamental channel of information from Sgr A* because of its direct probe of processes occurring within an accretion disk under strong gravity. We present simultaneous IR, X-ray and radio observations of Sgr A…",
+      "published_at": "2025-12-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.20786",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "New and updated timing models for seven young energetic X-ray pulsars, including the Big Glitcher PSR J0537-6910",
-      "summary": "arXiv:2512.19800v1 Announce Type: new Abstract: We present new timing models and update our previous ones for the rotational evolution of seven young energetic pulsars, including four of the top five in spin-down luminosity Edot among all known pulsars. For each of the six pulsar…",
-      "published_at": "2025-12-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.19800",
+      "title": "CORINOS IV: Quantifying Baseline-Fitting Uncertainties in SO$_2$ Ice Measurements with JWST/MIRI",
+      "summary": "arXiv:2512.20820v1 Announce Type: new Abstract: Sulfur dioxide (SO$_2$) ice has been tentatively detected in protostellar envelopes, but its reliability as a solid-state sulfur reservoir remains unclear. We present new measurements of SO$_2$ ice from 6.8-8.5 $\\mu$m toward four Cl…",
+      "published_at": "2025-12-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.20820",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Obtaining Magnetization of Super-Alfv\\'enic Turbulence with the Structure Functions of Gradient Directions",
-      "summary": "arXiv:2512.19816v1 Announce Type: new Abstract: Super-Alfv\\'enic turbulence is widespread in astrophysical environments, including molecular clouds and the diffuse plasma of galaxy clusters. At large scales, magnetic fields play only a minor dynamical role; however, for sufficien…",
-      "published_at": "2025-12-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.19816",
+      "title": "Thawing Quintessence: Priors, evidence, and likely trajectories",
+      "summary": "arXiv:2512.20832v1 Announce Type: new Abstract: We perform a Bayesian comparison between thawing quintessence and a cosmological constant, incorporating theoretically motivated priors on the phenomenological Pad\\'e-w parameters used to model thawing dynamics. We find that thawing…",
+      "published_at": "2025-12-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.20832",
       "tags": [
         "arxiv",
         "astro-ph"
