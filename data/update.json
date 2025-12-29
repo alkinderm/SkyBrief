@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2025-12-28T10:45:35Z",
+  "generated_at": "2025-12-29T10:50:05Z",
   "items": [
+    {
+      "title": "Habitability of exoplanets orbiting flaring stars",
+      "summary": "arXiv:2512.21357v1 Announce Type: new Abstract: As of late 2025 there are about 70 exoplanets that meet the formal criterion of having equilibrium temperatures allowing the presence of liquid water and about 50 of them orbit M-stars, known for their strong chromospheric activity.…",
+      "published_at": "2025-12-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.21357",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "ESO Expanding Horizons White Paper: Electromagnetic counterparts of massive BH mergers with LISA",
+      "summary": "arXiv:2512.21359v1 Announce Type: new Abstract: The Laser Interferometer Space Antenna (LISA), adopted by ESA and scheduled for the second half of the next decade, will drive a new revolution in the rapidly growing field of gravitational-wave astronomy, by extending GW observatio…",
+      "published_at": "2025-12-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.21359",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Detection of Lensed Gravitational Waves in the Millihertz Band Using Frequency-Domain Lensing Feature Extraction Network",
+      "summary": "arXiv:2512.21370v1 Announce Type: new Abstract: The space-based gravitational wave (GW) detectors are expected to observe lensed GW events, offering new opportunities for cosmology and fundamental physics. In the millihertz frequency band, the GW wavelength is often comparable to…",
+      "published_at": "2025-12-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.21370",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Velocity Coupled Radial Acceleration Ansatz for Disk-Galaxy Rotation Curves: Fits to SPARC, Bayesian Inference, and Parameter Identifiabil…",
+      "summary": "arXiv:2512.21376v1 Announce Type: new Abstract: Observed rotation curves of disk galaxies remain a sharp empirical probe of the relationship between baryons and dynamics. We study a minimal, explicitly \\emph{phenomenological} alternative to standard halo parameterizations: an add…",
+      "published_at": "2025-12-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.21376",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Sensitivity of Weak Lensing Surveys to Gravitational Waves from Inspiraling Supermassive Black Hole Binaries",
+      "summary": "arXiv:2512.21392v1 Announce Type: new Abstract: We explore the sensitivity of upcoming and idealized weak lensing surveys to gravitational waves (GWs) emitted by inspiraling supermassive black hole binaries (SMBHBs) in the nanohertz to microhertz frequency band. This range, situa…",
+      "published_at": "2025-12-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.21392",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "On the Cooling of Compact Stars in Light of the HESS J1731-347 Remnant",
+      "summary": "arXiv:2512.21406v1 Announce Type: new Abstract: Recent analyses on the central compact object in the HESS J1731-347 supernova remnant reported not only surprising structural properties (mass $M$ and radius $R$), but also an interesting thermal evolution. More precisely, it has be…",
+      "published_at": "2025-12-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.21406",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: New Public Science Center Opens at Kitt Peak National Observatory",
       "summary": "<img align=\"left\" alt=\"Opening of the Windows on the Universe Center for Astronomy Outreach, the first science center located inside a telescope\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2534a.jpg\" />Windo…",
