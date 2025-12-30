@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2025-12-29T10:50:05Z",
+  "generated_at": "2025-12-30T10:49:17Z",
   "items": [
     {
-      "title": "Habitability of exoplanets orbiting flaring stars",
-      "summary": "arXiv:2512.21357v1 Announce Type: new Abstract: As of late 2025 there are about 70 exoplanets that meet the formal criterion of having equilibrium temperatures allowing the presence of liquid water and about 50 of them orbit M-stars, known for their strong chromospheric activity.…",
-      "published_at": "2025-12-29T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.21357",
+      "title": "Quenching pathways in the green valley at low redshift: confronting SDSS AGN hosts with IllustrisTNG and EAGLE",
+      "summary": "arXiv:2512.22268v1 Announce Type: new Abstract: We compare low-redshift ($z<0.1$) BPT-selected pure optical AGN hosts in SDSS DR7 to colour-selected \"green-valley\" analogue central galaxies in IllustrisTNG100 and EAGLE Ref-L0100N1504. To reduce cross-dataset systematics, we defin…",
+      "published_at": "2025-12-30T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.22268",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "ESO Expanding Horizons White Paper: Electromagnetic counterparts of massive BH mergers with LISA",
-      "summary": "arXiv:2512.21359v1 Announce Type: new Abstract: The Laser Interferometer Space Antenna (LISA), adopted by ESA and scheduled for the second half of the next decade, will drive a new revolution in the rapidly growing field of gravitational-wave astronomy, by extending GW observatio…",
-      "published_at": "2025-12-29T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.21359",
+      "title": "Multi-Messenger Predictions for T Coronae Borealis: Probing Particle Acceleration in Novae",
+      "summary": "arXiv:2512.22338v1 Announce Type: new Abstract: The MAGIC detection of near-TeV gamma-rays from the 2021 outburst of the recurrent nova RS Ophiuchi (RS Oph) has established it as a TeV-scale particle accelerator. However, the underlying production mechanism --\\textit{hadronic} ve…",
+      "published_at": "2025-12-30T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.22338",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Detection of Lensed Gravitational Waves in the Millihertz Band Using Frequency-Domain Lensing Feature Extraction Network",
-      "summary": "arXiv:2512.21370v1 Announce Type: new Abstract: The space-based gravitational wave (GW) detectors are expected to observe lensed GW events, offering new opportunities for cosmology and fundamental physics. In the millihertz frequency band, the GW wavelength is often comparable to…",
-      "published_at": "2025-12-29T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.21370",
+      "title": "On the origin of sinusoidal brightness variations in F to O-type stars through radial velocities",
+      "summary": "arXiv:2512.22341v1 Announce Type: new Abstract: Stellar variability may originate from various phenomena such as binarity, pulsations, or rotation. These mechanisms can induce flux variations of similar magnitudes, shapes, and periods. We aim to determine mechanisms responsible f…",
+      "published_at": "2025-12-30T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.22341",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Velocity Coupled Radial Acceleration Ansatz for Disk-Galaxy Rotation Curves: Fits to SPARC, Bayesian Inference, and Parameter Identifiabil…",
-      "summary": "arXiv:2512.21376v1 Announce Type: new Abstract: Observed rotation curves of disk galaxies remain a sharp empirical probe of the relationship between baryons and dynamics. We study a minimal, explicitly \\emph{phenomenological} alternative to standard halo parameterizations: an add…",
-      "published_at": "2025-12-29T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.21376",
+      "title": "Water Production of Interstellar Comet 3I/ATLAS from SOHO/SWAN Observations after Perihelion",
+      "summary": "arXiv:2512.22354v1 Announce Type: new Abstract: The Solar Wind ANisotropies (SWAN) all-sky hydrogen Lyman-alpha camera on the Solar and Heliosphere Observatory (SOHO) observed the hydrogen coma of interstellar comet 3I/ATLAS, also called C/2025 N1 (ATLAS), beginning on November 6…",
+      "published_at": "2025-12-30T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.22354",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Sensitivity of Weak Lensing Surveys to Gravitational Waves from Inspiraling Supermassive Black Hole Binaries",
-      "summary": "arXiv:2512.21392v1 Announce Type: new Abstract: We explore the sensitivity of upcoming and idealized weak lensing surveys to gravitational waves (GWs) emitted by inspiraling supermassive black hole binaries (SMBHBs) in the nanohertz to microhertz frequency band. This range, situa…",
-      "published_at": "2025-12-29T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.21392",
+      "title": "Clustering Confuses Spectro-photometry: An Investigation of 2D and 3D Forced Profile Matching for Stacking Line-intensity Mapping Data on So…",
+      "summary": "arXiv:2512.22356v1 Announce Type: new Abstract: Line-intensity mapping (LIM) is an emerging observational technique that is used to observe the universe on large scales at low resolution through spectral line emission. Stacking analyses coadd cutouts of LIM data on positions of k…",
+      "published_at": "2025-12-30T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.22356",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "On the Cooling of Compact Stars in Light of the HESS J1731-347 Remnant",
-      "summary": "arXiv:2512.21406v1 Announce Type: new Abstract: Recent analyses on the central compact object in the HESS J1731-347 supernova remnant reported not only surprising structural properties (mass $M$ and radius $R$), but also an interesting thermal evolution. More precisely, it has be…",
-      "published_at": "2025-12-29T05:00:00Z",
-      "url": "https://arxiv.org/abs/2512.21406",
+      "title": "Interstellar Interloper 3I/ATLAS: Nucleus Size, Photometry in RGB, Af(rho) and Antitail Structure Analysis",
+      "summary": "arXiv:2512.22365v1 Announce Type: new Abstract: Interstellar comet 3I/ATLAS (C/2025 N1) exhibits an unusual, tightly collimated dust feature in the sunward hemisphere which has been widely described as an anti-tail. At the same time, precise constraints on the nucleus size have b…",
+      "published_at": "2025-12-30T05:00:00Z",
+      "url": "https://arxiv.org/abs/2512.22365",
       "tags": [
         "arxiv",
         "astro-ph"
