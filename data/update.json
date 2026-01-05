@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-04T10:45:37Z",
+  "generated_at": "2026-01-05T10:52:03Z",
   "items": [
+    {
+      "title": "Born in the Dark: The Catastrophic Collapse of Fuzzy Dark Matter Solitons as the Origin of Little Red Dots",
+      "summary": "arXiv:2601.00044v1 Announce Type: new Abstract: JWST surveys have uncovered a population of compact, red sources (\"Little Red Dots,\" LRDs) at $z \\ge 5$ that exhibit broad Balmer emission yet remain X-ray faint, implying heavy obscuration with $N_H \\ge 10^{24}$ cm$^{-2}$. We propo…",
+      "published_at": "2026-01-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00044",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Identifiability Limits of Low-Rank RFI Mitigation Under Single-Epoch Constraints: A Controlled Failure-Mode Study",
+      "summary": "arXiv:2601.00046v1 Announce Type: new Abstract: The rapid proliferation of low Earth orbit (LEO) satellite constellations has introduced a new class of radio frequency interference (RFI) that poses a fundamental challenge to modern radio astronomy. In particular, unintended elect…",
+      "published_at": "2026-01-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00046",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Evolved Supergiants in PHANGS I: Red Supergiants in 19 Galaxies between 5-20 Mpc with HST and JWST",
+      "summary": "arXiv:2601.00055v1 Announce Type: new Abstract: Red supergiants (RSGs) are important for our understanding of supernova progenitors, stellar populations, stellar evolution, mass loss and dust production. Extragalactic surveys of RSGs have a long history in the Local Group, but fe…",
+      "published_at": "2026-01-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00055",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A free-floating-planet microlensing event caused by a Saturn-mass object",
+      "summary": "arXiv:2601.00057v1 Announce Type: new Abstract: A population of free-floating planets is known from gravitational microlensing surveys. None have a directly measured mass, owing to a degeneracy with the distance, but the population statistics indicate that many are less massive t…",
+      "published_at": "2026-01-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00057",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Sub-Neptune Memories I: Implications of Inefficient Mantle Cooling and Silicate Rain",
+      "summary": "arXiv:2601.00059v1 Announce Type: new Abstract: We explore the evolution of sub-Neptune (radii between $\\sim$1.5 and 4 R$_\\oplus$) exoplanet interior structures using our upgraded planetary evolution code, \\texttt{APPLE}, which self-consistently couples the thermal and compositio…",
+      "published_at": "2026-01-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00059",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Covertly Active Comet (139359) 2001 ME1",
+      "summary": "arXiv:2601.00060v1 Announce Type: new Abstract: On 2018 November 18, coronagraphs onboard the Solar and Heliospheric Observatory (SOHO) captured an unrecognized comet crossing its fields of view. We identified this comet to be the minor planet (139359) 2001 ME1 whose previously u…",
+      "published_at": "2026-01-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00060",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: New Public Science Center Opens at Kitt Peak National Observatory",
       "summary": "<img align=\"left\" alt=\"Opening of the Windows on the Universe Center for Astronomy Outreach, the first science center located inside a telescope\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2534a.jpg\" />Windo…",
