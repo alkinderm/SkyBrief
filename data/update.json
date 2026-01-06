@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-05T10:52:03Z",
+  "generated_at": "2026-01-06T10:50:33Z",
   "items": [
     {
-      "title": "Born in the Dark: The Catastrophic Collapse of Fuzzy Dark Matter Solitons as the Origin of Little Red Dots",
-      "summary": "arXiv:2601.00044v1 Announce Type: new Abstract: JWST surveys have uncovered a population of compact, red sources (\"Little Red Dots,\" LRDs) at $z \\ge 5$ that exhibit broad Balmer emission yet remain X-ray faint, implying heavy obscuration with $N_H \\ge 10^{24}$ cm$^{-2}$. We propo…",
-      "published_at": "2026-01-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.00044",
+      "title": "Probabilistic modeling of Cherenkov emission from particle showers",
+      "summary": "arXiv:2601.00944v1 Announce Type: new Abstract: Subatomic particles can interact with target nuclei in matter or decay in flight, and an individual high-energy particle can induce a particle shower composed of numerous, lower-energy secondaries. These particle showers broadly exh…",
+      "published_at": "2026-01-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00944",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Identifiability Limits of Low-Rank RFI Mitigation Under Single-Epoch Constraints: A Controlled Failure-Mode Study",
-      "summary": "arXiv:2601.00046v1 Announce Type: new Abstract: The rapid proliferation of low Earth orbit (LEO) satellite constellations has introduced a new class of radio frequency interference (RFI) that poses a fundamental challenge to modern radio astronomy. In particular, unintended elect…",
-      "published_at": "2026-01-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.00046",
+      "title": "JWST observations of three long-period AM CVn binaries: detection of the donors and hints of magnetically truncated disks",
+      "summary": "arXiv:2601.00945v1 Announce Type: new Abstract: We present JWST/NIRSpec high-cadence infrared spectroscopy of three long-period, eclipsing AM CVn binaries, Gaia14aae, SRGeJ0453, and ZTFJ1637. These systems have orbital periods of 50-62 minutes and cool donors that are undetectabl…",
+      "published_at": "2026-01-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00945",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Evolved Supergiants in PHANGS I: Red Supergiants in 19 Galaxies between 5-20 Mpc with HST and JWST",
-      "summary": "arXiv:2601.00055v1 Announce Type: new Abstract: Red supergiants (RSGs) are important for our understanding of supernova progenitors, stellar populations, stellar evolution, mass loss and dust production. Extragalactic surveys of RSGs have a long history in the Local Group, but fe…",
-      "published_at": "2026-01-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.00055",
+      "title": "Mapping the Distorted Dark Matter Distribution of the LMC-SMC System Prior to Milky Way Infall with Basis Function Expansions",
+      "summary": "arXiv:2601.00946v1 Announce Type: new Abstract: The SMC orbits within the LMC's dark matter (DM) halo in a $\\sim$1:10 mass-ratio encounter. The LMC:Milky Way (MW) interaction is also $\\sim$1:10, and is expected to perturb the MW's DM distribution. However, no framework exists to…",
+      "published_at": "2026-01-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00946",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A free-floating-planet microlensing event caused by a Saturn-mass object",
-      "summary": "arXiv:2601.00057v1 Announce Type: new Abstract: A population of free-floating planets is known from gravitational microlensing surveys. None have a directly measured mass, owing to a degeneracy with the distance, but the population statistics indicate that many are less massive t…",
-      "published_at": "2026-01-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.00057",
+      "title": "The Emission and Suppression of Line Features in Luminous Transients",
+      "summary": "arXiv:2601.00947v1 Announce Type: new Abstract: Featureless optical and ultraviolet (UV) spectra are a puzzling signature to emerge from recent observations of luminous fast blue optical transients (LFBOTs) and some tidal disruption events (TDEs). We describe the landscape of sou…",
+      "published_at": "2026-01-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00947",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Sub-Neptune Memories I: Implications of Inefficient Mantle Cooling and Silicate Rain",
-      "summary": "arXiv:2601.00059v1 Announce Type: new Abstract: We explore the evolution of sub-Neptune (radii between $\\sim$1.5 and 4 R$_\\oplus$) exoplanet interior structures using our upgraded planetary evolution code, \\texttt{APPLE}, which self-consistently couples the thermal and compositio…",
-      "published_at": "2026-01-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.00059",
+      "title": "Observable Metal Pollution in Main-Sequence Stars: Simulations of Rocky Planets Engulfed by Stars in the $0.5$ to $1.4$ M$_\\odot$ Range",
+      "summary": "arXiv:2601.00949v1 Announce Type: new Abstract: The engulfment of planets by their host stars is an expected outcome of various dynamical processes and has been invoked to explain a variety of observed stellar properties, such as rapid rotation, chemical abundance abnormalities,…",
+      "published_at": "2026-01-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00949",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Covertly Active Comet (139359) 2001 ME1",
-      "summary": "arXiv:2601.00060v1 Announce Type: new Abstract: On 2018 November 18, coronagraphs onboard the Solar and Heliospheric Observatory (SOHO) captured an unrecognized comet crossing its fields of view. We identified this comet to be the minor planet (139359) 2001 ME1 whose previously u…",
-      "published_at": "2026-01-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.00060",
+      "title": "Ultra Heavy Cosmic Rays from Magnetars",
+      "summary": "arXiv:2601.00953v1 Announce Type: new Abstract: Matter ejected from the neutron star crust during a magnetar giant flare will undergo $r$-process nucleosynthesis during decompression. Ultra heavy ions ($Z \\gg 26$) can be accelerated to cosmic ray energies by the reverse shock as…",
+      "published_at": "2026-01-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.00953",
       "tags": [
         "arxiv",
         "astro-ph"
