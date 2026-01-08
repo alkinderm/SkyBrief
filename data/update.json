@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-07T10:50:58Z",
+  "generated_at": "2026-01-08T10:51:49Z",
   "items": [
     {
-      "title": "Predictability of bursts of a recurrent nova using topological data analysis and machine learning",
-      "summary": "arXiv:2601.02403v1 Announce Type: new Abstract: RS Oph is a recurrent nova, a kind of cataclismic variable that shows bursts in a period approximately shorter than a century. Persistent homology, a technique from topological data analysis, studies the evolution of topological fea…",
-      "published_at": "2026-01-07T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.02403",
+      "title": "AT2024wpp: An Extremely Luminous Fast Ultraviolet Transient Powered by Accretion onto a Black Hole",
+      "summary": "arXiv:2601.03337v1 Announce Type: new Abstract: We present the discovery of AT 2024wpp (\"Whippet\"), a fast and luminous 18cow-like transient. At a redshift of z=0.0868, revealed by Keck Cosmic Web Imager spectroscopy of its faint and diffuse star-forming host, it is the fourth-ne…",
+      "published_at": "2026-01-08T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.03337",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Exactly solved model of a one dimensional self gravitating system",
-      "summary": "arXiv:2601.02423v1 Announce Type: new Abstract: A model one-dimensional self consistent steady state collisionless self-gravitating system in which all the particles have the same energy is presented. This has the remarkable property that the position and velocity of the particle…",
-      "published_at": "2026-01-07T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.02423",
+      "title": "Fast rotations in galaxies at cosmic noon indicate central concentration of stars, dark matter or massive black holes",
+      "summary": "arXiv:2601.03338v1 Announce Type: new Abstract: The rotation curves of regularly rotating disc galaxies are a unique probe of the gravitational potential and dark matter distribution. Until recently, matter decomposition of rotation curves at $z>0.5$ was challenging, not only due…",
+      "published_at": "2026-01-08T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.03338",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Experiments in binary evolution",
-      "summary": "arXiv:2601.02448v1 Announce Type: new Abstract: The majority of stars more massive than the Sun is found in binary or multiple star systems and many of them will interact during their evolution. Specific interactions, where progenitors and post-mass transfer (MT) systems are clea…",
-      "published_at": "2026-01-07T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.02448",
+      "title": "Early thin-disc assembly revealed by JWST edge-on galaxies",
+      "summary": "arXiv:2601.03339v1 Announce Type: new Abstract: The vertical structure of stellar discs provides key constraints on their formation and evolution. Nearby spirals, including the Milky Way, host thin and thick components that may arise either from an early turbulent phase or from t…",
+      "published_at": "2026-01-08T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.03339",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Validation of Satellite Lifetime Predictions at Leonid Space",
-      "summary": "arXiv:2601.02453v1 Announce Type: new Abstract: We validate Leonid Space's satellite lifetime prediction pipeline through comprehensive backtesting against 934 non-maneuvering satellites that deorbited from LEO between 1961 and 2024. This represents the first large-scale validati…",
-      "published_at": "2026-01-07T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.02453",
+      "title": "Non-thermal particle acceleration in multi-species kinetic plasmas: universal power-law distribution functions and temperature inversion in…",
+      "summary": "arXiv:2601.03344v1 Announce Type: new Abstract: The origin of non-thermal power-law distribution functions ubiquitously observed in astrophysical/space (e.g., the solar wind) and laboratory kinetic plasmas, is not well understood. Another puzzling phenomenon is temperature invers…",
+      "published_at": "2026-01-08T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.03344",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Cosmic Collider Gravitational Waves sourced by Right-handed Neutrino production from Bubbles: Testing Seesaw, Leptogenesis and Dark Matter",
-      "summary": "arXiv:2601.02458v1 Announce Type: new Abstract: We study a minimal type-I seesaw framework in which a first-order phase transition (FOPT), driven by a singlet scalar, produces right-handed neutrinos (RHNs) through bubble collisions, realizing a cosmic-scale collider that probes u…",
-      "published_at": "2026-01-07T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.02458",
+      "title": "Mind the peak: improving cosmological constraints from GWTC-4.0 spectral sirens using semiparametric mass models",
+      "summary": "arXiv:2601.03347v1 Announce Type: new Abstract: Gravitational wave spectral sirens can provide cosmological constraints by using the shape of the binary black hole (BBH) mass distribution (MD). However, the precision and accuracy of these constraints depends critically on the cap…",
+      "published_at": "2026-01-08T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.03347",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Magnetic reconnection with a 0.1 rate: Effective resistivity in general relativistic magnetohydrodynamics",
-      "summary": "arXiv:2601.02460v1 Announce Type: new Abstract: Relativistic magnetic reconnection is thought to power various multi-wavelength emission signatures from neutron stars and black holes. Relativistic resistive magnetohydrodynamics (RRMHD) offers the simplest model of reconnection. H…",
-      "published_at": "2026-01-07T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.02460",
+      "title": "Simulation-Based Prediction of Black Hole Spectra: From $10M_\\odot$ to $10^8 M_\\odot$",
+      "summary": "arXiv:2601.03349v1 Announce Type: new Abstract: It has long been thought that black hole accretion flows are driven by magnetohydrodynamic (MHD) turbulence, and there are now many general relativistic global simulations illustrating the dynamics of this process. However, many cha…",
+      "published_at": "2026-01-08T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.03349",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Spots Record-Breaking Asteroid in Pre-Survey Observations",
+      "summary": "<img align=\"left\" alt=\"Artist’s illustration of asteroid 2025 MN45\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2601a.jpg\" />Astronomers analyzing data from NSF–DOE Vera C. Rubin Observatory, jointly funded b…",
+      "published_at": "2026-01-07T17:15:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2601/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Gemini South Images the Butterfly Nebula\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2530a.jpg\" />To celebrate 25 years since the completion of the International Gemini Observatory, st…",
       "published_at": "2025-11-26T17:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2530/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Students in Hawai‘i Name Mesmerizing Image Ua ʻŌhiʻa Lani for the International Gemini Observatory’s 25th Anniversary",
-      "summary": "<img align=\"left\" alt=\"Ua ʻŌhiʻa Lani: An Image to Celebrate Gemini North’s 25th Anniversary\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2529a.jpg\" />To celebrate 25 years since the completion of the Interna…",
-      "published_at": "2025-11-19T17:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2529/",
       "tags": [
         "noirlab"
       ],
