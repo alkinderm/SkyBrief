@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-08T10:51:49Z",
+  "generated_at": "2026-01-09T10:50:11Z",
   "items": [
     {
-      "title": "AT2024wpp: An Extremely Luminous Fast Ultraviolet Transient Powered by Accretion onto a Black Hole",
-      "summary": "arXiv:2601.03337v1 Announce Type: new Abstract: We present the discovery of AT 2024wpp (\"Whippet\"), a fast and luminous 18cow-like transient. At a redshift of z=0.0868, revealed by Keck Cosmic Web Imager spectroscopy of its faint and diffuse star-forming host, it is the fourth-ne…",
-      "published_at": "2026-01-08T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.03337",
+      "title": "Sustainable, Local Socio-Economic Development Through Astronomy",
+      "summary": "arXiv:2601.04224v1 Announce Type: new Abstract: Astronomy, often perceived as a distant or luxury science, holds immense potential as a driver for sustainable local socio-economic development. This paper explores how astronomy can create tangible benefits for communities through…",
+      "published_at": "2026-01-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.04224",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Fast rotations in galaxies at cosmic noon indicate central concentration of stars, dark matter or massive black holes",
-      "summary": "arXiv:2601.03338v1 Announce Type: new Abstract: The rotation curves of regularly rotating disc galaxies are a unique probe of the gravitational potential and dark matter distribution. Until recently, matter decomposition of rotation curves at $z>0.5$ was challenging, not only due…",
-      "published_at": "2026-01-08T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.03338",
+      "title": "Exploring Metal Additive Manufacturing in Martian Atmospheric Environments",
+      "summary": "arXiv:2601.04232v1 Announce Type: new Abstract: In-space manufacturing is essential for achieving long-term planetary colonization, particularly on Mars, where material transport from Earth is both costly and logistically restrictive. Traditional subtractive manufacturing methods…",
+      "published_at": "2026-01-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.04232",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Early thin-disc assembly revealed by JWST edge-on galaxies",
-      "summary": "arXiv:2601.03339v1 Announce Type: new Abstract: The vertical structure of stellar discs provides key constraints on their formation and evolution. Nearby spirals, including the Milky Way, host thin and thick components that may arise either from an early turbulent phase or from t…",
-      "published_at": "2026-01-08T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.03339",
+      "title": "Charge Migration and Residual Non-Linearity in NIRSpec BOTS Observations",
+      "summary": "arXiv:2601.04255v1 Announce Type: new Abstract: We investigate the effect of charge migration and residual non-linearity on the JWST/NIRSpec G395H NRS1 and NRS2 detectors using Bright Object Time Series (BOTS) observations of the ultra-hot Jupiter WASP-121b. These full-orbit phas…",
+      "published_at": "2026-01-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.04255",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Non-thermal particle acceleration in multi-species kinetic plasmas: universal power-law distribution functions and temperature inversion in…",
-      "summary": "arXiv:2601.03344v1 Announce Type: new Abstract: The origin of non-thermal power-law distribution functions ubiquitously observed in astrophysical/space (e.g., the solar wind) and laboratory kinetic plasmas, is not well understood. Another puzzling phenomenon is temperature invers…",
-      "published_at": "2026-01-08T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.03344",
+      "title": "Search for Precessing Binary Black Holes in Advanced LIGO's Third Observing Run using Harmonic Decomposition",
+      "summary": "arXiv:2601.04276v1 Announce Type: new Abstract: Binary black holes (BBHs) exhibiting spin-induced orbital precession offer unique insight into compact-binary formation channels, cosmology, and tests of general relativity. We conduct a dedicated search for precessing BBHs in Advan…",
+      "published_at": "2026-01-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.04276",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Mind the peak: improving cosmological constraints from GWTC-4.0 spectral sirens using semiparametric mass models",
-      "summary": "arXiv:2601.03347v1 Announce Type: new Abstract: Gravitational wave spectral sirens can provide cosmological constraints by using the shape of the binary black hole (BBH) mass distribution (MD). However, the precision and accuracy of these constraints depends critically on the cap…",
-      "published_at": "2026-01-08T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.03347",
+      "title": "A New Bayesian Framework with Natural Priors to Constrain the Neutron Star Equation of State",
+      "summary": "arXiv:2601.04294v1 Announce Type: new Abstract: We propose a new Bayesian framework to infer the neutron star equation of state (EOS) from mass and radius observations and neutron matter theory by defining priors that directly parameterize mass-radius space instead of pressure-en…",
+      "published_at": "2026-01-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.04294",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Simulation-Based Prediction of Black Hole Spectra: From $10M_\\odot$ to $10^8 M_\\odot$",
-      "summary": "arXiv:2601.03349v1 Announce Type: new Abstract: It has long been thought that black hole accretion flows are driven by magnetohydrodynamic (MHD) turbulence, and there are now many general relativistic global simulations illustrating the dynamics of this process. However, many cha…",
-      "published_at": "2026-01-08T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.03349",
+      "title": "Morphologies arising from the gas flow in the innermost kiloparsec of barred galaxy models",
+      "summary": "arXiv:2601.04306v1 Announce Type: new Abstract: Context. We study a series of response models to investigate the formation of specific morphological features in the central 1 kpc region of the gas component in barred spiral galaxies. Aims. We aim to understand how structures, suc…",
+      "published_at": "2026-01-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.04306",
       "tags": [
         "arxiv",
         "astro-ph"
