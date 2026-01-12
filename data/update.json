@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-11T10:46:41Z",
+  "generated_at": "2026-01-12T10:51:58Z",
   "items": [
+    {
+      "title": "GALFITools: A Python library to enhance GALFIT usage in galaxy image modeling",
+      "summary": "arXiv:2601.05291v1 Announce Type: new Abstract: Understanding how galaxies form and evolve requires measuring their light distributions in images taken by telescopes. This process often involves fitting mathematical models to galaxy images to extract properties such as size, brig…",
+      "published_at": "2026-01-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.05291",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Interaction of the central jet with the surrounding gas in the protostellar outflow from IRAS 04166+2706",
+      "summary": "arXiv:2601.05310v1 Announce Type: new Abstract: $Context.$ The outflow from the Class 0 protostar IRAS 04166+2706 (hereafter IRAS 04166) contains a remarkably symmetric jet-like component of extremely high-velocity (EHV) gas. $Aims.$ We studied the IRAS 04166 outflow and investig…",
+      "published_at": "2026-01-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.05310",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Overestimated Pressure Broadening Misleads Model Spectra in Cool M Dwarf Stars",
+      "summary": "arXiv:2601.05313v1 Announce Type: new Abstract: Available one-dimensional stellar models fail to reproduce the observed spectrum of the ultracool M dwarf TRAPPIST-1. In particular, current models predict strong iron hydride (FeH) absorption due to the Wing-Ford bands at 0.99$\\mu$…",
+      "published_at": "2026-01-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.05313",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Modeling the Milky Way wind: Supernova-driven outflows accelerate HI clouds near the Galactic center",
+      "summary": "arXiv:2601.05314v1 Announce Type: new Abstract: Multiwavelength observations, from radio to X-rays, have revealed the presence of multiphase high-velocity gas near the center of the Milky Way likely associated with powerful galactic outflows. This region offers a unique laborator…",
+      "published_at": "2026-01-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.05314",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Revised AGN Spectral Model Reveals a More Significant Role in Cosmic Reionization",
+      "summary": "arXiv:2601.05316v1 Announce Type: new Abstract: Reionization marks one of the most important phase transitions in the history of the Universe, during which neutral baryonic matter was transformed into ionized plasma. While star-forming galaxies are widely regarded as the primary…",
+      "published_at": "2026-01-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.05316",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The fate of the failed supernova candidate M31-2014-DS1",
+      "summary": "arXiv:2601.05317v1 Announce Type: new Abstract: The fate of massive stars above 20M$_{\\odot}$ remains uncertain. Debate persists about whether they die as supernovae (SNe), or if they collapse directly into black holes (BHs) with little or no optical outburst -- so-called ``faile…",
+      "published_at": "2026-01-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.05317",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Spots Record-Breaking Asteroid in Pre-Survey Observations",
       "summary": "<img align=\"left\" alt=\"Artist’s illustration of asteroid 2025 MN45\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2601a.jpg\" />Astronomers analyzing data from NSF–DOE Vera C. Rubin Observatory, jointly funded b…",
