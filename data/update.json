@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-12T10:51:58Z",
+  "generated_at": "2026-01-13T10:51:39Z",
   "items": [
     {
-      "title": "GALFITools: A Python library to enhance GALFIT usage in galaxy image modeling",
-      "summary": "arXiv:2601.05291v1 Announce Type: new Abstract: Understanding how galaxies form and evolve requires measuring their light distributions in images taken by telescopes. This process often involves fitting mathematical models to galaxy images to extract properties such as size, brig…",
-      "published_at": "2026-01-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.05291",
+      "title": "Emergent Complexity in Nuclear Reaction Networks: A Study of Stellar Nucleosynthesis through Chemical Organization Theory",
+      "summary": "arXiv:2601.06143v1 Announce Type: new Abstract: We explore the emergence of complex structures within reaction networks, focusing on nuclear reaction networks relevant to stellar nucleosynthesis. The work presents a theoretical framework rooted in Chemical Organization Theory (CO…",
+      "published_at": "2026-01-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.06143",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Interaction of the central jet with the surrounding gas in the protostellar outflow from IRAS 04166+2706",
-      "summary": "arXiv:2601.05310v1 Announce Type: new Abstract: $Context.$ The outflow from the Class 0 protostar IRAS 04166+2706 (hereafter IRAS 04166) contains a remarkably symmetric jet-like component of extremely high-velocity (EHV) gas. $Aims.$ We studied the IRAS 04166 outflow and investig…",
-      "published_at": "2026-01-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.05310",
+      "title": "Exoplanet characterization with NASA's Habitable Worlds Observatory",
+      "summary": "arXiv:2601.06233v1 Announce Type: new Abstract: Exoplanet atmosphere characterization has seen revolutionary advances over the last few years, providing us with unique insights into atmospheric chemistry, dynamics and planet formation mechanisms. However, true solar system analog…",
+      "published_at": "2026-01-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.06233",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Overestimated Pressure Broadening Misleads Model Spectra in Cool M Dwarf Stars",
-      "summary": "arXiv:2601.05313v1 Announce Type: new Abstract: Available one-dimensional stellar models fail to reproduce the observed spectrum of the ultracool M dwarf TRAPPIST-1. In particular, current models predict strong iron hydride (FeH) absorption due to the Wing-Ford bands at 0.99$\\mu$…",
-      "published_at": "2026-01-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.05313",
+      "title": "Transiting exoplanets as the immediate future for population-level atmospheric science",
+      "summary": "arXiv:2601.06236v1 Announce Type: new Abstract: The transit method, during which a planet's presence is inferred by measuring the reduction in flux as it passes in front of its parent star, is a highly successful exoplanet detection and characterization technique. During transit,…",
+      "published_at": "2026-01-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.06236",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Modeling the Milky Way wind: Supernova-driven outflows accelerate HI clouds near the Galactic center",
-      "summary": "arXiv:2601.05314v1 Announce Type: new Abstract: Multiwavelength observations, from radio to X-rays, have revealed the presence of multiphase high-velocity gas near the center of the Milky Way likely associated with powerful galactic outflows. This region offers a unique laborator…",
-      "published_at": "2026-01-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.05314",
+      "title": "Characterizing turbulence in galaxy clusters: defining turbulent energies and assessing multi-scale versus fixed-scale filters",
+      "summary": "arXiv:2601.06250v1 Announce Type: new Abstract: Disentangling turbulence and bulk motions in the intracluster medium (ICM) of galaxy clusters is inherently ambiguous, as the plasma is continuously stirred by different processes on disparate scales. This poses a serious problem in…",
+      "published_at": "2026-01-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.06250",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Revised AGN Spectral Model Reveals a More Significant Role in Cosmic Reionization",
-      "summary": "arXiv:2601.05316v1 Announce Type: new Abstract: Reionization marks one of the most important phase transitions in the history of the Universe, during which neutral baryonic matter was transformed into ionized plasma. While star-forming galaxies are widely regarded as the primary…",
-      "published_at": "2026-01-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.05316",
+      "title": "Formation of massive multiple-star systems: early migration and mergers",
+      "summary": "arXiv:2601.06251v1 Announce Type: new Abstract: Massive stars are often found in multiple systems, yet how binary-star systems with very close separations ($\\lesssim$ au) assemble remains unresolved. We investigate the formation and inward migration of massive-star binaries in So…",
+      "published_at": "2026-01-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.06251",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The fate of the failed supernova candidate M31-2014-DS1",
-      "summary": "arXiv:2601.05317v1 Announce Type: new Abstract: The fate of massive stars above 20M$_{\\odot}$ remains uncertain. Debate persists about whether they die as supernovae (SNe), or if they collapse directly into black holes (BHs) with little or no optical outburst -- so-called ``faile…",
-      "published_at": "2026-01-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.05317",
+      "title": "Masers and Broad-Line Mapping Favor Magnetically-Dominated AGN Accretion Disks",
+      "summary": "arXiv:2601.06253v1 Announce Type: new Abstract: We present a novel and powerful constraint on the physics of supermassive black hole (BH) accretion disks. We show that in the outer disk (radii $R \\gtrsim 0.01\\,$pc or $\\gtrsim 1000\\,R_{G}$), models supported by thermal or radiatio…",
+      "published_at": "2026-01-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.06253",
       "tags": [
         "arxiv",
         "astro-ph"
