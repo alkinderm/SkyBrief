@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-13T10:51:39Z",
+  "generated_at": "2026-01-14T10:52:51Z",
   "items": [
     {
-      "title": "Emergent Complexity in Nuclear Reaction Networks: A Study of Stellar Nucleosynthesis through Chemical Organization Theory",
-      "summary": "arXiv:2601.06143v1 Announce Type: new Abstract: We explore the emergence of complex structures within reaction networks, focusing on nuclear reaction networks relevant to stellar nucleosynthesis. The work presents a theoretical framework rooted in Chemical Organization Theory (CO…",
-      "published_at": "2026-01-13T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.06143",
+      "title": "Intermediate-mass black hole incubators. Gas accretion onto stellar black hole clusters in galactic central molecular zones",
+      "summary": "arXiv:2601.07905v1 Announce Type: new Abstract: The stellar dynamical evolution of massive star clusters formed during starburst periods leads to the segregation of $\\gtrsim10^4 M_\\odot$ stellar-mass black hole sub-clusters in their centres. In gas-rich environments, such as gala…",
+      "published_at": "2026-01-14T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.07905",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Exoplanet characterization with NASA's Habitable Worlds Observatory",
-      "summary": "arXiv:2601.06233v1 Announce Type: new Abstract: Exoplanet atmosphere characterization has seen revolutionary advances over the last few years, providing us with unique insights into atmospheric chemistry, dynamics and planet formation mechanisms. However, true solar system analog…",
-      "published_at": "2026-01-13T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.06233",
+      "title": "A survey of molecular clouds in the Galactic center's outflow",
+      "summary": "arXiv:2601.07907v1 Announce Type: new Abstract: The nucleus of the Milky Way is known to drive a large-scale, multiphase galactic outflow, with gas phases ranging from the hot highly-ionized to the cold molecular component. In this work, we present the first systematic search for…",
+      "published_at": "2026-01-14T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.07907",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Transiting exoplanets as the immediate future for population-level atmospheric science",
-      "summary": "arXiv:2601.06236v1 Announce Type: new Abstract: The transit method, during which a planet's presence is inferred by measuring the reduction in flux as it passes in front of its parent star, is a highly successful exoplanet detection and characterization technique. During transit,…",
-      "published_at": "2026-01-13T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.06236",
+      "title": "New CDM Crisis Revealed by Multi-Scale Cluster Lensing",
+      "summary": "arXiv:2601.07909v1 Announce Type: new Abstract: The properties of substructure in galaxy clusters, exquisitely probed by gravitational lensing, offer a stringent test of dark matter models. Combining strong and weak lensing data for massive clusters, we map their total mass--domi…",
+      "published_at": "2026-01-14T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.07909",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Characterizing turbulence in galaxy clusters: defining turbulent energies and assessing multi-scale versus fixed-scale filters",
-      "summary": "arXiv:2601.06250v1 Announce Type: new Abstract: Disentangling turbulence and bulk motions in the intracluster medium (ICM) of galaxy clusters is inherently ambiguous, as the plasma is continuously stirred by different processes on disparate scales. This poses a serious problem in…",
-      "published_at": "2026-01-13T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.06250",
+      "title": "Relatively Fast and Reasonably Furious: Evidence for Increased Burstiness in Smaller Halos at Cosmic Dawn",
+      "summary": "arXiv:2601.07912v1 Announce Type: new Abstract: We introduce an effective framework to model star-formation burstiness and use it to jointly fit galaxy UV luminosity functions (UVLFs), clustering, and H$\\alpha$/UV ratios, providing the first robust empirical evidence that early g…",
+      "published_at": "2026-01-14T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.07912",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Formation of massive multiple-star systems: early migration and mergers",
-      "summary": "arXiv:2601.06251v1 Announce Type: new Abstract: Massive stars are often found in multiple systems, yet how binary-star systems with very close separations ($\\lesssim$ au) assemble remains unresolved. We investigate the formation and inward migration of massive-star binaries in So…",
-      "published_at": "2026-01-13T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.06251",
+      "title": "Quantifying Symmetry: Transformation Information for Planetary Nebulae and Supernova Remnants",
+      "summary": "arXiv:2601.07913v1 Announce Type: new Abstract: We present a quantitative symmetry-identification pipeline for astrophysical images based on Transformation Information (TI), an information measure of self-similarity under geometric transformations. TI is expressed as a Kullback-L…",
+      "published_at": "2026-01-14T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.07913",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Masers and Broad-Line Mapping Favor Magnetically-Dominated AGN Accretion Disks",
-      "summary": "arXiv:2601.06253v1 Announce Type: new Abstract: We present a novel and powerful constraint on the physics of supermassive black hole (BH) accretion disks. We show that in the outer disk (radii $R \\gtrsim 0.01\\,$pc or $\\gtrsim 1000\\,R_{G}$), models supported by thermal or radiatio…",
-      "published_at": "2026-01-13T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.06253",
+      "title": "MUSEQuBES: Investigating the Physical and Chemical Properties of Circumgalactic Gas Around Ly$\\alpha$ Emitters at $z \\approx 3.3$",
+      "summary": "arXiv:2601.07916v1 Announce Type: new Abstract: We present a detailed study of the physical properties of absorbers associated with $z\\approx3.3$ \\lya\\ emitters (LAEs) from the MUSEQuBES survey. Using \\HI\\ and ionic column densities derived from Voigt profile fitting, we determin…",
+      "published_at": "2026-01-14T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.07916",
       "tags": [
         "arxiv",
         "astro-ph"
