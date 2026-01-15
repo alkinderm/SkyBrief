@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-14T10:52:51Z",
+  "generated_at": "2026-01-15T10:51:06Z",
   "items": [
     {
-      "title": "Intermediate-mass black hole incubators. Gas accretion onto stellar black hole clusters in galactic central molecular zones",
-      "summary": "arXiv:2601.07905v1 Announce Type: new Abstract: The stellar dynamical evolution of massive star clusters formed during starburst periods leads to the segregation of $\\gtrsim10^4 M_\\odot$ stellar-mass black hole sub-clusters in their centres. In gas-rich environments, such as gala…",
-      "published_at": "2026-01-14T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.07905",
+      "title": "Explainable Galaxy Interaction Prediction with Hybrid Attention Mechanisms",
+      "summary": "arXiv:2601.08872v1 Announce Type: new Abstract: Galaxy interaction classification remains challenging due to complex morphological patterns and the limited interpretability of deep learning models. We propose an attentive neural ensemble that combines AG-XCaps, H-SNN, and ResNet-…",
+      "published_at": "2026-01-15T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.08872",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A survey of molecular clouds in the Galactic center's outflow",
-      "summary": "arXiv:2601.07907v1 Announce Type: new Abstract: The nucleus of the Milky Way is known to drive a large-scale, multiphase galactic outflow, with gas phases ranging from the hot highly-ionized to the cold molecular component. In this work, we present the first systematic search for…",
-      "published_at": "2026-01-14T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.07907",
+      "title": "Habitable Worlds Observatory Living Worlds Working Group: Surface Biosignatures on Potentially Habitable Exoplanets",
+      "summary": "arXiv:2601.08883v1 Announce Type: new Abstract: The Habitable Worlds Observatory (HWO) is the first NASA Astrophysics flagship mission with a key science goal of searching for signs of life on rocky habitable exoplanets beyond our solar system. The Living Worlds Community Working…",
+      "published_at": "2026-01-15T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.08883",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "New CDM Crisis Revealed by Multi-Scale Cluster Lensing",
-      "summary": "arXiv:2601.07909v1 Announce Type: new Abstract: The properties of substructure in galaxy clusters, exquisitely probed by gravitational lensing, offer a stringent test of dark matter models. Combining strong and weak lensing data for massive clusters, we map their total mass--domi…",
-      "published_at": "2026-01-14T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.07909",
+      "title": "Planet-Host Stars Across the Galaxy in the 2040s",
+      "summary": "arXiv:2601.08890v1 Announce Type: new Abstract: By the 2040s, the exoplanet field will have moved from the discovery of a few thousand planets to hundreds of thousands, thanks to Gaia DR5, TESS, PLATO, Roman, and their successors. At that stage, the key bottleneck will no longer…",
+      "published_at": "2026-01-15T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.08890",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Relatively Fast and Reasonably Furious: Evidence for Increased Burstiness in Smaller Halos at Cosmic Dawn",
-      "summary": "arXiv:2601.07912v1 Announce Type: new Abstract: We introduce an effective framework to model star-formation burstiness and use it to jointly fit galaxy UV luminosity functions (UVLFs), clustering, and H$\\alpha$/UV ratios, providing the first robust empirical evidence that early g…",
-      "published_at": "2026-01-14T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.07912",
+      "title": "IK Pegasi and the Double Merger Path to Type Ia Supernovae",
+      "summary": "arXiv:2601.08903v1 Announce Type: new Abstract: Recent Gaia astrometry has revealed thousands of main-sequence + white-dwarf binaries (MS+WD) at separations of ~0.1-10 au, including a subset hosting unusually massive (>~0.8 Msun) WDs. We argue that s-process enrichment in the non…",
+      "published_at": "2026-01-15T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.08903",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Quantifying Symmetry: Transformation Information for Planetary Nebulae and Supernova Remnants",
-      "summary": "arXiv:2601.07913v1 Announce Type: new Abstract: We present a quantitative symmetry-identification pipeline for astrophysical images based on Transformation Information (TI), an information measure of self-similarity under geometric transformations. TI is expressed as a Kullback-L…",
-      "published_at": "2026-01-14T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.07913",
+      "title": "Digging into the Interior of Hot Cores with ALMA. VI. The Formation of Low-mass Multiple Systems in High-mass Cluster-forming Regions",
+      "summary": "arXiv:2601.08904v1 Announce Type: new Abstract: Most stars form in multiple systems, with profound implications in numerous astronomical phenomena intrinsically linked to multiplicity. However, our knowledge about the process on how multiple stellar systems form is incomplete and…",
+      "published_at": "2026-01-15T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.08904",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "MUSEQuBES: Investigating the Physical and Chemical Properties of Circumgalactic Gas Around Ly$\\alpha$ Emitters at $z \\approx 3.3$",
-      "summary": "arXiv:2601.07916v1 Announce Type: new Abstract: We present a detailed study of the physical properties of absorbers associated with $z\\approx3.3$ \\lya\\ emitters (LAEs) from the MUSEQuBES survey. Using \\HI\\ and ionic column densities derived from Voigt profile fitting, we determin…",
-      "published_at": "2026-01-14T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.07916",
+      "title": "The miniJPAS survey: Dissecting galaxy properties across environments with spatially resolved photometry",
+      "summary": "arXiv:2601.08911v1 Announce Type: new Abstract: The Javalambre-Physics of the Accelerating Universe Astrophysical Survey (J-PAS) is an ongoing survey mapping thousands of square degrees in the Northern Hemisphere using 56 narrow-band filters, delivering IFU-like photometric data…",
+      "published_at": "2026-01-15T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.08911",
       "tags": [
         "arxiv",
         "astro-ph"
