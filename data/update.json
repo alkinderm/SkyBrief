@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-15T10:51:06Z",
+  "generated_at": "2026-01-16T10:50:43Z",
   "items": [
     {
-      "title": "Explainable Galaxy Interaction Prediction with Hybrid Attention Mechanisms",
-      "summary": "arXiv:2601.08872v1 Announce Type: new Abstract: Galaxy interaction classification remains challenging due to complex morphological patterns and the limited interpretability of deep learning models. We propose an attentive neural ensemble that combines AG-XCaps, H-SNN, and ResNet-…",
-      "published_at": "2026-01-15T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.08872",
+      "title": "Habitable Worlds Observatory (HWO): Living Worlds Community Working Group: The Search for Life on Potentially Habitable Exoplanets",
+      "summary": "arXiv:2601.09766v1 Announce Type: new Abstract: The discovery of a biosphere on another planet would transform how we view ourselves, and our planet Earth, in relation to the rest of the cosmos. We now know Earth is one planet among eight circling our sun; our sun is part of a sw…",
+      "published_at": "2026-01-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.09766",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Habitable Worlds Observatory Living Worlds Working Group: Surface Biosignatures on Potentially Habitable Exoplanets",
-      "summary": "arXiv:2601.08883v1 Announce Type: new Abstract: The Habitable Worlds Observatory (HWO) is the first NASA Astrophysics flagship mission with a key science goal of searching for signs of life on rocky habitable exoplanets beyond our solar system. The Living Worlds Community Working…",
-      "published_at": "2026-01-15T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.08883",
+      "title": "CLiMB: A Domain-Informed Novelty Detection Clustering Framework for Scientific Discovery",
+      "summary": "arXiv:2601.09768v1 Announce Type: new Abstract: In data-driven scientific discovery, a challenge lies in classifying well-characterized phenomena while identifying novel anomalies. Current semi-supervised clustering algorithms do not always fully address this duality, often assum…",
+      "published_at": "2026-01-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.09768",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Planet-Host Stars Across the Galaxy in the 2040s",
-      "summary": "arXiv:2601.08890v1 Announce Type: new Abstract: By the 2040s, the exoplanet field will have moved from the discovery of a few thousand planets to hundreds of thousands, thanks to Gaia DR5, TESS, PLATO, Roman, and their successors. At that stage, the key bottleneck will no longer…",
-      "published_at": "2026-01-15T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.08890",
+      "title": "The X-Ray Dot: Exotic Dust or a Late-Stage Little Red Dot?",
+      "summary": "arXiv:2601.09778v1 Announce Type: new Abstract: JWST's \"Little Red Dots\" (LRDs) are increasingly interpreted as active galactic nuclei (AGN) obscured by dense thermalized gas rather than dust as evidenced by their X-ray weakness, blackbody-like continua, and Balmer line profiles.…",
+      "published_at": "2026-01-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.09778",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "IK Pegasi and the Double Merger Path to Type Ia Supernovae",
-      "summary": "arXiv:2601.08903v1 Announce Type: new Abstract: Recent Gaia astrometry has revealed thousands of main-sequence + white-dwarf binaries (MS+WD) at separations of ~0.1-10 au, including a subset hosting unusually massive (>~0.8 Msun) WDs. We argue that s-process enrichment in the non…",
-      "published_at": "2026-01-15T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.08903",
+      "title": "Breathless BEARS: [O$_{\\rm \\,III}$] 88$\\mu$m Emission of Dusty Star-Forming Galaxies at $z = 3-4$",
+      "summary": "arXiv:2601.09780v1 Announce Type: new Abstract: We present [O$_{\\rm \\,III}$] 88$\\mu$m observations towards four ${\\it Herschel}$-selected dusty star-forming galaxies (DSFGs; log$_{10}$ $\\mu$L$_{\\rm IR}$/L$_{\\odot}$ = 13.5 - 14 at $z = 2.9 - 4$) using the Atacama Compact Array (AC…",
+      "published_at": "2026-01-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.09780",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Digging into the Interior of Hot Cores with ALMA. VI. The Formation of Low-mass Multiple Systems in High-mass Cluster-forming Regions",
-      "summary": "arXiv:2601.08904v1 Announce Type: new Abstract: Most stars form in multiple systems, with profound implications in numerous astronomical phenomena intrinsically linked to multiplicity. However, our knowledge about the process on how multiple stellar systems form is incomplete and…",
-      "published_at": "2026-01-15T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.08904",
+      "title": "New Hard X-Ray and Multiwavelength Study of the PeVatron Candidate PWN G0.9+0.1 in the Galactic Center Region",
+      "summary": "arXiv:2601.09788v1 Announce Type: new Abstract: We present a new X-ray study and multiwavelength spectral energy distribution (SED) modeling of the young pulsar wind nebula (PWN) powered by the energetic pulsar PSR J1747-2809, inside the composite supernova remnant (SNR) G0.9+0.1…",
+      "published_at": "2026-01-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.09788",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The miniJPAS survey: Dissecting galaxy properties across environments with spatially resolved photometry",
-      "summary": "arXiv:2601.08911v1 Announce Type: new Abstract: The Javalambre-Physics of the Accelerating Universe Astrophysical Survey (J-PAS) is an ongoing survey mapping thousands of square degrees in the Northern Hemisphere using 56 narrow-band filters, delivering IFU-like photometric data…",
-      "published_at": "2026-01-15T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.08911",
+      "title": "Growing in number, passive in nature: tracing the evolution of the most massive quiescent galaxies since z ~ 0.8 with BOSS and DESI",
+      "summary": "arXiv:2601.09789v1 Announce Type: new Abstract: Luminous Red Galaxies (LRGs) are among the most massive galaxies at any epoch, and lack ongoing star formation. As systems hosting most of the baryonic mass in the local Universe, they preserve imprints of the quenching mechanisms i…",
+      "published_at": "2026-01-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.09789",
       "tags": [
         "arxiv",
         "astro-ph"
