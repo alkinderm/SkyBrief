@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-20T10:55:35Z",
+  "generated_at": "2026-01-21T10:56:24Z",
   "items": [
+    {
+      "title": "Orbital Stability of Closely-Spaced Four-planet Systems",
+      "summary": "arXiv:2601.11692v1 Announce Type: new Abstract: We investigate the orbital dynamics of four-planet systems consisting of Earth-mass planets on initially-circular, coplanar orbits around a star of one solar mass. In our simulations, the innermost planet's semimajor axis is set at…",
+      "published_at": "2026-01-21T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.11692",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Exoplanet atmospheres and demographics in the 2040s",
+      "summary": "arXiv:2601.11695v1 Announce Type: new Abstract: Direct observations of exoplanets probe the demographics and atmospheric composition of young self-luminous companions, yielding insight into their formation and early evolution history. In the near future, Gaia will reveal hundreds…",
+      "published_at": "2026-01-21T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.11695",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Hedorah, the first yellow supergiant Kaiju star candidate at $z\\approx3$ revealed by behind AS1063",
+      "summary": "arXiv:2601.11704v1 Announce Type: new Abstract: We present a new free-form lens model for the $z=0.348$ galaxy cluster AS1063, based on previously spectroscopically confirmed lensed galaxies and new images from the GLIMPSE program. We use the ultra-deep data to identify new count…",
+      "published_at": "2026-01-21T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.11704",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Inferring hemispheric asymmetries of stellar active regions through the information content of astrometric signals",
+      "summary": "arXiv:2601.11707v1 Announce Type: new Abstract: Photometric light curves suffer from fundamental degeneracies that limit surface information recovery. We demonstrate that astrometry enables access to complementary information through photocentre variations induced by rotating sur…",
+      "published_at": "2026-01-21T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.11707",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
+      "summary": "arXiv:2601.11708v1 Announce Type: new Abstract: The outer regions of planetary systems host dusty debris discs analogous to the Kuiper belt (exoKuiper belts), which provide crucial constraints on planet formation and evolution processes. ALMA dust observations have revealed a gre…",
+      "published_at": "2026-01-21T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.11708",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) IX: Gas-driven origin for the continuum arc in the debris disc of HD 121617",
+      "summary": "arXiv:2601.11709v1 Announce Type: new Abstract: Debris discs were long considered to be largely gas-free environments governed by collisional fragmentation, gravitational stirring, and radiative forces. Recent CO detections show that gas is present, but its abundance and origin r…",
+      "published_at": "2026-01-21T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.11709",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Spots Record-Breaking Asteroid in Pre-Survey Observations",
       "summary": "<img align=\"left\" alt=\"Artist’s illustration of asteroid 2025 MN45\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2601a.jpg\" />Astronomers analyzing data from NSF–DOE Vera C. Rubin Observatory, jointly funded b…",
