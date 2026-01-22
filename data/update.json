@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-21T10:56:24Z",
+  "generated_at": "2026-01-22T10:55:16Z",
   "items": [
     {
-      "title": "Orbital Stability of Closely-Spaced Four-planet Systems",
-      "summary": "arXiv:2601.11692v1 Announce Type: new Abstract: We investigate the orbital dynamics of four-planet systems consisting of Earth-mass planets on initially-circular, coplanar orbits around a star of one solar mass. In our simulations, the innermost planet's semimajor axis is set at…",
-      "published_at": "2026-01-21T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.11692",
+      "title": "DeepInflation: an AI agent for research and model discovery of inflation",
+      "summary": "arXiv:2601.14288v1 Announce Type: new Abstract: We present \\textbf{DeepInflation}, an AI agent designed for research and model discovery in inflationary cosmology. Built upon a multi-agent architecture, \\textbf{DeepInflation} integrates Large Language Models (LLMs) with a symboli…",
+      "published_at": "2026-01-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.14288",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Exoplanet atmospheres and demographics in the 2040s",
-      "summary": "arXiv:2601.11695v1 Announce Type: new Abstract: Direct observations of exoplanets probe the demographics and atmospheric composition of young self-luminous companions, yielding insight into their formation and early evolution history. In the near future, Gaia will reveal hundreds…",
-      "published_at": "2026-01-21T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.11695",
+      "title": "The Ep-Liso correlation: A new diagnostic tool for kilonova transients",
+      "summary": "arXiv:2601.14318v1 Announce Type: new Abstract: The AT2017gfo kilonova transient remains a unique multi-messenger event thanks to its proximity (z=0.00987) and the possibility to investigate time-resolved spectra, providing evidence of r-process nucleosynthesis. The kilonova sign…",
+      "published_at": "2026-01-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.14318",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Hedorah, the first yellow supergiant Kaiju star candidate at $z\\approx3$ revealed by behind AS1063",
-      "summary": "arXiv:2601.11704v1 Announce Type: new Abstract: We present a new free-form lens model for the $z=0.348$ galaxy cluster AS1063, based on previously spectroscopically confirmed lensed galaxies and new images from the GLIMPSE program. We use the ultra-deep data to identify new count…",
-      "published_at": "2026-01-21T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.11704",
+      "title": "Sample-efficient non-Gaussian noise reduction in gravitational wave data via learnable wavelets",
+      "summary": "arXiv:2601.14326v1 Announce Type: new Abstract: We introduce $\\texttt{WaveletNet}$, a wavelet-based neural network architecture to identify and reduce non-Gaussian noise in gravitational wave data. Traditionally, convolutional neural networks (CNNs) have been widely used as a fle…",
+      "published_at": "2026-01-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.14326",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Inferring hemispheric asymmetries of stellar active regions through the information content of astrometric signals",
-      "summary": "arXiv:2601.11707v1 Announce Type: new Abstract: Photometric light curves suffer from fundamental degeneracies that limit surface information recovery. We demonstrate that astrometry enables access to complementary information through photocentre variations induced by rotating sur…",
-      "published_at": "2026-01-21T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.11707",
+      "title": "One Attempt at Building an Inclusive & Accessible Hybrid Astronomy Conference: FRB 2025",
+      "summary": "arXiv:2601.14357v1 Announce Type: new Abstract: The rapid expansion of the Fast Radio Burst (FRB) field has been accompanied by a simultaneous growth of FRB conferences. While these meetings are essential for interacting with other researchers and establishing collaborations, man…",
+      "published_at": "2026-01-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.14357",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I: Motivation, sample, data reduction, and results overview",
-      "summary": "arXiv:2601.11708v1 Announce Type: new Abstract: The outer regions of planetary systems host dusty debris discs analogous to the Kuiper belt (exoKuiper belts), which provide crucial constraints on planet formation and evolution processes. ALMA dust observations have revealed a gre…",
-      "published_at": "2026-01-21T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.11708",
+      "title": "Semi-analytical approach to Ly$\\alpha$ multiple-scattering in 21-cm signal simulations",
+      "summary": "arXiv:2601.14360v1 Announce Type: new Abstract: A crucial physical quantity in determining the 21-cm signal during cosmic dawn is the inhomogeneous background of Ly$\\alpha$ photons originating from the first galaxies. As these photons travel through the intergalactic medium, thei…",
+      "published_at": "2026-01-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.14360",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) IX: Gas-driven origin for the continuum arc in the debris disc of HD 121617",
-      "summary": "arXiv:2601.11709v1 Announce Type: new Abstract: Debris discs were long considered to be largely gas-free environments governed by collisional fragmentation, gravitational stirring, and radiative forces. Recent CO detections show that gas is present, but its abundance and origin r…",
-      "published_at": "2026-01-21T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.11709",
+      "title": "The era of precision cosmology with voids",
+      "summary": "arXiv:2601.14362v1 Announce Type: new Abstract: Cosmic voids, the large underdense regions of our Universe, have emerged over the past decade as powerful cosmological laboratories: their simple dynamics, sensitivity to local gravitational effects and cosmic expansion, and ability…",
+      "published_at": "2026-01-22T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.14362",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: Massive Cloud With Metallic Winds Discovered Orbiting Mystery Object",
+      "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Cloudy Disk Orbiting Distant Star\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2602a.jpg\" />Sweeping winds of vaporized metals have been found in a massive clou…",
+      "published_at": "2026-01-21T17:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2602/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Artist’s illustration of GRB 250702B\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2531a.jpg\" />Astronomers have observed the longest-ever gamma-ray burst — a powerful, extragalactic exp…",
       "published_at": "2025-12-08T15:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2531/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Gemini South Celebrates 25th Anniversary With Stunning Snapshot of the Butterfly Nebula",
-      "summary": "<img align=\"left\" alt=\"Gemini South Images the Butterfly Nebula\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2530a.jpg\" />To celebrate 25 years since the completion of the International Gemini Observatory, st…",
-      "published_at": "2025-11-26T17:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2530/",
       "tags": [
         "noirlab"
       ],
