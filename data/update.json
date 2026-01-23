@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-22T10:55:16Z",
+  "generated_at": "2026-01-23T10:52:58Z",
   "items": [
     {
-      "title": "DeepInflation: an AI agent for research and model discovery of inflation",
-      "summary": "arXiv:2601.14288v1 Announce Type: new Abstract: We present \\textbf{DeepInflation}, an AI agent designed for research and model discovery in inflationary cosmology. Built upon a multi-agent architecture, \\textbf{DeepInflation} integrates Large Language Models (LLMs) with a symboli…",
-      "published_at": "2026-01-22T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.14288",
+      "title": "OmniSpectra: A Unified Foundation Model for Native Resolution Astronomical Spectra",
+      "summary": "arXiv:2601.15351v1 Announce Type: new Abstract: We present OmniSpectra, the first native-resolution foundation model for astronomy spectra. Unlike traditional models, which are limited to fixed-length input sizes or configurations, OmniSpectra handles spectra of any length at the…",
+      "published_at": "2026-01-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.15351",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The Ep-Liso correlation: A new diagnostic tool for kilonova transients",
-      "summary": "arXiv:2601.14318v1 Announce Type: new Abstract: The AT2017gfo kilonova transient remains a unique multi-messenger event thanks to its proximity (z=0.00987) and the possibility to investigate time-resolved spectra, providing evidence of r-process nucleosynthesis. The kilonova sign…",
-      "published_at": "2026-01-22T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.14318",
+      "title": "LISA and the LISA Science Team",
+      "summary": "arXiv:2601.15365v1 Announce Type: new Abstract: LISA, the Laser Interferometer Space Antenna, due to launch mid-2035, is a large class space mission by the European Space Agency (ESA). In partnership with NASA and ESA-member states, ESA is on track to launch what is expected to b…",
+      "published_at": "2026-01-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.15365",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Sample-efficient non-Gaussian noise reduction in gravitational wave data via learnable wavelets",
-      "summary": "arXiv:2601.14326v1 Announce Type: new Abstract: We introduce $\\texttt{WaveletNet}$, a wavelet-based neural network architecture to identify and reduce non-Gaussian noise in gravitational wave data. Traditionally, convolutional neural networks (CNNs) have been widely used as a fle…",
-      "published_at": "2026-01-22T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.14326",
+      "title": "Non-uniform Antenna Loading Effect on Embedded Element Patterns and Application to Fault Detection",
+      "summary": "arXiv:2601.15367v1 Announce Type: new Abstract: A new, iterative algorithm is presented to calculate the Embedded Element Pattern (EEP) tranformation from a set of patterns computed for a uniform antenna port loading (scaled identinty matrix) to a set of those computed for a non-…",
+      "published_at": "2026-01-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.15367",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "One Attempt at Building an Inclusive & Accessible Hybrid Astronomy Conference: FRB 2025",
-      "summary": "arXiv:2601.14357v1 Announce Type: new Abstract: The rapid expansion of the Fast Radio Burst (FRB) field has been accompanied by a simultaneous growth of FRB conferences. While these meetings are essential for interacting with other researchers and establishing collaborations, man…",
-      "published_at": "2026-01-22T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.14357",
+      "title": "Digging into the Interior of Hot Cores with ALMA (DIHCA). VII. Disk candidates around high-mass stars and evidence of anisotropic infall",
+      "summary": "arXiv:2601.15371v1 Announce Type: new Abstract: We study the kinematics of condensations in 30 fields forming high-mass stars with ALMA at a high-resolution of ~0.08'' on average (~230 au). The presence of disks is important for feeding high-mass stars without feedback halting gr…",
+      "published_at": "2026-01-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.15371",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Semi-analytical approach to Ly$\\alpha$ multiple-scattering in 21-cm signal simulations",
-      "summary": "arXiv:2601.14360v1 Announce Type: new Abstract: A crucial physical quantity in determining the 21-cm signal during cosmic dawn is the inhomogeneous background of Ly$\\alpha$ photons originating from the first galaxies. As these photons travel through the intergalactic medium, thei…",
-      "published_at": "2026-01-22T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.14360",
+      "title": "Hierarchical bayesian inference: constraining population distribution of dark matter halo shapes via stellar streams",
+      "summary": "arXiv:2601.15373v1 Announce Type: new Abstract: Stellar streams, the debris of tidally disrupted satellites, trace their host's gravitational potential and thus probe dark matter halo structure. While six-dimensional phase-space data of Galactic streams enable precise dark matter…",
+      "published_at": "2026-01-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.15373",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The era of precision cosmology with voids",
-      "summary": "arXiv:2601.14362v1 Announce Type: new Abstract: Cosmic voids, the large underdense regions of our Universe, have emerged over the past decade as powerful cosmological laboratories: their simple dynamics, sensitivity to local gravitational effects and cosmic expansion, and ability…",
-      "published_at": "2026-01-22T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.14362",
+      "title": "What factors shape the radio luminosity of star-forming galaxies? A new calibration from LoTSS-DR2",
+      "summary": "arXiv:2601.15374v1 Announce Type: new Abstract: Radio observations offer a dust-unobscured view of galaxy star formation via the radio continuum-star formation rate (RC--SFR) relation. Emerging evidence of a stellar mass dependence in the RC--SFR relation raises the broader quest…",
+      "published_at": "2026-01-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.15374",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: Dark Energy Survey Scientists Release Analysis of All Six Years of Survey Data",
+      "summary": "<img align=\"left\" alt=\"Bullet Cluster with DECam\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2603a.jpg\" />The Dark Energy Survey Collaboration collected information on hundreds of millions of galaxies across…",
+      "published_at": "2026-01-22T16:30:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2603/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Comet 3I/ATLAS on 26 November 2025\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2532a.jpg\" />Gemini North captured new images of Comet 3I/ATLAS after it reemerged from behind the Sun on…",
       "published_at": "2025-12-12T17:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2532/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Gemini and Blanco Telescopes Unlock Clues to Origin of Longest Gamma-ray Burst Ever Observed",
-      "summary": "<img align=\"left\" alt=\"Artist’s illustration of GRB 250702B\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2531a.jpg\" />Astronomers have observed the longest-ever gamma-ray burst — a powerful, extragalactic exp…",
-      "published_at": "2025-12-08T15:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2531/",
       "tags": [
         "noirlab"
       ],
