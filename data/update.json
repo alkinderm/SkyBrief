@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-25T10:48:00Z",
+  "generated_at": "2026-01-26T10:53:42Z",
   "items": [
+    {
+      "title": "Calibration-independent consistency test of BAO and SNIa data: update",
+      "summary": "arXiv:2601.16229v1 Announce Type: new Abstract: In a recent paper, arXiv:2509.19899, we presented a new method to test the consistency between uncalibrated BAO and SNIa data through a common parameter, the Alcock-Paczynski variable. Using Gaussian Processes, we can determine if v…",
+      "published_at": "2026-01-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.16229",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Evolutions of mean distance ratios in the planetary and satellite systems under primary tides and nebular gas drag effects",
+      "summary": "arXiv:2601.16245v1 Announce Type: new Abstract: The near geometrical progressions of distances of main regular secondaries in the planetary system and in the satellite systems of Jupiter, Saturn and Uranus are often disregarded, contrary to other regular orbital features. Among d…",
+      "published_at": "2026-01-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.16245",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Comprehensive Gaia DR3-Based Astrometric, Photometric, and Kinematic Studies of the Binary Open Cluster $h$ and $\\chi$ Persei",
+      "summary": "arXiv:2601.16252v1 Announce Type: new Abstract: In the Gaia era, a comprehensive analysis of the binary open clusters NGC 869 (h Persei) and NGC 884 (chi Persei) system has been conducted to investigate its structural, astrophysical, kinematic, and Galactic orbital properties, al…",
+      "published_at": "2026-01-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.16252",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Accretion Rate Changes Detected in a Polluted White Dwarf",
+      "summary": "arXiv:2601.16253v1 Announce Type: new Abstract: This letter reports statistically significant changes in the equivalent widths of MgII and CaII lines in the dusty and polluted white dwarf WD 0106-328, based on six epochs of spectroscopy using the VLT and Keck spanning 25 yr. Furt…",
+      "published_at": "2026-01-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.16253",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Assessing the Vera Rubin Observatory's Ability to Discover Asteroid Impactors Before They Collide with Earth",
+      "summary": "arXiv:2601.16255v1 Announce Type: new Abstract: Asteroid impactors larger than ~10 m, from Chelyabinsk-scale airburst and Tunguska-scale events to >300 m continental threats, remain the dominant planetary-defense risk. While the Vera C. Rubin Observatory Legacy Survey of Space an…",
+      "published_at": "2026-01-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.16255",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A shot in the dark: searching for dark substructures in the RX J0437+00 galaxy cluster",
+      "summary": "arXiv:2601.16260v1 Announce Type: new Abstract: Obtaining a census of dark matter structures at low mass ($\\leq 10^9 M_\\odot$) can provide strong constraints on the nature of dark matter, though identifying such structures remains difficult. In this work, we study the galaxy clus…",
+      "published_at": "2026-01-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.16260",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Dark Energy Survey Scientists Release Analysis of All Six Years of Survey Data",
       "summary": "<img align=\"left\" alt=\"Bullet Cluster with DECam\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2603a.jpg\" />The Dark Energy Survey Collaboration collected information on hundreds of millions of galaxies across…",
