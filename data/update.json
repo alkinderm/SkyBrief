@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-26T10:53:42Z",
+  "generated_at": "2026-01-27T10:56:10Z",
   "items": [
     {
-      "title": "Calibration-independent consistency test of BAO and SNIa data: update",
-      "summary": "arXiv:2601.16229v1 Announce Type: new Abstract: In a recent paper, arXiv:2509.19899, we presented a new method to test the consistency between uncalibrated BAO and SNIa data through a common parameter, the Alcock-Paczynski variable. Using Gaussian Processes, we can determine if v…",
-      "published_at": "2026-01-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.16229",
+      "title": "Thermodynamic Characteristics of a Fermi Gas with an Invariant Energy Scale and its Astrophysical Implications",
+      "summary": "arXiv:2601.17004v1 Announce Type: new Abstract: We investigate the thermodynamics of a relativistic Fermi gas governed by a modified dispersion relation in the Magueijo Smolin (MS) formulation of Doubly Special Relativity (DSR), characterized by the presence of an invariant ultra…",
+      "published_at": "2026-01-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.17004",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Evolutions of mean distance ratios in the planetary and satellite systems under primary tides and nebular gas drag effects",
-      "summary": "arXiv:2601.16245v1 Announce Type: new Abstract: The near geometrical progressions of distances of main regular secondaries in the planetary system and in the satellite systems of Jupiter, Saturn and Uranus are often disregarded, contrary to other regular orbital features. Among d…",
-      "published_at": "2026-01-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.16245",
+      "title": "Effect of different Non-Gravitational accelerations on the trajectory of Interstellar Comet 3I/ATLAS",
+      "summary": "arXiv:2601.17083v1 Announce Type: new Abstract: Comet C/2025 N1 or 3I/ATLAS is the third confirmed interstellar object. It has passed perihelion on 2025 October 29, and is currently on a path to leave the solar system. During its outbound journey, it will pass close to Jupiter at…",
+      "published_at": "2026-01-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.17083",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Comprehensive Gaia DR3-Based Astrometric, Photometric, and Kinematic Studies of the Binary Open Cluster $h$ and $\\chi$ Persei",
-      "summary": "arXiv:2601.16252v1 Announce Type: new Abstract: In the Gaia era, a comprehensive analysis of the binary open clusters NGC 869 (h Persei) and NGC 884 (chi Persei) system has been conducted to investigate its structural, astrophysical, kinematic, and Galactic orbital properties, al…",
-      "published_at": "2026-01-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.16252",
+      "title": "Extragalactic Planetary Nebulae (xPNe). Chemical evolution and assembly histories of nearby galaxies using Oxygen and Argon abundances. From…",
+      "summary": "arXiv:2601.17106v1 Announce Type: new Abstract: How galaxies formed and evolved in the expanding Universe is the main science goal of Near-Field Cosmology research. Studies of the properties of galaxies' resolved stars open a widow on their ancient galactic components, probing st…",
+      "published_at": "2026-01-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.17106",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Accretion Rate Changes Detected in a Polluted White Dwarf",
-      "summary": "arXiv:2601.16253v1 Announce Type: new Abstract: This letter reports statistically significant changes in the equivalent widths of MgII and CaII lines in the dusty and polluted white dwarf WD 0106-328, based on six epochs of spectroscopy using the VLT and Keck spanning 25 yr. Furt…",
-      "published_at": "2026-01-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.16253",
+      "title": "The Impact of Star Formation Histories on the Inner Dark Matter Density Slopes of Galaxies",
+      "summary": "arXiv:2601.17113v1 Announce Type: new Abstract: Aims. We aim to investigate the connection between star formation histories (SFHs) and the inner dark matter density profiles of simulated galaxies. In particular, we test whether the burstiness and temporal distribution of star for…",
+      "published_at": "2026-01-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.17113",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Assessing the Vera Rubin Observatory's Ability to Discover Asteroid Impactors Before They Collide with Earth",
-      "summary": "arXiv:2601.16255v1 Announce Type: new Abstract: Asteroid impactors larger than ~10 m, from Chelyabinsk-scale airburst and Tunguska-scale events to >300 m continental threats, remain the dominant planetary-defense risk. While the Vera C. Rubin Observatory Legacy Survey of Space an…",
-      "published_at": "2026-01-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.16255",
+      "title": "Measuring Rotation Periods in Crowded Star Clusters with TESS: A Proof-of-Concept with NGC 3532",
+      "summary": "arXiv:2601.17116v1 Announce Type: new Abstract: The Transiting Exoplanet Survey Satellite (TESS) has observed nearly the entire sky, producing full-frame images (FFIs) every 30 min (Cycles 1$-$2), 10 min (Cycles 3$-$4), and now 200 s (Cycle 5+), over 27-day sectors. Light curves…",
+      "published_at": "2026-01-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.17116",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A shot in the dark: searching for dark substructures in the RX J0437+00 galaxy cluster",
-      "summary": "arXiv:2601.16260v1 Announce Type: new Abstract: Obtaining a census of dark matter structures at low mass ($\\leq 10^9 M_\\odot$) can provide strong constraints on the nature of dark matter, though identifying such structures remains difficult. In this work, we study the galaxy clus…",
-      "published_at": "2026-01-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.16260",
+      "title": "Non-Equilibrium Relativistic Core Collapse of Self-Interacting Dark Matter Halos -- Limits On Seed Black Hole Mass",
+      "summary": "arXiv:2601.17117v1 Announce Type: new Abstract: Recent observations of supermassive black holes (SMBHs) at high redshifts pose challenges to standard seeding mechanisms. Among competing models, the collapse of self-interacting dark matter (SIDM) halos provide a plausible explanat…",
+      "published_at": "2026-01-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.17117",
       "tags": [
         "arxiv",
         "astro-ph"
