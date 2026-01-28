@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-27T10:56:10Z",
+  "generated_at": "2026-01-28T10:55:47Z",
   "items": [
     {
-      "title": "Thermodynamic Characteristics of a Fermi Gas with an Invariant Energy Scale and its Astrophysical Implications",
-      "summary": "arXiv:2601.17004v1 Announce Type: new Abstract: We investigate the thermodynamics of a relativistic Fermi gas governed by a modified dispersion relation in the Magueijo Smolin (MS) formulation of Doubly Special Relativity (DSR), characterized by the presence of an invariant ultra…",
-      "published_at": "2026-01-27T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.17004",
+      "title": "Beyond FINDCHIRP: Breaking the memory wall and optimal FFTs for Gravitational-Wave Matched-Filter Searches with Ratio-Filter Dechirping",
+      "summary": "arXiv:2601.18835v1 Announce Type: new Abstract: A primary bottleneck in modern FFT-based matched-filter searches for gravitational waves from compact binary coalescences is not raw processor throughput, but available memory bandwidth. Standard frequency-domain implementations, su…",
+      "published_at": "2026-01-28T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.18835",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Effect of different Non-Gravitational accelerations on the trajectory of Interstellar Comet 3I/ATLAS",
-      "summary": "arXiv:2601.17083v1 Announce Type: new Abstract: Comet C/2025 N1 or 3I/ATLAS is the third confirmed interstellar object. It has passed perihelion on 2025 October 29, and is currently on a path to leave the solar system. During its outbound journey, it will pass close to Jupiter at…",
-      "published_at": "2026-01-27T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.17083",
+      "title": "Towards a Comprehensive Understanding of Planetary Systems through Population-Level, Large-Scale Surveys",
+      "summary": "arXiv:2601.18841v1 Announce Type: new Abstract: Over the past three decades, exoplanet research has delivered an extensive census of planets spanning a wide range of masses, sizes, and orbital configurations. Despite this progress, the physical interpretation of these populations…",
+      "published_at": "2026-01-28T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.18841",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Extragalactic Planetary Nebulae (xPNe). Chemical evolution and assembly histories of nearby galaxies using Oxygen and Argon abundances. From…",
-      "summary": "arXiv:2601.17106v1 Announce Type: new Abstract: How galaxies formed and evolved in the expanding Universe is the main science goal of Near-Field Cosmology research. Studies of the properties of galaxies' resolved stars open a widow on their ancient galactic components, probing st…",
-      "published_at": "2026-01-27T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.17106",
+      "title": "Energetic Ceilings of Astrophysical Gravitational-Wave Backgrounds",
+      "summary": "arXiv:2601.18859v1 Announce Type: new Abstract: Every astrophysical stochastic gravitational wave (GWB) is limited by the amount of rest mass available to be converted into gravitational radiation. Here we derive a population-agnostic scaling law that places an absolute energetic…",
+      "published_at": "2026-01-28T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.18859",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The Impact of Star Formation Histories on the Inner Dark Matter Density Slopes of Galaxies",
-      "summary": "arXiv:2601.17113v1 Announce Type: new Abstract: Aims. We aim to investigate the connection between star formation histories (SFHs) and the inner dark matter density profiles of simulated galaxies. In particular, we test whether the burstiness and temporal distribution of star for…",
-      "published_at": "2026-01-27T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.17113",
+      "title": "Redshift-space 21-cm bispectrum multipoles as an SKA-era gravity test in the post-reionization Universe",
+      "summary": "arXiv:2601.18862v1 Announce Type: new Abstract: The redshifted 21-cm line from neutral hydrogen ($\\textrm{H}\\textsc{i}$) enables volumetric intensity mapping of large-scale structure in the post-reionization Universe. In anticipation of \\texttt{SKA-MID}'s wide redshift coverage a…",
+      "published_at": "2026-01-28T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.18862",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Measuring Rotation Periods in Crowded Star Clusters with TESS: A Proof-of-Concept with NGC 3532",
-      "summary": "arXiv:2601.17116v1 Announce Type: new Abstract: The Transiting Exoplanet Survey Satellite (TESS) has observed nearly the entire sky, producing full-frame images (FFIs) every 30 min (Cycles 1$-$2), 10 min (Cycles 3$-$4), and now 200 s (Cycle 5+), over 27-day sectors. Light curves…",
-      "published_at": "2026-01-27T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.17116",
+      "title": "Inside the cocoon: a comprehensive explanation of the spectra of Little Red Dots",
+      "summary": "arXiv:2601.18864v1 Announce Type: new Abstract: JWST has revealed a population of compact galaxies in the early Universe with broad emission lines and strong Balmer breaks; among them the so-called ''little red dots'' (LRDs). Their nature remains uncertain with hypotheses includi…",
+      "published_at": "2026-01-28T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.18864",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Non-Equilibrium Relativistic Core Collapse of Self-Interacting Dark Matter Halos -- Limits On Seed Black Hole Mass",
-      "summary": "arXiv:2601.17117v1 Announce Type: new Abstract: Recent observations of supermassive black holes (SMBHs) at high redshifts pose challenges to standard seeding mechanisms. Among competing models, the collapse of self-interacting dark matter (SIDM) halos provide a plausible explanat…",
-      "published_at": "2026-01-27T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.17117",
+      "title": "Induced Scattering of Fast Radio Bursts in Magnetar Magnetospheres",
+      "summary": "arXiv:2601.18865v1 Announce Type: new Abstract: We investigate induced Compton/Brillouin scattering of electromagnetic waves in magnetized electron and positron pair plasma by verifying kinetic theory with Particle-in-Cell simulations. Applying this to fast radio bursts (FRBs) in…",
+      "published_at": "2026-01-28T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.18865",
       "tags": [
         "arxiv",
         "astro-ph"
