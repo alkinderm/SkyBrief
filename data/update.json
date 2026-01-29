@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-01-28T10:55:47Z",
+  "generated_at": "2026-01-29T11:06:05Z",
   "items": [
     {
-      "title": "Beyond FINDCHIRP: Breaking the memory wall and optimal FFTs for Gravitational-Wave Matched-Filter Searches with Ratio-Filter Dechirping",
-      "summary": "arXiv:2601.18835v1 Announce Type: new Abstract: A primary bottleneck in modern FFT-based matched-filter searches for gravitational waves from compact binary coalescences is not raw processor throughput, but available memory bandwidth. Standard frequency-domain implementations, su…",
-      "published_at": "2026-01-28T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.18835",
+      "title": "MAJORS II: HCO+& HCN Abundances in W40",
+      "summary": "arXiv:2601.19971v1 Announce Type: new Abstract: We present observations of HCN and HCO$^+$ J = $3 - 2$ in the central $424'' \\times 424''$ region of the W40 massive star forming region. The observations were taken as part of a pilot project for the MAJORS large program at the JCM…",
+      "published_at": "2026-01-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.19971",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Towards a Comprehensive Understanding of Planetary Systems through Population-Level, Large-Scale Surveys",
-      "summary": "arXiv:2601.18841v1 Announce Type: new Abstract: Over the past three decades, exoplanet research has delivered an extensive census of planets spanning a wide range of masses, sizes, and orbital configurations. Despite this progress, the physical interpretation of these populations…",
-      "published_at": "2026-01-28T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.18841",
+      "title": "A constrained linear model for continuum normalization of stellar spectra",
+      "summary": "arXiv:2601.19973v1 Announce Type: new Abstract: Inferring stellar parameters and chemical abundances by forward modeling stellar spectra usually requires a spectral synthesis code, or an emulator constructed from a curated training set. In these situations continuum normalization…",
+      "published_at": "2026-01-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.19973",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Energetic Ceilings of Astrophysical Gravitational-Wave Backgrounds",
-      "summary": "arXiv:2601.18859v1 Announce Type: new Abstract: Every astrophysical stochastic gravitational wave (GWB) is limited by the amount of rest mass available to be converted into gravitational radiation. Here we derive a population-agnostic scaling law that places an absolute energetic…",
-      "published_at": "2026-01-28T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.18859",
+      "title": "An X-ray-Emitting Proto-Cluster at $z\\approx5.7$ Reveals Rapid Structure Growth",
+      "summary": "arXiv:2601.19978v1 Announce Type: new Abstract: Galaxy clusters are the most massive gravitationally bound structures in the universe and serve as tracers of the assembly of large-scale structure. Studying their progenitors, proto-clusters, sheds light on the earliest stages of c…",
+      "published_at": "2026-01-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.19978",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Redshift-space 21-cm bispectrum multipoles as an SKA-era gravity test in the post-reionization Universe",
-      "summary": "arXiv:2601.18862v1 Announce Type: new Abstract: The redshifted 21-cm line from neutral hydrogen ($\\textrm{H}\\textsc{i}$) enables volumetric intensity mapping of large-scale structure in the post-reionization Universe. In anticipation of \\texttt{SKA-MID}'s wide redshift coverage a…",
-      "published_at": "2026-01-28T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.18862",
+      "title": "The Role of Long Period Variable Stars in Observational Astrophysics",
+      "summary": "arXiv:2601.19984v1 Announce Type: new Abstract: Long-period variables (LPVs) are evolved red giant and supergiant stars whose pulsations provide unique insights into late stages of stellar evolution and serve as essential tools in modern astrophysics. Their period-luminosity and…",
+      "published_at": "2026-01-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.19984",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Inside the cocoon: a comprehensive explanation of the spectra of Little Red Dots",
-      "summary": "arXiv:2601.18864v1 Announce Type: new Abstract: JWST has revealed a population of compact galaxies in the early Universe with broad emission lines and strong Balmer breaks; among them the so-called ''little red dots'' (LRDs). Their nature remains uncertain with hypotheses includi…",
-      "published_at": "2026-01-28T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.18864",
+      "title": "The CO snow line favours strong clumping by the streaming instability in protoplanetary discs with porous grains",
+      "summary": "arXiv:2601.19985v1 Announce Type: new Abstract: Context: The radial drift and fragmentation of small dust grains in protoplanetary discs impedes their growth past centimetre sizes. Several mechanisms have been proposed to overcome these planet formation barriers, such as dust por…",
+      "published_at": "2026-01-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.19985",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Induced Scattering of Fast Radio Bursts in Magnetar Magnetospheres",
-      "summary": "arXiv:2601.18865v1 Announce Type: new Abstract: We investigate induced Compton/Brillouin scattering of electromagnetic waves in magnetized electron and positron pair plasma by verifying kinetic theory with Particle-in-Cell simulations. Applying this to fast radio bursts (FRBs) in…",
-      "published_at": "2026-01-28T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.18865",
+      "title": "GLIMPSE-D: Metallicity Decline in Faint Galaxies: Implications for [O III]+Hb Luminosity Function and Reionisation Budget",
+      "summary": "arXiv:2601.19989v1 Announce Type: new Abstract: We report the measurement of the R3=[O III]5008/Hb ratios for 54 galaxies in the GLIMPSE-D survey. Thanks to gravitational lensing, our sample includes galaxies with -20 < Muv < -14 at z=6-9. We derive oxygen abundances using calibr…",
+      "published_at": "2026-01-29T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.19989",
       "tags": [
         "arxiv",
         "astro-ph"
