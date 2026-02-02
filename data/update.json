@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-01T10:54:12Z",
+  "generated_at": "2026-02-02T11:12:32Z",
   "items": [
+    {
+      "title": "Isotropic Equivalence of STVG--MOG and $\\Lambda$CDM and Its Breakdown in Large--Scale Anisotropic Cosmological Observables",
+      "summary": "arXiv:2601.22207v1 Announce Type: new Abstract: We show that Scalar-Tensor-Vector Gravity (STVG-MOG) is observationally equivalent to the standard model $\\Lambda$CDM cosmological model for all probes that depend on isotropic and linear gravitational dynamics, including galaxy rot…",
+      "published_at": "2026-02-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.22207",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Little Red Dots on FIRE: The Ability of Bursty Galaxies to Host an Abundant Population of High-Redshift AGN",
+      "summary": "arXiv:2601.22213v1 Announce Type: new Abstract: The James Webb Space Telescope has unveiled an abundant population of potential active galactic nuclei (AGN) at high redshift ($z\\gtrsim4$) known as little red dots (LRDs), which are likely hosted in relatively low-mass galaxies. Ho…",
+      "published_at": "2026-02-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.22213",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Little Blue and Red Dots Rosetta Stones: Non-Gaussian broad lines, hot dust, and X-ray weakness",
+      "summary": "arXiv:2601.22214v1 Announce Type: new Abstract: The population of Active Galactic Nuclei (AGN) newly discovered by the James Webb Space Telescope (JWST) exhibits peculiar properties that distinguish it from both local type I AGN and high-redshift quasars. Most of these sources ar…",
+      "published_at": "2026-02-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.22214",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Physically-motivated priors in the local distance ladder significantly reduce the Hubble tension",
+      "summary": "arXiv:2601.22215v1 Announce Type: new Abstract: Determinations of the Hubble constant based on the local distance ladder remain in significant tension with early-Universe inferences from the cosmic microwave background. While this tension is often discussed in terms of new physic…",
+      "published_at": "2026-02-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.22215",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Drifters on the edge of town: $\\lambda$ Bo\\\"otis stars in clusters",
+      "summary": "arXiv:2601.22216v1 Announce Type: new Abstract: $\\lambda$ Bo\\\"otis stars are a subset of chemically peculiar A-stars that display Solar abundances in lighter elements (C, N, O, S, etc.) but a deficiency in Iron-peak elements. This difference has been attributed to the A-stars acc…",
+      "published_at": "2026-02-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.22216",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Perpendicularity of Dust Lanes and Radio Jets in Early-Type Galaxies: Implications for AGN Feedback",
+      "summary": "arXiv:2601.22217v1 Announce Type: new Abstract: The orientation of radio jets relative to their host galaxies offers an interesting avenue for probing the connection between active galactic nuclei (AGN) and their surroundings. Several studies have also investigated the orientatio…",
+      "published_at": "2026-02-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2601.22217",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Dark Energy Survey Scientists Release Analysis of All Six Years of Survey Data",
       "summary": "<img align=\"left\" alt=\"Bullet Cluster with DECam\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2603a.jpg\" />The Dark Energy Survey Collaboration collected information on hundreds of millions of galaxies across…",
