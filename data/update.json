@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-02T11:12:32Z",
+  "generated_at": "2026-02-03T11:07:48Z",
   "items": [
     {
-      "title": "Isotropic Equivalence of STVG--MOG and $\\Lambda$CDM and Its Breakdown in Large--Scale Anisotropic Cosmological Observables",
-      "summary": "arXiv:2601.22207v1 Announce Type: new Abstract: We show that Scalar-Tensor-Vector Gravity (STVG-MOG) is observationally equivalent to the standard model $\\Lambda$CDM cosmological model for all probes that depend on isotropic and linear gravitational dynamics, including galaxy rot…",
-      "published_at": "2026-02-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.22207",
+      "title": "Impact of Perfect Fluid Dark Matter on the Appearance of Rotating Black Hole",
+      "summary": "arXiv:2602.00025v1 Announce Type: new Abstract: Understanding how dark matter affects the immediate environment of black holes (BHs) is crucial for interpreting horizon-scale observations. We study rotating BHs surrounded by perfect fluid dark matter (PFDM), exploring their obser…",
+      "published_at": "2026-02-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.00025",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Little Red Dots on FIRE: The Ability of Bursty Galaxies to Host an Abundant Population of High-Redshift AGN",
-      "summary": "arXiv:2601.22213v1 Announce Type: new Abstract: The James Webb Space Telescope has unveiled an abundant population of potential active galactic nuclei (AGN) at high redshift ($z\\gtrsim4$) known as little red dots (LRDs), which are likely hosted in relatively low-mass galaxies. Ho…",
-      "published_at": "2026-02-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.22213",
+      "title": "Progress in Particle Physics and Modern Cosmology",
+      "summary": "arXiv:2602.00106v1 Announce Type: new Abstract: This is the translation into English of my paper published in Russian at the paper collection on cosmology at \\\\ 1981. The content of the book is presented in the Appendix. This is the first paper where the dynamical mechanism of ph…",
+      "published_at": "2026-02-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.00106",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The Little Blue and Red Dots Rosetta Stones: Non-Gaussian broad lines, hot dust, and X-ray weakness",
-      "summary": "arXiv:2601.22214v1 Announce Type: new Abstract: The population of Active Galactic Nuclei (AGN) newly discovered by the James Webb Space Telescope (JWST) exhibits peculiar properties that distinguish it from both local type I AGN and high-redshift quasars. Most of these sources ar…",
-      "published_at": "2026-02-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.22214",
+      "title": "aurel: A Python package for automatic relativistic calculations",
+      "summary": "arXiv:2602.00155v1 Announce Type: new Abstract: \\texttt{aurel} is an open-source Python package designed to \\emph{au}tomatically calculate \\emph{rel}ativistic quantities. It uses an efficient, flexible and user-friendly caching and dependency-tracking system, ideal for managing t…",
+      "published_at": "2026-02-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.00155",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Physically-motivated priors in the local distance ladder significantly reduce the Hubble tension",
-      "summary": "arXiv:2601.22215v1 Announce Type: new Abstract: Determinations of the Hubble constant based on the local distance ladder remain in significant tension with early-Universe inferences from the cosmic microwave background. While this tension is often discussed in terms of new physic…",
-      "published_at": "2026-02-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.22215",
+      "title": "Model-Agnostic Population Inference for Gravitational-Wave Astronomy: From LIGO to LISA",
+      "summary": "arXiv:2602.00195v1 Announce Type: new Abstract: Inferring the intrinsic population of compact binary mergers is complicated by detector selection biases and measurement uncertainties. Traditional parametric methods are limited by the need to presuppose functional forms, introduci…",
+      "published_at": "2026-02-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.00195",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Drifters on the edge of town: $\\lambda$ Bo\\\"otis stars in clusters",
-      "summary": "arXiv:2601.22216v1 Announce Type: new Abstract: $\\lambda$ Bo\\\"otis stars are a subset of chemically peculiar A-stars that display Solar abundances in lighter elements (C, N, O, S, etc.) but a deficiency in Iron-peak elements. This difference has been attributed to the A-stars acc…",
-      "published_at": "2026-02-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.22216",
+      "title": "An autoencoder-based surrogate waveform model for quasi-circular binary-black-hole mergers",
+      "summary": "arXiv:2602.00203v1 Announce Type: new Abstract: The generation of accurate waveforms from binary black hole (BBH) mergers is a major effort in Gravitational-Wave Astronomy. In recent years, machine-learning-based surrogate models for BBH waveforms have been proposed. Those offer…",
+      "published_at": "2026-02-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.00203",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The Perpendicularity of Dust Lanes and Radio Jets in Early-Type Galaxies: Implications for AGN Feedback",
-      "summary": "arXiv:2601.22217v1 Announce Type: new Abstract: The orientation of radio jets relative to their host galaxies offers an interesting avenue for probing the connection between active galactic nuclei (AGN) and their surroundings. Several studies have also investigated the orientatio…",
-      "published_at": "2026-02-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2601.22217",
+      "title": "Supernova Rates and Luminosity Functions from ASAS-SN III: Over a Decade of Type Ia SNe and Their Subtypes",
+      "summary": "arXiv:2602.00223v1 Announce Type: new Abstract: We present volumetric rates and luminosity functions (LFs) of Type Ia supernovae (SNe Ia) from the All-Sky Automated Survey for Supernovae (ASAS-SN), covering the 11-year period from 2014 to 2024. By combining the 2014--2017 $V$-ban…",
+      "published_at": "2026-02-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.00223",
       "tags": [
         "arxiv",
         "astro-ph"
