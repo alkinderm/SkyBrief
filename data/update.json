@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-03T11:07:48Z",
+  "generated_at": "2026-02-04T11:08:04Z",
   "items": [
     {
-      "title": "Impact of Perfect Fluid Dark Matter on the Appearance of Rotating Black Hole",
-      "summary": "arXiv:2602.00025v1 Announce Type: new Abstract: Understanding how dark matter affects the immediate environment of black holes (BHs) is crucial for interpreting horizon-scale observations. We study rotating BHs surrounded by perfect fluid dark matter (PFDM), exploring their obser…",
-      "published_at": "2026-02-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.00025",
+      "title": "GenASiS: General Astrophysical Simulation System. II. Self-gravitating Baryonic Matter",
+      "summary": "arXiv:2602.02507v1 Announce Type: new Abstract: GenASiS (General Astrophysical Simulation System) is a code being developed initially and primarily, though not exclusively, for the simulation of core-collapse supernovae on the world's leading capability supercomputers. This paper…",
+      "published_at": "2026-02-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.02507",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Progress in Particle Physics and Modern Cosmology",
-      "summary": "arXiv:2602.00106v1 Announce Type: new Abstract: This is the translation into English of my paper published in Russian at the paper collection on cosmology at \\\\ 1981. The content of the book is presented in the Appendix. This is the first paper where the dynamical mechanism of ph…",
-      "published_at": "2026-02-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.00106",
+      "title": "Formation and Evolution of Antimatter Objects",
+      "summary": "arXiv:2602.02575v1 Announce Type: new Abstract: The fundamental question of baryogenesis and the problem of matter-antimatter asymmetry motivate this study into the formation and evolution of antimatter objects in the early Universe. Hypothesize is the existence of isolated antim…",
+      "published_at": "2026-02-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.02575",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "aurel: A Python package for automatic relativistic calculations",
-      "summary": "arXiv:2602.00155v1 Announce Type: new Abstract: \\texttt{aurel} is an open-source Python package designed to \\emph{au}tomatically calculate \\emph{rel}ativistic quantities. It uses an efficient, flexible and user-friendly caching and dependency-tracking system, ideal for managing t…",
-      "published_at": "2026-02-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.00155",
+      "title": "Non-Singular Bouncing cosmology from Phantom Scalar-Gauss-Bonnet Coupling: Reconstruction with Observational Insights",
+      "summary": "arXiv:2602.02608v1 Announce Type: new Abstract: We examine non-singular bounce cosmology within the framework of a phantom scalar field coupled to the Gauss-Bonnet term in both non-viscous and bulk-viscous cases. Using the scale factor ansatz $\\alpha(t)=\\left(\\frac{\\alpha}{\\eta}+…",
+      "published_at": "2026-02-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.02608",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Model-Agnostic Population Inference for Gravitational-Wave Astronomy: From LIGO to LISA",
-      "summary": "arXiv:2602.00195v1 Announce Type: new Abstract: Inferring the intrinsic population of compact binary mergers is complicated by detector selection biases and measurement uncertainties. Traditional parametric methods are limited by the need to presuppose functional forms, introduci…",
-      "published_at": "2026-02-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.00195",
+      "title": "Saturn's Evolutionary History and Seismology: Survival of Deep Stably Stratified Regions in Evolutionary Models of Saturn Consistent with Ri…",
+      "summary": "arXiv:2602.02647v1 Announce Type: new Abstract: With recent advances in the modeling of the solar system giant planets, rapid progress has been made in understanding the remaining questions pertaining to their formation and evolution. However, this progress has largely neglected…",
+      "published_at": "2026-02-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.02647",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "An autoencoder-based surrogate waveform model for quasi-circular binary-black-hole mergers",
-      "summary": "arXiv:2602.00203v1 Announce Type: new Abstract: The generation of accurate waveforms from binary black hole (BBH) mergers is a major effort in Gravitational-Wave Astronomy. In recent years, machine-learning-based surrogate models for BBH waveforms have been proposed. Those offer…",
-      "published_at": "2026-02-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.00203",
+      "title": "Gravitational-Wave Signals for Supernova Explosions of Three-Dimensional Progenitors",
+      "summary": "arXiv:2602.02651v1 Announce Type: new Abstract: Core-collapse supernovae (SNe) are sources of gravitational waves (GWs) produced by hydrodynamical instabilities and highly time-dependent anisotropies of the neutrino radiation. In this work we analyze both contributions to the GW…",
+      "published_at": "2026-02-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.02651",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Supernova Rates and Luminosity Functions from ASAS-SN III: Over a Decade of Type Ia SNe and Their Subtypes",
-      "summary": "arXiv:2602.00223v1 Announce Type: new Abstract: We present volumetric rates and luminosity functions (LFs) of Type Ia supernovae (SNe Ia) from the All-Sky Automated Survey for Supernovae (ASAS-SN), covering the 11-year period from 2014 to 2024. By combining the 2014--2017 $V$-ban…",
-      "published_at": "2026-02-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.00223",
+      "title": "WLM: Dynamics of an isolated Dwarf Irregular Galaxy Under Ram Pressure in the Local Group",
+      "summary": "arXiv:2602.02652v1 Announce Type: new Abstract: WLM is an archetypal dwarf irregular galaxy that has not experienced interactions with major Local Group galaxies within the past 8 Gyr. It has recently been shown that WLM is losing its gas due to ram pressure forces exerted by the…",
+      "published_at": "2026-02-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.02652",
       "tags": [
         "arxiv",
         "astro-ph"
