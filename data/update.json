@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-04T11:08:04Z",
+  "generated_at": "2026-02-05T11:09:33Z",
   "items": [
     {
-      "title": "GenASiS: General Astrophysical Simulation System. II. Self-gravitating Baryonic Matter",
-      "summary": "arXiv:2602.02507v1 Announce Type: new Abstract: GenASiS (General Astrophysical Simulation System) is a code being developed initially and primarily, though not exclusively, for the simulation of core-collapse supernovae on the world's leading capability supercomputers. This paper…",
-      "published_at": "2026-02-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.02507",
+      "title": "The Atacama Cosmology Telescope: Constraints on Local Non-Gaussianity from the ACT Cluster Catalog",
+      "summary": "arXiv:2602.03917v1 Announce Type: new Abstract: We derive constraints on local-type primordial non-Gaussianity using the ACT DR6 Sunyaev--Zel'dovich cluster catalog. Modeling the redshift- and mass-dependent number counts of 1,201 clusters in the 10,347~deg$^2$ Legacy region, and…",
+      "published_at": "2026-02-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.03917",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Formation and Evolution of Antimatter Objects",
-      "summary": "arXiv:2602.02575v1 Announce Type: new Abstract: The fundamental question of baryogenesis and the problem of matter-antimatter asymmetry motivate this study into the formation and evolution of antimatter objects in the early Universe. Hypothesize is the existence of isolated antim…",
-      "published_at": "2026-02-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.02575",
+      "title": "An emulator for the ionizing photon mean free path in ultra-high resolution simulations: the implications of mean free path measurements for…",
+      "summary": "arXiv:2602.03923v1 Announce Type: new Abstract: Measurements of the mean free path of ionizing photons from high-redshift quasar spectra at $z \\sim 5$-$6$ constrain the reionization history, but interpreting them requires modeling the kiloparsec-scale clumping that large-volume r…",
+      "published_at": "2026-02-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.03923",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Non-Singular Bouncing cosmology from Phantom Scalar-Gauss-Bonnet Coupling: Reconstruction with Observational Insights",
-      "summary": "arXiv:2602.02608v1 Announce Type: new Abstract: We examine non-singular bounce cosmology within the framework of a phantom scalar field coupled to the Gauss-Bonnet term in both non-viscous and bulk-viscous cases. Using the scale factor ansatz $\\alpha(t)=\\left(\\frac{\\alpha}{\\eta}+…",
-      "published_at": "2026-02-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.02608",
+      "title": "The local void model for the Hubble and BAO tensions",
+      "summary": "arXiv:2602.03928v1 Announce Type: new Abstract: The inconsistency between the locally inferred Hubble constant and the value inferred from the cosmic microwave background assuming the $\\Lambda$CDM cosmological model has persisted, turning into an important problem. An emergent un…",
+      "published_at": "2026-02-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.03928",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Saturn's Evolutionary History and Seismology: Survival of Deep Stably Stratified Regions in Evolutionary Models of Saturn Consistent with Ri…",
-      "summary": "arXiv:2602.02647v1 Announce Type: new Abstract: With recent advances in the modeling of the solar system giant planets, rapid progress has been made in understanding the remaining questions pertaining to their formation and evolution. However, this progress has largely neglected…",
-      "published_at": "2026-02-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.02647",
+      "title": "pop-cosmos: Redshifts and physical properties of KiDS-1000 galaxies",
+      "summary": "arXiv:2602.03930v1 Announce Type: new Abstract: Principled Bayesian inference of galaxy properties has not previously been performed for wide-area weak lensing surveys with millions of sources. We address this gap by applying the pop-cosmos generative model to perform spectral en…",
+      "published_at": "2026-02-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.03930",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Gravitational-Wave Signals for Supernova Explosions of Three-Dimensional Progenitors",
-      "summary": "arXiv:2602.02651v1 Announce Type: new Abstract: Core-collapse supernovae (SNe) are sources of gravitational waves (GWs) produced by hydrodynamical instabilities and highly time-dependent anisotropies of the neutrino radiation. In this work we analyze both contributions to the GW…",
-      "published_at": "2026-02-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.02651",
+      "title": "Discovery of crested quasi-periodic eruptions following the most luminous SRG/eROSITA tidal disruption event",
+      "summary": "arXiv:2602.03932v1 Announce Type: new Abstract: We report the discovery of complex flaring activity from the galactic nucleus hosting the five-year-old tidal disruption event eRASSt J234402.9-352640 (J2344). With Einstein Probe and XMM-Newton observations, we detected highly stru…",
+      "published_at": "2026-02-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.03932",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "WLM: Dynamics of an isolated Dwarf Irregular Galaxy Under Ram Pressure in the Local Group",
-      "summary": "arXiv:2602.02652v1 Announce Type: new Abstract: WLM is an archetypal dwarf irregular galaxy that has not experienced interactions with major Local Group galaxies within the past 8 Gyr. It has recently been shown that WLM is losing its gas due to ram pressure forces exerted by the…",
-      "published_at": "2026-02-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.02652",
+      "title": "Dynamical Systematics on Time Delay Lenses and the Impact on the Hubble Constant",
+      "summary": "arXiv:2602.03934v1 Announce Type: new Abstract: While time-delay lenses can be an independent probe of $H_0$ the estimates are degenerate with the convergence of the lens near the Einstein radius. Velocity dispersions, $\\sigma$, can be used to break the degeneracy, with uncertain…",
+      "published_at": "2026-02-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.03934",
       "tags": [
         "arxiv",
         "astro-ph"
