@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-05T11:09:33Z",
+  "generated_at": "2026-02-06T11:08:17Z",
   "items": [
     {
-      "title": "The Atacama Cosmology Telescope: Constraints on Local Non-Gaussianity from the ACT Cluster Catalog",
-      "summary": "arXiv:2602.03917v1 Announce Type: new Abstract: We derive constraints on local-type primordial non-Gaussianity using the ACT DR6 Sunyaev--Zel'dovich cluster catalog. Modeling the redshift- and mass-dependent number counts of 1,201 clusters in the 10,347~deg$^2$ Legacy region, and…",
-      "published_at": "2026-02-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.03917",
+      "title": "Oort Cloud Bombardment by Dark Matter",
+      "summary": "arXiv:2602.04922v1 Announce Type: new Abstract: The realization that primordial black holes (PBHs) might be some fraction of the dark matter begged the question, how often do PBHs enter the solar system? For a Neptune radius solar system the answer is, rarely. For an Oort cloud s…",
+      "published_at": "2026-02-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.04922",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "An emulator for the ionizing photon mean free path in ultra-high resolution simulations: the implications of mean free path measurements for…",
-      "summary": "arXiv:2602.03923v1 Announce Type: new Abstract: Measurements of the mean free path of ionizing photons from high-redshift quasar spectra at $z \\sim 5$-$6$ constrain the reionization history, but interpreting them requires modeling the kiloparsec-scale clumping that large-volume r…",
-      "published_at": "2026-02-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.03923",
+      "title": "Tidal disruption event rates across cosmic time: forecasts for LSST, Roman, and JWST and their constraints on the supermassive black hole ma…",
+      "summary": "arXiv:2602.04947v1 Announce Type: new Abstract: Measuring the mass distribution of supermassive black holes (SMBHs) over cosmic time remains particularly challenging for the low mass ($M_{\\bullet}\\lesssim10^8~M_\\odot$) population at $z>1$. This population is also the most sensiti…",
+      "published_at": "2026-02-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.04947",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The local void model for the Hubble and BAO tensions",
-      "summary": "arXiv:2602.03928v1 Announce Type: new Abstract: The inconsistency between the locally inferred Hubble constant and the value inferred from the cosmic microwave background assuming the $\\Lambda$CDM cosmological model has persisted, turning into an important problem. An emergent un…",
-      "published_at": "2026-02-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.03928",
+      "title": "How Do Disk Galaxies Form?",
+      "summary": "arXiv:2602.04950v1 Announce Type: new Abstract: In both observed and simulated galaxies, disk morphologies become more prevalent at higher masses and lower redshifts. To elucidate the physical origin of this trend, we develop a simple analytical model in which galaxy morphology i…",
+      "published_at": "2026-02-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.04950",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "pop-cosmos: Redshifts and physical properties of KiDS-1000 galaxies",
-      "summary": "arXiv:2602.03930v1 Announce Type: new Abstract: Principled Bayesian inference of galaxy properties has not previously been performed for wide-area weak lensing surveys with millions of sources. We address this gap by applying the pop-cosmos generative model to perform spectral en…",
-      "published_at": "2026-02-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.03930",
+      "title": "The GMRT archive atomic gas survey -- III. Comparative Study of Dark Matter Halos in Nearby Galaxies",
+      "summary": "arXiv:2602.04959v1 Announce Type: new Abstract: The distribution of dark matter in the inner regions of galaxies poses a key challenge for small-scale {\\Lambda}CDM cosmology. While cold dark matter simulations predict cuspy inner density profiles, observations of low surface brig…",
+      "published_at": "2026-02-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.04959",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Discovery of crested quasi-periodic eruptions following the most luminous SRG/eROSITA tidal disruption event",
-      "summary": "arXiv:2602.03932v1 Announce Type: new Abstract: We report the discovery of complex flaring activity from the galactic nucleus hosting the five-year-old tidal disruption event eRASSt J234402.9-352640 (J2344). With Einstein Probe and XMM-Newton observations, we detected highly stru…",
-      "published_at": "2026-02-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.03932",
+      "title": "Wiggling Through the ICM: Multi-Resolution Radio Imaging of a Tailed Radio Galaxy in MACS J1354.6+7715",
+      "summary": "arXiv:2602.04962v1 Announce Type: new Abstract: Tailed radio galaxies are powerful tracers of interactions between active galactic nuclei (AGN) and the intracluster medium (ICM), providing unique insights into cluster dynamics. We present LOw Frequency ARray (LOFAR) 144 MHz and u…",
+      "published_at": "2026-02-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.04962",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Dynamical Systematics on Time Delay Lenses and the Impact on the Hubble Constant",
-      "summary": "arXiv:2602.03934v1 Announce Type: new Abstract: While time-delay lenses can be an independent probe of $H_0$ the estimates are degenerate with the convergence of the lens near the Einstein radius. Velocity dispersions, $\\sigma$, can be used to break the degeneracy, with uncertain…",
-      "published_at": "2026-02-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.03934",
+      "title": "Classifying white dwarfs from multi-object spectroscopy surveys with machine learning",
+      "summary": "arXiv:2602.04964v1 Announce Type: new Abstract: With tens to hundreds of spectra of white dwarfs being taken each night from multi-object spectroscopic surveys, automated spectral classification is essential as part of efficient data processing. In this study, we design a neural…",
+      "published_at": "2026-02-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.04964",
       "tags": [
         "arxiv",
         "astro-ph"
