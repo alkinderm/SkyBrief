@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-08T10:56:13Z",
+  "generated_at": "2026-02-09T11:26:04Z",
   "items": [
+    {
+      "title": "Revisiting the missing mass problem in MOND for nearby galaxy clusters",
+      "summary": "arXiv:2602.06082v1 Announce Type: new Abstract: In the framework of Milgromian dynamics (MOND), galaxy clusters are known to exhibit a residual missing mass problem, with the baryonic mass falling short of the dynamical mass by about a factor of two. The baryon content of cluster…",
+      "published_at": "2026-02-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.06082",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Exploring Cosmological Tensions with Hubble Parameter Tomography via Linear Cosmography",
+      "summary": "arXiv:2602.06092v1 Announce Type: new Abstract: Given the persistence of various tensions in the \"Cosmic Concordance\" -- such as the \"Hubble Tension\", and the possible departure from LambdaCDM time evolution -- seen when combining complementary data sets (CMB studies, Baryon Acou…",
+      "published_at": "2026-02-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.06092",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Correlation Calibration: A Hybrid Calibration Technique for Radio Interferometric Arrays",
+      "summary": "arXiv:2602.06109v1 Announce Type: new Abstract: Calibrating out per-antenna signal chain effects is an essential step in analyzing radio interferometric data. For drift-scanning arrays, robustly calibrating the data is especially challenging due to the lack of the ability to trac…",
+      "published_at": "2026-02-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.06109",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Consistency of standard cosmologies using Bayesian model comparison and tension quantification",
+      "summary": "arXiv:2602.06115v1 Announce Type: new Abstract: We present a unified Bayesian assessment of model comparison and data-set consistency for LCDM (cold dark matter plus a cosmological constant) and minimal extensions (neutrino mass, spatial curvature, constant or evolving dark energ…",
+      "published_at": "2026-02-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.06115",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Host Galaxies of Active Galactic Nuclei with Direct Black Hole Mass Measurements",
+      "summary": "arXiv:2602.06116v1 Announce Type: new Abstract: Reverberation mapping (RM) determines the mass of black holes (BH) in active galactic nuclei (AGNs) by resolving the BH gravitational sphere of influence in the time domain. Recent RM campaigns yielded direct BH masses through dynam…",
+      "published_at": "2026-02-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.06116",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Modelling the photometric and morphological evolution of disc galaxies in the cluster environment",
+      "summary": "arXiv:2602.06119v1 Announce Type: new Abstract: Observations indicate that the disc population in galaxy clusters has undergone rapid evolution, transitioning from a dominance of blue spirals to red S0s over the past $\\sim7$ Gyr. We build a simplified cluster evolutionary model i…",
+      "published_at": "2026-02-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.06119",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Dark Energy Survey Scientists Release Analysis of All Six Years of Survey Data",
       "summary": "<img align=\"left\" alt=\"Bullet Cluster with DECam\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2603a.jpg\" />The Dark Energy Survey Collaboration collected information on hundreds of millions of galaxies across…",
