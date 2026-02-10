@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-09T11:26:04Z",
+  "generated_at": "2026-02-10T11:28:37Z",
   "items": [
     {
-      "title": "Revisiting the missing mass problem in MOND for nearby galaxy clusters",
-      "summary": "arXiv:2602.06082v1 Announce Type: new Abstract: In the framework of Milgromian dynamics (MOND), galaxy clusters are known to exhibit a residual missing mass problem, with the baryonic mass falling short of the dynamical mass by about a factor of two. The baryon content of cluster…",
-      "published_at": "2026-02-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.06082",
+      "title": "Scavenger hunt: Selection of obscured active galactic nuclei combining multiband optical variability and colors",
+      "summary": "arXiv:2602.07109v1 Announce Type: new Abstract: As wide-field optical surveys such as Vera Rubin Observatory's Legacy Survey of Space and Time (LSST) begin operations, time-domain astronomy is facing a data revolution, paving the road for new, expanded variability studies. This w…",
+      "published_at": "2026-02-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.07109",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Exploring Cosmological Tensions with Hubble Parameter Tomography via Linear Cosmography",
-      "summary": "arXiv:2602.06092v1 Announce Type: new Abstract: Given the persistence of various tensions in the \"Cosmic Concordance\" -- such as the \"Hubble Tension\", and the possible departure from LambdaCDM time evolution -- seen when combining complementary data sets (CMB studies, Baryon Acou…",
-      "published_at": "2026-02-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.06092",
+      "title": "AMICO galaxy clusters in KiDS-1000: Splashback radius from weak lensing and cluster-galaxy correlation function",
+      "summary": "arXiv:2602.07114v1 Announce Type: new Abstract: We present the splashback radius analysis of the Adaptive Matched Identifier of Clustered Objects (AMICO) galaxy cluster sample in the fourth data release of the Kilo Degree Survey (KiDS). The sample contains 9049 rich galaxy cluste…",
+      "published_at": "2026-02-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.07114",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Correlation Calibration: A Hybrid Calibration Technique for Radio Interferometric Arrays",
-      "summary": "arXiv:2602.06109v1 Announce Type: new Abstract: Calibrating out per-antenna signal chain effects is an essential step in analyzing radio interferometric data. For drift-scanning arrays, robustly calibrating the data is especially challenging due to the lack of the ability to trac…",
-      "published_at": "2026-02-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.06109",
+      "title": "Exploring the dynamical evolution of binary stars in multiple-population globular clusters",
+      "summary": "arXiv:2602.07119v1 Announce Type: new Abstract: The presence of multiple stellar populations in globular clusters leads to a complex dynamical environment that significantly influences the evolution of binary stars, which in turn impacts the evolution of the cluster itself. For t…",
+      "published_at": "2026-02-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.07119",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Consistency of standard cosmologies using Bayesian model comparison and tension quantification",
-      "summary": "arXiv:2602.06115v1 Announce Type: new Abstract: We present a unified Bayesian assessment of model comparison and data-set consistency for LCDM (cold dark matter plus a cosmological constant) and minimal extensions (neutrino mass, spatial curvature, constant or evolving dark energ…",
-      "published_at": "2026-02-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.06115",
+      "title": "AGN versus Star-formation: A MUSE Analysis of NGC 1365",
+      "summary": "arXiv:2602.07124v1 Announce Type: new Abstract: Active galactic nuclei (AGN) and star formation feedback may heat and remove gas from galaxies in a process that quenches ongoing star formation and shapes the evolution of galaxies. Potential impacts from these processes can be see…",
+      "published_at": "2026-02-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.07124",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Host Galaxies of Active Galactic Nuclei with Direct Black Hole Mass Measurements",
-      "summary": "arXiv:2602.06116v1 Announce Type: new Abstract: Reverberation mapping (RM) determines the mass of black holes (BH) in active galactic nuclei (AGNs) by resolving the BH gravitational sphere of influence in the time domain. Recent RM campaigns yielded direct BH masses through dynam…",
-      "published_at": "2026-02-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.06116",
+      "title": "A New Strategy for Using Spectroscopic Phase Curves to Characterize Non-Transiting Planets",
+      "summary": "arXiv:2602.07127v1 Announce Type: new Abstract: We introduce a new time-series analysis strategy for combined-light exoplanet spectroscopic phase curves called the Variable Planetary Infrared Excess (VPIE) method. VPIE can be used to extract information about the planetary flux c…",
+      "published_at": "2026-02-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.07127",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Modelling the photometric and morphological evolution of disc galaxies in the cluster environment",
-      "summary": "arXiv:2602.06119v1 Announce Type: new Abstract: Observations indicate that the disc population in galaxy clusters has undergone rapid evolution, transitioning from a dominance of blue spirals to red S0s over the past $\\sim7$ Gyr. We build a simplified cluster evolutionary model i…",
-      "published_at": "2026-02-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.06119",
+      "title": "SPHEREx as a frontier for infrared transients: Classification of new Galactic FU Ori outbursts and classical novae",
+      "summary": "arXiv:2602.07129v1 Announce Type: new Abstract: We demonstrate proof-of-concept of a new strategy for studying infrared (IR) transients enabled by the newly launched SPHEREx space mission, by leveraging its synergy with the NEOWISE space mission. With its fifteen year baseline an…",
+      "published_at": "2026-02-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.07129",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Organization Release: Epic Journey Through the Universe Observes 22 Years!",
+      "summary": "<img align=\"left\" alt=\"Stargazing at Journey Through the Universe 2026\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2604b.jpg\" />Journey Through the Universe — a partnership between the Hawaiʻi Department of…",
+      "published_at": "2026-02-09T23:31:13Z",
+      "url": "http://noirlab.edu/public/news/noirlab2604/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Most luminous fast blue optical transient\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2533a.jpg\" />In 2024, astronomers discovered the brightest Luminous Fast Blue Optical Transient (L…",
       "published_at": "2025-12-16T18:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2533/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Gemini North Color Images Reveal Greenish Glow of Comet 3I/ATLAS",
-      "summary": "<img align=\"left\" alt=\"Comet 3I/ATLAS on 26 November 2025\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2532a.jpg\" />Gemini North captured new images of Comet 3I/ATLAS after it reemerged from behind the Sun on…",
-      "published_at": "2025-12-12T17:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2532/",
       "tags": [
         "noirlab"
       ],
