@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-10T11:28:37Z",
+  "generated_at": "2026-02-11T11:25:52Z",
   "items": [
     {
-      "title": "Scavenger hunt: Selection of obscured active galactic nuclei combining multiband optical variability and colors",
-      "summary": "arXiv:2602.07109v1 Announce Type: new Abstract: As wide-field optical surveys such as Vera Rubin Observatory's Legacy Survey of Space and Time (LSST) begin operations, time-domain astronomy is facing a data revolution, paving the road for new, expanded variability studies. This w…",
-      "published_at": "2026-02-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.07109",
+      "title": "Multi-wavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST",
+      "summary": "arXiv:2602.09085v1 Announce Type: new Abstract: Low-mass or dwarf galaxies (M$_{\\ast}<10^{9}$ M${\\odot}$) are abundant in the Universe, yet their formation and evolution remain poorly understood. Their enhanced sensitivity to feedback from star formation and active galactic nucle…",
+      "published_at": "2026-02-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.09085",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "AMICO galaxy clusters in KiDS-1000: Splashback radius from weak lensing and cluster-galaxy correlation function",
-      "summary": "arXiv:2602.07114v1 Announce Type: new Abstract: We present the splashback radius analysis of the Adaptive Matched Identifier of Clustered Objects (AMICO) galaxy cluster sample in the fourth data release of the Kilo Degree Survey (KiDS). The sample contains 9049 rich galaxy cluste…",
-      "published_at": "2026-02-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.07114",
+      "title": "All the Massive Galaxy Overdensities during Reionization: JWST Rest-Frame Optical Selection Reveals Young, Chemically Evolved Galaxies Embed…",
+      "summary": "arXiv:2602.09091v1 Announce Type: new Abstract: The high-redshift progenitors of present-day galaxy clusters are believed to substantially contribute to the global star-formation rate density and drive the large-scale reionization of the Universe. Here we present a blind and unbi…",
+      "published_at": "2026-02-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.09091",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Exploring the dynamical evolution of binary stars in multiple-population globular clusters",
-      "summary": "arXiv:2602.07119v1 Announce Type: new Abstract: The presence of multiple stellar populations in globular clusters leads to a complex dynamical environment that significantly influences the evolution of binary stars, which in turn impacts the evolution of the cluster itself. For t…",
-      "published_at": "2026-02-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.07119",
+      "title": "Downsizing does not extend to dwarf galaxies: identifying the stellar mass regimes shaped by supernova and AGN feedback",
+      "summary": "arXiv:2602.09094v1 Announce Type: new Abstract: We explore how the fraction of red (quenched) galaxies varies in the dwarf galaxy regime (10^7 MSun < Mstar < 10^9.5 MSun), using a mass-complete sample of ~5900 dwarfs at z<0.15, constructed using deep multi-wavelength data in the…",
+      "published_at": "2026-02-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.09094",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "AGN versus Star-formation: A MUSE Analysis of NGC 1365",
-      "summary": "arXiv:2602.07124v1 Announce Type: new Abstract: Active galactic nuclei (AGN) and star formation feedback may heat and remove gas from galaxies in a process that quenches ongoing star formation and shapes the evolution of galaxies. Potential impacts from these processes can be see…",
-      "published_at": "2026-02-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.07124",
+      "title": "A Faint Progenitor System for the Faint Supernova 2024vjm",
+      "summary": "arXiv:2602.09096v1 Announce Type: new Abstract: Type Ia Supernovae (SNe Ia) are well known for their role as standardizable cosmological candles. Their uniformity is credited to their single origin as thermonuclear explosions of White dwarf (WD) stars. Nevertheless, some SNe Ia b…",
+      "published_at": "2026-02-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.09096",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A New Strategy for Using Spectroscopic Phase Curves to Characterize Non-Transiting Planets",
-      "summary": "arXiv:2602.07127v1 Announce Type: new Abstract: We introduce a new time-series analysis strategy for combined-light exoplanet spectroscopic phase curves called the Variable Planetary Infrared Excess (VPIE) method. VPIE can be used to extract information about the planetary flux c…",
-      "published_at": "2026-02-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.07127",
+      "title": "Polarization Signatures of Inspiraling Hotspots around Kerr Black Holes",
+      "summary": "arXiv:2602.09102v1 Announce Type: new Abstract: Polarimetric interferometry is a powerful tool for probing both black hole accretion physics and the background spacetime. Current models aimed at explaining the observed multiwavelength flares in Sgr A* often assume hotspots moving…",
+      "published_at": "2026-02-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.09102",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "SPHEREx as a frontier for infrared transients: Classification of new Galactic FU Ori outbursts and classical novae",
-      "summary": "arXiv:2602.07129v1 Announce Type: new Abstract: We demonstrate proof-of-concept of a new strategy for studying infrared (IR) transients enabled by the newly launched SPHEREx space mission, by leveraging its synergy with the NEOWISE space mission. With its fifteen year baseline an…",
-      "published_at": "2026-02-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.07129",
+      "title": "Black Hole Feedback, Galaxy Quenching and Outflows at Cosmic Dawn: Analysis of the SEEDZ Simulations",
+      "summary": "arXiv:2602.09104v1 Announce Type: new Abstract: Here we analyse the growth and feedback effects of massive black holes (MBHs) in the SEEDZ simulations. The most massive black holes grow to masses of $\\sim10^{6}$ M$_\\odot$ by $z=12.5$ during short bursts of super-Eddington accreti…",
+      "published_at": "2026-02-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.09104",
       "tags": [
         "arxiv",
         "astro-ph"
