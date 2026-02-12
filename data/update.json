@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-11T11:25:52Z",
+  "generated_at": "2026-02-12T11:23:21Z",
   "items": [
     {
-      "title": "Multi-wavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST",
-      "summary": "arXiv:2602.09085v1 Announce Type: new Abstract: Low-mass or dwarf galaxies (M$_{\\ast}<10^{9}$ M${\\odot}$) are abundant in the Universe, yet their formation and evolution remain poorly understood. Their enhanced sensitivity to feedback from star formation and active galactic nucle…",
-      "published_at": "2026-02-11T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.09085",
+      "title": "The indiscriminate adoption of AI threatens the foundations of academia",
+      "summary": "arXiv:2602.10165v1 Announce Type: new Abstract: Artificial intelligence offers much promise, but its use in scientific research should be restrained so that the primary aim of academia -- advancing knowledge for humans -- is safeguarded.",
+      "published_at": "2026-02-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.10165",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "All the Massive Galaxy Overdensities during Reionization: JWST Rest-Frame Optical Selection Reveals Young, Chemically Evolved Galaxies Embed…",
-      "summary": "arXiv:2602.09091v1 Announce Type: new Abstract: The high-redshift progenitors of present-day galaxy clusters are believed to substantially contribute to the global star-formation rate density and drive the large-scale reionization of the Universe. Here we present a blind and unbi…",
-      "published_at": "2026-02-11T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.09091",
+      "title": "Observing solar vortices with existing and future instrumentation. Solar Physics International Network for Swirls (SPINS) white paper (Helio…",
+      "summary": "arXiv:2602.10170v1 Announce Type: new Abstract: Solar vortices are fundamental components of solar atmospheric dynamics, serving as natural laboratories for magnetic field twisting, energy concentration and transport, wave guidance, and plasma coupling across atmospheric layers.…",
+      "published_at": "2026-02-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.10170",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Downsizing does not extend to dwarf galaxies: identifying the stellar mass regimes shaped by supernova and AGN feedback",
-      "summary": "arXiv:2602.09094v1 Announce Type: new Abstract: We explore how the fraction of red (quenched) galaxies varies in the dwarf galaxy regime (10^7 MSun < Mstar < 10^9.5 MSun), using a mass-complete sample of ~5900 dwarfs at z<0.15, constructed using deep multi-wavelength data in the…",
-      "published_at": "2026-02-11T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.09094",
+      "title": "Cosmo3DFlow: Wavelet Flow Matching for Spatial-to-Spectral Compression in Reconstructing the Early Universe",
+      "summary": "arXiv:2602.10172v1 Announce Type: new Abstract: Reconstructing the early Universe from the evolved present-day Universe is a challenging and computationally demanding problem in modern astrophysics. We devise a novel generative framework, Cosmo3DFlow, designed to address dimensio…",
+      "published_at": "2026-02-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.10172",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Faint Progenitor System for the Faint Supernova 2024vjm",
-      "summary": "arXiv:2602.09096v1 Announce Type: new Abstract: Type Ia Supernovae (SNe Ia) are well known for their role as standardizable cosmological candles. Their uniformity is credited to their single origin as thermonuclear explosions of White dwarf (WD) stars. Nevertheless, some SNe Ia b…",
-      "published_at": "2026-02-11T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.09096",
+      "title": "Statistical isotropy of the universe and the look-elsewhere effect",
+      "summary": "arXiv:2602.10178v1 Announce Type: new Abstract: Recently, Jones et al. [arXiv:2310.12859] claimed strong evidence for the statistical anisotropy of the universe. The claim is based on a joint analysis of four different anomaly tests of the cosmic microwave background data, each o…",
+      "published_at": "2026-02-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.10178",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Polarization Signatures of Inspiraling Hotspots around Kerr Black Holes",
-      "summary": "arXiv:2602.09102v1 Announce Type: new Abstract: Polarimetric interferometry is a powerful tool for probing both black hole accretion physics and the background spacetime. Current models aimed at explaining the observed multiwavelength flares in Sgr A* often assume hotspots moving…",
-      "published_at": "2026-02-11T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.09102",
+      "title": "TDE 2025abcr: A Tidal Disruption Event in the Outskirts of a Massive Galaxy",
+      "summary": "arXiv:2602.10180v1 Announce Type: new Abstract: Tidal disruption events (TDEs) have traditionally been discovered in optical sky surveys through targeted searches of nuclear transients. However, it is expected that some TDEs will occur outside the galaxy nucleus, arising from wan…",
+      "published_at": "2026-02-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.10180",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Black Hole Feedback, Galaxy Quenching and Outflows at Cosmic Dawn: Analysis of the SEEDZ Simulations",
-      "summary": "arXiv:2602.09104v1 Announce Type: new Abstract: Here we analyse the growth and feedback effects of massive black holes (MBHs) in the SEEDZ simulations. The most massive black holes grow to masses of $\\sim10^{6}$ M$_\\odot$ by $z=12.5$ during short bursts of super-Eddington accreti…",
-      "published_at": "2026-02-11T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.09104",
+      "title": "Why do we do astrophysics?",
+      "summary": "arXiv:2602.10181v1 Announce Type: new Abstract: At time of writing, large language models (LLMs) are beginning to obtain the ability to design, execute, write up, and referee scientific projects on the data-science side of astrophysics. What implications does this have for our pr…",
+      "published_at": "2026-02-12T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.10181",
       "tags": [
         "arxiv",
         "astro-ph"
