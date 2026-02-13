@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-12T11:23:21Z",
+  "generated_at": "2026-02-13T11:09:24Z",
   "items": [
     {
-      "title": "The indiscriminate adoption of AI threatens the foundations of academia",
-      "summary": "arXiv:2602.10165v1 Announce Type: new Abstract: Artificial intelligence offers much promise, but its use in scientific research should be restrained so that the primary aim of academia -- advancing knowledge for humans -- is safeguarded.",
-      "published_at": "2026-02-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.10165",
+      "title": "Tidal triggers and the predictability of solar activity",
+      "summary": "arXiv:2602.11227v1 Announce Type: new Abstract: Magneto-Rossby waves in the solar tachocline are currently considered to be one of the main determinants of solar activity. In particular, they can give rise to the quasi-biennial oscillation (QBO). The latter was recently shown to…",
+      "published_at": "2026-02-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.11227",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Observing solar vortices with existing and future instrumentation. Solar Physics International Network for Swirls (SPINS) white paper (Helio…",
-      "summary": "arXiv:2602.10170v1 Announce Type: new Abstract: Solar vortices are fundamental components of solar atmospheric dynamics, serving as natural laboratories for magnetic field twisting, energy concentration and transport, wave guidance, and plasma coupling across atmospheric layers.…",
-      "published_at": "2026-02-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.10170",
+      "title": "The connection between surface brightness and satellite systems for central galaxies through Illustris TNG",
+      "summary": "arXiv:2602.11257v1 Announce Type: new Abstract: We analyse different properties of central low-surface-brightness galaxies (LSBGs) and their satellite systems using the simulation Illustris TNG-100, in order to deepen our understanding of the formation mechanism of LSBGs in a $\\L…",
+      "published_at": "2026-02-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.11257",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Cosmo3DFlow: Wavelet Flow Matching for Spatial-to-Spectral Compression in Reconstructing the Early Universe",
-      "summary": "arXiv:2602.10172v1 Announce Type: new Abstract: Reconstructing the early Universe from the evolved present-day Universe is a challenging and computationally demanding problem in modern astrophysics. We devise a novel generative framework, Cosmo3DFlow, designed to address dimensio…",
-      "published_at": "2026-02-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.10172",
+      "title": "3D insights into SN 1987A: ALMA observations compared to hydrodynamical explosion simulations",
+      "summary": "arXiv:2602.11259v1 Announce Type: new Abstract: We obtain three-dimensional distributions of CO and SiO molecules from high spatial resolution (0.03--0.06\") ALMA observations of SN 1987A at two different epochs. The evolution between these two epochs is consistent with homologous…",
+      "published_at": "2026-02-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.11259",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Statistical isotropy of the universe and the look-elsewhere effect",
-      "summary": "arXiv:2602.10178v1 Announce Type: new Abstract: Recently, Jones et al. [arXiv:2310.12859] claimed strong evidence for the statistical anisotropy of the universe. The claim is based on a joint analysis of four different anomaly tests of the cosmic microwave background data, each o…",
-      "published_at": "2026-02-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.10178",
+      "title": "BlastBerries: How Supernovae Affect Lyman Continuum Escape Fractions and Ionizing Photon Production in Local Analogs of High-Redshift Galaxi…",
+      "summary": "arXiv:2602.11261v1 Announce Type: new Abstract: While compact, star-forming galaxies are believed to play a key role in cosmic reionization, the physical mechanisms enabling the escape of ionizing photons through the galactic interstellar medium remain unclear. Supernova (SN) fee…",
+      "published_at": "2026-02-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.11261",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "TDE 2025abcr: A Tidal Disruption Event in the Outskirts of a Massive Galaxy",
-      "summary": "arXiv:2602.10180v1 Announce Type: new Abstract: Tidal disruption events (TDEs) have traditionally been discovered in optical sky surveys through targeted searches of nuclear transients. However, it is expected that some TDEs will occur outside the galaxy nucleus, arising from wan…",
-      "published_at": "2026-02-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.10180",
+      "title": "Time delays and stationarity in quasar light curves",
+      "summary": "arXiv:2602.11264v1 Announce Type: new Abstract: We present a fully Bayesian framework for time delay inference and stationarity tests in quasar light curves using marginalised Gaussian processes. The model separates a deterministic, non-stationary drift (piecewise linear mean) fr…",
+      "published_at": "2026-02-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.11264",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Why do we do astrophysics?",
-      "summary": "arXiv:2602.10181v1 Announce Type: new Abstract: At time of writing, large language models (LLMs) are beginning to obtain the ability to design, execute, write up, and referee scientific projects on the data-science side of astrophysics. What implications does this have for our pr…",
-      "published_at": "2026-02-12T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.10181",
+      "title": "Tango of Titans: Centaurus A and M83 as a Local Group Analog",
+      "summary": "arXiv:2602.11268v1 Announce Type: new Abstract: Centaurus A (CenA) and M83 form one of the most massive galaxy pairs in the nearby Universe. Although their observed heliocentric velocities suggest motion that is not obviously indicative of mutual attraction, this work presents ev…",
+      "published_at": "2026-02-13T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.11268",
       "tags": [
         "arxiv",
         "astro-ph"
