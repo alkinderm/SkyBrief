@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-15T10:54:46Z",
+  "generated_at": "2026-02-16T11:12:34Z",
   "items": [
+    {
+      "title": "Astrophysics Wrapped 2025: Year-in-Review of Every Astrophysics arXiv Paper from 2025",
+      "summary": "arXiv:2602.12303v1 Announce Type: new Abstract: Over the past few years, Astrophysics has experienced an unprecedented increase in research output, as is evident from the year-over-year increase in the number of research papers put onto the arXiv. As a result, keeping up with pro…",
+      "published_at": "2026-02-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.12303",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "GAMERA-OP: A three-dimensional finite-volume MHD solver for orthogonal curvilinear geometries",
+      "summary": "arXiv:2602.12307v1 Announce Type: new Abstract: We present GAMERA-OP (Orthogonal-Plus), a three-dimensional finite-volume magnetohydrodynamics (MHD) solver for orthogonal curvilinear geometries. The solver advances magnetic fields using constrained transport to preserve $\\nabla\\!…",
+      "published_at": "2026-02-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.12307",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "What Suppresses Star Formation in Bulge-Dominated Early-Type Galaxies?",
+      "summary": "arXiv:2602.12324v1 Announce Type: new Abstract: We investigate the physical origin of star formation suppression in gas-rich early-type galaxies using five high-resolution hydrodynamical idealized galaxy simulations, performed with the moving-mesh code AREPO. These simulations in…",
+      "published_at": "2026-02-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.12324",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Direct pathway to the Early Supermassive Black Holes: A Red Super-Eddington Quasar in a Massive Starburst Host at $z=7.2$",
+      "summary": "arXiv:2602.12325v1 Announce Type: new Abstract: We present a panchromatic optical-mm characterization of GNz7q, a recently identified X-ray weak, rapidly growing red quasar embedded within a dusty starburst galaxy at $z=7.1899$, using the full suite of JWST/NIRCam, NIRSpec, MIRI,…",
+      "published_at": "2026-02-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.12325",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary",
+      "summary": "arXiv:2602.12327v1 Announce Type: new Abstract: The catalog of Gravitational Wave (GW) events is rapidly growing, providing key insights into the evolution of massive binaries and compact object formation. However, a key challenge is to explain the origin of exceptional events su…",
+      "published_at": "2026-02-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.12327",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A boost in the precision of cluster-mass models: Exploiting the extended surface brightness of the lensed supernova Refsdal host galaxy",
+      "summary": "arXiv:2602.12329v1 Announce Type: new Abstract: Combining deep Hubble Space Telescope (HST) images and extensive data from the Multi-Unit Spectroscopic Explorer, we present new mass models of the cluster MACS J1149.5+2223, strongly lensing the supernova (SN) Refsdal, fully exploi…",
+      "published_at": "2026-02-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.12329",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: Epic Journey Through the Universe Observes 22 Years!",
       "summary": "<img align=\"left\" alt=\"Stargazing at Journey Through the Universe 2026\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2604b.jpg\" />Journey Through the Universe — a partnership between the Hawaiʻi Department of…",
