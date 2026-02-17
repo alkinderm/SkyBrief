@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-16T11:12:34Z",
+  "generated_at": "2026-02-17T11:23:46Z",
   "items": [
     {
-      "title": "Astrophysics Wrapped 2025: Year-in-Review of Every Astrophysics arXiv Paper from 2025",
-      "summary": "arXiv:2602.12303v1 Announce Type: new Abstract: Over the past few years, Astrophysics has experienced an unprecedented increase in research output, as is evident from the year-over-year increase in the number of research papers put onto the arXiv. As a result, keeping up with pro…",
-      "published_at": "2026-02-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.12303",
+      "title": "Ultramassive Black Holes and the Three $M$-$\\sigma$ Relations",
+      "summary": "arXiv:2602.13382v1 Announce Type: new Abstract: I consider recent observations of ultramassive black holes. These appear to confirm theoretical predictions that the relation between central black hole mass $M$ and spheroid velocity dispersion $\\sigma$ has the same form $M \\propto…",
+      "published_at": "2026-02-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.13382",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "GAMERA-OP: A three-dimensional finite-volume MHD solver for orthogonal curvilinear geometries",
-      "summary": "arXiv:2602.12307v1 Announce Type: new Abstract: We present GAMERA-OP (Orthogonal-Plus), a three-dimensional finite-volume magnetohydrodynamics (MHD) solver for orthogonal curvilinear geometries. The solver advances magnetic fields using constrained transport to preserve $\\nabla\\!…",
-      "published_at": "2026-02-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.12307",
+      "title": "CMB Spectral Distortions from Resonant Conversions in Atomic Dark Sectors",
+      "summary": "arXiv:2602.13384v1 Announce Type: new Abstract: Dark sectors consisting of atomic constituents (electrons, protons, and photons) offer a well-motivated extension to the Standard Model while providing multiple avenues for phenomenological study. In this work, we explore the impact…",
+      "published_at": "2026-02-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.13384",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "What Suppresses Star Formation in Bulge-Dominated Early-Type Galaxies?",
-      "summary": "arXiv:2602.12324v1 Announce Type: new Abstract: We investigate the physical origin of star formation suppression in gas-rich early-type galaxies using five high-resolution hydrodynamical idealized galaxy simulations, performed with the moving-mesh code AREPO. These simulations in…",
-      "published_at": "2026-02-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.12324",
+      "title": "Modeling Globular Cluster Stellar Streams with a Basis-Expansion N-body Code",
+      "summary": "arXiv:2602.13385v1 Announce Type: new Abstract: Globular cluster stellar streams probe galaxy-formation processes and can potentially reveal the distribution of dark matter in galaxies. In many theoretical studies, streams are modeled with particle-spray or direct N-body codes. B…",
+      "published_at": "2026-02-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.13385",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Direct pathway to the Early Supermassive Black Holes: A Red Super-Eddington Quasar in a Massive Starburst Host at $z=7.2$",
-      "summary": "arXiv:2602.12325v1 Announce Type: new Abstract: We present a panchromatic optical-mm characterization of GNz7q, a recently identified X-ray weak, rapidly growing red quasar embedded within a dusty starburst galaxy at $z=7.1899$, using the full suite of JWST/NIRCam, NIRSpec, MIRI,…",
-      "published_at": "2026-02-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.12325",
+      "title": "Dyad: a binary-star dynamics and statistics library for Python",
+      "summary": "arXiv:2602.13388v1 Announce Type: new Abstract: Dyad is a Python library for studying the dynamics of binary stars considered as gravitational two-body systems. The dynamics of a binary star are determined by its primary and secondary stars' masses along with the secondary star's…",
+      "published_at": "2026-02-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.13388",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Unraveling the Origin of Unequal Mass Gravitational Wave Events: Insights from a Galactic High Mass X-ray Binary",
-      "summary": "arXiv:2602.12327v1 Announce Type: new Abstract: The catalog of Gravitational Wave (GW) events is rapidly growing, providing key insights into the evolution of massive binaries and compact object formation. However, a key challenge is to explain the origin of exceptional events su…",
-      "published_at": "2026-02-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.12327",
+      "title": "Characterizing Lyman alpha emission from high-redshift galaxies",
+      "summary": "arXiv:2602.13389v1 Announce Type: new Abstract: The Lyman $\\alpha$ (Ly$\\alpha$) line from high-redshift galaxies is a powerful probe of the Epoch of Reionization (EoR). Neutral hydrogen in the intergalactic medium (IGM) can significantly attenuate the emergent Ly$\\alpha$ line, ev…",
+      "published_at": "2026-02-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.13389",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A boost in the precision of cluster-mass models: Exploiting the extended surface brightness of the lensed supernova Refsdal host galaxy",
-      "summary": "arXiv:2602.12329v1 Announce Type: new Abstract: Combining deep Hubble Space Telescope (HST) images and extensive data from the Multi-Unit Spectroscopic Explorer, we present new mass models of the cluster MACS J1149.5+2223, strongly lensing the supernova (SN) Refsdal, fully exploi…",
-      "published_at": "2026-02-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.12329",
+      "title": "Constraining Binary Neutron Star Populations using Short Gamma-Ray Burst Observations",
+      "summary": "arXiv:2602.13391v1 Announce Type: new Abstract: The landmark multi-messenger observations of the binary neutron star (BNS) merger GW170817 provided firm evidence that such mergers can produce short gamma-ray bursts (sGRBs). However, the limited number of BNS detections by current…",
+      "published_at": "2026-02-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.13391",
       "tags": [
         "arxiv",
         "astro-ph"
