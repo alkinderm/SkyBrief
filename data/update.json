@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-17T11:23:46Z",
+  "generated_at": "2026-02-18T11:22:34Z",
   "items": [
     {
-      "title": "Ultramassive Black Holes and the Three $M$-$\\sigma$ Relations",
-      "summary": "arXiv:2602.13382v1 Announce Type: new Abstract: I consider recent observations of ultramassive black holes. These appear to confirm theoretical predictions that the relation between central black hole mass $M$ and spheroid velocity dispersion $\\sigma$ has the same form $M \\propto…",
-      "published_at": "2026-02-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.13382",
+      "title": "A New Plotly-Dash-based Query Infrastructure for the Keck Observatory Archive",
+      "summary": "arXiv:2602.15057v1 Announce Type: new Abstract: The Keck Observatory Archive (KOA) curates all observational data acquired at the W. M. Keck Observatory. The archive is expected to grow rapidly as complex new instruments are commissioned and as the expectations of archive users h…",
+      "published_at": "2026-02-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.15057",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "CMB Spectral Distortions from Resonant Conversions in Atomic Dark Sectors",
-      "summary": "arXiv:2602.13384v1 Announce Type: new Abstract: Dark sectors consisting of atomic constituents (electrons, protons, and photons) offer a well-motivated extension to the Standard Model while providing multiple avenues for phenomenological study. In this work, we explore the impact…",
-      "published_at": "2026-02-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.13384",
+      "title": "Resonant Axion-Photon Conversion in the Early Inspiral of Neutron Star Binaries",
+      "summary": "arXiv:2602.15065v1 Announce Type: new Abstract: We consider the early binary neutron star inspiral phase as a scenario to probe environmental axion--photon resonant conversion. For this we approximately model the merger site electromagnetic fields as the superposition of two rota…",
+      "published_at": "2026-02-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.15065",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Modeling Globular Cluster Stellar Streams with a Basis-Expansion N-body Code",
-      "summary": "arXiv:2602.13385v1 Announce Type: new Abstract: Globular cluster stellar streams probe galaxy-formation processes and can potentially reveal the distribution of dark matter in galaxies. In many theoretical studies, streams are modeled with particle-spray or direct N-body codes. B…",
-      "published_at": "2026-02-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.13385",
+      "title": "GW-FALCON: A Novel Feature-Driven Deep Learning Approach for Early Warning Alerts of BNS and NSBH Inspirals in Next-Generation GW Observator…",
+      "summary": "arXiv:2602.15073v1 Announce Type: new Abstract: Next-generation GW observatories such as the ET and CE will detect BNS and NSBH inspirals with high SNRs and long in-band durations, making systematic early-warning alerts both feasible and scientifically valuable. Such triggers are…",
+      "published_at": "2026-02-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.15073",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Dyad: a binary-star dynamics and statistics library for Python",
-      "summary": "arXiv:2602.13388v1 Announce Type: new Abstract: Dyad is a Python library for studying the dynamics of binary stars considered as gravitational two-body systems. The dynamics of a binary star are determined by its primary and secondary stars' masses along with the secondary star's…",
-      "published_at": "2026-02-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.13388",
+      "title": "Coupled Map Lattice for Astronomical Object Formation: A Scenario for Evolution from Star to Disk, Arms, and Companions",
+      "summary": "arXiv:2602.15083v1 Announce Type: new Abstract: We present a new dynamic formation model of a star, a disk, arms, and companions using a coupled map lattice (CML), a complex systems approach. This CML simulates the viscoelastic and chaotic dynamics and evolution of gas clumps con…",
+      "published_at": "2026-02-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.15083",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Characterizing Lyman alpha emission from high-redshift galaxies",
-      "summary": "arXiv:2602.13389v1 Announce Type: new Abstract: The Lyman $\\alpha$ (Ly$\\alpha$) line from high-redshift galaxies is a powerful probe of the Epoch of Reionization (EoR). Neutral hydrogen in the intergalactic medium (IGM) can significantly attenuate the emergent Ly$\\alpha$ line, ev…",
-      "published_at": "2026-02-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.13389",
+      "title": "Well-being and career instability across genders in the Spanish Astronomical Society",
+      "summary": "arXiv:2602.15085v1 Announce Type: new Abstract: We present the results of a comprehensive survey conducted among members of the Spanish Astronomical Society (Sociedad Espanola de Astronomia, SEA) to assess well-being, professional satisfaction, and family-work balance of research…",
+      "published_at": "2026-02-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.15085",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Constraining Binary Neutron Star Populations using Short Gamma-Ray Burst Observations",
-      "summary": "arXiv:2602.13391v1 Announce Type: new Abstract: The landmark multi-messenger observations of the binary neutron star (BNS) merger GW170817 provided firm evidence that such mergers can produce short gamma-ray bursts (sGRBs). However, the limited number of BNS detections by current…",
-      "published_at": "2026-02-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.13391",
+      "title": "PSR J0024$-$7204ai: a massive, eccentric binary system in the globular cluster 47 Tucanae",
+      "summary": "arXiv:2602.15096v1 Announce Type: new Abstract: In this paper we present PSR J0024$-$7204ai, a 13.026-ms binary pulsar recently discovered in the globular cluster 47 Tucanae by the MeerKAT radio telescope. This is the slowest spinning pulsar known in this globular cluster, and ha…",
+      "published_at": "2026-02-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.15096",
       "tags": [
         "arxiv",
         "astro-ph"
