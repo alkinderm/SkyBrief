@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-22T10:53:18Z",
+  "generated_at": "2026-02-23T11:22:06Z",
   "items": [
+    {
+      "title": "Undetected past contacts with technological species: implications for technosignature science",
+      "summary": "arXiv:2602.17736v1 Announce Type: new Abstract: In the search for extraterrestrial intelligence (SETI), the highly incomplete sampling of the technosignature search space is often considered as a plausible explanation for the persistent lack of detections over six decades of sear…",
+      "published_at": "2026-02-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.17736",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Relativistic Magnetohydrodynamic Simulations of Giant Magnetar Bursts",
+      "summary": "arXiv:2602.17755v1 Announce Type: new Abstract: Gradual crustal deformation can generate strongly twisted magnetic fields around magnetars, potentially triggering giant flares with total energies exceeding $10^{44}\\,\\mathrm{erg}$. In this Letter, we present the first relativistic…",
+      "published_at": "2026-02-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.17755",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Pushing spectral siren cosmology into the third-generation era: a blinded mock data challenge",
+      "summary": "arXiv:2602.17756v1 Announce Type: new Abstract: Gravitational wave (GW) spectral sirens offer a promising method for measuring cosmological parameters using GW data only - without relying on external redshift information such as electromagnetic counterparts or galaxy catalogs - b…",
+      "published_at": "2026-02-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.17756",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Addressing the Impact of Solar Modulation Systematic Uncertainties on Cosmic-Ray Propagation Models",
+      "summary": "arXiv:2602.17759v1 Announce Type: new Abstract: We perform a comprehensive analysis of cosmic-ray propagation using the time-dependent AMS-02 flux measurements covering a full solar cycle, with particular emphasis on the role of solar modulation. We fit two representative Galacti…",
+      "published_at": "2026-02-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.17759",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Identifying Exoplanets with Deep Learning VI. Enhancing neural network mitigation of stellar activity RV signals with additional metrics",
+      "summary": "arXiv:2602.17760v1 Announce Type: new Abstract: The measurement of exoplanet masses using the radial velocity (RV) technique is currently limited by stellar activity, which introduces quasiperiodic variability signals that must be modeled and removed to enhance the sensitivity of…",
+      "published_at": "2026-02-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.17760",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Teen TITANS simulations -- I. Inefficient intermediate-mass black hole seeding via stellar collisions in young massive clusters",
+      "summary": "arXiv:2602.17762v1 Announce Type: new Abstract: Young massive clusters (YMCs) provide favorable environments for frequent stellar collisions, potentially leading to the formation of very massive stars (VMSs) and seeds of intermediate-mass black holes (IMBHs). We investigate the r…",
+      "published_at": "2026-02-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.17762",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: Epic Journey Through the Universe Observes 22 Years!",
       "summary": "<img align=\"left\" alt=\"Stargazing at Journey Through the Universe 2026\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2604b.jpg\" />Journey Through the Universe — a partnership between the Hawaiʻi Department of…",
