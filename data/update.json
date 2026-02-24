@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-23T11:22:06Z",
+  "generated_at": "2026-02-24T11:22:59Z",
   "items": [
     {
-      "title": "Undetected past contacts with technological species: implications for technosignature science",
-      "summary": "arXiv:2602.17736v1 Announce Type: new Abstract: In the search for extraterrestrial intelligence (SETI), the highly incomplete sampling of the technosignature search space is often considered as a plausible explanation for the persistent lack of detections over six decades of sear…",
-      "published_at": "2026-02-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.17736",
+      "title": "Distinguishing life from non-life via molecular frontier orbital energy gaps",
+      "summary": "arXiv:2602.18490v1 Announce Type: new Abstract: Amino acids (AAs) are a key target in the search for life beyond Earth due to their extensive role in the machinery of all known life, persistence over geologic timescales, and analytical detectability. However, AAs can also arise f…",
+      "published_at": "2026-02-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.18490",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Relativistic Magnetohydrodynamic Simulations of Giant Magnetar Bursts",
-      "summary": "arXiv:2602.17755v1 Announce Type: new Abstract: Gradual crustal deformation can generate strongly twisted magnetic fields around magnetars, potentially triggering giant flares with total energies exceeding $10^{44}\\,\\mathrm{erg}$. In this Letter, we present the first relativistic…",
-      "published_at": "2026-02-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.17755",
+      "title": "Experimental and numerical modeling of liposome congregation in meteorite craters of Early Earth",
+      "summary": "arXiv:2602.18510v1 Announce Type: new Abstract: This paper provides experimental and numerical evidence supporting the occurrence of liposome congregation at the floors of meteor craters on Early Earth. This work builds on our earlier research, which demonstrated that liposomes s…",
+      "published_at": "2026-02-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.18510",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Pushing spectral siren cosmology into the third-generation era: a blinded mock data challenge",
-      "summary": "arXiv:2602.17756v1 Announce Type: new Abstract: Gravitational wave (GW) spectral sirens offer a promising method for measuring cosmological parameters using GW data only - without relying on external redshift information such as electromagnetic counterparts or galaxy catalogs - b…",
-      "published_at": "2026-02-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.17756",
+      "title": "Periodic Wobble of the Post-Perihelion Jet Structure Around 3I/ATLAS",
+      "summary": "arXiv:2602.18512v1 Announce Type: new Abstract: We analyse data on the post-perihelion morphology, including jet position angles (PAs) and coma dominated photometry of the interstellar object 3I/ATLAS. From Hubble Space Telescope (HST) images processed with a Larson Sekanina rota…",
+      "published_at": "2026-02-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.18512",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Addressing the Impact of Solar Modulation Systematic Uncertainties on Cosmic-Ray Propagation Models",
-      "summary": "arXiv:2602.17759v1 Announce Type: new Abstract: We perform a comprehensive analysis of cosmic-ray propagation using the time-dependent AMS-02 flux measurements covering a full solar cycle, with particular emphasis on the role of solar modulation. We fit two representative Galacti…",
-      "published_at": "2026-02-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.17759",
+      "title": "Simultaneous Double Transits of Phobos and Deimos as Seen from the Martian Surface: A Millennium Catalogue",
+      "summary": "arXiv:2602.18513v1 Announce Type: new Abstract: I present the first systematic catalogue of simultaneous solar transits of both Phobos and Deimos as observed from the surface of Mars. Using the JPL mar099 ephemeris (Brozovic et al. 2025) and SPICE toolkit, I searched the millenni…",
+      "published_at": "2026-02-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.18513",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Identifying Exoplanets with Deep Learning VI. Enhancing neural network mitigation of stellar activity RV signals with additional metrics",
-      "summary": "arXiv:2602.17760v1 Announce Type: new Abstract: The measurement of exoplanet masses using the radial velocity (RV) technique is currently limited by stellar activity, which introduces quasiperiodic variability signals that must be modeled and removed to enhance the sensitivity of…",
-      "published_at": "2026-02-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.17760",
+      "title": "The Chemical Homogeneity of Single-Lined Spectroscopic Binaries in Open Clusters",
+      "summary": "arXiv:2602.18552v1 Announce Type: new Abstract: Using SDSS-V DR19 Milky Way Mapper APOGEE data, we measure the impact that close binarity has on surface chemistry across the Hertzsprung-Russell diagram in a broad set of abundances by studying single-lined spectroscopic binaries (…",
+      "published_at": "2026-02-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.18552",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Teen TITANS simulations -- I. Inefficient intermediate-mass black hole seeding via stellar collisions in young massive clusters",
-      "summary": "arXiv:2602.17762v1 Announce Type: new Abstract: Young massive clusters (YMCs) provide favorable environments for frequent stellar collisions, potentially leading to the formation of very massive stars (VMSs) and seeds of intermediate-mass black holes (IMBHs). We investigate the r…",
-      "published_at": "2026-02-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.17762",
+      "title": "POSEIDON I: The Dynamical Origins of Transiting Neptunes",
+      "summary": "arXiv:2602.18553v1 Announce Type: new Abstract: We present the first results from the POSEIDON survey, aimed at constraining the dynamical origins of transiting Neptunes through stellar obliquity measurements. We report Rossiter-McLaughlin observations of two Neptunes, TOI-181 b…",
+      "published_at": "2026-02-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.18553",
       "tags": [
         "arxiv",
         "astro-ph"
