@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-24T11:22:59Z",
+  "generated_at": "2026-02-25T11:22:54Z",
   "items": [
     {
-      "title": "Distinguishing life from non-life via molecular frontier orbital energy gaps",
-      "summary": "arXiv:2602.18490v1 Announce Type: new Abstract: Amino acids (AAs) are a key target in the search for life beyond Earth due to their extensive role in the machinery of all known life, persistence over geologic timescales, and analytical detectability. However, AAs can also arise f…",
-      "published_at": "2026-02-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.18490",
+      "title": "High Resolution VLA Radio Observations of the Boomerang Pulsar Wind Nebula",
+      "summary": "arXiv:2602.20230v1 Announce Type: new Abstract: We present a radio polarimetric study of the Boomerang pulsar wind nebula G106.65+2.96 with VLA observations at the 6 GHz band. Our high-resolution image discovers new small-scale features in the nebula, including an elliptical core…",
+      "published_at": "2026-02-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.20230",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Experimental and numerical modeling of liposome congregation in meteorite craters of Early Earth",
-      "summary": "arXiv:2602.18510v1 Announce Type: new Abstract: This paper provides experimental and numerical evidence supporting the occurrence of liposome congregation at the floors of meteor craters on Early Earth. This work builds on our earlier research, which demonstrated that liposomes s…",
-      "published_at": "2026-02-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.18510",
+      "title": "X-Shooting ULLYSES: Massive stars at low metallicity XIV. Properties of SMC late-O and B supergiants reveal the metallicity dependence of wi…",
+      "summary": "arXiv:2602.20239v1 Announce Type: new Abstract: Considering the physics of radiation-driven winds of massive stars, the wind properties should depend on the metal content of the stellar atmosphere. Therefore, studying the winds of massive stars in different metallicities provides…",
+      "published_at": "2026-02-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.20239",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Periodic Wobble of the Post-Perihelion Jet Structure Around 3I/ATLAS",
-      "summary": "arXiv:2602.18512v1 Announce Type: new Abstract: We analyse data on the post-perihelion morphology, including jet position angles (PAs) and coma dominated photometry of the interstellar object 3I/ATLAS. From Hubble Space Telescope (HST) images processed with a Larson Sekanina rota…",
-      "published_at": "2026-02-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.18512",
+      "title": "ALMA Central Molecular Zone Exploration Survey (ACES) II: 3mm continuum images",
+      "summary": "arXiv:2602.20240v1 Announce Type: new Abstract: The ALMA Central Molecular Zone Exploration Survey, ACES, has mapped $\\gtrsim1000$ square arcminutes at 3 mm toward the center of our Galaxy. ACES provides the first large-scale, high-resolution ($\\sim2.5$\") view of the central $\\si…",
+      "published_at": "2026-02-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.20240",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Simultaneous Double Transits of Phobos and Deimos as Seen from the Martian Surface: A Millennium Catalogue",
-      "summary": "arXiv:2602.18513v1 Announce Type: new Abstract: I present the first systematic catalogue of simultaneous solar transits of both Phobos and Deimos as observed from the surface of Mars. Using the JPL mar099 ephemeris (Brozovic et al. 2025) and SPICE toolkit, I searched the millenni…",
-      "published_at": "2026-02-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.18513",
+      "title": "The ALPINE-CRISTAL-JWST Survey: Chemical Abundance Comparison Between the ISM and CGM of Main-Sequence Galaxies at z=4-6",
+      "summary": "arXiv:2602.20241v1 Announce Type: new Abstract: Gaseous halos around galaxies play an important role in galaxy evolution. The exchange of metals from the interstellar medium (ISM) to the circumgalactic medium (CGM) are caused by the formation, feedback, and/or merging history of…",
+      "published_at": "2026-02-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.20241",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Chemical Homogeneity of Single-Lined Spectroscopic Binaries in Open Clusters",
-      "summary": "arXiv:2602.18552v1 Announce Type: new Abstract: Using SDSS-V DR19 Milky Way Mapper APOGEE data, we measure the impact that close binarity has on surface chemistry across the Hertzsprung-Russell diagram in a broad set of abundances by studying single-lined spectroscopic binaries (…",
-      "published_at": "2026-02-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.18552",
+      "title": "Dynamical friction on binary stars in dark matter dominated environments",
+      "summary": "arXiv:2602.20245v1 Announce Type: new Abstract: We study binary stars moving through a uniform dark matter background and experiencing dynamical friction. The centre-of-mass motion of the pairs is taken into account. We derive formulas and timescales for the secular evolution of…",
+      "published_at": "2026-02-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.20245",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "POSEIDON I: The Dynamical Origins of Transiting Neptunes",
-      "summary": "arXiv:2602.18553v1 Announce Type: new Abstract: We present the first results from the POSEIDON survey, aimed at constraining the dynamical origins of transiting Neptunes through stellar obliquity measurements. We report Rossiter-McLaughlin observations of two Neptunes, TOI-181 b…",
-      "published_at": "2026-02-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.18553",
+      "title": "Little Red Dots: One Photometric Tag Concealing Diverse Spectroscopic Flavors of Massive Star Formation and Black Hole Activity",
+      "summary": "arXiv:2602.20247v1 Announce Type: new Abstract: We compile JWST/NIRSpec prism and MIRI data for 249 Little Red Dots (LRDs) at $2.3<9.3$, forming a representative spectroscopic subset of NIRCam-selected LRDs. We derive a median stacked spectrum covering rest-frame 0.09-1.2 $\\mu$m,…",
+      "published_at": "2026-02-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.20247",
       "tags": [
         "arxiv",
         "astro-ph"
