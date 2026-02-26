@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-25T11:22:54Z",
+  "generated_at": "2026-02-26T11:23:46Z",
   "items": [
     {
-      "title": "High Resolution VLA Radio Observations of the Boomerang Pulsar Wind Nebula",
-      "summary": "arXiv:2602.20230v1 Announce Type: new Abstract: We present a radio polarimetric study of the Boomerang pulsar wind nebula G106.65+2.96 with VLA observations at the 6 GHz band. Our high-resolution image discovers new small-scale features in the nebula, including an elliptical core…",
-      "published_at": "2026-02-25T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.20230",
+      "title": "CNN+FoF: application of deep learning to the identification of dark matter haloes",
+      "summary": "arXiv:2602.21246v1 Announce Type: new Abstract: We present a deep-learning-based approach for identifying dark matter haloes in cosmological N-body simulations. Our framework consists of a volumetric Convolutional Neural Network to classify individual simulation particles as eith…",
+      "published_at": "2026-02-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.21246",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "X-Shooting ULLYSES: Massive stars at low metallicity XIV. Properties of SMC late-O and B supergiants reveal the metallicity dependence of wi…",
-      "summary": "arXiv:2602.20239v1 Announce Type: new Abstract: Considering the physics of radiation-driven winds of massive stars, the wind properties should depend on the metal content of the stellar atmosphere. Therefore, studying the winds of massive stars in different metallicities provides…",
-      "published_at": "2026-02-25T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.20239",
+      "title": "A Path to an All-Sky Survey with Roman",
+      "summary": "arXiv:2602.21280v1 Announce Type: new Abstract: A deep, space-based, all-sky near-infrared survey carried out with the Nancy Grace Roman Space Telescope would constitute a foundational astronomical infrastructure for decades to come. In this white paper, we present a concrete and…",
+      "published_at": "2026-02-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.21280",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "ALMA Central Molecular Zone Exploration Survey (ACES) II: 3mm continuum images",
-      "summary": "arXiv:2602.20240v1 Announce Type: new Abstract: The ALMA Central Molecular Zone Exploration Survey, ACES, has mapped $\\gtrsim1000$ square arcminutes at 3 mm toward the center of our Galaxy. ACES provides the first large-scale, high-resolution ($\\sim2.5$\") view of the central $\\si…",
-      "published_at": "2026-02-25T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.20240",
+      "title": "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy",
+      "summary": "arXiv:2602.21283v1 Announce Type: new Abstract: Crater II (CraII), a large and low-density dwarf spheroidal galaxy, has unusual observed properties that are difficult to reproduce in cold dark matter simulations. Ongoing tidal disruption may help explain the discrepancies, as evi…",
+      "published_at": "2026-02-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.21283",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The ALPINE-CRISTAL-JWST Survey: Chemical Abundance Comparison Between the ISM and CGM of Main-Sequence Galaxies at z=4-6",
-      "summary": "arXiv:2602.20241v1 Announce Type: new Abstract: Gaseous halos around galaxies play an important role in galaxy evolution. The exchange of metals from the interstellar medium (ISM) to the circumgalactic medium (CGM) are caused by the formation, feedback, and/or merging history of…",
-      "published_at": "2026-02-25T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.20241",
+      "title": "NOCTURNE. III. Unidentified variable emission in the nuclear regions of PKS 2153-69",
+      "summary": "arXiv:2602.21286v1 Announce Type: new Abstract: Historically, the study of the central regions of Type 1 AGN has been limited by the combination of the host galaxy spectrum with strong emission from the accretion disk and NLR/BLR, which prevented us from accurately probing the ga…",
+      "published_at": "2026-02-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.21286",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Dynamical friction on binary stars in dark matter dominated environments",
-      "summary": "arXiv:2602.20245v1 Announce Type: new Abstract: We study binary stars moving through a uniform dark matter background and experiencing dynamical friction. The centre-of-mass motion of the pairs is taken into account. We derive formulas and timescales for the secular evolution of…",
-      "published_at": "2026-02-25T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.20245",
+      "title": "Testing models for fully and partially stripped low-mass stars with Gaia: Implications for hot subdwarfs, binary RR Lyrae, and black hole im…",
+      "summary": "arXiv:2602.21289v1 Announce Type: new Abstract: When low-mass ($\\lesssim 2$ $M_{\\odot}$) red giants lose their envelopes to a companion just before the helium flash, the resulting mass transfer can produce binaries hosting hot subdwarfs, horizontal branch stars, and undermassive…",
+      "published_at": "2026-02-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.21289",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Little Red Dots: One Photometric Tag Concealing Diverse Spectroscopic Flavors of Massive Star Formation and Black Hole Activity",
-      "summary": "arXiv:2602.20247v1 Announce Type: new Abstract: We compile JWST/NIRSpec prism and MIRI data for 249 Little Red Dots (LRDs) at $2.3<9.3$, forming a representative spectroscopic subset of NIRCam-selected LRDs. We derive a median stacked spectrum covering rest-frame 0.09-1.2 $\\mu$m,…",
-      "published_at": "2026-02-25T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.20247",
+      "title": "Global Magnetohydrodynamic Simulations of Monster Shocks in Neutron Star Magnetospheres",
+      "summary": "arXiv:2602.21290v1 Announce Type: new Abstract: Waves launched from the neutron star surface or inner magnetosphere propagate through the magnetosphere as small perturbations, but can grow relative to the background magnetic field and steepen into ``monster shocks'' -- ultra-rela…",
+      "published_at": "2026-02-26T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.21290",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Organization Release: NSF–DOE Vera C. Rubin Observatory Launches Real-Time Discovery Machine for Monitoring the Night Sky",
+      "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin Observatory Launches Real-Time Monitoring of the Night Sky\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2605a.jpg\" />NSF–DOE Rubin Observatory has issued its first scienti…",
+      "published_at": "2026-02-25T18:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2605/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Opening of the Windows on the Universe Center for Astronomy Outreach, the first science center located inside a telescope\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2534a.jpg\" />Windo…",
       "published_at": "2025-12-17T16:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2534/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Bright Blue Cosmic Outbursts Likely Caused by Large Black Holes Shredding Massive Companions",
-      "summary": "<img align=\"left\" alt=\"Most luminous fast blue optical transient\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2533a.jpg\" />In 2024, astronomers discovered the brightest Luminous Fast Blue Optical Transient (L…",
-      "published_at": "2025-12-16T18:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2533/",
       "tags": [
         "noirlab"
       ],
