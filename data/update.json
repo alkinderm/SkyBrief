@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-02-26T11:23:46Z",
+  "generated_at": "2026-02-27T11:07:02Z",
   "items": [
     {
-      "title": "CNN+FoF: application of deep learning to the identification of dark matter haloes",
-      "summary": "arXiv:2602.21246v1 Announce Type: new Abstract: We present a deep-learning-based approach for identifying dark matter haloes in cosmological N-body simulations. Our framework consists of a volumetric Convolutional Neural Network to classify individual simulation particles as eith…",
-      "published_at": "2026-02-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.21246",
+      "title": "Constraining the Lifespan of Intelligent Technological Civilization in the Galaxy",
+      "summary": "arXiv:2602.22252v1 Announce Type: new Abstract: In this work, we explore constraints on the emergence and longevity of technologically intelligent civilizations in our Galaxy, considering the Fermi paradox. We argue that under optimistic assumptions about the probability of life…",
+      "published_at": "2026-02-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.22252",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Path to an All-Sky Survey with Roman",
-      "summary": "arXiv:2602.21280v1 Announce Type: new Abstract: A deep, space-based, all-sky near-infrared survey carried out with the Nancy Grace Roman Space Telescope would constitute a foundational astronomical infrastructure for decades to come. In this white paper, we present a concrete and…",
-      "published_at": "2026-02-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.21280",
+      "title": "Gaia DR3 Analysis of Four Open Clusters Toward the Galactic Anticenter",
+      "summary": "arXiv:2602.22304v1 Announce Type: new Abstract: This study provides a detailed examination of the structural, astrophysical, kinematic, and dynamical properties of the open clusters COIN-Gaia 24, Czernik 24, FSR 0893, and UBC 74, which are located in the direction opposite to the…",
+      "published_at": "2026-02-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.22304",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy",
-      "summary": "arXiv:2602.21283v1 Announce Type: new Abstract: Crater II (CraII), a large and low-density dwarf spheroidal galaxy, has unusual observed properties that are difficult to reproduce in cold dark matter simulations. Ongoing tidal disruption may help explain the discrepancies, as evi…",
-      "published_at": "2026-02-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.21283",
+      "title": "You can't see me: super-Eddington growth hindering X-ray detection in high-z broad-line AGNs",
+      "summary": "arXiv:2602.22305v1 Announce Type: new Abstract: We revisit black hole mass estimates for high-redshift broad-line AGNs discovered with JWST by jointly analysing their broad emission lines and their systematic non-detections in deep Chandra imaging. Building upon the self-shadowed…",
+      "published_at": "2026-02-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.22305",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "NOCTURNE. III. Unidentified variable emission in the nuclear regions of PKS 2153-69",
-      "summary": "arXiv:2602.21286v1 Announce Type: new Abstract: Historically, the study of the central regions of Type 1 AGN has been limited by the combination of the host galaxy spectrum with strong emission from the accretion disk and NLR/BLR, which prevented us from accurately probing the ga…",
-      "published_at": "2026-02-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.21286",
+      "title": "A Morphology Catalog of Galaxies in CEERS: Evolution in the Size and Color Gradients of Galaxies Since Cosmic Dawn",
+      "summary": "arXiv:2602.22306v1 Announce Type: new Abstract: We present measurements of morphological parameters from fitting 53,885 galaxies detected to a magnitude limit of F356W$< 28.5$ in the CEERS NIRCam imaging with galfit in six broadband filters: F115W, F150W, F200W, F277W, F356W, and…",
+      "published_at": "2026-02-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.22306",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Testing models for fully and partially stripped low-mass stars with Gaia: Implications for hot subdwarfs, binary RR Lyrae, and black hole im…",
-      "summary": "arXiv:2602.21289v1 Announce Type: new Abstract: When low-mass ($\\lesssim 2$ $M_{\\odot}$) red giants lose their envelopes to a companion just before the helium flash, the resulting mass transfer can produce binaries hosting hot subdwarfs, horizontal branch stars, and undermassive…",
-      "published_at": "2026-02-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.21289",
+      "title": "A steadily declining dispersion measure for the repeating fast radio burst FRB 20220529A: Evidence for an FRB engine embedded in an expandin…",
+      "summary": "arXiv:2602.22309v1 Announce Type: new Abstract: We present the discovery and subsequent 3.2 year monitoring campaign of the repeating fast radio burst FRB 20220529A with CHIME/FRB. We observe a gradual dispersion measure (DM) decline of $-0.881\\pm0.001~\\mathrm{pc}~\\mathrm{cm}^{-3…",
+      "published_at": "2026-02-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.22309",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Global Magnetohydrodynamic Simulations of Monster Shocks in Neutron Star Magnetospheres",
-      "summary": "arXiv:2602.21290v1 Announce Type: new Abstract: Waves launched from the neutron star surface or inner magnetosphere propagate through the magnetosphere as small perturbations, but can grow relative to the background magnetic field and steepen into ``monster shocks'' -- ultra-rela…",
-      "published_at": "2026-02-26T05:00:00Z",
-      "url": "https://arxiv.org/abs/2602.21290",
+      "title": "XRISM Observation of the Supernova Remnant N103B: Velocity Structure and Thermal Properties",
+      "summary": "arXiv:2602.22321v1 Announce Type: new Abstract: We present the first analysis of the X-ray Imaging and Spectroscopy Mission (XRISM) observation of the supernova remnant (SNR) N103B. We fit the X-ray spectrum taken with the Resolve microcalorimeter, which captured emission lines f…",
+      "published_at": "2026-02-27T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.22321",
       "tags": [
         "arxiv",
         "astro-ph"
