@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-01T10:51:30Z",
+  "generated_at": "2026-03-02T11:09:24Z",
   "items": [
+    {
+      "title": "Hydrodynamical simulations of helium-ignited binary white dwarf mergers",
+      "summary": "arXiv:2602.23414v1 Announce Type: new Abstract: Type Ia supernovae (SNe Ia) are common luminous astrophysical transients. SNe Ia serve as distance indicators for measuring the expansion rate of the universe and play important roles in galactic nucleosynthesis. However, ambiguitie…",
+      "published_at": "2026-03-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.23414",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Zooming in on the circumgalactic medium with GIBLE: Cloud-scale simulations with cosmological initial conditions",
+      "summary": "arXiv:2602.23416v1 Announce Type: new Abstract: We conduct simulations of $\\sim$kpc-scale cool clouds in the circumgalactic medium (CGM), using initial conditions sampled from a highly resolved cosmological magneto-hydrodynamical zoom-in of a Milky Way-like galaxy. We select ten…",
+      "published_at": "2026-03-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.23416",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Large-amplitude modulations and hours-timescale variability in the early X-ray light curve of a tidal disruption flare",
+      "summary": "arXiv:2602.23418v1 Announce Type: new Abstract: We present new X-ray, optical, and UV observations of the tidal disruption event candidate eRASSt J234402.9-352640, (hereafter J2344). Between 50 and 60 days after peak optical brightness, J2344 exhibited large-amplitude modulations…",
+      "published_at": "2026-03-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.23418",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Worlds Next Door. III. Indirect Evidence for Enhanced Atmospheric Metallicity and/or the Presence of Water Clouds in the Nearest Jupiter-ana…",
+      "summary": "arXiv:2602.23423v1 Announce Type: new Abstract: We present the most sensitive direct imaging search for the nearest ($d = 3.2$ pc) Jupiter-analog exoplanet, $\\epsilon$ Eri b, with JWST/NIRCam coronagraphy between 4-5 $\\mu$m (F444W). We achieve a 5$\\sigma$ contrast sensitivity $\\a…",
+      "published_at": "2026-03-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.23423",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Gravitational waves from primordial black holes passing by neutron stars: observational prospects for the Galactic center",
+      "summary": "arXiv:2602.23429v1 Announce Type: new Abstract: We investigate the gravitational wave (GW) signals emitted by planetary-mass primordial black holes (PBHs) passing nearby or traversing neutron stars (NSs). While previous studies mainly focused on the detailed waveforms of the sign…",
+      "published_at": "2026-03-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.23429",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Survival Analysis of Intermediate-Mass Black Holes in Dense Star Clusters",
+      "summary": "arXiv:2602.23431v1 Announce Type: new Abstract: Recently, an intermediate-mass black hole (IMBH) candidate was announced in the Galactic globular cluster Omega Centauri. IMBHs at the lower end of the traditional mass range have also been detected through gravitational-wave transi…",
+      "published_at": "2026-03-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2602.23431",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: NSF–DOE Vera C. Rubin Observatory Launches Real-Time Discovery Machine for Monitoring the Night Sky",
       "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin Observatory Launches Real-Time Monitoring of the Night Sky\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2605a.jpg\" />NSF–DOE Rubin Observatory has issued its first scienti…",
