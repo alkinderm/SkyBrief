@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-03T11:06:25Z",
+  "generated_at": "2026-03-04T11:03:46Z",
   "items": [
     {
-      "title": "Particle acceleration to PeV energies in Pulsar Wind Nebula: a two zone model",
-      "summary": "arXiv:2603.00096v1 Announce Type: new Abstract: \\textit{PeVatrons} are the extreme galactic accelerators capable of producing PeV particles. Recent observation of Large High Altitude Air Shower Observatory have detected UHE photons ($\\geq$ 100 TeV) from 43 galactic sources. Detec…",
-      "published_at": "2026-03-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.00096",
+      "title": "Two-body relaxation in the EMRI-TDE disk model for Quasi Periodic Eruptions",
+      "summary": "arXiv:2603.02302v1 Announce Type: new Abstract: Quasi Periodic Eruptions (QPEs) are luminous bursts of soft X-rays recently discovered in galactic nuclei. They repeat on timescales of hours to weeks, superimposed to an otherwise stable quiescent X-ray level, consistent with emiss…",
+      "published_at": "2026-03-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.02302",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Stellar engines and Dyson bubbles can be stable",
-      "summary": "arXiv:2603.00203v1 Announce Type: new Abstract: A range of speculative space ventures envisage the use of ultra-large structures for the collection and reflection of light. Given the length-scale of such structures they cannot be considered as point masses for the calculation of…",
-      "published_at": "2026-03-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.00203",
+      "title": "Bridging the Prandtl number gap: 3D simulations of thermohaline convection in astrophysical regimes",
+      "summary": "arXiv:2603.02306v1 Announce Type: new Abstract: Thermohaline convection (also known as fingering convection or thermohaline mixing) occurs in stellar radiation zones where a sufficient inversion of the mean molecular weight is present. This process mixes chemicals radially and oc…",
+      "published_at": "2026-03-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.02306",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Spacetime in motion: an evolving relativistic binary black hole metric for GIZMO",
-      "summary": "arXiv:2603.00224v1 Announce Type: new Abstract: The last evolutionary stages of massive black hole binaries prior to coalescence is dominated by the emission of gravitational waves, which will be probed by the future Laser Interferometer Space Antenna. If gas is present around th…",
-      "published_at": "2026-03-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.00224",
+      "title": "High Velocity Circumstellar Gas Orbiting a White Dwarf Star",
+      "summary": "arXiv:2603.02309v1 Announce Type: new Abstract: Numerous white dwarf stars are known to be orbited by disks of gas and dust. To date, broad, about 300 km s-1 wide, gaseous circumstellar absorption features have only been reported for the already iconic WD 1145+017, where one is w…",
+      "published_at": "2026-03-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.02309",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Quasi-periodic Eruptions from Stellar-mass Black Holes Impacting Accretion Disks in Galactic Nuclei",
-      "summary": "arXiv:2603.00226v1 Announce Type: new Abstract: We investigate the origins of quasi-periodic eruptions (QPEs) in galactic nuclei using global three-dimensional meshless finite-mass (MFM) simulations. By modeling stellar and black-hole impactors traversing accretion disks under va…",
-      "published_at": "2026-03-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.00226",
+      "title": "Constraints on White Dwarf Hydrogen Layer Masses Using Gravitational Redshifts",
+      "summary": "arXiv:2603.02314v1 Announce Type: new Abstract: The hydrogen envelope is the outermost layer of a DA white dwarf; it makes up the entirety of the stellar photosphere, and yet its typical extent is difficult to model theoretically and remains poorly observationally constrained. As…",
+      "published_at": "2026-03-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.02314",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Long-term Spectroscopic Survey of the Hyades Cluster: The Binary Population",
-      "summary": "arXiv:2603.00229v1 Announce Type: new Abstract: We report the results of a radial velocity monitoring program in the Hyades region, carried out at the Center for Astrophysics over a period of more than 45 yr. Nearly 12,000 spectra were gathered for 625 stars brighter than $V \\app…",
-      "published_at": "2026-03-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.00229",
+      "title": "The Role of the Heliosphere in Shaping the Observed Cosmic Ray Spectral Anisotropy",
+      "summary": "arXiv:2603.02315v1 Announce Type: new Abstract: Experimental results by Milagro, HAWC, and ARGO-YBJ have observed variations in the energy spectrum of cosmic rays at TeV scales in different regions of the sky. These findings on the spectral anisotropy provide insights into cosmic…",
+      "published_at": "2026-03-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.02315",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The Baryon Budget of Galaxies across the First Billion Years -- Theoretical Predictions for Gas Phases, Depletion Times, and Stellar Return…",
-      "summary": "arXiv:2603.00230v1 Announce Type: new Abstract: We provide a complete census of the baryons in early galaxies to investigate the phases in which gas and stars reside, their corresponding budgets, depletion times, and stellar return fraction as a function of redshift and stellar a…",
-      "published_at": "2026-03-03T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.00230",
+      "title": "Synthetic Spectral Library of Optically Thick Atmospheres for Little Red Dots",
+      "summary": "arXiv:2603.02317v1 Announce Type: new Abstract: Little Red Dots (LRDs) challenge conventional models of active galactic nuclei. At rest-optical-to-near-infrared (IR) wavelengths, these compact extragalactic objects show blackbody-like continuum emission and spectral features remi…",
+      "published_at": "2026-03-04T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.02317",
       "tags": [
         "arxiv",
         "astro-ph"
