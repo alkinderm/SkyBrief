@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-04T11:03:46Z",
+  "generated_at": "2026-03-05T11:07:33Z",
   "items": [
     {
-      "title": "Two-body relaxation in the EMRI-TDE disk model for Quasi Periodic Eruptions",
-      "summary": "arXiv:2603.02302v1 Announce Type: new Abstract: Quasi Periodic Eruptions (QPEs) are luminous bursts of soft X-rays recently discovered in galactic nuclei. They repeat on timescales of hours to weeks, superimposed to an otherwise stable quiescent X-ray level, consistent with emiss…",
-      "published_at": "2026-03-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.02302",
+      "title": "Benchmarking pre-main sequence stellar evolutionary tracks using disk-based dynamical stellar masses",
+      "summary": "arXiv:2603.03422v1 Announce Type: new Abstract: Stellar masses are a fundamental property to understand models of pre-main sequence evolution, but their values derived from Hertzsprung-Russell (HR) diagrams are strongly model dependent. We benchmark pre-main sequence stellar evol…",
+      "published_at": "2026-03-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.03422",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Bridging the Prandtl number gap: 3D simulations of thermohaline convection in astrophysical regimes",
-      "summary": "arXiv:2603.02306v1 Announce Type: new Abstract: Thermohaline convection (also known as fingering convection or thermohaline mixing) occurs in stellar radiation zones where a sufficient inversion of the mean molecular weight is present. This process mixes chemicals radially and oc…",
-      "published_at": "2026-03-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.02306",
+      "title": "Mature but Still Growing: JWST Detection of the Earliest Intracluster Light at z ~ 2",
+      "summary": "arXiv:2603.03427v1 Announce Type: new Abstract: We present a JWST analysis of intracluster light (ICL) in XLSSC 122 at z = 1.98, currently the most distant known strong lensing galaxy cluster with an evolved member population. Using deep JWST imaging complemented by HST data and…",
+      "published_at": "2026-03-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.03427",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "High Velocity Circumstellar Gas Orbiting a White Dwarf Star",
-      "summary": "arXiv:2603.02309v1 Announce Type: new Abstract: Numerous white dwarf stars are known to be orbited by disks of gas and dust. To date, broad, about 300 km s-1 wide, gaseous circumstellar absorption features have only been reported for the already iconic WD 1145+017, where one is w…",
-      "published_at": "2026-03-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.02309",
+      "title": "The kinematic imprinting of environmental quenching in $z<0.2$ galaxies",
+      "summary": "arXiv:2603.03432v1 Announce Type: new Abstract: We present the first systematic census of quenching mechanisms using kinematic asymmetries in a large sample of $\\sim$6,700 galaxies from the MaNGA survey, providing a unified view of what halts star formation in the local Universe…",
+      "published_at": "2026-03-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.03432",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Constraints on White Dwarf Hydrogen Layer Masses Using Gravitational Redshifts",
-      "summary": "arXiv:2603.02314v1 Announce Type: new Abstract: The hydrogen envelope is the outermost layer of a DA white dwarf; it makes up the entirety of the stellar photosphere, and yet its typical extent is difficult to model theoretically and remains poorly observationally constrained. As…",
-      "published_at": "2026-03-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.02314",
+      "title": "Tracing the AGN-Merger Connection: insights from cosmological simulations and JWST mock observations",
+      "summary": "arXiv:2603.03439v1 Announce Type: new Abstract: Galaxy mergers have long been proposed as a mechanism for funneling gas toward galactic centres, potentially triggering accretion onto supermassive black holes (SMBHs) and igniting active galactic nuclei (AGN). While simulations oft…",
+      "published_at": "2026-03-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.03439",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Role of the Heliosphere in Shaping the Observed Cosmic Ray Spectral Anisotropy",
-      "summary": "arXiv:2603.02315v1 Announce Type: new Abstract: Experimental results by Milagro, HAWC, and ARGO-YBJ have observed variations in the energy spectrum of cosmic rays at TeV scales in different regions of the sky. These findings on the spectral anisotropy provide insights into cosmic…",
-      "published_at": "2026-03-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.02315",
+      "title": "CHEX-MATE: Are we getting cluster thermodynamics right?",
+      "summary": "arXiv:2603.03440v1 Announce Type: new Abstract: Galaxy clusters offer powerful insights into the large-scale structure of the Universe and the physics of baryons in hot state. Their scientific exploitation, however, hinges on our ability to accurately measure key thermodynamic pr…",
+      "published_at": "2026-03-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.03440",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Synthetic Spectral Library of Optically Thick Atmospheres for Little Red Dots",
-      "summary": "arXiv:2603.02317v1 Announce Type: new Abstract: Little Red Dots (LRDs) challenge conventional models of active galactic nuclei. At rest-optical-to-near-infrared (IR) wavelengths, these compact extragalactic objects show blackbody-like continuum emission and spectral features remi…",
-      "published_at": "2026-03-04T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.02317",
+      "title": "Cosmology with the line-of-sight shear of strong gravitational lenses",
+      "summary": "arXiv:2603.03441v1 Announce Type: new Abstract: Stage-IV photometric galaxy surveys are designed to measure the position and shapes of billions of galaxies. Their aim is to characterise the large-scale distribution of matter in the Universe using galaxy clustering and weak gravit…",
+      "published_at": "2026-03-05T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.03441",
       "tags": [
         "arxiv",
         "astro-ph"
