@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-05T11:07:33Z",
+  "generated_at": "2026-03-06T11:02:47Z",
   "items": [
     {
-      "title": "Benchmarking pre-main sequence stellar evolutionary tracks using disk-based dynamical stellar masses",
-      "summary": "arXiv:2603.03422v1 Announce Type: new Abstract: Stellar masses are a fundamental property to understand models of pre-main sequence evolution, but their values derived from Hertzsprung-Russell (HR) diagrams are strongly model dependent. We benchmark pre-main sequence stellar evol…",
-      "published_at": "2026-03-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.03422",
+      "title": "Parameter estimation of eccentric massive black hole binaries with LISA and its cosmological implications",
+      "summary": "arXiv:2603.04462v1 Announce Type: new Abstract: Future space-based gravitational wave (GW) observatories such as LISA will detect massive black hole binaries (MBHBs), which are expected to be accompanied by electromagnetic counterparts, thereby providing bright standard sirens fo…",
+      "published_at": "2026-03-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.04462",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Mature but Still Growing: JWST Detection of the Earliest Intracluster Light at z ~ 2",
-      "summary": "arXiv:2603.03427v1 Announce Type: new Abstract: We present a JWST analysis of intracluster light (ICL) in XLSSC 122 at z = 1.98, currently the most distant known strong lensing galaxy cluster with an evolved member population. Using deep JWST imaging complemented by HST data and…",
-      "published_at": "2026-03-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.03427",
+      "title": "SNAPPY CubeSat Control Script Generation and Data File Processing",
+      "summary": "arXiv:2603.04467v1 Announce Type: new Abstract: This is a document discussing the creation and usage of a server system dedicated to retrieving, processing, and storing data generated from the Solar Neutrino and Astro-Particle PhYsics (SNAPPY) CubeSat by the nuSOL (Neutrino Solar…",
+      "published_at": "2026-03-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.04467",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The kinematic imprinting of environmental quenching in $z<0.2$ galaxies",
-      "summary": "arXiv:2603.03432v1 Announce Type: new Abstract: We present the first systematic census of quenching mechanisms using kinematic asymmetries in a large sample of $\\sim$6,700 galaxies from the MaNGA survey, providing a unified view of what halts star formation in the local Universe…",
-      "published_at": "2026-03-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.03432",
+      "title": "NASA's Pandora SmallSat Mission: Simulated Modeling and Retrieval of Near-Infrared Exoplanet Transmission Spectra",
+      "summary": "arXiv:2603.04488v1 Announce Type: new Abstract: Pandora is a SmallSat mission dedicated to understanding exoplanets and their host stars by disentangling the impact of stellar heterogeneity on exoplanet transmission spectra. Selected as a NASA Astrophysics Pioneers mission in 202…",
+      "published_at": "2026-03-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.04488",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Tracing the AGN-Merger Connection: insights from cosmological simulations and JWST mock observations",
-      "summary": "arXiv:2603.03439v1 Announce Type: new Abstract: Galaxy mergers have long been proposed as a mechanism for funneling gas toward galactic centres, potentially triggering accretion onto supermassive black holes (SMBHs) and igniting active galactic nuclei (AGN). While simulations oft…",
-      "published_at": "2026-03-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.03439",
+      "title": "The erasure of Galactic bar resonances by dark matter subhaloes",
+      "summary": "arXiv:2603.04490v1 Announce Type: new Abstract: In the context of increasing appreciation for the coupling between the Galactic bar and the halo, we introduce a new framework using stars trapped in resonance with the bar to probe the Galactic dark matter subhalo population. Since…",
+      "published_at": "2026-03-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.04490",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "CHEX-MATE: Are we getting cluster thermodynamics right?",
-      "summary": "arXiv:2603.03440v1 Announce Type: new Abstract: Galaxy clusters offer powerful insights into the large-scale structure of the Universe and the physics of baryons in hot state. Their scientific exploitation, however, hinges on our ability to accurately measure key thermodynamic pr…",
-      "published_at": "2026-03-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.03440",
+      "title": "When self-similarity meets mass spectrum and anisotropy",
+      "summary": "arXiv:2603.04492v1 Announce Type: new Abstract: Self-similar evolution is widely used in the theory of collisional stellar dynamics, but its applicability to systems with multiple stellar masses is not well established. We investigate the structural stability of self-similar evol…",
+      "published_at": "2026-03-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.04492",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Cosmology with the line-of-sight shear of strong gravitational lenses",
-      "summary": "arXiv:2603.03441v1 Announce Type: new Abstract: Stage-IV photometric galaxy surveys are designed to measure the position and shapes of billions of galaxies. Their aim is to characterise the large-scale distribution of matter in the Universe using galaxy clustering and weak gravit…",
-      "published_at": "2026-03-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2603.03441",
+      "title": "The Drivers of Cosmic Dust Temperature Evolution",
+      "summary": "arXiv:2603.04505v1 Announce Type: new Abstract: Observations of the rest-frame far-infrared (far-IR) emission of galaxies suggest a mild increase of dust temperature $T_{\\rm dust}$ with redshift, although constraining $T_{\\rm dust}$ in high-redshift systems remains challenging du…",
+      "published_at": "2026-03-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2603.04505",
       "tags": [
         "arxiv",
         "astro-ph"
