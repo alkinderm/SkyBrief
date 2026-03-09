@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-08T10:51:55Z",
+  "generated_at": "2026-03-09T11:09:30Z",
   "items": [
+    {
+      "title": "UK White Paper on Magnetohydrodynamic (MHD) seismology of solar and heliospheric plasmas",
+      "summary": "arXiv:2603.05571v1 Announce Type: new Abstract: Magnetohydrodynamic (MHD) seismology uses naturally occurring MHD waves to infer plasma properties that are otherwise hard to measure, especially magnetic field strength and topology, electric currents, fine structuring, transport c…",
+      "published_at": "2026-03-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.05571",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "ENhanced Galactic Atmospheres With Arepo: Resolving the CGM at 200 pc with the ENGAWA Simulations",
+      "summary": "arXiv:2603.05584v1 Announce Type: new Abstract: Simulating the small-scale features and dynamics of the circumgalactic medium (CGM) is computationally challenging due to its large volume, low densities, multiphase structure, and chaotic environmental effects. Traditional mass-bas…",
+      "published_at": "2026-03-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.05584",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The TESS All-Sky Rotation Survey: Periods for 944,056 Stars Within 500 pc",
+      "summary": "arXiv:2603.05586v1 Announce Type: new Abstract: Stellar rotation is a fundamental tracer of stellar magnetic evolution, age, and activity, with broad implications for Galactic archaeology and exoplanet characterization. The Transiting Exoplanet Survey Satellite (TESS) provides hi…",
+      "published_at": "2026-03-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.05586",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Predictions of Imminent Earth Impactors Discovered by LSST",
+      "summary": "arXiv:2603.05587v1 Announce Type: new Abstract: Imminent impactors are natural bodies discovered in space before impacting the Earth. They provide a rare opportunity to characterize individual near-Earth objects (NEOs) in great detail as asteroids in space, meteors in Earth's atm…",
+      "published_at": "2026-03-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.05587",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Radiation GRMHD Models of Accretion onto Stellar-Mass Black Holes: III. Near-Eddington Accretion",
+      "summary": "arXiv:2603.05588v1 Announce Type: new Abstract: We present a comprehensive analysis of four near-Eddington black hole accretion models computed by solving the GRMHD equations with full radiation transport. This study focuses on the dynamical effects of magnetic field topology and…",
+      "published_at": "2026-03-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.05588",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Extremely Large Telescope Interferometer",
+      "summary": "arXiv:2603.05589v1 Announce Type: new Abstract: The ELTI concept capitalizes on recent breakthroughs in large-format SPAD (Single-Photon Avalanche Diode) imaging sensors, combining them with the unprecedented collecting area and segmented architecture of the ELT to deliver a fund…",
+      "published_at": "2026-03-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.05589",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: NSF–DOE Vera C. Rubin Observatory Launches Real-Time Discovery Machine for Monitoring the Night Sky",
       "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin Observatory Launches Real-Time Monitoring of the Night Sky\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2605a.jpg\" />NSF–DOE Rubin Observatory has issued its first scienti…",
