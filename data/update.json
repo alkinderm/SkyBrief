@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-10T11:07:47Z",
+  "generated_at": "2026-03-11T11:07:15Z",
   "items": [
     {
-      "title": "Uncertainty-Aware Solar Flare Regression",
-      "summary": "arXiv:2603.06712v1 Announce Type: new Abstract: Current solar flare predictions often lack precise quantification of their reliability, resulting in frequent false alarms, particularly when dealing with datasets skewed towards extreme events. To improve the trustworthiness of spa…",
-      "published_at": "2026-03-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.06712",
+      "title": "unxt: A Python package for unit-aware computing with JAX",
+      "summary": "arXiv:2603.08770v1 Announce Type: new Abstract: unxt is a Python package for unit-aware computing with JAX. unxt is built on top of quax, which provides a framework for building array-like objects that can be used with JAX. unxt extends quax to provide support for unit-aware comp…",
+      "published_at": "2026-03-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.08770",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The Cluster Evolutionary Reference Ensemble at Low-$z$ (CEREAL) Sample of Galaxy Clusters I: X-ray Morphological Properties and Demographics",
-      "summary": "arXiv:2603.06785v1 Announce Type: new Abstract: With rapid improvements in the assembly of large samples of galaxy clusters, we are approaching the ability to study clusters at $z\\gtrsim2$. Evolutionary studies comparing these distant clusters to the clusters in our local univers…",
-      "published_at": "2026-03-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.06785",
+      "title": "A second visit to Eps Ind Ab with JWST: new photometry confirms ammonia and suggests thick clouds in the exoplanet atmosphere of the closest…",
+      "summary": "arXiv:2603.08780v1 Announce Type: new Abstract: With JWST, we are directly imaging cold (~200-300K), solar-age giant exoplanets for the first time. At these temperatures many molecular features appear and water-ice clouds may condense and affect the emission spectrum; early photo…",
+      "published_at": "2026-03-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.08780",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Thermalization of Neutrinos in a Neutron Star Merger Simulation",
-      "summary": "arXiv:2603.06788v1 Announce Type: new Abstract: We study the neutrino distributions that arise in a simulation of a neutron star merger that uses a Monte Carlo (MC) neutrino transport scheme. In a snapshot taken 1 ms after merger, we calculate relevant observables to test when ne…",
-      "published_at": "2026-03-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.06788",
+      "title": "Binary Black Holes population synthesis based on the current LVK observations",
+      "summary": "arXiv:2603.08785v1 Announce Type: new Abstract: The ongoing observations from ground based gravitational-wave observatories have led to the detection of more than a hundred merger events between black holes. We use the LIGO-Virgo-KAGRA (LVK) observations from 2015 to early 2024,…",
+      "published_at": "2026-03-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.08785",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Enhanced Neutrino Cooling from Parity-Doubled Nucleons in Neutron Star Cooling Simulations",
-      "summary": "arXiv:2603.06789v1 Announce Type: new Abstract: Although restoration of chiral symmetry is predicted by quantum chromodynamics to take place at high baryon density, most modeling of neutron star interiors disregards a chiral phase transition. We model neutron star cores with a pa…",
-      "published_at": "2026-03-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.06789",
+      "title": "Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for $\\epsilon$ Ind Ab",
+      "summary": "arXiv:2603.08787v1 Announce Type: new Abstract: We present new JWST/NIRCam 4-5 $\\mu$m (F410M, F430M) and JWST/MIRI 18-25 $\\mu$m (F1800W, F2100W, F2550W) imaging detections of the nearby (3.6 pc) cold (275 K) gas giant exoplanet $\\epsilon$ Ind Ab. The F2550W detection of $\\epsilon…",
+      "published_at": "2026-03-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.08787",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Binary Populations of Stellar Streams are Set by Cluster Dynamics",
-      "summary": "arXiv:2603.06790v1 Announce Type: new Abstract: We present a suite of direct N-body simulations of low mass ($<10^4~M_{\\odot}$) globular cluster streams initialized with observationally-motivated binary demographics in order to understand the effect of in-cluster dynamical proces…",
-      "published_at": "2026-03-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.06790",
+      "title": "Quantifying the Milky Way, LMC and their interaction using all-sky kinematics of outer halo stars",
+      "summary": "arXiv:2603.08788v1 Announce Type: new Abstract: The recent pericentric passage of the Large Magellanic Cloud (LMC) through the Milky Way (MW) has dislodged its centre of mass, inducing a state of dynamical disequilibrium, the reflex motion, in the kinematics of outer stellar halo…",
+      "published_at": "2026-03-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.08788",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A differentiable and optimizable 3D model for interpretation of observed spectral data cubes",
-      "summary": "arXiv:2603.06791v1 Announce Type: new Abstract: Molecular spectral cubes of prestellar cores encode the information on the physical and chemical properties of these objects along the line of sight. To retrieve this information, we need an interpretable model that reproduces the o…",
-      "published_at": "2026-03-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.06791",
+      "title": "Gamma-ray Signatures of r-Process Radioactivity from the Collapse of Magnetized White Dwarfs",
+      "summary": "arXiv:2603.08792v1 Announce Type: new Abstract: We predict the gamma-ray line emission from $r$-process nuclei synthesized in the ejecta of the accretion-induced collapse (AIC) of a magnetized, rapidly rotating white dwarf. Using ejecta from a two-dimensional general-relativistic…",
+      "published_at": "2026-03-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.08792",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Organization Release: First NSF NOIRLab Follow-Up Observations Triggered by NSF–DOE Rubin Alerts",
+      "summary": "<img align=\"left\" alt=\"NSF NOIRLab follow-up ecosystem\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2606a.jpg\" />NSF NOIRLab, funded by the U.S. National Science Foundation, has completed end-to-end runs of i…",
+      "published_at": "2026-03-10T19:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2606/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Artist’s illustration of asteroid 2025 MN45\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2601a.jpg\" />Astronomers analyzing data from NSF–DOE Vera C. Rubin Observatory, jointly funded b…",
       "published_at": "2026-01-07T17:15:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2601/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Organization Release: New Public Science Center Opens at Kitt Peak National Observatory",
-      "summary": "<img align=\"left\" alt=\"Opening of the Windows on the Universe Center for Astronomy Outreach, the first science center located inside a telescope\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2534a.jpg\" />Windo…",
-      "published_at": "2025-12-17T16:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2534/",
       "tags": [
         "noirlab"
       ],
