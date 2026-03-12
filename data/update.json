@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-11T11:07:15Z",
+  "generated_at": "2026-03-12T11:07:24Z",
   "items": [
     {
-      "title": "unxt: A Python package for unit-aware computing with JAX",
-      "summary": "arXiv:2603.08770v1 Announce Type: new Abstract: unxt is a Python package for unit-aware computing with JAX. unxt is built on top of quax, which provides a framework for building array-like objects that can be used with JAX. unxt extends quax to provide support for unit-aware comp…",
-      "published_at": "2026-03-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.08770",
+      "title": "The diagnostic temperature discrepancy as evidence for non-Maxwellian coronal electrons",
+      "summary": "arXiv:2603.10040v1 Announce Type: new Abstract: Two independent electron temperature diagnostics applied to the quiet solar corona yield systematically different results. Radio brightness temperatures from the Nancay Radioheliograph indicate T_e ~ 0.6 MK, while hydrostatic scale-…",
+      "published_at": "2026-03-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.10040",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A second visit to Eps Ind Ab with JWST: new photometry confirms ammonia and suggests thick clouds in the exoplanet atmosphere of the closest…",
-      "summary": "arXiv:2603.08780v1 Announce Type: new Abstract: With JWST, we are directly imaging cold (~200-300K), solar-age giant exoplanets for the first time. At these temperatures many molecular features appear and water-ice clouds may condense and affect the emission spectrum; early photo…",
-      "published_at": "2026-03-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.08780",
+      "title": "CHRONOS Science Program",
+      "summary": "arXiv:2603.10070v1 Announce Type: new Abstract: Cryogenic sub-Hz cROss torsion-bar detector with quantum NOn-demolition Speed meter(CHRONOS) is a proposed next-generation ground-based gravitational-wave observatory designed to explore the sub-Hz frequency band with unprecedented…",
+      "published_at": "2026-03-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.10070",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Binary Black Holes population synthesis based on the current LVK observations",
-      "summary": "arXiv:2603.08785v1 Announce Type: new Abstract: The ongoing observations from ground based gravitational-wave observatories have led to the detection of more than a hundred merger events between black holes. We use the LIGO-Virgo-KAGRA (LVK) observations from 2015 to early 2024,…",
-      "published_at": "2026-03-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.08785",
+      "title": "A test of the Dedalus software for exoplanet atmospheric dynamics",
+      "summary": "arXiv:2603.10076v1 Announce Type: new Abstract: Studying exoplanet flow and variability requires solving atmospheric dynamics equations accurately. Here we use the shallow-water equations to evaluate and employ Dedalus3, a spectral method-based software package for solving differ…",
+      "published_at": "2026-03-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.10076",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for $\\epsilon$ Ind Ab",
-      "summary": "arXiv:2603.08787v1 Announce Type: new Abstract: We present new JWST/NIRCam 4-5 $\\mu$m (F410M, F430M) and JWST/MIRI 18-25 $\\mu$m (F1800W, F2100W, F2550W) imaging detections of the nearby (3.6 pc) cold (275 K) gas giant exoplanet $\\epsilon$ Ind Ab. The F2550W detection of $\\epsilon…",
-      "published_at": "2026-03-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.08787",
+      "title": "A Kiloparsec-Scale Stellar Cavity in the Center of Abell402-BCG May be Caused by Dynamic Interactions with an Ultramassive Black Hole",
+      "summary": "arXiv:2603.10104v1 Announce Type: new Abstract: We present new observations from JWST NIRCam that reveal a striking kpc-wide cavity in the stellar distribution of the central galaxy in the cluster Abell402. Supporting data from HST allow us to rule out extinction due to dust as a…",
+      "published_at": "2026-03-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.10104",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Quantifying the Milky Way, LMC and their interaction using all-sky kinematics of outer halo stars",
-      "summary": "arXiv:2603.08788v1 Announce Type: new Abstract: The recent pericentric passage of the Large Magellanic Cloud (LMC) through the Milky Way (MW) has dislodged its centre of mass, inducing a state of dynamical disequilibrium, the reflex motion, in the kinematics of outer stellar halo…",
-      "published_at": "2026-03-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.08788",
+      "title": "The Cosmological Simulation Code OpenGadget3 -- Implementation of Self-Interacting Dark Matter",
+      "summary": "arXiv:2603.10107v1 Announce Type: new Abstract: Dark matter (DM) could be subject to non-gravitational self-interactions which is relevant to resolve potential problems of cold DM on small scales. Their impact on astrophysical objects such as galaxies and galaxy clusters allows f…",
+      "published_at": "2026-03-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.10107",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Gamma-ray Signatures of r-Process Radioactivity from the Collapse of Magnetized White Dwarfs",
-      "summary": "arXiv:2603.08792v1 Announce Type: new Abstract: We predict the gamma-ray line emission from $r$-process nuclei synthesized in the ejecta of the accretion-induced collapse (AIC) of a magnetized, rapidly rotating white dwarf. Using ejecta from a two-dimensional general-relativistic…",
-      "published_at": "2026-03-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.08792",
+      "title": "Right round: onset and long-term evolution of rotation in star clusters",
+      "summary": "arXiv:2603.10109v1 Announce Type: new Abstract: We present the results of a detailed kinematic analysis of a significant fraction of the known population of Galactic star clusters aimed at constraining the physical mechanisms driving the onset and evolution of cluster rotation. O…",
+      "published_at": "2026-03-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.10109",
       "tags": [
         "arxiv",
         "astro-ph"
