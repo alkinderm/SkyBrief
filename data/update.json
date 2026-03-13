@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-12T11:07:24Z",
+  "generated_at": "2026-03-13T11:04:50Z",
   "items": [
     {
-      "title": "The diagnostic temperature discrepancy as evidence for non-Maxwellian coronal electrons",
-      "summary": "arXiv:2603.10040v1 Announce Type: new Abstract: Two independent electron temperature diagnostics applied to the quiet solar corona yield systematically different results. Radio brightness temperatures from the Nancay Radioheliograph indicate T_e ~ 0.6 MK, while hydrostatic scale-…",
-      "published_at": "2026-03-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.10040",
+      "title": "Searching for Life-As-We-Don't-Know-It: Mission-relevant Application of Assembly Theory for Exoplanet Life Detection",
+      "summary": "arXiv:2603.11086v1 Announce Type: new Abstract: This white paper introduces a framework for applying Assembly Theory (AT) to planetary atmospheres as a biosignature framework suitable for the Habitable Worlds Observatory (HWO). AT quantifies the minimum combinatorial complexity r…",
+      "published_at": "2026-03-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.11086",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "CHRONOS Science Program",
-      "summary": "arXiv:2603.10070v1 Announce Type: new Abstract: Cryogenic sub-Hz cROss torsion-bar detector with quantum NOn-demolition Speed meter(CHRONOS) is a proposed next-generation ground-based gravitational-wave observatory designed to explore the sub-Hz frequency band with unprecedented…",
-      "published_at": "2026-03-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.10070",
+      "title": "SpectralUnmix: A Torch-Based Regularized Non-negative Matrix Factorization",
+      "summary": "arXiv:2603.11111v1 Announce Type: new Abstract: We present SpectralUnmix, an R package for regularized non-negative matrix factorization (NMF), implemented in torch with optional GPU acceleration. The package estimates low-rank non-negative representations through proximal-gradie…",
+      "published_at": "2026-03-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.11111",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A test of the Dedalus software for exoplanet atmospheric dynamics",
-      "summary": "arXiv:2603.10076v1 Announce Type: new Abstract: Studying exoplanet flow and variability requires solving atmospheric dynamics equations accurately. Here we use the shallow-water equations to evaluate and employ Dedalus3, a spectral method-based software package for solving differ…",
-      "published_at": "2026-03-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.10076",
+      "title": "The ocean worlds science case for the Pollux spectropolarimeter",
+      "summary": "arXiv:2603.11112v1 Announce Type: new Abstract: Pollux is a candidate European instrument contribution to the Habitable Worlds Observatory (HWO), designed to advance our understanding of the formation and evolution of cosmic structures in the universe, and specifically search sig…",
+      "published_at": "2026-03-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.11112",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Kiloparsec-Scale Stellar Cavity in the Center of Abell402-BCG May be Caused by Dynamic Interactions with an Ultramassive Black Hole",
-      "summary": "arXiv:2603.10104v1 Announce Type: new Abstract: We present new observations from JWST NIRCam that reveal a striking kpc-wide cavity in the stellar distribution of the central galaxy in the cluster Abell402. Supporting data from HST allow us to rule out extinction due to dust as a…",
-      "published_at": "2026-03-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.10104",
+      "title": "Martian concretion sizes predicted from two independently constrained inputs: atmospheric dust grain size and obliquity-forced wetting durat…",
+      "summary": "arXiv:2603.11143v1 Announce Type: new Abstract: Diagenetic concretions have been identified at multiple widely separated sites on Mars, including Meridiani Planum (Opportunity), Gale crater (Curiosity), and Jezero crater (Perseverance). Solid concretions at all sites fall within…",
+      "published_at": "2026-03-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.11143",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Cosmological Simulation Code OpenGadget3 -- Implementation of Self-Interacting Dark Matter",
-      "summary": "arXiv:2603.10107v1 Announce Type: new Abstract: Dark matter (DM) could be subject to non-gravitational self-interactions which is relevant to resolve potential problems of cold DM on small scales. Their impact on astrophysical objects such as galaxies and galaxy clusters allows f…",
-      "published_at": "2026-03-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.10107",
+      "title": "Masses of Potentially Habitable Planets Characterized by the Habitable Worlds Observatory",
+      "summary": "arXiv:2603.11146v1 Announce Type: new Abstract: Constraints on the masses of exoplanets directly imaged and characterized by the Habitable Worlds Observatory (HWO) are crucial for categorizing these planets and interpreting their spectra. In particular, achieving a mass measureme…",
+      "published_at": "2026-03-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.11146",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Right round: onset and long-term evolution of rotation in star clusters",
-      "summary": "arXiv:2603.10109v1 Announce Type: new Abstract: We present the results of a detailed kinematic analysis of a significant fraction of the known population of Galactic star clusters aimed at constraining the physical mechanisms driving the onset and evolution of cluster rotation. O…",
-      "published_at": "2026-03-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.10109",
+      "title": "AREPAS: A Resource for Exploring Protostellar Accretion Systems - Data Release I",
+      "summary": "arXiv:2603.11151v1 Announce Type: new Abstract: We present AREPAS, a visualization tool for the exploration of the first data release of the open library of magnetospheric accretion models for T Tauri Stars. The dataset covers the typical observed range of spectral types, mass ac…",
+      "published_at": "2026-03-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.11151",
       "tags": [
         "arxiv",
         "astro-ph"
