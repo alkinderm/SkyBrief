@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-15T10:57:44Z",
+  "generated_at": "2026-03-16T11:27:38Z",
   "items": [
+    {
+      "title": "A simulation-based inference of the Milky Way merger history",
+      "summary": "arXiv:2603.12317v1 Announce Type: new Abstract: Accreted stars in the Milky Way (MW) preserve information about the progenitor galaxies where they formed in their chemical and kinematic properties. In this study, we use the chemo-dynamical signatures in the merger debris to appro…",
+      "published_at": "2026-03-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.12317",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Phenomenology of an Open Effective Field Theory of Dark Energy",
+      "summary": "arXiv:2603.12321v1 Announce Type: new Abstract: All observational evidence for dark matter and dark energy is so far exclusively gravitational. Hence, the dark sector may be equivalently described by a theory of the spacetime metric whose dynamics is affected by interactions with…",
+      "published_at": "2026-03-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.12321",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Simulating AGN wind feedback with variable feedback efficiencies in idealised disc galaxies",
+      "summary": "arXiv:2603.12322v1 Announce Type: new Abstract: Active Galactic Nucleus (AGN) feedback plays a critical role in galaxy formation and evolution. AGN-driven winds can significantly influence their host galaxies, although the details of their impact remain unclear. In this study, we…",
+      "published_at": "2026-03-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.12322",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Hot DOG Forged in FIRE: Nuclear and Starburst Spectral Decomposition of a Luminous Infrared Galaxy Simulation with a Resolved Dust Torus",
+      "summary": "arXiv:2603.12328v1 Announce Type: new Abstract: Ultraluminous infrared galaxies are powered by a combination of rapid star formation and active galactic nucleus (AGN) emission, but their relative importance is not always observationally clear. We study the galactic continuum spec…",
+      "published_at": "2026-03-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.12328",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Fast Fourier Transform evaluation of the Fresnel integral for gravitational-wave lensing",
+      "summary": "arXiv:2603.12333v1 Announce Type: new Abstract: Gravitational waves (GWs) exhibit wave-optics effects when their wavelength is comparable to the scale of the gravitational lens. This may occur in lensing from galactic subhalos in GWs emitted by binary black-hole mergers, and is g…",
+      "published_at": "2026-03-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.12333",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Probing Cosmology through Higher-Order CMB Lensing Statistics",
+      "summary": "arXiv:2603.12335v1 Announce Type: new Abstract: We investigate the cosmological information in higher-order statistics of the cosmic microwave background (CMB) lensing convergence field for a near-term experiment with noise properties similar to the Simons Observatory (SO). Using…",
+      "published_at": "2026-03-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.12335",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: First NSF NOIRLab Follow-Up Observations Triggered by NSF–DOE Rubin Alerts",
       "summary": "<img align=\"left\" alt=\"NSF NOIRLab follow-up ecosystem\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2606a.jpg\" />NSF NOIRLab, funded by the U.S. National Science Foundation, has completed end-to-end runs of i…",
