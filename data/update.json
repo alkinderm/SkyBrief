@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-16T11:27:38Z",
+  "generated_at": "2026-03-17T11:24:19Z",
   "items": [
     {
-      "title": "A simulation-based inference of the Milky Way merger history",
-      "summary": "arXiv:2603.12317v1 Announce Type: new Abstract: Accreted stars in the Milky Way (MW) preserve information about the progenitor galaxies where they formed in their chemical and kinematic properties. In this study, we use the chemo-dynamical signatures in the merger debris to appro…",
-      "published_at": "2026-03-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.12317",
+      "title": "Quasi-Periodic Fast-Mode Wave Trains Associated with the 2015-Jun-22 M6.5 Flare in AR~12371: Observations and 3D MHD Modeling",
+      "summary": "arXiv:2603.13456v1 Announce Type: new Abstract: Quasi-periodic fast-propagating (QFP) wave trains are a distinctive form of magnetohydrodynamic disturbance frequently observed in the solar corona. Yet their excitation mechanism and propagation characteristics are not well underst…",
+      "published_at": "2026-03-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.13456",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Phenomenology of an Open Effective Field Theory of Dark Energy",
-      "summary": "arXiv:2603.12321v1 Announce Type: new Abstract: All observational evidence for dark matter and dark energy is so far exclusively gravitational. Hence, the dark sector may be equivalently described by a theory of the spacetime metric whose dynamics is affected by interactions with…",
-      "published_at": "2026-03-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.12321",
+      "title": "Exploring the surface of HD 189733 via Doppler shadow analysis of planetary transits",
+      "summary": "arXiv:2603.13463v1 Announce Type: new Abstract: Transmission spectroscopy has greatly advanced the study of exoplanet atmospheres, but stellar surface heterogeneities can contaminate transit spectra. Characterising how stellar spectra vary across the stellar disc is therefore ess…",
+      "published_at": "2026-03-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.13463",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Simulating AGN wind feedback with variable feedback efficiencies in idealised disc galaxies",
-      "summary": "arXiv:2603.12322v1 Announce Type: new Abstract: Active Galactic Nucleus (AGN) feedback plays a critical role in galaxy formation and evolution. AGN-driven winds can significantly influence their host galaxies, although the details of their impact remain unclear. In this study, we…",
-      "published_at": "2026-03-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.12322",
+      "title": "A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST",
+      "summary": "arXiv:2603.13471v1 Announce Type: new Abstract: The discovery of galaxies with extremely strong nebular continuum emission at high redshifts provide novel, unique insights into the conditions under which the first super-massive stars formed. Here we identify a galaxy at redshift…",
+      "published_at": "2026-03-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.13471",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Hot DOG Forged in FIRE: Nuclear and Starburst Spectral Decomposition of a Luminous Infrared Galaxy Simulation with a Resolved Dust Torus",
-      "summary": "arXiv:2603.12328v1 Announce Type: new Abstract: Ultraluminous infrared galaxies are powered by a combination of rapid star formation and active galactic nucleus (AGN) emission, but their relative importance is not always observationally clear. We study the galactic continuum spec…",
-      "published_at": "2026-03-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.12328",
+      "title": "Primordial non-Gaussianity constraints on dissipative inflation",
+      "summary": "arXiv:2603.13473v1 Announce Type: new Abstract: Dissipative effects appear in many early-Universe scenarios, yet their universal observational signatures and systematic confrontation with data remain largely unexplored. We employ the Open Effective Field Theory of Inflation (Open…",
+      "published_at": "2026-03-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.13473",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Fast Fourier Transform evaluation of the Fresnel integral for gravitational-wave lensing",
-      "summary": "arXiv:2603.12333v1 Announce Type: new Abstract: Gravitational waves (GWs) exhibit wave-optics effects when their wavelength is comparable to the scale of the gravitational lens. This may occur in lensing from galactic subhalos in GWs emitted by binary black-hole mergers, and is g…",
-      "published_at": "2026-03-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.12333",
+      "title": "Critical slowing down and bulk viscosity in binary neutron star mergers",
+      "summary": "arXiv:2603.13474v1 Announce Type: new Abstract: Hydrodynamic simulations of neutron star mergers rely on the clear separation between the strong-interaction, weak-interaction, and hydrodynamic timescales. In this effective framework, weak Urca interactions are typically the slowe…",
+      "published_at": "2026-03-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.13474",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Probing Cosmology through Higher-Order CMB Lensing Statistics",
-      "summary": "arXiv:2603.12335v1 Announce Type: new Abstract: We investigate the cosmological information in higher-order statistics of the cosmic microwave background (CMB) lensing convergence field for a near-term experiment with noise properties similar to the Simons Observatory (SO). Using…",
-      "published_at": "2026-03-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.12335",
+      "title": "Implications of a Cosmogenic Origin of KM3-230213A for Ultra-High-Energy Protons",
+      "summary": "arXiv:2603.13476v1 Announce Type: new Abstract: A significant neutrino event with an estimated energy between $72\\,\\mathrm{PeV}$ and $2.6\\,\\mathrm{EeV}$ was recently observed by the KM3NeT experiment (KM3-230213A). When interpreted as cosmogenic in origin, this event can provide…",
+      "published_at": "2026-03-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.13476",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: Extremely Rare Second-Generation Star Discovered Inside Ancient Relic Dwarf Galaxy",
+      "summary": "<img align=\"left\" alt=\"Pictor II ultra-faint dwarf galaxy\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2607a.jpg\" />Discovered in the Pictor II dwarf galaxy, star PicII-503 has an extreme deficiency in iron —…",
+      "published_at": "2026-03-16T15:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2607/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Cloudy Disk Orbiting Distant Star\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2602a.jpg\" />Sweeping winds of vaporized metals have been found in a massive clou…",
       "published_at": "2026-01-21T17:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2602/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Spots Record-Breaking Asteroid in Pre-Survey Observations",
-      "summary": "<img align=\"left\" alt=\"Artist’s illustration of asteroid 2025 MN45\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2601a.jpg\" />Astronomers analyzing data from NSF–DOE Vera C. Rubin Observatory, jointly funded b…",
-      "published_at": "2026-01-07T17:15:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2601/",
       "tags": [
         "noirlab"
       ],
