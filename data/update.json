@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-17T11:24:19Z",
+  "generated_at": "2026-03-18T11:25:49Z",
   "items": [
     {
-      "title": "Quasi-Periodic Fast-Mode Wave Trains Associated with the 2015-Jun-22 M6.5 Flare in AR~12371: Observations and 3D MHD Modeling",
-      "summary": "arXiv:2603.13456v1 Announce Type: new Abstract: Quasi-periodic fast-propagating (QFP) wave trains are a distinctive form of magnetohydrodynamic disturbance frequently observed in the solar corona. Yet their excitation mechanism and propagation characteristics are not well underst…",
-      "published_at": "2026-03-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.13456",
+      "title": "\\texttt{py5vec}: a modular Python package for the 5-vector method to search for continuous gravitational waves",
+      "summary": "arXiv:2603.15703v1 Announce Type: new Abstract: We present \\texttt{py5vec}, a Python package for implementing and extending the 5-vector method, used to search for continuous gravitational wave (CW) signals. We also provide a comprehensive theoretical review of the 5-vector metho…",
+      "published_at": "2026-03-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.15703",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Exploring the surface of HD 189733 via Doppler shadow analysis of planetary transits",
-      "summary": "arXiv:2603.13463v1 Announce Type: new Abstract: Transmission spectroscopy has greatly advanced the study of exoplanet atmospheres, but stellar surface heterogeneities can contaminate transit spectra. Characterising how stellar spectra vary across the stellar disc is therefore ess…",
-      "published_at": "2026-03-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.13463",
+      "title": "Formation and relaxation of halos in the context of wave DM particles evolving on a background of neutrino condensate",
+      "summary": "arXiv:2603.15719v1 Announce Type: new Abstract: We investigate the formation and relaxation of dark matter halos in the context of wave dark matter particles evolving on a background of neutrino condensate. To this aim, we solved numerically the Schrodinger-Poisson system to mode…",
+      "published_at": "2026-03-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.15719",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A hot, nebular-dominated galaxy interacting with a pristine PopIII system uncovered by JWST",
-      "summary": "arXiv:2603.13471v1 Announce Type: new Abstract: The discovery of galaxies with extremely strong nebular continuum emission at high redshifts provide novel, unique insights into the conditions under which the first super-massive stars formed. Here we identify a galaxy at redshift…",
-      "published_at": "2026-03-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.13471",
+      "title": "AGILE: an end-to-end Rubin-LSST simulation of AGNs, galaxies, and stars I. Software description and first data release",
+      "summary": "arXiv:2603.15729v1 Announce Type: new Abstract: Contemporary large-scale surveys such as the Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) and Euclid present an unprecedented discovery potential for studying AGNs at the population level in the big data era. How…",
+      "published_at": "2026-03-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.15729",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Primordial non-Gaussianity constraints on dissipative inflation",
-      "summary": "arXiv:2603.13473v1 Announce Type: new Abstract: Dissipative effects appear in many early-Universe scenarios, yet their universal observational signatures and systematic confrontation with data remain largely unexplored. We employ the Open Effective Field Theory of Inflation (Open…",
-      "published_at": "2026-03-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.13473",
+      "title": "Field-Level Inference from Galaxies: BAO Reconstruction",
+      "summary": "arXiv:2603.15732v1 Announce Type: new Abstract: Baryon acoustic oscillations (BAO) underpin the key cosmological results from modern spectroscopic galaxy surveys, but nonlinear gravitational evolution limits the precision achievable with traditional analysis methods. To overcome…",
+      "published_at": "2026-03-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.15732",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Critical slowing down and bulk viscosity in binary neutron star mergers",
-      "summary": "arXiv:2603.13474v1 Announce Type: new Abstract: Hydrodynamic simulations of neutron star mergers rely on the clear separation between the strong-interaction, weak-interaction, and hydrodynamic timescales. In this effective framework, weak Urca interactions are typically the slowe…",
-      "published_at": "2026-03-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.13474",
+      "title": "Inferring the mass and size of 3I/ATLAS from its non-gravitational acceleration",
+      "summary": "arXiv:2603.15735v1 Announce Type: new Abstract: Observations of the interstellar object 3I/ATLAS have revealed a strong production of gas and dust near perihelion, together with rapid brightening. The outgassing from the nucleus has led to a detectable non-gravitational accelerat…",
+      "published_at": "2026-03-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.15735",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Implications of a Cosmogenic Origin of KM3-230213A for Ultra-High-Energy Protons",
-      "summary": "arXiv:2603.13476v1 Announce Type: new Abstract: A significant neutrino event with an estimated energy between $72\\,\\mathrm{PeV}$ and $2.6\\,\\mathrm{EeV}$ was recently observed by the KM3NeT experiment (KM3-230213A). When interpreted as cosmogenic in origin, this event can provide…",
-      "published_at": "2026-03-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.13476",
+      "title": "Halo assembly bias in the early Universe: a clustering probe of the origin of the Little Red Dots",
+      "summary": "arXiv:2603.15736v1 Announce Type: new Abstract: The clustering of galaxies encodes key information about the structure and assembly history of their host dark matter (DM) haloes, providing a powerful probe of the origin of extreme high-redshift systems. While halo assembly bias h…",
+      "published_at": "2026-03-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.15736",
       "tags": [
         "arxiv",
         "astro-ph"
