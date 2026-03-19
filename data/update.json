@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-18T11:25:49Z",
+  "generated_at": "2026-03-19T11:10:39Z",
   "items": [
     {
-      "title": "\\texttt{py5vec}: a modular Python package for the 5-vector method to search for continuous gravitational waves",
-      "summary": "arXiv:2603.15703v1 Announce Type: new Abstract: We present \\texttt{py5vec}, a Python package for implementing and extending the 5-vector method, used to search for continuous gravitational wave (CW) signals. We also provide a comprehensive theoretical review of the 5-vector metho…",
-      "published_at": "2026-03-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.15703",
+      "title": "A Minimal Four-Thruster System for Comet-Based Interstellar Navigation",
+      "summary": "arXiv:2603.16981v1 Announce Type: new Abstract: Interstellar comets arrive with key ingredients for deep-space platforms already in place: volatile inventories convertible to propellant, natural rotation providing continuous attitude variation, and hyperbolic trajectories that ca…",
+      "published_at": "2026-03-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.16981",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Formation and relaxation of halos in the context of wave DM particles evolving on a background of neutrino condensate",
-      "summary": "arXiv:2603.15719v1 Announce Type: new Abstract: We investigate the formation and relaxation of dark matter halos in the context of wave dark matter particles evolving on a background of neutrino condensate. To this aim, we solved numerically the Schrodinger-Poisson system to mode…",
-      "published_at": "2026-03-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.15719",
+      "title": "Trajectory Stability and Signature Diagnostics for Comet-Based Interstellar Navigation",
+      "summary": "arXiv:2603.16982v1 Announce Type: new Abstract: Interstellar objects (ISOs) motivate a coupled mission-design and inference question relevant to spacecraft dynamics and control in extreme environments: if volatile-rich, rotating comet-like bodies were used for sustained deep-spac…",
+      "published_at": "2026-03-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.16982",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "AGILE: an end-to-end Rubin-LSST simulation of AGNs, galaxies, and stars I. Software description and first data release",
-      "summary": "arXiv:2603.15729v1 Announce Type: new Abstract: Contemporary large-scale surveys such as the Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) and Euclid present an unprecedented discovery potential for studying AGNs at the population level in the big data era. How…",
-      "published_at": "2026-03-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.15729",
+      "title": "The birth of the intracluster medium: the evolution of multiphase gas and Lyman-$\\alpha$ haloes in a simulated $z\\sim3$ protocluster",
+      "summary": "arXiv:2603.16991v1 Announce Type: new Abstract: Galactic haloes host a complex, multiphase circumgalactic medium (CGM), and at high redshift are fed by cold, filamentary inflows. In contrast, mature galaxy clusters are dominated by a hot, enriched, X-ray emitting intracluster med…",
+      "published_at": "2026-03-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.16991",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Field-Level Inference from Galaxies: BAO Reconstruction",
-      "summary": "arXiv:2603.15732v1 Announce Type: new Abstract: Baryon acoustic oscillations (BAO) underpin the key cosmological results from modern spectroscopic galaxy surveys, but nonlinear gravitational evolution limits the precision achievable with traditional analysis methods. To overcome…",
-      "published_at": "2026-03-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.15732",
+      "title": "MIGHTEE-HI: Mass Models and Dark Matter properties",
+      "summary": "arXiv:2603.16992v1 Announce Type: new Abstract: Measuring galaxy rotation curves is critical for inferring the properties of dark-matter haloes in the Lambda Cold Dark Matter ($\\Lambda$CDM) paradigm. We present HI rotation curves and mass models for 20 galaxies from the MIGHTEE s…",
+      "published_at": "2026-03-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.16992",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Inferring the mass and size of 3I/ATLAS from its non-gravitational acceleration",
-      "summary": "arXiv:2603.15735v1 Announce Type: new Abstract: Observations of the interstellar object 3I/ATLAS have revealed a strong production of gas and dust near perihelion, together with rapid brightening. The outgassing from the nucleus has led to a detectable non-gravitational accelerat…",
-      "published_at": "2026-03-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.15735",
+      "title": "Ram-pressure-induced star formation in low-mass galaxies infalling on-to the Coma cluster: insights from DESI",
+      "summary": "arXiv:2603.16994v1 Announce Type: new Abstract: Ram-pressure stripping is a key driver of galaxy morphological transformation in clusters, contributing to the formation of quenched, especially dwarf, populations. Ram-pressure compression can also induce a starburst prior to quenc…",
+      "published_at": "2026-03-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.16994",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Halo assembly bias in the early Universe: a clustering probe of the origin of the Little Red Dots",
-      "summary": "arXiv:2603.15736v1 Announce Type: new Abstract: The clustering of galaxies encodes key information about the structure and assembly history of their host dark matter (DM) haloes, providing a powerful probe of the origin of extreme high-redshift systems. While halo assembly bias h…",
-      "published_at": "2026-03-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.15736",
+      "title": "Anti-Solar Differential Rotation May Have Revived Magnetic Braking in the Subgiant 31 Aquilae",
+      "summary": "arXiv:2603.17001v1 Announce Type: new Abstract: Recent observations have shown that sufficiently slow rotation disrupts the organization of large-scale magnetic field in older main-sequence stars, leading to weakened magnetic braking (WMB) and a collapse in the efficiency of the…",
+      "published_at": "2026-03-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.17001",
       "tags": [
         "arxiv",
         "astro-ph"
