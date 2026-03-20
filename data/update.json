@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-19T11:10:39Z",
+  "generated_at": "2026-03-20T11:05:23Z",
   "items": [
     {
-      "title": "A Minimal Four-Thruster System for Comet-Based Interstellar Navigation",
-      "summary": "arXiv:2603.16981v1 Announce Type: new Abstract: Interstellar comets arrive with key ingredients for deep-space platforms already in place: volatile inventories convertible to propellant, natural rotation providing continuous attitude variation, and hyperbolic trajectories that ca…",
-      "published_at": "2026-03-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.16981",
+      "title": "Probing the magnetic field of a coronal mass ejection with PSR J1022+1001",
+      "summary": "arXiv:2603.18051v1 Announce Type: new Abstract: We investigate whether low-frequency pulsar observations can provide LoS magnetic field estimates and whether these are consistent with synthetic LoS signatures extracted from a three-dimensional CME reconstruction constrained by So…",
+      "published_at": "2026-03-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.18051",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Trajectory Stability and Signature Diagnostics for Comet-Based Interstellar Navigation",
-      "summary": "arXiv:2603.16982v1 Announce Type: new Abstract: Interstellar objects (ISOs) motivate a coupled mission-design and inference question relevant to spacecraft dynamics and control in extreme environments: if volatile-rich, rotating comet-like bodies were used for sustained deep-spac…",
-      "published_at": "2026-03-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.16982",
+      "title": "Investigation of Venus' thermal history, crustal evolution, and core dynamics with a coupled interior-lithosphere-atmosphere model",
+      "summary": "arXiv:2603.18070v1 Announce Type: new Abstract: We simulate Venus' evolution with a coupled one-dimensional solar-atmosphere-lithosphere-mantle-core model to predict currently unobservable features and its eruptive mass flux. We identified four distinct evolutionary pathways that…",
+      "published_at": "2026-03-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.18070",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The birth of the intracluster medium: the evolution of multiphase gas and Lyman-$\\alpha$ haloes in a simulated $z\\sim3$ protocluster",
-      "summary": "arXiv:2603.16991v1 Announce Type: new Abstract: Galactic haloes host a complex, multiphase circumgalactic medium (CGM), and at high redshift are fed by cold, filamentary inflows. In contrast, mature galaxy clusters are dominated by a hot, enriched, X-ray emitting intracluster med…",
-      "published_at": "2026-03-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.16991",
+      "title": "Fluxes of Generic Extreme-Mass-Ratio Inspirals with a Spinning Secondary",
+      "summary": "arXiv:2603.18075v1 Announce Type: new Abstract: Extreme mass-ratio inspirals (EMRIs), comprising a stellar-mass compact object (CO) orbiting a supermassive black hole (BH), are key targets for future space-based gravitational-wave (GW) observatories. Incorporating the spin of the…",
+      "published_at": "2026-03-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.18075",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "MIGHTEE-HI: Mass Models and Dark Matter properties",
-      "summary": "arXiv:2603.16992v1 Announce Type: new Abstract: Measuring galaxy rotation curves is critical for inferring the properties of dark-matter haloes in the Lambda Cold Dark Matter ($\\Lambda$CDM) paradigm. We present HI rotation curves and mass models for 20 galaxies from the MIGHTEE s…",
-      "published_at": "2026-03-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.16992",
+      "title": "Discovery of Bimodal Drift Rate Structure in FRB 20240114A: Evidence for Dual Emission Regions",
+      "summary": "arXiv:2603.18109v1 Announce Type: new Abstract: We report the discovery of bimodal structure in the drift rate distribution of upward-drifting burst clusters from the hyperactive repeating fast radio burst FRB 20240114A. Using unsupervised machine learning (UMAP dimensionality re…",
+      "published_at": "2026-03-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.18109",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Ram-pressure-induced star formation in low-mass galaxies infalling on-to the Coma cluster: insights from DESI",
-      "summary": "arXiv:2603.16994v1 Announce Type: new Abstract: Ram-pressure stripping is a key driver of galaxy morphological transformation in clusters, contributing to the formation of quenched, especially dwarf, populations. Ram-pressure compression can also induce a starburst prior to quenc…",
-      "published_at": "2026-03-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.16994",
+      "title": "Probing Kerr black hole in a uniform Bertotti-Robinson magnetic field through astrophysical quasi-periodic oscillations",
+      "summary": "arXiv:2603.18129v1 Announce Type: new Abstract: In this study, the behavior of high-frequency quasi-periodic oscillations (QPOs) is investigated around a Kerr black hole immersed in a uniform Bertotti-Robinson magnetic field. The motion of the test particle is analyzed by determi…",
+      "published_at": "2026-03-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.18129",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Anti-Solar Differential Rotation May Have Revived Magnetic Braking in the Subgiant 31 Aquilae",
-      "summary": "arXiv:2603.17001v1 Announce Type: new Abstract: Recent observations have shown that sufficiently slow rotation disrupts the organization of large-scale magnetic field in older main-sequence stars, leading to weakened magnetic braking (WMB) and a collapse in the efficiency of the…",
-      "published_at": "2026-03-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.17001",
+      "title": "High-redshift physics from the acoustic scale",
+      "summary": "arXiv:2603.18131v1 Announce Type: new Abstract: We present a simplified and general description of the high-redshift information in acoustic scale measurements from the cosmic microwave background and large-scale structure. The transverse distance interval between photon--baryon…",
+      "published_at": "2026-03-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.18131",
       "tags": [
         "arxiv",
         "astro-ph"
