@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-22T10:54:32Z",
+  "generated_at": "2026-03-23T11:24:39Z",
   "items": [
+    {
+      "title": "Cosmological constraints from the DESI DR1 joint power spectrum and bispectrum analysis",
+      "summary": "arXiv:2603.19356v1 Announce Type: new Abstract: We derive cosmological parameter constraints from the Dark Energy Spectroscopic Instrument (DESI) Data Release 1 (DR1) galaxy clustering data, based on a joint full-shape analysis of the power spectrum multipoles and the bispectrum…",
+      "published_at": "2026-03-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.19356",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Survival of the most compact: the life and death of satellite halos in self-interacting dark matter",
+      "summary": "arXiv:2603.19362v1 Announce Type: new Abstract: Self-interacting dark matter (SIDM) models feature short-range interactions between dark matter (DM) particles that lead to larger diversity in the inner parts of galactic rotation curves and potentially unique gravitational lensing…",
+      "published_at": "2026-03-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.19362",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Revisiting the Milky Way stellar long bar and the 3 kpc arm",
+      "summary": "arXiv:2603.19367v1 Announce Type: new Abstract: CONTEXT. One of the most difficult and unexplored regions of the Milky Way is the highly extincted in-plane central region within the Galactic coordinates $10^\\circ \\lesssim |\\ell |\\lesssim 30^\\circ $, $|b|\\lesssim 3^\\circ $, where…",
+      "published_at": "2026-03-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.19367",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Impact of subhalo dynamical friction heating on the formation of the first structures in the universe",
+      "summary": "arXiv:2603.19385v1 Announce Type: new Abstract: We present a model for gas heating, driven by dynamical friction from orbiting subhalos within dark matter halos. Using data from the TNG50 simulation, we derive the subhalo mass function and calculate the dynamical friction heating…",
+      "published_at": "2026-03-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.19385",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Planetary Illusion's Funeral: Non-detection of a Gaia DR3 Exoplanet Candidate, and the Role of Intermediate-precision Radial Velocities in…",
+      "summary": "arXiv:2603.19402v1 Announce Type: new Abstract: The detection of exoplanets using astrometry has long been an area of interest, but is fraught with challenges. The Gaia mission is fundamentally reshaping this field thanks to its unprecedentedly precise all-sky astrometric observa…",
+      "published_at": "2026-03-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.19402",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Flux-Averaged Force Multipliers",
+      "summary": "arXiv:2603.19441v1 Announce Type: new Abstract: We apply novel developments in photoionization modeling and multi-frequency radiation hydrodynamics to the study of line driven AGN disc winds. We use a flux-averaged force multiplier approach to compute the radiation force due to l…",
+      "published_at": "2026-03-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.19441",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Extremely Rare Second-Generation Star Discovered Inside Ancient Relic Dwarf Galaxy",
       "summary": "<img align=\"left\" alt=\"Pictor II ultra-faint dwarf galaxy\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2607a.jpg\" />Discovered in the Pictor II dwarf galaxy, star PicII-503 has an extreme deficiency in iron —…",
