@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-23T11:24:39Z",
+  "generated_at": "2026-03-24T11:25:03Z",
   "items": [
     {
-      "title": "Cosmological constraints from the DESI DR1 joint power spectrum and bispectrum analysis",
-      "summary": "arXiv:2603.19356v1 Announce Type: new Abstract: We derive cosmological parameter constraints from the Dark Energy Spectroscopic Instrument (DESI) Data Release 1 (DR1) galaxy clustering data, based on a joint full-shape analysis of the power spectrum multipoles and the bispectrum…",
-      "published_at": "2026-03-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.19356",
+      "title": "Degeneracy in Accretion Disk Spectra from Naked Singularities and Kerr Black Holes: Application to the AGN MCG-06-30-15",
+      "summary": "arXiv:2603.20282v1 Announce Type: new Abstract: Theoretical studies suggest that gravitational collapse can form either a black hole or a visible (naked) singularity. Identifying observational signatures that distinguish these two types of collapsed objects is a holy grail of phy…",
+      "published_at": "2026-03-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.20282",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Survival of the most compact: the life and death of satellite halos in self-interacting dark matter",
-      "summary": "arXiv:2603.19362v1 Announce Type: new Abstract: Self-interacting dark matter (SIDM) models feature short-range interactions between dark matter (DM) particles that lead to larger diversity in the inner parts of galactic rotation curves and potentially unique gravitational lensing…",
-      "published_at": "2026-03-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.19362",
+      "title": "Advanced Virgo Plus for O5 -- Design Report Overview",
+      "summary": "arXiv:2603.20342v1 Announce Type: new Abstract: This document presents an overview of the design, implementation, and expected performance of the Advanced Virgo Plus (AdV+) upgrades in view of the O5 observing run. Following the experience gained during the O4 commissioning and o…",
+      "published_at": "2026-03-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.20342",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Revisiting the Milky Way stellar long bar and the 3 kpc arm",
-      "summary": "arXiv:2603.19367v1 Announce Type: new Abstract: CONTEXT. One of the most difficult and unexplored regions of the Milky Way is the highly extincted in-plane central region within the Galactic coordinates $10^\\circ \\lesssim |\\ell |\\lesssim 30^\\circ $, $|b|\\lesssim 3^\\circ $, where…",
-      "published_at": "2026-03-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.19367",
+      "title": "GA-NIFS & JADES: Confirmation of pristine gas near GN-z11",
+      "summary": "arXiv:2603.20360v1 Announce Type: new Abstract: According to the leading cosmological model, a first generation of stars called Population III (PopIII), condensed almost entirely out of hydrogen and helium, must have initiated the creation of all heavier chemical elements. Here w…",
+      "published_at": "2026-03-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.20360",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Impact of subhalo dynamical friction heating on the formation of the first structures in the universe",
-      "summary": "arXiv:2603.19385v1 Announce Type: new Abstract: We present a model for gas heating, driven by dynamical friction from orbiting subhalos within dark matter halos. Using data from the TNG50 simulation, we derive the subhalo mass function and calculate the dynamical friction heating…",
-      "published_at": "2026-03-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.19385",
+      "title": "The search for Population III: Confirmation of a HeII emitter with no metal lines at z=10.6",
+      "summary": "arXiv:2603.20362v1 Announce Type: new Abstract: We report the confirmation of a HeII$\\lambda$1640 emitter located at 3 pkpc from the galaxy GN-z11, at z=10.6. The detection, based on JWST NIRSpec-IFU high-resolution spectroscopy, confirms a previous claim based on medium-resoluti…",
+      "published_at": "2026-03-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.20362",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A Planetary Illusion's Funeral: Non-detection of a Gaia DR3 Exoplanet Candidate, and the Role of Intermediate-precision Radial Velocities in…",
-      "summary": "arXiv:2603.19402v1 Announce Type: new Abstract: The detection of exoplanets using astrometry has long been an area of interest, but is fraught with challenges. The Gaia mission is fundamentally reshaping this field thanks to its unprecedentedly precise all-sky astrometric observa…",
-      "published_at": "2026-03-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.19402",
+      "title": "The Pristine HeII Emitter near GN-z11: Constraining the Mass Distribution of the First Stars",
+      "summary": "arXiv:2603.20363v1 Announce Type: new Abstract: The properties of the first metal-free stars remain largely unknown, and so far, the only data-driven constraints on their mass distribution (IMF) come from near-field cosmology. Here, we interpret new observations of the C1 and C2…",
+      "published_at": "2026-03-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.20363",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Flux-Averaged Force Multipliers",
-      "summary": "arXiv:2603.19441v1 Announce Type: new Abstract: We apply novel developments in photoionization modeling and multi-frequency radiation hydrodynamics to the study of line driven AGN disc winds. We use a flux-averaged force multiplier approach to compute the radiation force due to l…",
-      "published_at": "2026-03-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.19441",
+      "title": "Probing Atomic Dark Matter with Stellar Streams in Milky Way-Mass Galaxies",
+      "summary": "arXiv:2603.20367v1 Announce Type: new Abstract: We present the first detailed analysis of the effects of dissipative dark matter on stellar streams. As a concrete example, we generate a cosmological hydrodynamic zoom-in simulation of a Milky Way-mass galaxy, assuming that the dar…",
+      "published_at": "2026-03-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.20367",
       "tags": [
         "arxiv",
         "astro-ph"
