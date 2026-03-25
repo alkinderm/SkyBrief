@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-24T11:25:03Z",
+  "generated_at": "2026-03-25T11:23:17Z",
   "items": [
     {
-      "title": "Degeneracy in Accretion Disk Spectra from Naked Singularities and Kerr Black Holes: Application to the AGN MCG-06-30-15",
-      "summary": "arXiv:2603.20282v1 Announce Type: new Abstract: Theoretical studies suggest that gravitational collapse can form either a black hole or a visible (naked) singularity. Identifying observational signatures that distinguish these two types of collapsed objects is a holy grail of phy…",
-      "published_at": "2026-03-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.20282",
+      "title": "High-resolution near-IR spectroscopy of the B[e] supergiant LHA 115-S 18: discovery of hot water vapor emission",
+      "summary": "arXiv:2603.22334v1 Announce Type: new Abstract: The post-main-sequence evolution of massive stars involves phases of intense, often eruptive mass loss, including the B[e] supergiant phase. These hot stars are surrounded by cool, dense circumstellar disks that host complex chemist…",
+      "published_at": "2026-03-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.22334",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Advanced Virgo Plus for O5 -- Design Report Overview",
-      "summary": "arXiv:2603.20342v1 Announce Type: new Abstract: This document presents an overview of the design, implementation, and expected performance of the Advanced Virgo Plus (AdV+) upgrades in view of the O5 observing run. Following the experience gained during the O4 commissioning and o…",
-      "published_at": "2026-03-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.20342",
+      "title": "LISA science ground segment conventions",
+      "summary": "arXiv:2603.22377v1 Announce Type: new Abstract: This document sets out the conventions used for data simulations, waveforms, and analysis pipelines within the Distributed Data Processing Centre (DDPC) of the Laser Interferometer Space Antenna (LISA). It can also be considered a b…",
+      "published_at": "2026-03-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.22377",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "GA-NIFS & JADES: Confirmation of pristine gas near GN-z11",
-      "summary": "arXiv:2603.20360v1 Announce Type: new Abstract: According to the leading cosmological model, a first generation of stars called Population III (PopIII), condensed almost entirely out of hydrogen and helium, must have initiated the creation of all heavier chemical elements. Here w…",
-      "published_at": "2026-03-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.20360",
+      "title": "SDSS-V LVM: A spatially resolved study of the physical conditions and the chemical abundance discrepancy in the Lagoon Nebula (M 8)",
+      "summary": "arXiv:2603.22382v1 Announce Type: new Abstract: The abundance discrepancy problem refers to the systematic differences observed between chemical abundances derived from collisionally excited lines (CELs) and recombination lines (RLs) of heavy ions. It remains a major unsolved pro…",
+      "published_at": "2026-03-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.22382",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The search for Population III: Confirmation of a HeII emitter with no metal lines at z=10.6",
-      "summary": "arXiv:2603.20362v1 Announce Type: new Abstract: We report the confirmation of a HeII$\\lambda$1640 emitter located at 3 pkpc from the galaxy GN-z11, at z=10.6. The detection, based on JWST NIRSpec-IFU high-resolution spectroscopy, confirms a previous claim based on medium-resoluti…",
-      "published_at": "2026-03-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.20362",
+      "title": "Shaping the diffuse X-ray sky: Structure, Variability and Visibility",
+      "summary": "arXiv:2603.22392v1 Announce Type: new Abstract: The Local Bubble (LB) is a hot, low-density cavity in the solar neighborhood, inside which the Solar System is currently located. The X-ray emission from such bubbles is strongly governed by the gas density, temperature, and the eff…",
+      "published_at": "2026-03-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.22392",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Pristine HeII Emitter near GN-z11: Constraining the Mass Distribution of the First Stars",
-      "summary": "arXiv:2603.20363v1 Announce Type: new Abstract: The properties of the first metal-free stars remain largely unknown, and so far, the only data-driven constraints on their mass distribution (IMF) come from near-field cosmology. Here, we interpret new observations of the C1 and C2…",
-      "published_at": "2026-03-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.20363",
+      "title": "MEOW: The increase in the obscured AGN fraction in mid-infrared from 0 < z < 6 with JWST MIRI",
+      "summary": "arXiv:2603.22393v1 Announce Type: new Abstract: Obscured active galactic nuclei (AGN) are often invoked to explain the rapid emergence of young quasars at high redshift and are crucial for building a complete census of AGN activity and black hole growth. The advent of the James W…",
+      "published_at": "2026-03-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.22393",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Probing Atomic Dark Matter with Stellar Streams in Milky Way-Mass Galaxies",
-      "summary": "arXiv:2603.20367v1 Announce Type: new Abstract: We present the first detailed analysis of the effects of dissipative dark matter on stellar streams. As a concrete example, we generate a cosmological hydrodynamic zoom-in simulation of a Milky Way-mass galaxy, assuming that the dar…",
-      "published_at": "2026-03-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.20367",
+      "title": "Second Order Closures for the Radiative Transfer Equation: Some Are Unstable",
+      "summary": "arXiv:2603.22400v1 Announce Type: new Abstract: The largest existing simulations of cosmic reionization model radiative transfer with moment methods that require a closure relation. The two most commonly used closure relations are M1 and OTVET; both close the moment hierarchy at…",
+      "published_at": "2026-03-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.22400",
       "tags": [
         "arxiv",
         "astro-ph"
