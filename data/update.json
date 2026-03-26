@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-25T11:23:17Z",
+  "generated_at": "2026-03-26T11:28:13Z",
   "items": [
     {
-      "title": "High-resolution near-IR spectroscopy of the B[e] supergiant LHA 115-S 18: discovery of hot water vapor emission",
-      "summary": "arXiv:2603.22334v1 Announce Type: new Abstract: The post-main-sequence evolution of massive stars involves phases of intense, often eruptive mass loss, including the B[e] supergiant phase. These hot stars are surrounded by cool, dense circumstellar disks that host complex chemist…",
-      "published_at": "2026-03-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.22334",
+      "title": "Orbital Debris in Earth Orbit: Operations, Stability, Control, and Market Formation",
+      "summary": "arXiv:2603.23552v1 Announce Type: new Abstract: Orbital debris in Earth orbit is not adequately described as a static inventory problem. It is a coupled operations-stability problem governed by shell occupancy, collision kernel, breakup severity, and orbital residence time. The n…",
+      "published_at": "2026-03-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.23552",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "LISA science ground segment conventions",
-      "summary": "arXiv:2603.22377v1 Announce Type: new Abstract: This document sets out the conventions used for data simulations, waveforms, and analysis pipelines within the Distributed Data Processing Centre (DDPC) of the Laser Interferometer Space Antenna (LISA). It can also be considered a b…",
-      "published_at": "2026-03-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.22377",
+      "title": "A Physical Classification of Exoplanet Thermal Environments: Stellar Irradiation versus Tidal Heating",
+      "summary": "arXiv:2603.23557v1 Announce Type: new Abstract: In this study, we introduce a physical framework to analyse and classify the thermal regimes governed by tidal heating and stellar irradiation. Although all planetary systems are exposed to stellar radiation, this source is not alwa…",
+      "published_at": "2026-03-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.23557",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "SDSS-V LVM: A spatially resolved study of the physical conditions and the chemical abundance discrepancy in the Lagoon Nebula (M 8)",
-      "summary": "arXiv:2603.22382v1 Announce Type: new Abstract: The abundance discrepancy problem refers to the systematic differences observed between chemical abundances derived from collisionally excited lines (CELs) and recombination lines (RLs) of heavy ions. It remains a major unsolved pro…",
-      "published_at": "2026-03-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.22382",
+      "title": "Derivation of the Kompaneets equation using the boost operator approach",
+      "summary": "arXiv:2603.23572v1 Announce Type: new Abstract: The repeated scattering of photons by thermal electrons at low temperatures is described by the Kompaneets equation and its generalized forms that include anisotropies and higher order temperature corrections. In this work, we use t…",
+      "published_at": "2026-03-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.23572",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Shaping the diffuse X-ray sky: Structure, Variability and Visibility",
-      "summary": "arXiv:2603.22392v1 Announce Type: new Abstract: The Local Bubble (LB) is a hot, low-density cavity in the solar neighborhood, inside which the Solar System is currently located. The X-ray emission from such bubbles is strongly governed by the gas density, temperature, and the eff…",
-      "published_at": "2026-03-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.22392",
+      "title": "Investigating the radio emission in the Perseus cluster with LOFAR sub-80 MHz LBA",
+      "summary": "arXiv:2603.23587v1 Announce Type: new Abstract: The Perseus cluster is a nearby cool-core galaxy cluster that hosts an archetypal radio mini-halo. Recent Low Frequency Array (LOFAR) High Band Antenna (HBA) observations at 120 - 168 MHz have revealed the presence of a giant radio…",
+      "published_at": "2026-03-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.23587",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "MEOW: The increase in the obscured AGN fraction in mid-infrared from 0 < z < 6 with JWST MIRI",
-      "summary": "arXiv:2603.22393v1 Announce Type: new Abstract: Obscured active galactic nuclei (AGN) are often invoked to explain the rapid emergence of young quasars at high redshift and are crucial for building a complete census of AGN activity and black hole growth. The advent of the James W…",
-      "published_at": "2026-03-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.22393",
+      "title": "Phase spirals across galactic disks I: Exploring dynamical influences on winding",
+      "summary": "arXiv:2603.23588v1 Announce Type: new Abstract: The vertical phase-space spirals in the Milky Way are clear evidence of disequilibrium. However, they are challenging to study because phase mixing signals evolve under the influence of many different dynamical processes and can be…",
+      "published_at": "2026-03-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.23588",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Second Order Closures for the Radiative Transfer Equation: Some Are Unstable",
-      "summary": "arXiv:2603.22400v1 Announce Type: new Abstract: The largest existing simulations of cosmic reionization model radiative transfer with moment methods that require a closure relation. The two most commonly used closure relations are M1 and OTVET; both close the moment hierarchy at…",
-      "published_at": "2026-03-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.22400",
+      "title": "oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri",
+      "summary": "arXiv:2603.23589v1 Announce Type: new Abstract: Omega Centauri ($\\omega\\,$Cen) is the most massive and chemically complex star cluster in the Milky Way and is widely regarded as the surviving nuclear star cluster of an accreted dwarf galaxy. However, its parent host remains uncer…",
+      "published_at": "2026-03-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.23589",
       "tags": [
         "arxiv",
         "astro-ph"
