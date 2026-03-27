@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-26T11:28:13Z",
+  "generated_at": "2026-03-27T11:23:29Z",
   "items": [
     {
-      "title": "Orbital Debris in Earth Orbit: Operations, Stability, Control, and Market Formation",
-      "summary": "arXiv:2603.23552v1 Announce Type: new Abstract: Orbital debris in Earth orbit is not adequately described as a static inventory problem. It is a coupled operations-stability problem governed by shell occupancy, collision kernel, breakup severity, and orbital residence time. The n…",
-      "published_at": "2026-03-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.23552",
+      "title": "Global detector network to search for high-frequency gravitational waves (GravNet): conceptual design",
+      "summary": "arXiv:2603.24645v1 Announce Type: new Abstract: We propose GravNet (Global detector network to search for high-frequency gravitational waves), a novel experimental scheme enabling the search for gravitational waves in the MHz to GHz frequency range. Such high-frequency gravitatio…",
+      "published_at": "2026-03-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.24645",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Physical Classification of Exoplanet Thermal Environments: Stellar Irradiation versus Tidal Heating",
-      "summary": "arXiv:2603.23557v1 Announce Type: new Abstract: In this study, we introduce a physical framework to analyse and classify the thermal regimes governed by tidal heating and stellar irradiation. Although all planetary systems are exposed to stellar radiation, this source is not alwa…",
-      "published_at": "2026-03-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.23557",
+      "title": "Neutrino and electromagnetic signatures from Superluminous Supernovae: a case study for SN 2017egm",
+      "summary": "arXiv:2603.24655v1 Announce Type: new Abstract: Superluminous supernovae (SLSNe) are rare transients that are $\\sim 10 - 100$ times more luminous than ordinary stellar explosions, reaching peak optical luminosities $\\sim 10^{44} - 10^{45}$ erg s$^{-1}$. The energy source powering…",
+      "published_at": "2026-03-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.24655",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Derivation of the Kompaneets equation using the boost operator approach",
-      "summary": "arXiv:2603.23572v1 Announce Type: new Abstract: The repeated scattering of photons by thermal electrons at low temperatures is described by the Kompaneets equation and its generalized forms that include anisotropies and higher order temperature corrections. In this work, we use t…",
-      "published_at": "2026-03-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.23572",
+      "title": "BLAZ4R and the eROSITA view of z>4 blazars",
+      "summary": "arXiv:2603.24659v1 Announce Type: new Abstract: We present BLAZ4R, the first living catalog of confirmed $z>4$ blazars, with a focus on the contribution of eROSITA, on board of the Spectrum Roentgen Gamma (SRG) spacecraft. Blazars at $z>4$ are rare but powerful probes of how acti…",
+      "published_at": "2026-03-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.24659",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Investigating the radio emission in the Perseus cluster with LOFAR sub-80 MHz LBA",
-      "summary": "arXiv:2603.23587v1 Announce Type: new Abstract: The Perseus cluster is a nearby cool-core galaxy cluster that hosts an archetypal radio mini-halo. Recent Low Frequency Array (LOFAR) High Band Antenna (HBA) observations at 120 - 168 MHz have revealed the presence of a giant radio…",
-      "published_at": "2026-03-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.23587",
+      "title": "Clouds with a silicate lining: Using JWST spectra to probe atmospheric diversity in young AB Dor L dwarfs",
+      "summary": "arXiv:2603.24662v1 Announce Type: new Abstract: We present the first full JWST NIRSpec Prism and MIRI LRS 0.6 - 14 $\\mu$m (R ~ 100) spectra and analysis of five ~ 133 Myr L dwarf members of the AB Doradus moving group and one probable $\\sim 500$ Myr T dwarf of the Oceanus moving…",
+      "published_at": "2026-03-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.24662",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Phase spirals across galactic disks I: Exploring dynamical influences on winding",
-      "summary": "arXiv:2603.23588v1 Announce Type: new Abstract: The vertical phase-space spirals in the Milky Way are clear evidence of disequilibrium. However, they are challenging to study because phase mixing signals evolve under the influence of many different dynamical processes and can be…",
-      "published_at": "2026-03-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.23588",
+      "title": "Disentangling auroral, cloud and magnetic spot driven variability in three early L-dwarfs with HST/WFC3",
+      "summary": "arXiv:2603.24663v1 Announce Type: new Abstract: Variability monitoring provides an unparalleled insight into the atmospheric processes of brown dwarfs and directly imaged exo-planets. Inhomogeneous clouds, aurorae and magnetic spots have all been postulated as potential drivers o…",
+      "published_at": "2026-03-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.24663",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "oMEGACat. X. Shedding light on the disrupted dwarf galaxy of Omega Centauri",
-      "summary": "arXiv:2603.23589v1 Announce Type: new Abstract: Omega Centauri ($\\omega\\,$Cen) is the most massive and chemically complex star cluster in the Milky Way and is widely regarded as the surviving nuclear star cluster of an accreted dwarf galaxy. However, its parent host remains uncer…",
-      "published_at": "2026-03-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.23589",
+      "title": "A Probabilistic Autoencoder for Galaxy SED Reconstruction and Redshift Estimation: Application to Mock SPHEREx Spectrophotometry",
+      "summary": "arXiv:2603.24668v1 Announce Type: new Abstract: We present a probabilistic autoencoder (PAE) framework for galaxy spectral energy distribution (SED) modeling and redshift estimation, applied to synthetic SPHEREx 102-band spectrophotometry. Our PAE learns a compact latent represen…",
+      "published_at": "2026-03-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.24668",
       "tags": [
         "arxiv",
         "astro-ph"
