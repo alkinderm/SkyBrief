@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-29T11:01:17Z",
+  "generated_at": "2026-03-30T11:34:53Z",
   "items": [
+    {
+      "title": "Set the Night on FIRE: Building an Empirical Local Dark Matter Velocity Distribution",
+      "summary": "arXiv:2603.25783v1 Announce Type: new Abstract: The majority of terrestrial direct detection experiments for Dark Matter (DM) rely on the Standard Halo Model (SHM), which assumes the local DM velocity distribution follows a Maxwell-Boltzmann distribution. However, galaxy mergers…",
+      "published_at": "2026-03-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.25783",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "TOI-7169 b: A Hot Jupiter Transiting a Metal-Poor Star",
+      "summary": "arXiv:2603.25787v1 Announce Type: new Abstract: Most known planets are found around metal-rich host stars, which has made it difficult to determine whether a lower metallicity limit for planet formation exists and how the properties of planets born in low-metallicity environments…",
+      "published_at": "2026-03-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.25787",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Introducing SAGUARO -- Simulating IGM Evolution and Environments At High Resolution: Setup and First Results",
+      "summary": "arXiv:2603.25788v1 Announce Type: new Abstract: Small-scale physics in the intergalactic medium (IGM) plays a crucial role in shaping the progress of cosmic reionization and several high-redshift observables that probe this period. Several recent studies have characterized the co…",
+      "published_at": "2026-03-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.25788",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Spectral Map Making with SPHEREx",
+      "summary": "arXiv:2603.25790v1 Announce Type: new Abstract: We present map-making methodologies and preliminary spectral data cubes for SPHEREx, a NASA Explorer mission that launched in March 2025 and has been performing an all-sky near-infrared spectral survey. The SPHEREx instrument observ…",
+      "published_at": "2026-03-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.25790",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The YREC Stellar Evolution Code: Public Data Release",
+      "summary": "arXiv:2603.25792v1 Announce Type: new Abstract: In this paper we present the public release of the Yale Rotating Evolution Code (YREC). YREC is a stellar evolution code that covers brown dwarfs and stars across a wide range of masses, and evolutionary states from the pre-MS throu…",
+      "published_at": "2026-03-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.25792",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Primordial Black Hole interpretation of the sub-solar merger event S251112cm",
+      "summary": "arXiv:2603.25795v1 Announce Type: new Abstract: The LIGO-Virgo-KAGRA (LVK) candidate event S251112cm suggests the presence of at least one compact object with sub-solar masses. Since such objects cannot be produced through standard stellar evolution, this observation provides a p…",
+      "published_at": "2026-03-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.25795",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Extremely Rare Second-Generation Star Discovered Inside Ancient Relic Dwarf Galaxy",
       "summary": "<img align=\"left\" alt=\"Pictor II ultra-faint dwarf galaxy\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2607a.jpg\" />Discovered in the Pictor II dwarf galaxy, star PicII-503 has an extreme deficiency in iron —…",
