@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-03-30T11:34:53Z",
+  "generated_at": "2026-03-31T11:27:35Z",
   "items": [
     {
-      "title": "Set the Night on FIRE: Building an Empirical Local Dark Matter Velocity Distribution",
-      "summary": "arXiv:2603.25783v1 Announce Type: new Abstract: The majority of terrestrial direct detection experiments for Dark Matter (DM) rely on the Standard Halo Model (SHM), which assumes the local DM velocity distribution follows a Maxwell-Boltzmann distribution. However, galaxy mergers…",
-      "published_at": "2026-03-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.25783",
+      "title": "Precision Constraints on New Dark Energy Parametrization from DESI BAO DR2",
+      "summary": "arXiv:2603.26861v1 Announce Type: new Abstract: In this article, we investigate a new parametrization of the dark energy equation of state (EoS) with a single parameter for a barotropic fluid that deviates from the standard $\\Lambda$CDM cosmology. We derive observational constrai…",
+      "published_at": "2026-03-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.26861",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "TOI-7169 b: A Hot Jupiter Transiting a Metal-Poor Star",
-      "summary": "arXiv:2603.25787v1 Announce Type: new Abstract: Most known planets are found around metal-rich host stars, which has made it difficult to determine whether a lower metallicity limit for planet formation exists and how the properties of planets born in low-metallicity environments…",
-      "published_at": "2026-03-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.25787",
+      "title": "The velocity dispersion function of red galaxies in four Hubble Frontier Fields galaxy clusters",
+      "summary": "arXiv:2603.26869v1 Announce Type: new Abstract: We present a detailed study of the stellar kinematic properties of red member galaxies in the cores of four strong lensing galaxy clusters at intermediate redshift included in the the Hubble Frontier Fields programme: Abell 2744 ($z…",
+      "published_at": "2026-03-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.26869",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Introducing SAGUARO -- Simulating IGM Evolution and Environments At High Resolution: Setup and First Results",
-      "summary": "arXiv:2603.25788v1 Announce Type: new Abstract: Small-scale physics in the intergalactic medium (IGM) plays a crucial role in shaping the progress of cosmic reionization and several high-redshift observables that probe this period. Several recent studies have characterized the co…",
-      "published_at": "2026-03-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.25788",
+      "title": "ASAS-SN Rates IV: Constraints on the Kilonova Rate",
+      "summary": "arXiv:2603.26871v1 Announce Type: new Abstract: Kilonovae (KNe) are the electromagnetic signatures of neutron star mergers and are likely the dominant site of cosmic $r$-process nucleosynthesis. However, their intrinsic rate remains poorly constrained due to a paucity of confirme…",
+      "published_at": "2026-03-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.26871",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Spectral Map Making with SPHEREx",
-      "summary": "arXiv:2603.25790v1 Announce Type: new Abstract: We present map-making methodologies and preliminary spectral data cubes for SPHEREx, a NASA Explorer mission that launched in March 2025 and has been performing an all-sky near-infrared spectral survey. The SPHEREx instrument observ…",
-      "published_at": "2026-03-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.25790",
+      "title": "A cosmological framework for stellar collisions at high redshift in proto-globular clusters, nuclear star clusters, and Little Red Dots",
+      "summary": "arXiv:2603.26872v1 Announce Type: new Abstract: Observations and cosmological simulations indicate that the early Universe hosted numerous compact, high-density stellar systems, where close encounters and physical collisions between stars were likely common. We develop a bottom-u…",
+      "published_at": "2026-03-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.26872",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The YREC Stellar Evolution Code: Public Data Release",
-      "summary": "arXiv:2603.25792v1 Announce Type: new Abstract: In this paper we present the public release of the Yale Rotating Evolution Code (YREC). YREC is a stellar evolution code that covers brown dwarfs and stars across a wide range of masses, and evolutionary states from the pre-MS throu…",
-      "published_at": "2026-03-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.25792",
+      "title": "An unexplored enrichment stochasticity and its implications for stellar abundance patterns",
+      "summary": "arXiv:2603.26873v1 Announce Type: new Abstract: Extremely low metallicity stars are intensely studied as they take observations the closest to the very first generations of stars in the universe. Widely assumed to be enriched by just one dying massive star, some of these very met…",
+      "published_at": "2026-03-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.26873",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Primordial Black Hole interpretation of the sub-solar merger event S251112cm",
-      "summary": "arXiv:2603.25795v1 Announce Type: new Abstract: The LIGO-Virgo-KAGRA (LVK) candidate event S251112cm suggests the presence of at least one compact object with sub-solar masses. Since such objects cannot be produced through standard stellar evolution, this observation provides a p…",
-      "published_at": "2026-03-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.25795",
+      "title": "Dust evolution during protoplanetary disk buildup enhances CO ice relative to water",
+      "summary": "arXiv:2603.26876v1 Announce Type: new Abstract: Water ice is expected to be the dominant volatile component of bodies formed in the outer Solar System. However, recent observations of comets and trans-Neptunian objects suggest that the relative abundances of ices can vary substan…",
+      "published_at": "2026-03-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2603.26876",
       "tags": [
         "arxiv",
         "astro-ph"
