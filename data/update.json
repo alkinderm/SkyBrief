@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-01T11:30:12Z",
+  "generated_at": "2026-04-02T11:25:24Z",
   "items": [
     {
-      "title": "The Impact of Computing Data Centres Orbiting Earth",
-      "summary": "arXiv:2603.28829v1 Announce Type: new Abstract: Artificial intelligence is projected to increase U.S. data centre power demand beyond 100 gigawatt by 2035 and global demand toward 1 terrawatt. In response, companies and governments have proposed placing computing infrastructure i…",
-      "published_at": "2026-04-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.28829",
+      "title": "Independent Replication of Nuclear Test-Transient Correlations and Earth Shadow Deficit in POSS-I Photographic Plates",
+      "summary": "arXiv:2604.00056v1 Announce Type: new Abstract: Transient sources on astronomical photographic plates are objects that appear on a single exposure but have no counterpart in modern sky surveys or on temporally adjacent plates. I present an independent replication of two findings…",
+      "published_at": "2026-04-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.00056",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Mercury Craters Named after Tajik-Persian Poets: Planetary Nomenclature as a Form of Preserving Cultural Heritage",
-      "summary": "arXiv:2603.28837v1 Announce Type: new Abstract: Nine impact craters on Mercury bear the names of Persian-Tajik poets: Rudaki, Saadi, Nizami, Rumi, Navoi, Firdousi, Hafiz, Sanai, and Mahsati. We compile IAU-approved coordinates, diameters, quadrant designations, approval dates (19…",
-      "published_at": "2026-04-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.28837",
+      "title": "Large Scale Structure and Environmental Effects on Dwarf Galaxy Growth",
+      "summary": "arXiv:2604.00087v1 Announce Type: new Abstract: Dwarf galaxies serve as key models for understanding galaxy assembly in the early universe, with their final properties influenced by environmental factors. Using the dark matter-only simulation \"Copernicus Complexio\" (COCO) and the…",
+      "published_at": "2026-04-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.00087",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "From photometric surveys to HI intensity mapping: Improving constraints on magnification biases while testing gravity",
-      "summary": "arXiv:2603.28840v1 Announce Type: new Abstract: The observed large-scale structure of the Universe is not a direct measure on the underlying distribution of matter. These observations are subtly distorted by gravitational lensing effects, which leave imprints on the statistical d…",
-      "published_at": "2026-04-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.28840",
+      "title": "Non-Cold Dark Matter from Memory-Burdened Primordial Black Holes",
+      "summary": "arXiv:2604.00090v1 Announce Type: new Abstract: Non-cold dark matter particles can arise from the evaporation of primordial black holes (PBHs). In this paper, we further investigate how the memory-burden effect, which delays the full evaporation of black holes, affects the Lyman-…",
+      "published_at": "2026-04-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.00090",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Declarative bespoke modelling: A new approach",
-      "summary": "arXiv:2603.28847v1 Announce Type: new Abstract: Modern numerical models are increasingly complex, opaque, and computationally expensive, yet frequently fail to predict even qualitative features of observed phenomena. We propose a new paradigm, Declarative Bespoke Modelling, in wh…",
-      "published_at": "2026-04-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.28847",
+      "title": "A Solar Probe of Dark Matter Decay in the Galaxy",
+      "summary": "arXiv:2604.00091v1 Announce Type: new Abstract: Dark matter (DM) particles decaying in the Galactic halo can inject energetic $e^\\pm$ that inverse-Compton scatter (ICS) solar photons into $\\gamma$-rays, producing a diffuse and extended halo of emission around the Sun. We present…",
+      "published_at": "2026-04-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.00091",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Gaia DR3 IDs for TESS Input Catalog Targets",
-      "summary": "arXiv:2603.28850v1 Announce Type: new Abstract: The TESS Input Catalog (TIC) was built on Gaia Data Release 2 (DR2). To date, there has not been an update to the TIC to incorporate Gaia Data Release 3 (DR3) IDs. In this Research Note, we outline how we cross-matched the TIC with…",
-      "published_at": "2026-04-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.28850",
+      "title": "Revealing the stellar population of the ultra-obscured Galactic globular cluster Glimpse-C02",
+      "summary": "arXiv:2604.00096v1 Announce Type: new Abstract: In this paper, we present the results of a detailed photometric analysis of Glimpse-C02, one of the most extincted globular clusters of the Milky Way. We built a deep color magnitude diagram spanning $\\approx$ 10 magnitudes, enablin…",
+      "published_at": "2026-04-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.00096",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The CAVITY project. The spatially resolved SFR of galaxies in voids",
-      "summary": "arXiv:2603.28855v1 Announce Type: new Abstract: The mass in the Universe is distributed non-uniformly, originating the Large Scale Structure (LSS), characterised by clusters, filaments, walls and voids. Galaxies in voids are bluer, later type, less massive, and have slower evolut…",
-      "published_at": "2026-04-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2603.28855",
+      "title": "Lagrangian Bias as a Gaussian Random Field",
+      "summary": "arXiv:2604.00097v1 Announce Type: new Abstract: Halo bias is typically treated as a set of coefficients in a perturbative expansion. We show instead that every point in a Gaussian density field has a well-defined scale-independent Lagrangian bias, thereby defining a bias field. T…",
+      "published_at": "2026-04-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.00097",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: Gemini South Confirms Long-Suspected Link Between the Composition of Exoplanets and Their Host Stars",
+      "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Ultra-Hot Jupiter\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2609a.jpg\" />Astronomers discovered that a giant planet, WASP-189b, echoes the composition of its…",
+      "published_at": "2026-04-01T18:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2609/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Bullet Cluster with DECam\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2603a.jpg\" />The Dark Energy Survey Collaboration collected information on hundreds of millions of galaxies across…",
       "published_at": "2026-01-22T16:30:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2603/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Massive Cloud With Metallic Winds Discovered Orbiting Mystery Object",
-      "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Cloudy Disk Orbiting Distant Star\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2602a.jpg\" />Sweeping winds of vaporized metals have been found in a massive clou…",
-      "published_at": "2026-01-21T17:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2602/",
       "tags": [
         "noirlab"
       ],
