@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-02T11:25:24Z",
+  "generated_at": "2026-04-03T11:11:49Z",
   "items": [
     {
-      "title": "Independent Replication of Nuclear Test-Transient Correlations and Earth Shadow Deficit in POSS-I Photographic Plates",
-      "summary": "arXiv:2604.00056v1 Announce Type: new Abstract: Transient sources on astronomical photographic plates are objects that appear on a single exposure but have no counterpart in modern sky surveys or on temporally adjacent plates. I present an independent replication of two findings…",
-      "published_at": "2026-04-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.00056",
+      "title": "Spatially Resolved AGN Ionization and Star Formation at Cosmic Noon with JWST/JEMS",
+      "summary": "arXiv:2604.01271v1 Announce Type: new Abstract: At Cosmic Noon ($z\\approx 2-3$), both star formation and Active Galactic Nuclei (AGN) activity peaked, each playing a significant role in ionizing interstellar gas on galaxy-wide scales. The spatial distribution of this ionized gas…",
+      "published_at": "2026-04-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.01271",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Large Scale Structure and Environmental Effects on Dwarf Galaxy Growth",
-      "summary": "arXiv:2604.00087v1 Announce Type: new Abstract: Dwarf galaxies serve as key models for understanding galaxy assembly in the early universe, with their final properties influenced by environmental factors. Using the dark matter-only simulation \"Copernicus Complexio\" (COCO) and the…",
-      "published_at": "2026-04-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.00087",
+      "title": "Geomagnetic Storm Impacts On The Ionosphere Over T\\\"urkiye During Solar Cycle 25: Focusing On The May 2024 Storm",
+      "summary": "arXiv:2604.01276v1 Announce Type: new Abstract: The interaction between solar activity and Earth's magnetosphere magnetosphere-ionosphere system often results in geomagnetic storms that disturb ionospheric electron density. In this study, we analyse the ionospheric response to se…",
+      "published_at": "2026-04-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.01276",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Non-Cold Dark Matter from Memory-Burdened Primordial Black Holes",
-      "summary": "arXiv:2604.00090v1 Announce Type: new Abstract: Non-cold dark matter particles can arise from the evaporation of primordial black holes (PBHs). In this paper, we further investigate how the memory-burden effect, which delays the full evaporation of black holes, affects the Lyman-…",
-      "published_at": "2026-04-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.00090",
+      "title": "Probabilistic neural network approach to determining parameters of eclipsing binaries",
+      "summary": "arXiv:2604.01281v1 Announce Type: new Abstract: Eclipsing binaries provide one of the most direct mechanisms for measuring stellar properties such as mass and radius, but historically, determining these properties has been non-trivial and computationally prohibitive. As such, onl…",
+      "published_at": "2026-04-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.01281",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Solar Probe of Dark Matter Decay in the Galaxy",
-      "summary": "arXiv:2604.00091v1 Announce Type: new Abstract: Dark matter (DM) particles decaying in the Galactic halo can inject energetic $e^\\pm$ that inverse-Compton scatter (ICS) solar photons into $\\gamma$-rays, producing a diffuse and extended halo of emission around the Sun. We present…",
-      "published_at": "2026-04-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.00091",
+      "title": "Constraints on the Galactic Chemical Evolution of $^3\\rm{He}$",
+      "summary": "arXiv:2604.01289v1 Announce Type: new Abstract: We examine the galactic chemical evolution (GCE) of $^3\\rm{He}$ in one-zone and multi-zone models, with particular attention to the stellar yields and GCE parameters that can reproduce both the protosolar $^3\\rm{He}$ abundance and r…",
+      "published_at": "2026-04-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.01289",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Revealing the stellar population of the ultra-obscured Galactic globular cluster Glimpse-C02",
-      "summary": "arXiv:2604.00096v1 Announce Type: new Abstract: In this paper, we present the results of a detailed photometric analysis of Glimpse-C02, one of the most extincted globular clusters of the Milky Way. We built a deep color magnitude diagram spanning $\\approx$ 10 magnitudes, enablin…",
-      "published_at": "2026-04-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.00096",
+      "title": "Tree-ring structure of Galactic bar resonance in N-body simulations",
+      "summary": "arXiv:2604.01294v1 Announce Type: new Abstract: We study the structure and evolution of the galactic bar's resonant phase-space in self-consistent N-body simulations of the Milky Way, with and without perturbations from the Sagittarius dwarf galaxy. In an idealized disk evolution…",
+      "published_at": "2026-04-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.01294",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Lagrangian Bias as a Gaussian Random Field",
-      "summary": "arXiv:2604.00097v1 Announce Type: new Abstract: Halo bias is typically treated as a set of coefficients in a perturbative expansion. We show instead that every point in a Gaussian density field has a well-defined scale-independent Lagrangian bias, thereby defining a bias field. T…",
-      "published_at": "2026-04-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.00097",
+      "title": "Low-mass Active Galaxies in the SAMI Galaxy Survey with Spatially-resolved Spectroscopy",
+      "summary": "arXiv:2604.01297v1 Announce Type: new Abstract: The smallest supermassive black holes (BHs), which provide constraints on BH seeds, reside in low-mass galaxies. Here, we present a systematic analysis of 990 low-mass galaxies in the SAMI Galaxy Survey to identify emission from acc…",
+      "published_at": "2026-04-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.01297",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: Early Data from NSF–DOE Vera C. Rubin Observatory Reveals Over 11,000 New Asteroids",
+      "summary": "<img align=\"left\" alt=\"3D rendering of asteroids discovered by NSF–DOE Rubin Observatory\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2608a.jpg\" />Scientists at NSF–DOE Vera C. Rubin Observatory, jointly fund…",
+      "published_at": "2026-04-02T17:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2608/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Stargazing at Journey Through the Universe 2026\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2604b.jpg\" />Journey Through the Universe — a partnership between the Hawaiʻi Department of…",
       "published_at": "2026-02-09T23:31:13Z",
       "url": "http://noirlab.edu/public/news/noirlab2604/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Dark Energy Survey Scientists Release Analysis of All Six Years of Survey Data",
-      "summary": "<img align=\"left\" alt=\"Bullet Cluster with DECam\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2603a.jpg\" />The Dark Energy Survey Collaboration collected information on hundreds of millions of galaxies across…",
-      "published_at": "2026-01-22T16:30:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2603/",
       "tags": [
         "noirlab"
       ],
