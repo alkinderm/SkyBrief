@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-06T11:27:57Z",
+  "generated_at": "2026-04-07T11:29:59Z",
   "items": [
     {
-      "title": "Out-of-Domain Stress Test for Temporal Braid Group Privilege Escalation Detection",
-      "summary": "arXiv:2604.02366v1 Announce Type: new Abstract: In a companion paper, we prove that the Burau-Lyapunov exponent LE discriminates focused from dispersed privilege escalation ratchets in cloud IAM graphs, and that no abelian statistic can replicate this discrimination. To strengthe…",
-      "published_at": "2026-04-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.02366",
+      "title": "FRB Searches with the Irish LOFAR Station",
+      "summary": "arXiv:2604.03283v1 Announce Type: new Abstract: Here we report null results in the search for radio emission below $200$~MHz from six known fast radio burst sources. The observations reported here were taken using the Irish LOFAR station's high-band antennas over the course of 20…",
+      "published_at": "2026-04-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.03283",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Site selection constraints and options for LILA-Pioneer and LILA-Horizon",
-      "summary": "arXiv:2604.02405v1 Announce Type: new Abstract: The Earth's Moon presents a uniquely advantageous environment for detecting astrophysical gravitational waves (GWs), particularly in the scientifically interesting deciHz regime. The Laser Interferometer Lunar Antennae (LILA) projec…",
-      "published_at": "2026-04-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.02405",
+      "title": "POSEIDON II: The Anti-Aligned Orbit of the Warm Neptune TOI-1710 A b",
+      "summary": "arXiv:2604.03364v1 Announce Type: new Abstract: We present an observation of the Rossiter-McLaughlin effect for the warm-Neptune system TOI-1710 obtained with the NEID spectrograph on the WIYN 3.5 m telescope. These observations reveal that the planet orbits in the opposite direc…",
+      "published_at": "2026-04-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.03364",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A high-resolution study of the double radio relic system in MACS J1752.0+4440",
-      "summary": "arXiv:2604.02410v1 Announce Type: new Abstract: Radio relics are diffuse, extended synchrotron sources located at the outskirts of merging galaxy clusters. Their origin has been linked with shock waves injected into the intracluster medium, but the acceleration mechanism at the s…",
-      "published_at": "2026-04-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.02410",
+      "title": "The PLATO field selection process III. Selection of the Prime Sample for the LOPS2 field",
+      "summary": "arXiv:2604.03365v1 Announce Type: new Abstract: The PLanetary Transits and Oscillations of stars (PLATO) mission will begin its four-year nominal mission in early 2027 by monitoring its first Long-duration Observation Phase field at South (LOPS2), for at least two years continuou…",
+      "published_at": "2026-04-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.03365",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "An analytical approach to binary populations in globular clusters",
-      "summary": "arXiv:2604.02412v1 Announce Type: new Abstract: Globular clusters (GCs) display much lower binary fractions than found among main-sequence stars in the solar neighborhood. The physical cause of this difference is debatable: does it reflect different star formation outcomes at low…",
-      "published_at": "2026-04-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.02412",
+      "title": "The hitchhiker's guide to the IXPE data analysis",
+      "summary": "arXiv:2604.03366v1 Announce Type: new Abstract: This chapter provides an almost comprehensive guide to the Imaging X-ray Polarimetry Explorer (IXPE) data analysis. The chapter briefly introduces the IXPE spacecraft and the instrument onboard; subsequently, the strategies adopted…",
+      "published_at": "2026-04-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.03366",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Supernova 2025wny: High-angular resolution Keck/NIRC2 observations and preliminary lens modeling",
-      "summary": "arXiv:2604.02418v1 Announce Type: new Abstract: Multiply imaged, gravitationally lensed supernovae are rare but powerful tools for providing independent measurements on cosmological parameters. Supernova (SN) 2025wny (\"SN Winny\") is the first gravitationally-lensed Type I superlu…",
-      "published_at": "2026-04-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.02418",
+      "title": "The PLATO Input Catalogue of targets (tPIC) for the first Long Pointing Field",
+      "summary": "arXiv:2604.03369v1 Announce Type: new Abstract: The ESA PLAnetary Transits and Oscillations of stars (PLATO) mission is designed to detect terrestrial planets in the habitable zones of solar-type stars. Owing to telemetry constraints, the selection of PLATO targets must be perfor…",
+      "published_at": "2026-04-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.03369",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Cosmology-Independent Constraints on the Etherington Relation and SNeIa Absolute Magnitude Evolution from DESI-DR2",
-      "summary": "arXiv:2604.02433v1 Announce Type: new Abstract: We carry out a test of the fundamental Etherington relation (cosmic distance duality relation) which relates the luminosity distance $D_{\\rm L}$ and angular diameter distance $D_{\\rm A}$ in metric theories of gravity. We use the lat…",
-      "published_at": "2026-04-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.02433",
+      "title": "Holes in the BH$^\\star$? AGN signatures in the FUV spectrum of a black-hole dominated Little Red Dot at $z=7.04$",
+      "summary": "arXiv:2604.03370v1 Announce Type: new Abstract: It has been suggested that \"Little Red Dots\" (LRDs) might be accreting black holes enshrouded by dense gas in a nearly closed geometry, which completely covers the central black hole, leading to an atmosphere-like structure known as…",
+      "published_at": "2026-04-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.03370",
       "tags": [
         "arxiv",
         "astro-ph"
