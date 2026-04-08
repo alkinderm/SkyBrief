@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-07T11:29:59Z",
+  "generated_at": "2026-04-08T11:31:46Z",
   "items": [
     {
-      "title": "FRB Searches with the Irish LOFAR Station",
-      "summary": "arXiv:2604.03283v1 Announce Type: new Abstract: Here we report null results in the search for radio emission below $200$~MHz from six known fast radio burst sources. The observations reported here were taken using the Irish LOFAR station's high-band antennas over the course of 20…",
-      "published_at": "2026-04-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.03283",
+      "title": "Geomagnetic storm suppression of photographic plate transient detections in the POSS-I archive: an independent physical variable strengtheni…",
+      "summary": "arXiv:2604.04950v1 Announce Type: new Abstract: Bruehl & Villarroel (2025) reported a correlation (p = 0.008, 2.6 sigma) between atmospheric nuclear weapon tests and photographic plate transient detection rates in the Palomar Observatory Sky Survey (POSS-I) archive, independently…",
+      "published_at": "2026-04-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.04950",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "POSEIDON II: The Anti-Aligned Orbit of the Warm Neptune TOI-1710 A b",
-      "summary": "arXiv:2604.03364v1 Announce Type: new Abstract: We present an observation of the Rossiter-McLaughlin effect for the warm-Neptune system TOI-1710 obtained with the NEID spectrograph on the WIYN 3.5 m telescope. These observations reveal that the planet orbits in the opposite direc…",
-      "published_at": "2026-04-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.03364",
+      "title": "FluxMC: Rapid and High-Fidelity Inference for Space-Based Gravitational-Wave Observations",
+      "summary": "arXiv:2604.04957v1 Announce Type: new Abstract: Bayesian inference in the physical sciences faces a fundamental challenge: the imperative for high-fidelity physical modeling often clashes with the intrinsic limitations of stochastic sampling algorithms. Complex, high-dimensional…",
+      "published_at": "2026-04-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.04957",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The PLATO field selection process III. Selection of the Prime Sample for the LOPS2 field",
-      "summary": "arXiv:2604.03365v1 Announce Type: new Abstract: The PLanetary Transits and Oscillations of stars (PLATO) mission will begin its four-year nominal mission in early 2027 by monitoring its first Long-duration Observation Phase field at South (LOPS2), for at least two years continuou…",
-      "published_at": "2026-04-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.03365",
+      "title": "The neighboring stars of N6946-BH1 and the observational characteristics of failed supernovae",
+      "summary": "arXiv:2604.05019v1 Announce Type: new Abstract: Stellar collapse models predict that some stars more massive than $\\sim$15$M_\\odot$ may collapse directly to a black hole, sometimes with a weak optical transient, a phenomenon known as a failed supernova. Detecting such events is c…",
+      "published_at": "2026-04-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.05019",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The hitchhiker's guide to the IXPE data analysis",
-      "summary": "arXiv:2604.03366v1 Announce Type: new Abstract: This chapter provides an almost comprehensive guide to the Imaging X-ray Polarimetry Explorer (IXPE) data analysis. The chapter briefly introduces the IXPE spacecraft and the instrument onboard; subsequently, the strategies adopted…",
-      "published_at": "2026-04-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.03366",
+      "title": "Electromagnetic Flares from Compact-Object Mergers in AGN Disks: Signatures and Predictions",
+      "summary": "arXiv:2604.05020v1 Announce Type: new Abstract: Accretion disks in active galactic nuclei (AGN) are promising sites for mergers of stellar-mass black holes (BHs) detectable via gravitational waves (GWs). These environments facilitate both in-situ formation and dynamical capture o…",
+      "published_at": "2026-04-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.05020",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The PLATO Input Catalogue of targets (tPIC) for the first Long Pointing Field",
-      "summary": "arXiv:2604.03369v1 Announce Type: new Abstract: The ESA PLAnetary Transits and Oscillations of stars (PLATO) mission is designed to detect terrestrial planets in the habitable zones of solar-type stars. Owing to telemetry constraints, the selection of PLATO targets must be perfor…",
-      "published_at": "2026-04-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.03369",
+      "title": "PANORAMIC: The Dawn of Massive Quiescent Galaxies I. Number Density and Cosmic Variance from 1000 arcmin$^2$ NIRCam Imaging",
+      "summary": "arXiv:2604.05022v1 Announce Type: new Abstract: We measure the number density and field-to-field variance of massive quiescent galaxies at $z\\sim3$ - 8 using the JWST/NIRCam pure-parallel imaging survey PANORAMIC together with archival observations, covering an area of 0.28 deg$^…",
+      "published_at": "2026-04-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.05022",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Holes in the BH$^\\star$? AGN signatures in the FUV spectrum of a black-hole dominated Little Red Dot at $z=7.04$",
-      "summary": "arXiv:2604.03370v1 Announce Type: new Abstract: It has been suggested that \"Little Red Dots\" (LRDs) might be accreting black holes enshrouded by dense gas in a nearly closed geometry, which completely covers the central black hole, leading to an atmosphere-like structure known as…",
-      "published_at": "2026-04-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.03370",
+      "title": "Winding Back the Clock: Recent Star Formation Histories of Massive Quiescent Galaxies Are Consistent With Their Rapid Number Density Evoluti…",
+      "summary": "arXiv:2604.05024v1 Announce Type: new Abstract: Massive quiescent galaxies have been identified out to $z\\sim7$ in early JWST data in a substantial excess ($\\rm \\gtrsim 1\\,dex$ at $z>4$) of number densities from most theoretical predictions. We investigate whether the number dens…",
+      "published_at": "2026-04-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.05024",
       "tags": [
         "arxiv",
         "astro-ph"
