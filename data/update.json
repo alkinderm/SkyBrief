@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-08T11:31:46Z",
+  "generated_at": "2026-04-09T11:31:59Z",
   "items": [
     {
-      "title": "Geomagnetic storm suppression of photographic plate transient detections in the POSS-I archive: an independent physical variable strengtheni…",
-      "summary": "arXiv:2604.04950v1 Announce Type: new Abstract: Bruehl & Villarroel (2025) reported a correlation (p = 0.008, 2.6 sigma) between atmospheric nuclear weapon tests and photographic plate transient detection rates in the Palomar Observatory Sky Survey (POSS-I) archive, independently…",
-      "published_at": "2026-04-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.04950",
+      "title": "Storm-Driven Suppression and Post-Storm Enhancement of Photographic Plate Transient Detections at Geosynchronous Altitude: Empirical Evidenc…",
+      "summary": "arXiv:2604.06234v1 Announce Type: new Abstract: The VASCO project has identified over 100,000 sub-second optical transients on photographic plates from the First Palomar Observatory Sky Survey (1949-1957), all predating artificial satellites. Cann (2026a) established that transie…",
+      "published_at": "2026-04-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.06234",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "FluxMC: Rapid and High-Fidelity Inference for Space-Based Gravitational-Wave Observations",
-      "summary": "arXiv:2604.04957v1 Announce Type: new Abstract: Bayesian inference in the physical sciences faces a fundamental challenge: the imperative for high-fidelity physical modeling often clashes with the intrinsic limitations of stochastic sampling algorithms. Complex, high-dimensional…",
-      "published_at": "2026-04-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.04957",
+      "title": "Learning the Stellar Structure Equations via Self-supervised Physics-Informed Neural Networks",
+      "summary": "arXiv:2604.06255v1 Announce Type: new Abstract: Stellar astrophysics relies critically on accurate descriptions of the physical conditions inside stars. Traditional solvers such as \\texttt{MESA} (Modules for Experiments in Stellar Astrophysics), which employ adaptive finite-diffe…",
+      "published_at": "2026-04-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.06255",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The neighboring stars of N6946-BH1 and the observational characteristics of failed supernovae",
-      "summary": "arXiv:2604.05019v1 Announce Type: new Abstract: Stellar collapse models predict that some stars more massive than $\\sim$15$M_\\odot$ may collapse directly to a black hole, sometimes with a weak optical transient, a phenomenon known as a failed supernova. Detecting such events is c…",
-      "published_at": "2026-04-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.05019",
+      "title": "Science of Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter (CHRONOS)",
+      "summary": "arXiv:2604.06286v1 Announce Type: new Abstract: The frequency band between $0.1$ and $10\\mathrm{Hz}$ remains largely unexplored in gravitational-wave astronomy due to strong seismic, Newtonian, and suspension thermal noise that limit ground-based detectors. The Cryogenic sub-Hz c…",
+      "published_at": "2026-04-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.06286",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Electromagnetic Flares from Compact-Object Mergers in AGN Disks: Signatures and Predictions",
-      "summary": "arXiv:2604.05020v1 Announce Type: new Abstract: Accretion disks in active galactic nuclei (AGN) are promising sites for mergers of stellar-mass black holes (BHs) detectable via gravitational waves (GWs). These environments facilitate both in-situ formation and dynamical capture o…",
-      "published_at": "2026-04-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.05020",
+      "title": "Zooming in on radio relics -- II. How relic morphology probes density fluctuations at the edge of galaxy clusters",
+      "summary": "arXiv:2604.06302v1 Announce Type: new Abstract: Gas properties in the outer intracluster medium (ICM) are not well-constrained, as traditional probes lose sensitivity at Mpc distances. We show that the morphology of radio relics effectively encodes the power spectrum of the surro…",
+      "published_at": "2026-04-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.06302",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "PANORAMIC: The Dawn of Massive Quiescent Galaxies I. Number Density and Cosmic Variance from 1000 arcmin$^2$ NIRCam Imaging",
-      "summary": "arXiv:2604.05022v1 Announce Type: new Abstract: We measure the number density and field-to-field variance of massive quiescent galaxies at $z\\sim3$ - 8 using the JWST/NIRCam pure-parallel imaging survey PANORAMIC together with archival observations, covering an area of 0.28 deg$^…",
-      "published_at": "2026-04-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.05022",
+      "title": "Collisional Dynamics of Stars and Dark Matter in Ultra-Faint Galaxies",
+      "summary": "arXiv:2604.06304v1 Announce Type: new Abstract: We use controlled N-body simulations to study the collisional exchange of energy between stars and dark matter in ultra-faint galaxies. We find that dynamical friction between stars and subsolar-mass dark matter particles results in…",
+      "published_at": "2026-04-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.06304",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Winding Back the Clock: Recent Star Formation Histories of Massive Quiescent Galaxies Are Consistent With Their Rapid Number Density Evoluti…",
-      "summary": "arXiv:2604.05024v1 Announce Type: new Abstract: Massive quiescent galaxies have been identified out to $z\\sim7$ in early JWST data in a substantial excess ($\\rm \\gtrsim 1\\,dex$ at $z>4$) of number densities from most theoretical predictions. We investigate whether the number dens…",
-      "published_at": "2026-04-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.05024",
+      "title": "Wild is the wind from low-luminosity AGN: a jet-driven gas bubble blowing out a massive CO-dark outflow in ESO 420-G13",
+      "summary": "arXiv:2604.06305v1 Announce Type: new Abstract: We present JWST/MIRI mid-infrared integral field spectroscopy combined with ALMA CO(2-1) observations of the post-starburst galaxy ESO 420-G13, hosting a low-luminosity AGN. The unprecedented spatial and spectral resolution of MIRI…",
+      "published_at": "2026-04-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.06305",
       "tags": [
         "arxiv",
         "astro-ph"
