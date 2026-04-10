@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-09T11:31:59Z",
+  "generated_at": "2026-04-10T11:26:41Z",
   "items": [
     {
-      "title": "Storm-Driven Suppression and Post-Storm Enhancement of Photographic Plate Transient Detections at Geosynchronous Altitude: Empirical Evidenc…",
-      "summary": "arXiv:2604.06234v1 Announce Type: new Abstract: The VASCO project has identified over 100,000 sub-second optical transients on photographic plates from the First Palomar Observatory Sky Survey (1949-1957), all predating artificial satellites. Cann (2026a) established that transie…",
-      "published_at": "2026-04-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.06234",
+      "title": "PowerSpectR: An R Package for Radial Power Spectrum Estimation",
+      "summary": "arXiv:2604.07374v1 Announce Type: new Abstract: I present here PowerSpectR, an R package for computing and visualizing median-based radial Fourier power spectra from imaging data. Power spectra provide a representation of spatial structure by decomposing contributions across spat…",
+      "published_at": "2026-04-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.07374",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Learning the Stellar Structure Equations via Self-supervised Physics-Informed Neural Networks",
-      "summary": "arXiv:2604.06255v1 Announce Type: new Abstract: Stellar astrophysics relies critically on accurate descriptions of the physical conditions inside stars. Traditional solvers such as \\texttt{MESA} (Modules for Experiments in Stellar Astrophysics), which employ adaptive finite-diffe…",
-      "published_at": "2026-04-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.06255",
+      "title": "GW190711_030756 and GW200114_020818: astrophysical interpretation of two asymmetric binary black hole mergers in the IAS catalog",
+      "summary": "arXiv:2604.07388v1 Announce Type: new Abstract: We provide a comprehensive analysis of GW190711_030756 and GW200114_020818, two of the most significant binary black hole merger candidates in the IAS catalog, with probabilities of astrophysical origin $p_{\\rm astro}=0.99$ and $0.7…",
+      "published_at": "2026-04-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.07388",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Science of Cryogenic sub-Hz cROss torsion bar detector with quantum NOn-demolition Speed meter (CHRONOS)",
-      "summary": "arXiv:2604.06286v1 Announce Type: new Abstract: The frequency band between $0.1$ and $10\\mathrm{Hz}$ remains largely unexplored in gravitational-wave astronomy due to strong seismic, Newtonian, and suspension thermal noise that limit ground-based detectors. The Cryogenic sub-Hz c…",
-      "published_at": "2026-04-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.06286",
+      "title": "Detection and Evolution of Linear Polarization of the Galactic Center Transient MAXI J1744-294",
+      "summary": "arXiv:2604.07431v1 Announce Type: new Abstract: MAXI J1744$-$294, likely a low-mass X-ray binary system, is a Galactic-center transient source, detected at radio and X-ray wavelengths, located approximately $19''$ southeast of Sgr A*. We report the first detection of its variable…",
+      "published_at": "2026-04-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.07431",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Zooming in on radio relics -- II. How relic morphology probes density fluctuations at the edge of galaxy clusters",
-      "summary": "arXiv:2604.06302v1 Announce Type: new Abstract: Gas properties in the outer intracluster medium (ICM) are not well-constrained, as traditional probes lose sensitivity at Mpc distances. We show that the morphology of radio relics effectively encodes the power spectrum of the surro…",
-      "published_at": "2026-04-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.06302",
+      "title": "ASTRAFier: A Novel and Scalable Transformer-based Stellar Variability Classifier",
+      "summary": "arXiv:2604.07437v1 Announce Type: new Abstract: Photometric missions such as Kepler and TESS have generated millions of light curves covering almost the entire sky, offering unprecedented opportunities to study stellar variability and advance our understanding of the Universe. In…",
+      "published_at": "2026-04-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.07437",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Collisional Dynamics of Stars and Dark Matter in Ultra-Faint Galaxies",
-      "summary": "arXiv:2604.06304v1 Announce Type: new Abstract: We use controlled N-body simulations to study the collisional exchange of energy between stars and dark matter in ultra-faint galaxies. We find that dynamical friction between stars and subsolar-mass dark matter particles results in…",
-      "published_at": "2026-04-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.06304",
+      "title": "LSST Strong Lensing Systems Dark Matter Sensitivity Analysis with Neural Ratio Estimators",
+      "summary": "arXiv:2604.07438v1 Announce Type: new Abstract: Strong gravitational lensing offers a unique probe of dark matter (DM) on sub-galactic scales, where the abundance and distribution of low-mass halos are highly sensitive to the underlying properties of DM particles. In this work, w…",
+      "published_at": "2026-04-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.07438",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Wild is the wind from low-luminosity AGN: a jet-driven gas bubble blowing out a massive CO-dark outflow in ESO 420-G13",
-      "summary": "arXiv:2604.06305v1 Announce Type: new Abstract: We present JWST/MIRI mid-infrared integral field spectroscopy combined with ALMA CO(2-1) observations of the post-starburst galaxy ESO 420-G13, hosting a low-luminosity AGN. The unprecedented spatial and spectral resolution of MIRI…",
-      "published_at": "2026-04-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.06305",
+      "title": "The assembly and fate of a giant disc galaxy in a protocluster at $z = 3$",
+      "summary": "arXiv:2604.07440v1 Announce Type: new Abstract: Recent JWST observations revealed two massive ($M_{\\star} \\gtrsim 10^{11}\\,M_{\\odot}$), unexpectedly large spiral galaxies at $z \\sim 3$, both in overdense environments. We focus on one of these, ADF22.1 at $z = 3.09$, which hosts a…",
+      "published_at": "2026-04-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.07440",
       "tags": [
         "arxiv",
         "astro-ph"
