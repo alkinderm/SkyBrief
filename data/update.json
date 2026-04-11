@@ -1,95 +1,19 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-10T11:26:41Z",
+  "generated_at": "2026-04-11T11:02:54Z",
   "items": [
     {
-      "title": "PowerSpectR: An R Package for Radial Power Spectrum Estimation",
-      "summary": "arXiv:2604.07374v1 Announce Type: new Abstract: I present here PowerSpectR, an R package for computing and visualizing median-based radial Fourier power spectra from imaging data. Power spectra provide a representation of spatial structure by decomposing contributions across spat…",
-      "published_at": "2026-04-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.07374",
+      "title": "Science Release: The Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up",
+      "summary": "<img align=\"left\" alt=\"Artist’s interpretation of the cosmic distance ladder\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2611a.jpg\" />An international collaboration of astronomers has produced one of the mos…",
+      "published_at": "2026-04-10T21:43:23Z",
+      "url": "http://noirlab.edu/public/news/noirlab2611/",
       "tags": [
-        "arxiv",
-        "astro-ph"
+        "noirlab"
       ],
       "source": {
-        "name": "arXiv astro-ph (recent)",
+        "name": "NOIRLab News",
         "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "GW190711_030756 and GW200114_020818: astrophysical interpretation of two asymmetric binary black hole mergers in the IAS catalog",
-      "summary": "arXiv:2604.07388v1 Announce Type: new Abstract: We provide a comprehensive analysis of GW190711_030756 and GW200114_020818, two of the most significant binary black hole merger candidates in the IAS catalog, with probabilities of astrophysical origin $p_{\\rm astro}=0.99$ and $0.7…",
-      "published_at": "2026-04-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.07388",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Detection and Evolution of Linear Polarization of the Galactic Center Transient MAXI J1744-294",
-      "summary": "arXiv:2604.07431v1 Announce Type: new Abstract: MAXI J1744$-$294, likely a low-mass X-ray binary system, is a Galactic-center transient source, detected at radio and X-ray wavelengths, located approximately $19''$ southeast of Sgr A*. We report the first detection of its variable…",
-      "published_at": "2026-04-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.07431",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "ASTRAFier: A Novel and Scalable Transformer-based Stellar Variability Classifier",
-      "summary": "arXiv:2604.07437v1 Announce Type: new Abstract: Photometric missions such as Kepler and TESS have generated millions of light curves covering almost the entire sky, offering unprecedented opportunities to study stellar variability and advance our understanding of the Universe. In…",
-      "published_at": "2026-04-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.07437",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "LSST Strong Lensing Systems Dark Matter Sensitivity Analysis with Neural Ratio Estimators",
-      "summary": "arXiv:2604.07438v1 Announce Type: new Abstract: Strong gravitational lensing offers a unique probe of dark matter (DM) on sub-galactic scales, where the abundance and distribution of low-mass halos are highly sensitive to the underlying properties of DM particles. In this work, w…",
-      "published_at": "2026-04-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.07438",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "The assembly and fate of a giant disc galaxy in a protocluster at $z = 3$",
-      "summary": "arXiv:2604.07440v1 Announce Type: new Abstract: Recent JWST observations revealed two massive ($M_{\\star} \\gtrsim 10^{11}\\,M_{\\odot}$), unexpectedly large spiral galaxies at $z \\sim 3$, both in overdense environments. We focus on one of these, ADF22.1 at $z = 3.09$, which hosts a…",
-      "published_at": "2026-04-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.07440",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +77,6 @@
       "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin Observatory Launches Real-Time Monitoring of the Night Sky\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2605a.jpg\" />NSF–DOE Rubin Observatory has issued its first scienti…",
       "published_at": "2026-02-25T18:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2605/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Organization Release: Epic Journey Through the Universe Observes 22 Years!",
-      "summary": "<img align=\"left\" alt=\"Stargazing at Journey Through the Universe 2026\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2604b.jpg\" />Journey Through the Universe — a partnership between the Hawaiʻi Department of…",
-      "published_at": "2026-02-09T23:31:13Z",
-      "url": "http://noirlab.edu/public/news/noirlab2604/",
       "tags": [
         "noirlab"
       ],
