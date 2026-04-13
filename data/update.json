@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-12T11:07:46Z",
+  "generated_at": "2026-04-13T11:51:11Z",
   "items": [
+    {
+      "title": "Bypassed Core Formation in Milky Way-Mass SIDM Halos: Implications for the Local Group Past-Pericenter Scenario",
+      "summary": "arXiv:2604.08647v1 Announce Type: new Abstract: We consider a scenario in which the Milky Way (MW) and M31 have had a previous pericentric passage, and investigate its compatibility with self-interacting dark matter (SIDM). Using initial conditions sampled from Local Group (LG) a…",
+      "published_at": "2026-04-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.08647",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "High-dimensional inference for the $\\gamma$-ray sky with differentiable programming",
+      "summary": "arXiv:2604.08648v1 Announce Type: new Abstract: We motivate the use of differentiable probabilistic programming techniques in order to account for the large model-space inherent to astrophysical $\\gamma$-ray analyses. Targeting the longstanding Galactic Center $\\gamma$-ray Excess…",
+      "published_at": "2026-04-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.08648",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Primordial Neutron Stars",
+      "summary": "arXiv:2604.08651v1 Announce Type: new Abstract: We propose a novel cosmological scenario in which baryonic neutron stars could plausibly form in the early universe. If baryogenesis initially produces an excessively-large baryon asymmetry, $Y_B \\gg 10^{-10},$ the baryonic mass ins…",
+      "published_at": "2026-04-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.08651",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Temperature asymmetry in the Milky Way's hot circumgalactic medium induced by the Magellanic Clouds",
+      "summary": "arXiv:2604.08652v1 Announce Type: new Abstract: The Milky Way is surrounded by a hot diffuse circumgalactic medium (CGM) with temperatures of millions of degrees. Recent X-ray observations with the eROSITA satellite discovered a significant temperature asymmetry of this hot CGM,…",
+      "published_at": "2026-04-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.08652",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Choice of optical transformation for photonic circuit wavefront sensors",
+      "summary": "arXiv:2604.08665v1 Announce Type: new Abstract: Coronagraph designs which use photonic integrated circuits have the highest theoretical throughput for off-axis signals, and therefore the highest potential exoplanet yield for future high-contrast direct imaging campaigns. Using th…",
+      "published_at": "2026-04-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.08665",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Hubble sequence in JWST CEERS from unbiased galaxy morphologies",
+      "summary": "arXiv:2604.08682v1 Announce Type: new Abstract: Whether the \"Hubble sequence\" of galaxy morphologies exists up to z~4 is still disputed, and one of the challenges is characterizing galaxy structure consistently across a wide range of redshifts. To enable a fair comparison across…",
+      "published_at": "2026-04-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.08682",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: The Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up",
       "summary": "<img align=\"left\" alt=\"Artist’s interpretation of the cosmic distance ladder\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2611a.jpg\" />An international collaboration of astronomers has produced one of the mos…",
