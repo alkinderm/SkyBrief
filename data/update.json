@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-13T11:51:11Z",
+  "generated_at": "2026-04-14T11:40:11Z",
   "items": [
     {
-      "title": "Bypassed Core Formation in Milky Way-Mass SIDM Halos: Implications for the Local Group Past-Pericenter Scenario",
-      "summary": "arXiv:2604.08647v1 Announce Type: new Abstract: We consider a scenario in which the Milky Way (MW) and M31 have had a previous pericentric passage, and investigate its compatibility with self-interacting dark matter (SIDM). Using initial conditions sampled from Local Group (LG) a…",
-      "published_at": "2026-04-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.08647",
+      "title": "Gas-rich ultra-diffuse galaxies: alleviating the MOND tension with HMG",
+      "summary": "arXiv:2604.09652v1 Announce Type: new Abstract: Gas-rich ultra-diffuse galaxies (UDGs) are an unusually sharp test for gravity models tied to the baryonic Tully--Fisher relation because several systems appear to rotate too slowly for their baryonic masses. This study revisits the…",
+      "published_at": "2026-04-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.09652",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "High-dimensional inference for the $\\gamma$-ray sky with differentiable programming",
-      "summary": "arXiv:2604.08648v1 Announce Type: new Abstract: We motivate the use of differentiable probabilistic programming techniques in order to account for the large model-space inherent to astrophysical $\\gamma$-ray analyses. Targeting the longstanding Galactic Center $\\gamma$-ray Excess…",
-      "published_at": "2026-04-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.08648",
+      "title": "Time-resolved XRISM spectroscopy reveals the evolution and structure of the corona in MCG-6-30-15",
+      "summary": "arXiv:2604.09761v1 Announce Type: new Abstract: We present a time-resolved analysis of high-resolution spectra of the AGN MCG-6-30-15 obtained by XRISM alongside broadband spectra from NuSTAR and XMM-Newton during a coordinated observing campaign in February 2024. These observati…",
+      "published_at": "2026-04-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.09761",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Primordial Neutron Stars",
-      "summary": "arXiv:2604.08651v1 Announce Type: new Abstract: We propose a novel cosmological scenario in which baryonic neutron stars could plausibly form in the early universe. If baryogenesis initially produces an excessively-large baryon asymmetry, $Y_B \\gg 10^{-10},$ the baryonic mass ins…",
-      "published_at": "2026-04-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.08651",
+      "title": "High-energy neutrino constraints on primordial black holes as dark matter",
+      "summary": "arXiv:2604.09762v1 Announce Type: new Abstract: Primordial black holes (PBHs) are one of the most appealing dark matter candidates over a wide range of masses and abundances. This broad parameter space has been constrained by a variety of observational probes. In this work, for t…",
+      "published_at": "2026-04-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.09762",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Temperature asymmetry in the Milky Way's hot circumgalactic medium induced by the Magellanic Clouds",
-      "summary": "arXiv:2604.08652v1 Announce Type: new Abstract: The Milky Way is surrounded by a hot diffuse circumgalactic medium (CGM) with temperatures of millions of degrees. Recent X-ray observations with the eROSITA satellite discovered a significant temperature asymmetry of this hot CGM,…",
-      "published_at": "2026-04-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.08652",
+      "title": "A first empirical derivation of the average dust attenuation law at 2<z<7",
+      "summary": "arXiv:2604.09763v1 Announce Type: new Abstract: Dust attenuation strongly affects the observed spectral energy distributions of galaxies, introducing significant uncertainties in the derivation of key physical properties such as star formation rates, stellar masses, and metallici…",
+      "published_at": "2026-04-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.09763",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Choice of optical transformation for photonic circuit wavefront sensors",
-      "summary": "arXiv:2604.08665v1 Announce Type: new Abstract: Coronagraph designs which use photonic integrated circuits have the highest theoretical throughput for off-axis signals, and therefore the highest potential exoplanet yield for future high-contrast direct imaging campaigns. Using th…",
-      "published_at": "2026-04-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.08665",
+      "title": "Eccentricities of millisecond pulsars with intermediate-mass progenitors",
+      "summary": "arXiv:2604.09764v1 Announce Type: new Abstract: One channel to form millisecond pulsars with CO white dwarf companions is through the stable Roche-lobe overflow of intermediate-mass ($3\\,{\\rm M}_\\odot\\lesssim M\\lesssim 5\\,{\\rm M}_\\odot$) stars at the end of the main sequence (Cas…",
+      "published_at": "2026-04-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.09764",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The Hubble sequence in JWST CEERS from unbiased galaxy morphologies",
-      "summary": "arXiv:2604.08682v1 Announce Type: new Abstract: Whether the \"Hubble sequence\" of galaxy morphologies exists up to z~4 is still disputed, and one of the challenges is characterizing galaxy structure consistently across a wide range of redshifts. To enable a fair comparison across…",
-      "published_at": "2026-04-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.08682",
+      "title": "Gaia astrometry disfavors a binary origin for long secondary periods",
+      "summary": "arXiv:2604.09767v1 Announce Type: new Abstract: Approximately one-third of luminous pulsating red giant stars exhibit long secondary periods (LSPs): stable photometric variability with periods of several months to years in addition to their much shorter primary pulsation cycles.…",
+      "published_at": "2026-04-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.09767",
       "tags": [
         "arxiv",
         "astro-ph"
