@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-15T11:34:37Z",
+  "generated_at": "2026-04-16T11:38:36Z",
   "items": [
     {
-      "title": "Finite temperature effects on g-modes of inviscid neutron stars",
-      "summary": "arXiv:2604.11815v1 Announce Type: new Abstract: We study the effect of temperature on secular, compositional $g$-modes in the core of inviscid neutron stars. Using a chiral $SU(2)_f$ sigma model, we construct isentropic temperature profiles for hot and dense matter and find that…",
-      "published_at": "2026-04-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.11815",
+      "title": "The Material Point Method (MPM) for simulating hypervelocity impact on asteroids",
+      "summary": "arXiv:2604.13136v1 Announce Type: new Abstract: Shock-physics numerical codes are essential tools for describing the short but extreme fragmentation stage of the hypervelocity impact process on asteroids. However, accurately representing complex interior structures, surfaces, and…",
+      "published_at": "2026-04-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.13136",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Sensitivities of Black Hole Images from GRMHD Simulations",
-      "summary": "arXiv:2604.11869v1 Announce Type: new Abstract: The advent of high-fidelity imaging of supermassive black holes calls for efficient and robust data-analysis methods. In this work, we use $\\texttt{Jipole}$, a differentiable, $\\texttt{ipole}$-based radiative transfer code, to enabl…",
-      "published_at": "2026-04-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.11869",
+      "title": "Secular Brightness Trends of Starlink and OneWeb Satellites",
+      "summary": "arXiv:2604.13145v1 Announce Type: new Abstract: Magnitudes recorded from 2021 through 2026 for Starlink VisorSats reveal brightening of 0.6 magnitudes, while those of OneWeb show dimming of 0.4. Both trends are significant at 3 sigma. This study is based on 1.6 million magnitudes…",
+      "published_at": "2026-04-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.13145",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "JWST Observations of Starbursts: Dust Processing in the M82 Superwind",
-      "summary": "arXiv:2604.11873v1 Announce Type: new Abstract: We present JWST MIRI and NIRCam imaging of the inner ~5 kpc of the M82 superwind at 0.05-0.375'' (~0.9-6.5 pc) resolution. Targeted filters probe emission from polycyclic aromatic hydrocarbons (PAHs; F335M, F360M, F770W, F1130W) and…",
-      "published_at": "2026-04-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.11873",
+      "title": "Persephone's Torch: A 15th Magnitude Quadruply-Lensed Quasar From the Couch Discovered with SPHEREx and the LBT",
+      "summary": "arXiv:2604.13152v1 Announce Type: new Abstract: Here we report the spectroscopic and geometric confirmation of an extremely bright ($i=14.77$) and compact (Einstein radius of $\\sim0.45''$) quadruply-lensed quasar at $z=2.22$, J1330$-$0905, which we dub Persephone's Torch. The sys…",
+      "published_at": "2026-04-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.13152",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "An XMM-Newton Analysis of the Supermassive Black Hole Binary Candidate MCG+11--11--032",
-      "summary": "arXiv:2604.11874v1 Announce Type: new Abstract: We investigate the possibility of a binary supermassive black hole system at the center of MCG+11--11--032, a local (z = 0.036) Seyfert 2 galaxy. Prior work with stacked Swift/XRT spectra suggested the presence of two Fe K$\\alpha$ l…",
-      "published_at": "2026-04-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.11874",
+      "title": "From Clumps to Sheets: Geometry Controls the Temperature PDF of Multi-Phase Gas",
+      "summary": "arXiv:2604.13154v1 Announce Type: new Abstract: Temperature probability distribution functions (PDFs) are a compact description of the thermal structure of multi-phase turbulent gas, and are directly linked to observables such as emission/absorption line ratios and phase mass fra…",
+      "published_at": "2026-04-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.13154",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Spectral index evolution of the limb-brightened jet in 3C 84",
-      "summary": "arXiv:2604.11875v1 Announce Type: new Abstract: Relativistic jets launched by active galactic nuclei are fundamental for understanding the physics of accreting supermassive black holes and their immediate environment, yet the mechanisms driving jet launching remain uncertain. In…",
-      "published_at": "2026-04-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.11875",
+      "title": "A Dynamical Test for Cooling-Induced Entrainment in a Runaway Supermassive Black Hole Tail",
+      "summary": "arXiv:2604.13155v1 Announce Type: new Abstract: Radiative turbulent mixing layers are widely invoked to explain the survival, growth, and entrainment of cold gas in hot astrophysical flows, but quantitative dynamical tests have remained scarce. RBH-1, the first confirmed runaway…",
+      "published_at": "2026-04-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.13155",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies",
-      "summary": "arXiv:2604.11879v1 Announce Type: new Abstract: We present an Atacama Large Millimeter/submillimeter Array (ALMA) spectroscopic follow-up survey of an 870 $\\mu$m-selected sample of dusty star-forming galaxies (DSFGs) in the GOODS-S field. We use these linescans to identify or con…",
-      "published_at": "2026-04-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.11879",
+      "title": "Resolving circumgalactic gas flows around a z$\\approx$3.6 quasar using MUSE and ALMA",
+      "summary": "arXiv:2604.13159v1 Announce Type: new Abstract: The formation and evolution of galaxies is regulated by the exchange of gas with the surrounding large-scale structures on circum- and intergalactic scales. Yet, little is known about the complex processes shaping the cycle of baryo…",
+      "published_at": "2026-04-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.13159",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Organization Release: DESI Completes Planned 3D Map of the Universe and Continues Exploring",
+      "summary": "<img align=\"left\" alt=\"Zoomed-in portion of DESI’s year-five map\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2610a.jpg\" />DESI has mapped more than 47 million galaxies and quasars, creating the largest high-…",
+      "published_at": "2026-04-15T15:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2610/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"NSF NOIRLab follow-up ecosystem\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2606a.jpg\" />NSF NOIRLab, funded by the U.S. National Science Foundation, has completed end-to-end runs of i…",
       "published_at": "2026-03-10T19:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2606/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Organization Release: NSF–DOE Vera C. Rubin Observatory Launches Real-Time Discovery Machine for Monitoring the Night Sky",
-      "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin Observatory Launches Real-Time Monitoring of the Night Sky\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2605a.jpg\" />NSF–DOE Rubin Observatory has issued its first scienti…",
-      "published_at": "2026-02-25T18:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2605/",
       "tags": [
         "noirlab"
       ],
