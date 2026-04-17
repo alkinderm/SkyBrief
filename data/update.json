@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-16T11:38:36Z",
+  "generated_at": "2026-04-17T11:30:45Z",
   "items": [
     {
-      "title": "The Material Point Method (MPM) for simulating hypervelocity impact on asteroids",
-      "summary": "arXiv:2604.13136v1 Announce Type: new Abstract: Shock-physics numerical codes are essential tools for describing the short but extreme fragmentation stage of the hypervelocity impact process on asteroids. However, accurately representing complex interior structures, surfaces, and…",
-      "published_at": "2026-04-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.13136",
+      "title": "Consistent Treatment of Muons in Binary Neutron Star Mergers",
+      "summary": "arXiv:2604.14225v1 Announce Type: new Abstract: We present a set of numerical-relativity binary neutron star merger simulations incorporating muons and muonic reactions for two baseline baryonic equations-of-state. In order to investigate the possible impact of muons and muonic w…",
+      "published_at": "2026-04-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.14225",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Secular Brightness Trends of Starlink and OneWeb Satellites",
-      "summary": "arXiv:2604.13145v1 Announce Type: new Abstract: Magnitudes recorded from 2021 through 2026 for Starlink VisorSats reveal brightening of 0.6 magnitudes, while those of OneWeb show dimming of 0.4. Both trends are significant at 3 sigma. This study is based on 1.6 million magnitudes…",
-      "published_at": "2026-04-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.13145",
+      "title": "Could the high-mass black holes from gravitational-wave observations be explained by lensing?",
+      "summary": "arXiv:2604.14247v1 Announce Type: new Abstract: The high-mass ($M \\gtrsim 30 M_\\odot$) black holes (BHs) from the gravitational-wave (GW) observations of LIGO and Virgo came as a surprise to many astronomers. While the collapse of metal-poor massive stars could produce such BHs,…",
+      "published_at": "2026-04-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.14247",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Persephone's Torch: A 15th Magnitude Quadruply-Lensed Quasar From the Couch Discovered with SPHEREx and the LBT",
-      "summary": "arXiv:2604.13152v1 Announce Type: new Abstract: Here we report the spectroscopic and geometric confirmation of an extremely bright ($i=14.77$) and compact (Einstein radius of $\\sim0.45''$) quadruply-lensed quasar at $z=2.22$, J1330$-$0905, which we dub Persephone's Torch. The sys…",
-      "published_at": "2026-04-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.13152",
+      "title": "Deep Imaging Meets Motion: Complementing Stream Photometry Through Planetary Nebula Kinematics",
+      "summary": "arXiv:2604.14272v1 Announce Type: new Abstract: The combination of deep imaging data and kinematic measurements in galaxy outskirts promises to reveal extensive insights into the structure and history of individual galaxies. From a census of tidal features around galaxies from th…",
+      "published_at": "2026-04-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.14272",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "From Clumps to Sheets: Geometry Controls the Temperature PDF of Multi-Phase Gas",
-      "summary": "arXiv:2604.13154v1 Announce Type: new Abstract: Temperature probability distribution functions (PDFs) are a compact description of the thermal structure of multi-phase turbulent gas, and are directly linked to observables such as emission/absorption line ratios and phase mass fra…",
-      "published_at": "2026-04-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.13154",
+      "title": "Cold vs. Hot Gas Accretion and Angular Momentum in FIRE Simulations: From Halo to Galaxy Scales",
+      "summary": "arXiv:2604.14273v1 Announce Type: new Abstract: We present a systematic study of gas accretion and angular momentum in the circumgalactic medium (CGM) using high-resolution FIRE cosmological simulations. Our analysis includes halos spanning the critical $\\sim 10^{12}\\ \\mathrm{M}_…",
+      "published_at": "2026-04-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.14273",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A Dynamical Test for Cooling-Induced Entrainment in a Runaway Supermassive Black Hole Tail",
-      "summary": "arXiv:2604.13155v1 Announce Type: new Abstract: Radiative turbulent mixing layers are widely invoked to explain the survival, growth, and entrainment of cold gas in hot astrophysical flows, but quantitative dynamical tests have remained scarce. RBH-1, the first confirmed runaway…",
-      "published_at": "2026-04-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.13155",
+      "title": "Combining spectroscopy and wavefront control at deep contrast with photonic lanterns",
+      "summary": "arXiv:2604.14276v1 Announce Type: new Abstract: HWO aims to directly image objects orbiting Sun-like stars, using a 6-m telescope capable of high-contrast imaging ($10^{-10}$) and spectroscopy to search for biosignatures in planets located in the habitable zone. Recent laboratory…",
+      "published_at": "2026-04-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.14276",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Resolving circumgalactic gas flows around a z$\\approx$3.6 quasar using MUSE and ALMA",
-      "summary": "arXiv:2604.13159v1 Announce Type: new Abstract: The formation and evolution of galaxies is regulated by the exchange of gas with the surrounding large-scale structures on circum- and intergalactic scales. Yet, little is known about the complex processes shaping the cycle of baryo…",
-      "published_at": "2026-04-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.13159",
+      "title": "Stream on: Evolution of stellar shells and streams - A case study",
+      "summary": "arXiv:2604.14280v1 Announce Type: new Abstract: Tidal stellar shells and streams are two of the most intriguing low-surface-brightness features within galaxies, consisting of stars accreted from satellite galaxies. A crucial ingredient in determining which type of feature will be…",
+      "published_at": "2026-04-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.14280",
       "tags": [
         "arxiv",
         "astro-ph"
