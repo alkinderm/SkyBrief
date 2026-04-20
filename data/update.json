@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-19T11:08:52Z",
+  "generated_at": "2026-04-20T11:52:23Z",
   "items": [
+    {
+      "title": "Uniform Reinterpretation of Rocky Exoplanet Secondary Eclipse Observations and the Impact of Stellar and Orbital Uncertainties",
+      "summary": "arXiv:2604.15421v1 Announce Type: new Abstract: Secondary eclipse observations are a powerful way to investigate whether or not a rocky exoplanet hosts an atmosphere, as an atmospheric presence would transport heat to the nightside and render the dayside colder than anticipated.…",
+      "published_at": "2026-04-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.15421",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The CARMENES search for exoplanets around M dwarfs. A homogeneous catalogue of projected rotational velocities accounting for limb-darkening",
+      "summary": "arXiv:2604.15428v1 Announce Type: new Abstract: Stellar rotation is closely linked to both age and magnetic activity. Through gyrochronology, it provides a means to estimate stellar ages and trace the evolution of planetary systems, and it is also crucial to constrain and correct…",
+      "published_at": "2026-04-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.15428",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "GRMHD accretion beyond the black hole paradigm: Light from within the shadow",
+      "summary": "arXiv:2604.15430v1 Announce Type: new Abstract: We present the first three-dimensional general relativistic magnetohydrodynamic simulation of sustained accretion onto a horizonless singularity in which matter reaches the central object rather than being accumulated outside of it…",
+      "published_at": "2026-04-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.15430",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "PySCo-EFT and ECOSMOG-EFT: a tandem of N-body simulation codes for the Effective Field Theory of Dark Energy",
+      "summary": "arXiv:2604.15434v1 Announce Type: new Abstract: Modified gravity theories constitute viable alternatives to the standard cosmological model for explaining the observed late-time accelerated expansion of the Universe. The Effective Field Theory of Dark Energy (EFTofDE) is an effic…",
+      "published_at": "2026-04-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.15434",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Surveying the Whirlpool at Arcseconds with NOEMA (SWAN). IV. Extent of active galactic nucleus feedback on the interstellar medium",
+      "summary": "arXiv:2604.15438v1 Announce Type: new Abstract: Active Galactic Nuclei (AGN) are intertwined with galaxy evolution, injecting energy into the interstellar medium (ISM) that could regulate star formation as a galaxy evolves. However, the phenomena through which we observe AGN are…",
+      "published_at": "2026-04-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.15438",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Probing the large-scale structure with 21cm-galaxy cross-bispectrum: Estimates from simulations and forecasts for upcoming cosmological surv…",
+      "summary": "arXiv:2604.15440v1 Announce Type: new Abstract: The redshifted 21cm signal from the post-reionization epoch is highly non-Gaussian; thus, higher-order statistics, such as the bispectrum, are required to extract this non-Gaussian information. However, high-signal-to-noise ratio de…",
+      "published_at": "2026-04-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.15440",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: DESI Completes Planned 3D Map of the Universe and Continues Exploring",
       "summary": "<img align=\"left\" alt=\"Zoomed-in portion of DESI’s year-five map\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2610a.jpg\" />DESI has mapped more than 47 million galaxies and quasars, creating the largest high-…",
