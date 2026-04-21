@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-20T11:52:23Z",
+  "generated_at": "2026-04-21T11:40:15Z",
   "items": [
     {
-      "title": "Uniform Reinterpretation of Rocky Exoplanet Secondary Eclipse Observations and the Impact of Stellar and Orbital Uncertainties",
-      "summary": "arXiv:2604.15421v1 Announce Type: new Abstract: Secondary eclipse observations are a powerful way to investigate whether or not a rocky exoplanet hosts an atmosphere, as an atmospheric presence would transport heat to the nightside and render the dayside colder than anticipated.…",
-      "published_at": "2026-04-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.15421",
+      "title": "Stellar Detection Counts Are Invariant Across Geomagnetic Storm Intensity in POSS-I Plates: Ruling Out the Plate Sensitivity Artifact and Co…",
+      "summary": "arXiv:2604.16470v1 Announce Type: new Abstract: The VASCO project has identified over 100,000 optical transients on photographic plates from the First Palomar Observatory Sky Survey (POSS-I, 1949-1957). Cann (2026a) demonstrated a dose-dependent suppression of transient detection…",
+      "published_at": "2026-04-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.16470",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The CARMENES search for exoplanets around M dwarfs. A homogeneous catalogue of projected rotational velocities accounting for limb-darkening",
-      "summary": "arXiv:2604.15428v1 Announce Type: new Abstract: Stellar rotation is closely linked to both age and magnetic activity. Through gyrochronology, it provides a means to estimate stellar ages and trace the evolution of planetary systems, and it is also crucial to constrain and correct…",
-      "published_at": "2026-04-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.15428",
+      "title": "AI--Assisted Exploration: DHOST Theories without Quantum Ghosts",
+      "summary": "arXiv:2604.16531v1 Announce Type: new Abstract: Higher derivative quantum corrections are essential components of scalar tensor effective field theories (EFTs), yet they typically reintroduce the Ostrogradsky ghost instability that the classical theory was designed to evade. This…",
+      "published_at": "2026-04-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.16531",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "GRMHD accretion beyond the black hole paradigm: Light from within the shadow",
-      "summary": "arXiv:2604.15430v1 Announce Type: new Abstract: We present the first three-dimensional general relativistic magnetohydrodynamic simulation of sustained accretion onto a horizonless singularity in which matter reaches the central object rather than being accumulated outside of it…",
-      "published_at": "2026-04-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.15430",
+      "title": "Classifying Supermassive Black Hole Growth Regimes to Observables Across Cosmological Simulations with Forecasts for LSST",
+      "summary": "arXiv:2604.16539v1 Announce Type: new Abstract: The possibility of over-massive black holes suggested by James Webb Space Telescope photometric discoveries of 'little red dots', may disfavor light supermassive black hole (SMBH) seeds. However, what should constitute the mass (ran…",
+      "published_at": "2026-04-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.16539",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "PySCo-EFT and ECOSMOG-EFT: a tandem of N-body simulation codes for the Effective Field Theory of Dark Energy",
-      "summary": "arXiv:2604.15434v1 Announce Type: new Abstract: Modified gravity theories constitute viable alternatives to the standard cosmological model for explaining the observed late-time accelerated expansion of the Universe. The Effective Field Theory of Dark Energy (EFTofDE) is an effic…",
-      "published_at": "2026-04-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.15434",
+      "title": "A First Investigation of Repeated-Signal Localization of Strongly Lensed Gravitational Waves for Multimessenger Astronomy",
+      "summary": "arXiv:2604.16561v1 Announce Type: new Abstract: Accurate sky localization is essential for gravitational-wave (GW) astronomy, particularly for multimessenger follow-up and host galaxy identification. For strongly lensed GW events, achieving localization at the level of $\\sim 10~\\…",
+      "published_at": "2026-04-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.16561",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Surveying the Whirlpool at Arcseconds with NOEMA (SWAN). IV. Extent of active galactic nucleus feedback on the interstellar medium",
-      "summary": "arXiv:2604.15438v1 Announce Type: new Abstract: Active Galactic Nuclei (AGN) are intertwined with galaxy evolution, injecting energy into the interstellar medium (ISM) that could regulate star formation as a galaxy evolves. However, the phenomena through which we observe AGN are…",
-      "published_at": "2026-04-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.15438",
+      "title": "On the Gamma-ray Efficiency of Superluminous Supernovae: Potential Detections and Population-Level Constraints",
+      "summary": "arXiv:2604.16595v1 Announce Type: new Abstract: Superluminous supernovae (SLSNe) are among the most energetic stellar explosions, yet their central power source remains uncertain. Models invoking magnetar spin-down or circumstellar interaction predict GeV gamma-ray emission once…",
+      "published_at": "2026-04-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.16595",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Probing the large-scale structure with 21cm-galaxy cross-bispectrum: Estimates from simulations and forecasts for upcoming cosmological surv…",
-      "summary": "arXiv:2604.15440v1 Announce Type: new Abstract: The redshifted 21cm signal from the post-reionization epoch is highly non-Gaussian; thus, higher-order statistics, such as the bispectrum, are required to extract this non-Gaussian information. However, high-signal-to-noise ratio de…",
-      "published_at": "2026-04-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.15440",
+      "title": "Old Universe, Young SNe Ia: A Statistical Analysis of Type Ia Supernova Progenitor Age from 6,983 TITAN Host Galaxies, and Implications for…",
+      "summary": "arXiv:2604.16597v1 Announce Type: new Abstract: Correlations between standardized Type Ia supernova (SN Ia) luminosities and host-galaxy properties are routinely modeled to avoid bias in cosmological parameter inference. A recent hypothesis attributes these correlations to progen…",
+      "published_at": "2026-04-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.16597",
       "tags": [
         "arxiv",
         "astro-ph"
