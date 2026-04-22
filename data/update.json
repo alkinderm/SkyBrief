@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-21T11:40:15Z",
+  "generated_at": "2026-04-22T11:39:01Z",
   "items": [
     {
-      "title": "Stellar Detection Counts Are Invariant Across Geomagnetic Storm Intensity in POSS-I Plates: Ruling Out the Plate Sensitivity Artifact and Co…",
-      "summary": "arXiv:2604.16470v1 Announce Type: new Abstract: The VASCO project has identified over 100,000 optical transients on photographic plates from the First Palomar Observatory Sky Survey (POSS-I, 1949-1957). Cann (2026a) demonstrated a dose-dependent suppression of transient detection…",
-      "published_at": "2026-04-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.16470",
+      "title": "Enhancement of the Rate of Tidal Disruption Events in Active Galactic Nuclei due to the Sweeping Secular Resonance Mechanism",
+      "summary": "arXiv:2604.18597v1 Announce Type: new Abstract: Tidal disruption event (TDE) rates in active galactic nuclei (AGN) consistently exceed predictions from two-body relaxation, particularly in post-starburst and green valley galaxies. We explain this excess with a new mechanism: a sw…",
+      "published_at": "2026-04-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.18597",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "AI--Assisted Exploration: DHOST Theories without Quantum Ghosts",
-      "summary": "arXiv:2604.16531v1 Announce Type: new Abstract: Higher derivative quantum corrections are essential components of scalar tensor effective field theories (EFTs), yet they typically reintroduce the Ostrogradsky ghost instability that the classical theory was designed to evade. This…",
-      "published_at": "2026-04-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.16531",
+      "title": "Probing heartbeat oscillations from the black hole X-ray binary GRS 1915+105 using spectral-timing analysis",
+      "summary": "arXiv:2604.18601v1 Announce Type: new Abstract: GRS 1915+105 is a black hole X-ray binary exhibiting quasi-periodic $\\rho$-class (\"heartbeat\") oscillations with periods of $\\sim$50-100 s, thought to arise from radiation-pressure-driven instabilities in the inner accretion disk at…",
+      "published_at": "2026-04-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.18601",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Classifying Supermassive Black Hole Growth Regimes to Observables Across Cosmological Simulations with Forecasts for LSST",
-      "summary": "arXiv:2604.16539v1 Announce Type: new Abstract: The possibility of over-massive black holes suggested by James Webb Space Telescope photometric discoveries of 'little red dots', may disfavor light supermassive black hole (SMBH) seeds. However, what should constitute the mass (ran…",
-      "published_at": "2026-04-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.16539",
+      "title": "Visual Characteristics of a Rotating Black Hole in $4$D Einstein-Gauss-Bonnet Gravity with Thin Accretion Disk Under EHT Constraints",
+      "summary": "arXiv:2604.18628v1 Announce Type: new Abstract: This study investigates the visual characteristics of a rotating black hole (BH) within the fabric of $4$D Einstein-Gauss-Bonnet gravity illuminated with two illumination models, such as a celestial light sphere and a thin accretion…",
+      "published_at": "2026-04-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.18628",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A First Investigation of Repeated-Signal Localization of Strongly Lensed Gravitational Waves for Multimessenger Astronomy",
-      "summary": "arXiv:2604.16561v1 Announce Type: new Abstract: Accurate sky localization is essential for gravitational-wave (GW) astronomy, particularly for multimessenger follow-up and host galaxy identification. For strongly lensed GW events, achieving localization at the level of $\\sim 10~\\…",
-      "published_at": "2026-04-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.16561",
+      "title": "Asteroid Mining to Sustain a Mars Colony: A Logistics Point of View",
+      "summary": "arXiv:2604.18664v1 Announce Type: new Abstract: Asteroid mining can become an enabling technology to establish a sustainable manned colony on Mars, which requires metallic materials more often than they are readily available in shipments from Earth. This paper describes a feasibi…",
+      "published_at": "2026-04-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.18664",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "On the Gamma-ray Efficiency of Superluminous Supernovae: Potential Detections and Population-Level Constraints",
-      "summary": "arXiv:2604.16595v1 Announce Type: new Abstract: Superluminous supernovae (SLSNe) are among the most energetic stellar explosions, yet their central power source remains uncertain. Models invoking magnetar spin-down or circumstellar interaction predict GeV gamma-ray emission once…",
-      "published_at": "2026-04-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.16595",
+      "title": "GOALS-JWST: Resolved multi-phase molecular gas in IRAS 20551-4250 using JWST and ALMA",
+      "summary": "arXiv:2604.18671v1 Announce Type: new Abstract: Studying the content and distribution of molecular gas provides key insights into how feedback from Active Galactic Nuclei (AGN) and star formation influences galaxy evolution, since molecular gas is the primary fuel for star format…",
+      "published_at": "2026-04-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.18671",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Old Universe, Young SNe Ia: A Statistical Analysis of Type Ia Supernova Progenitor Age from 6,983 TITAN Host Galaxies, and Implications for…",
-      "summary": "arXiv:2604.16597v1 Announce Type: new Abstract: Correlations between standardized Type Ia supernova (SN Ia) luminosities and host-galaxy properties are routinely modeled to avoid bias in cosmological parameter inference. A recent hypothesis attributes these correlations to progen…",
-      "published_at": "2026-04-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.16597",
+      "title": "Binary Evolution Can Mimic the Pair-Instability Mass Gap in Black Hole Mergers",
+      "summary": "arXiv:2604.18676v1 Announce Type: new Abstract: The recent O4a release from the LIGO-Virgo-KAGRA collaboration, which significantly increased the number of gravitational-wave (GW) detections, reveals features with potentially important astrophysical implications. One notable exam…",
+      "published_at": "2026-04-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.18676",
       "tags": [
         "arxiv",
         "astro-ph"
