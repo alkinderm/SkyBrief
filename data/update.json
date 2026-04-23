@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-22T11:39:01Z",
+  "generated_at": "2026-04-23T11:40:53Z",
   "items": [
     {
-      "title": "Enhancement of the Rate of Tidal Disruption Events in Active Galactic Nuclei due to the Sweeping Secular Resonance Mechanism",
-      "summary": "arXiv:2604.18597v1 Announce Type: new Abstract: Tidal disruption event (TDE) rates in active galactic nuclei (AGN) consistently exceed predictions from two-body relaxation, particularly in post-starburst and green valley galaxies. We explain this excess with a new mechanism: a sw…",
-      "published_at": "2026-04-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.18597",
+      "title": "The General Antiparticle Spectrometer (GAPS) Antarctic Balloon Payload",
+      "summary": "arXiv:2604.19830v1 Announce Type: new Abstract: The General Antiparticle Spectrometer (GAPS) is an Antarctic stratospheric balloon mission designed to provide unmatched sensitivity to low-energy (<0.25 GeV/n) cosmic-ray antiprotons, antideuterons, and antihelium nuclei as signatu…",
+      "published_at": "2026-04-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.19830",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Probing heartbeat oscillations from the black hole X-ray binary GRS 1915+105 using spectral-timing analysis",
-      "summary": "arXiv:2604.18601v1 Announce Type: new Abstract: GRS 1915+105 is a black hole X-ray binary exhibiting quasi-periodic $\\rho$-class (\"heartbeat\") oscillations with periods of $\\sim$50-100 s, thought to arise from radiation-pressure-driven instabilities in the inner accretion disk at…",
-      "published_at": "2026-04-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.18601",
+      "title": "Can radio occultations constrain Uranus or Neptune's internal rotation periods?",
+      "summary": "arXiv:2604.19863v1 Announce Type: new Abstract: The shapes of fluid planets bear the signatures of rotational flattening and atmospheric flows. Precise knowledge of their shapes and wind profiles may therefore reveal their interior rotation rates. We re-examine this idea for the…",
+      "published_at": "2026-04-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.19863",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Visual Characteristics of a Rotating Black Hole in $4$D Einstein-Gauss-Bonnet Gravity with Thin Accretion Disk Under EHT Constraints",
-      "summary": "arXiv:2604.18628v1 Announce Type: new Abstract: This study investigates the visual characteristics of a rotating black hole (BH) within the fabric of $4$D Einstein-Gauss-Bonnet gravity illuminated with two illumination models, such as a celestial light sphere and a thin accretion…",
-      "published_at": "2026-04-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.18628",
+      "title": "A population-based approach to understanding radio AGN feedback with LOFAR: The LoTSS Deep Fields",
+      "summary": "arXiv:2604.19865v1 Announce Type: new Abstract: Feedback from radio AGN jets is regularly implemented into contemporary models of galaxy evolution to offset radiative cooling in the large-scale environments in which they typically reside. While previous studies suggest that the t…",
+      "published_at": "2026-04-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.19865",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Asteroid Mining to Sustain a Mars Colony: A Logistics Point of View",
-      "summary": "arXiv:2604.18664v1 Announce Type: new Abstract: Asteroid mining can become an enabling technology to establish a sustainable manned colony on Mars, which requires metallic materials more often than they are readily available in shipments from Earth. This paper describes a feasibi…",
-      "published_at": "2026-04-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.18664",
+      "title": "Hamilton's Object Revisited: A challenging source redshift of a strong lensing configuration",
+      "summary": "arXiv:2604.19867v1 Announce Type: new Abstract: Low-resolution spectrographs used to have difficulties to determine redshifts of galaxies at $z\\approx1$ and $z\\approx3$. Spectral emission and absorption lines of magnesium and iron redshifted to $z\\approx1$ fall close to hydrogen,…",
+      "published_at": "2026-04-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.19867",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "GOALS-JWST: Resolved multi-phase molecular gas in IRAS 20551-4250 using JWST and ALMA",
-      "summary": "arXiv:2604.18671v1 Announce Type: new Abstract: Studying the content and distribution of molecular gas provides key insights into how feedback from Active Galactic Nuclei (AGN) and star formation influences galaxy evolution, since molecular gas is the primary fuel for star format…",
-      "published_at": "2026-04-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.18671",
+      "title": "The fragmentation properties of massive star-forming regions in 30Dor-10 at 2000 au resolution",
+      "summary": "arXiv:2604.19878v1 Announce Type: new Abstract: The fragmentation properties of parsec-scales clumps play a fundamental role in shaping the dense gas condensations known as cores, the immediate progenitor of stars. The distribution of core masses, the so-called core mass function…",
+      "published_at": "2026-04-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.19878",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Binary Evolution Can Mimic the Pair-Instability Mass Gap in Black Hole Mergers",
-      "summary": "arXiv:2604.18676v1 Announce Type: new Abstract: The recent O4a release from the LIGO-Virgo-KAGRA collaboration, which significantly increased the number of gravitational-wave (GW) detections, reveals features with potentially important astrophysical implications. One notable exam…",
-      "published_at": "2026-04-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.18676",
+      "title": "Quasi-Periodic Microstructures in Pulsar Emission: Automated Detection and Archival Survey",
+      "summary": "arXiv:2604.19883v1 Announce Type: new Abstract: The study of quasi-period microstructures in pulsars offers valuable insights into the underlying emission mechanism. However, identifying these features through manual inspection of the intensity time series, often containing thous…",
+      "published_at": "2026-04-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.19883",
       "tags": [
         "arxiv",
         "astro-ph"
