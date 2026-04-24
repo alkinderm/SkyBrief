@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-23T11:40:53Z",
+  "generated_at": "2026-04-24T11:41:24Z",
   "items": [
     {
-      "title": "The General Antiparticle Spectrometer (GAPS) Antarctic Balloon Payload",
-      "summary": "arXiv:2604.19830v1 Announce Type: new Abstract: The General Antiparticle Spectrometer (GAPS) is an Antarctic stratospheric balloon mission designed to provide unmatched sensitivity to low-energy (<0.25 GeV/n) cosmic-ray antiprotons, antideuterons, and antihelium nuclei as signatu…",
-      "published_at": "2026-04-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.19830",
+      "title": "Planetary Exploration 3.0: A Roadmap for Software-Defined, Radically Adaptive Space Systems",
+      "summary": "arXiv:2604.20910v1 Announce Type: new Abstract: The surface and subsurface of worlds beyond Mars remain largely unexplored. Yet these worlds hold keys to fundamental questions in planetary science - from potentially habitable subsurface oceans on icy moons to ancient records pres…",
+      "published_at": "2026-04-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.20910",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Can radio occultations constrain Uranus or Neptune's internal rotation periods?",
-      "summary": "arXiv:2604.19863v1 Announce Type: new Abstract: The shapes of fluid planets bear the signatures of rotational flattening and atmospheric flows. Precise knowledge of their shapes and wind profiles may therefore reveal their interior rotation rates. We re-examine this idea for the…",
-      "published_at": "2026-04-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.19863",
+      "title": "Interpretable Analytic Formulae for GWTC-4 Binary Black Hole Population Properties via Symbolic Regression",
+      "summary": "arXiv:2604.20941v1 Announce Type: new Abstract: Recent LIGO-Virgo-KAGRA (LVK) analyses have revealed complex structure in the binary black hole (BBH) population, including distinct features in the primary mass spectrum and nontrivial spin-mass correlations. However, the phenomeno…",
+      "published_at": "2026-04-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.20941",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A population-based approach to understanding radio AGN feedback with LOFAR: The LoTSS Deep Fields",
-      "summary": "arXiv:2604.19865v1 Announce Type: new Abstract: Feedback from radio AGN jets is regularly implemented into contemporary models of galaxy evolution to offset radiative cooling in the large-scale environments in which they typically reside. While previous studies suggest that the t…",
-      "published_at": "2026-04-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.19865",
+      "title": "Revisiting radio synchrotron diagnostics in star-forming galaxies",
+      "summary": "arXiv:2604.20950v1 Announce Type: new Abstract: Radio continuum observations are widely used to study cosmic ray (CR) electron populations and transport processes in star-forming galaxies, but their interpretation relies on several simplifying assumptions. Here, we revisit three…",
+      "published_at": "2026-04-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.20950",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Hamilton's Object Revisited: A challenging source redshift of a strong lensing configuration",
-      "summary": "arXiv:2604.19867v1 Announce Type: new Abstract: Low-resolution spectrographs used to have difficulties to determine redshifts of galaxies at $z\\approx1$ and $z\\approx3$. Spectral emission and absorption lines of magnesium and iron redshifted to $z\\approx1$ fall close to hydrogen,…",
-      "published_at": "2026-04-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.19867",
+      "title": "Black hole mass, host galaxy mass, and dark matter halos: Testing the environmental connection",
+      "summary": "arXiv:2604.20953v1 Announce Type: new Abstract: We investigate the connection between supermassive black holes (SMBHs), their host galaxies, and large-scale dark-matter halos using broad-line X-ray AGN from the XMM--XXL and Stripe\\,82X surveys, together with galaxies from VIPERS…",
+      "published_at": "2026-04-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.20953",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The fragmentation properties of massive star-forming regions in 30Dor-10 at 2000 au resolution",
-      "summary": "arXiv:2604.19878v1 Announce Type: new Abstract: The fragmentation properties of parsec-scales clumps play a fundamental role in shaping the dense gas condensations known as cores, the immediate progenitor of stars. The distribution of core masses, the so-called core mass function…",
-      "published_at": "2026-04-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.19878",
+      "title": "Characterizing the GD-1 Stream with DESI DR2 Data: Thin Stream and Hot Cocoon",
+      "summary": "arXiv:2604.20958v1 Announce Type: new Abstract: GD-1 is among the longest, coldest stellar streams in the Milky Way, making it an ideal target for probing dark matter substructure through dynamical heating. We present a catalog of 608 spectroscopically confirmed GD-1 members from…",
+      "published_at": "2026-04-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.20958",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Quasi-Periodic Microstructures in Pulsar Emission: Automated Detection and Archival Survey",
-      "summary": "arXiv:2604.19883v1 Announce Type: new Abstract: The study of quasi-period microstructures in pulsars offers valuable insights into the underlying emission mechanism. However, identifying these features through manual inspection of the intensity time series, often containing thous…",
-      "published_at": "2026-04-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.19883",
+      "title": "Light, heavy, primordial: exploring the diversity of black hole seeding and growth mechanisms in the JWST era",
+      "summary": "arXiv:2604.20966v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has revealed a puzzling population of massive black holes in the first billion years, many of which are over-massive compared to their hosts (obese black holes), and reside in metal-poor hosts,…",
+      "published_at": "2026-04-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.20966",
       "tags": [
         "arxiv",
         "astro-ph"
