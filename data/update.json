@@ -1,95 +1,19 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-24T11:41:24Z",
+  "generated_at": "2026-04-25T11:21:33Z",
   "items": [
     {
-      "title": "Planetary Exploration 3.0: A Roadmap for Software-Defined, Radically Adaptive Space Systems",
-      "summary": "arXiv:2604.20910v1 Announce Type: new Abstract: The surface and subsurface of worlds beyond Mars remain largely unexplored. Yet these worlds hold keys to fundamental questions in planetary science - from potentially habitable subsurface oceans on icy moons to ancient records pres…",
-      "published_at": "2026-04-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.20910",
+      "title": "Photo Release: Sombrero Galaxy: The Universe’s Dusty Brimmed Hat Revealed Like Never Before",
+      "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur o…",
+      "published_at": "2026-04-24T15:27:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2612/",
       "tags": [
-        "arxiv",
-        "astro-ph"
+        "noirlab"
       ],
       "source": {
-        "name": "arXiv astro-ph (recent)",
+        "name": "NOIRLab News",
         "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Interpretable Analytic Formulae for GWTC-4 Binary Black Hole Population Properties via Symbolic Regression",
-      "summary": "arXiv:2604.20941v1 Announce Type: new Abstract: Recent LIGO-Virgo-KAGRA (LVK) analyses have revealed complex structure in the binary black hole (BBH) population, including distinct features in the primary mass spectrum and nontrivial spin-mass correlations. However, the phenomeno…",
-      "published_at": "2026-04-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.20941",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Revisiting radio synchrotron diagnostics in star-forming galaxies",
-      "summary": "arXiv:2604.20950v1 Announce Type: new Abstract: Radio continuum observations are widely used to study cosmic ray (CR) electron populations and transport processes in star-forming galaxies, but their interpretation relies on several simplifying assumptions. Here, we revisit three…",
-      "published_at": "2026-04-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.20950",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Black hole mass, host galaxy mass, and dark matter halos: Testing the environmental connection",
-      "summary": "arXiv:2604.20953v1 Announce Type: new Abstract: We investigate the connection between supermassive black holes (SMBHs), their host galaxies, and large-scale dark-matter halos using broad-line X-ray AGN from the XMM--XXL and Stripe\\,82X surveys, together with galaxies from VIPERS…",
-      "published_at": "2026-04-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.20953",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Characterizing the GD-1 Stream with DESI DR2 Data: Thin Stream and Hot Cocoon",
-      "summary": "arXiv:2604.20958v1 Announce Type: new Abstract: GD-1 is among the longest, coldest stellar streams in the Milky Way, making it an ideal target for probing dark matter substructure through dynamical heating. We present a catalog of 608 spectroscopically confirmed GD-1 members from…",
-      "published_at": "2026-04-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.20958",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Light, heavy, primordial: exploring the diversity of black hole seeding and growth mechanisms in the JWST era",
-      "summary": "arXiv:2604.20966v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has revealed a puzzling population of massive black holes in the first billion years, many of which are over-massive compared to their hosts (obese black holes), and reside in metal-poor hosts,…",
-      "published_at": "2026-04-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.20966",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +77,6 @@
       "summary": "<img align=\"left\" alt=\"Pictor II ultra-faint dwarf galaxy\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2607a.jpg\" />Discovered in the Pictor II dwarf galaxy, star PicII-503 has an extreme deficiency in iron —…",
       "published_at": "2026-03-16T15:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2607/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Organization Release: First NSF NOIRLab Follow-Up Observations Triggered by NSF–DOE Rubin Alerts",
-      "summary": "<img align=\"left\" alt=\"NSF NOIRLab follow-up ecosystem\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2606a.jpg\" />NSF NOIRLab, funded by the U.S. National Science Foundation, has completed end-to-end runs of i…",
-      "published_at": "2026-03-10T19:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2606/",
       "tags": [
         "noirlab"
       ],
