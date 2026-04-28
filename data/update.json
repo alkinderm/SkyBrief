@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-27T12:08:06Z",
+  "generated_at": "2026-04-28T12:11:10Z",
   "items": [
     {
-      "title": "Gender equality activities in Astronomical Society of Japan",
-      "summary": "arXiv:2604.21959v1 Announce Type: new Abstract: The female ratio in science field, including astronomy, is still quite low in Japan. We, the Astronomical Society of Japan, are making efforts to equalise the gender balance. In this paper, we summarise our statistics, member's thin…",
-      "published_at": "2026-04-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.21959",
+      "title": "Substructures Induced by Dust Drag in Protoplanetary Disks",
+      "summary": "arXiv:2604.22912v1 Announce Type: new Abstract: Dust substructures observed in protoplanetary disks are commonly attributed to embedded planets; however, intrinsic gas-dust interactions can also generate complex morphologies. We performed two-dimensional, axisymmetric simulations…",
+      "published_at": "2026-04-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.22912",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Verifying the STIS Time Dependent Sensitivity Trends with the Primary CALSPEC Standards",
-      "summary": "arXiv:2604.21966v1 Announce Type: new Abstract: The STIS team monitors the time dependent sensitivity (TDS) of each grating with one from a set of three secondary CALSPEC standard stars: GRW+70D5824, AGK+81D266, and BD+28D4211. Here, we use the three primary CALSPEC White Dwarf s…",
-      "published_at": "2026-04-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.21966",
+      "title": "The Effects of Accretion Feedback on Stellar Evolution in AGN Disks",
+      "summary": "arXiv:2604.22913v1 Announce Type: new Abstract: Stars embedded in the accretion disks of active galactic nuclei (AGN) can accrete rapidly from their surroundings, dramatically altering their structure and evolution. However, feedback from the release of gravitational potential en…",
+      "published_at": "2026-04-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.22913",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The Effects of Complex Accretion Disk Geometry on Broadened Iron K$\\alpha$ Lines",
-      "summary": "arXiv:2604.21974v1 Announce Type: new Abstract: X-rays are emitted from the corona above the orbiting matter of the accretion disk and travel either directly to us or illuminate the disk. This illumination of the inner disk is enhanced by gravitational light bending, which focuse…",
-      "published_at": "2026-04-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.21974",
+      "title": "IXPE Polarizations of the Lighthouse Pulsar, Trail, and Filament",
+      "summary": "arXiv:2604.22914v1 Announce Type: new Abstract: The Lighthouse pulsar (PSR J1101$-$6101) sports a bright X-ray trail and filament. The synchrotron emission from both structures is expected to be polarized, with electric vector position angle (EVPA) perpendicular to the magnetic f…",
+      "published_at": "2026-04-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.22914",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The Simons Observatory: Improved Cryogenic Struts for use in the Large Aperture Telescope Receiver",
-      "summary": "arXiv:2604.21975v1 Announce Type: new Abstract: The Simons Observatory Large Aperture Telescope Receiver (SO LATR) is a next generation Cosmic Microwave Background camera equipped with > 60, 000 detectors operating at 100 mK. Maintaining these detectors at the correct temperature…",
-      "published_at": "2026-04-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.21975",
+      "title": "Diffusion-based Galaxy Simulations for the Roman High Latitude Survey",
+      "summary": "arXiv:2604.22917v1 Announce Type: new Abstract: Future weak lensing analyses with the Nancy Grace Roman Space Telescope will require highly realistic image simulations to control shear systematics at unprecedented precision. A key limitation of existing approaches is their relian…",
+      "published_at": "2026-04-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.22917",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Euclid Quick Data Release (Q1). AstroVink: A vision transformer approach to find strong gravitational lens systems",
-      "summary": "arXiv:2604.21977v1 Announce Type: new Abstract: We present AstroVink, a vision transformer classifier designed for automated identification of strong lens candidates in Euclid imaging. We build upon the DINOv2 encoder, fine tuned to distinguish between lens and non-lens galaxies.…",
-      "published_at": "2026-04-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.21977",
+      "title": "The abundance and radial distribution of faint and ultra-faint dwarfs in galaxy clusters",
+      "summary": "arXiv:2604.22920v1 Announce Type: new Abstract: Cosmological simulations of galaxy clusters are unable to resolve dwarf galaxies due to limited numerical resolution which drives the artificial disruption of dark matter substructures. We address these limitations by combining the…",
+      "published_at": "2026-04-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.22920",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Fast, Stable, and Physical: Hyperbolic, Magnetic Field-Aligned Diffusion in SPH",
-      "summary": "arXiv:2604.21983v1 Announce Type: new Abstract: In this paper, we introduce the first implementation of magnetic field-aligned hyperbolic diffusion for standard smoothed particle (magneto-)hydrodynamics (SPH), and its linear-exact gradient extension (LESPH). Hyperbolic diffusion…",
-      "published_at": "2026-04-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.21983",
+      "title": "Cluster-green galaxy correlations: where do these galaxies live?",
+      "summary": "arXiv:2604.22921v1 Announce Type: new Abstract: Green valley (GV) galaxies are thought to represent a transitional population between star-forming and quiescent systems. However, their spatial distribution relative to galaxy systems remains unclear, particularly in relation to th…",
+      "published_at": "2026-04-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.22921",
       "tags": [
         "arxiv",
         "astro-ph"
