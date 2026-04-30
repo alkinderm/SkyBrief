@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-04-29T12:04:10Z",
+  "generated_at": "2026-04-30T12:00:11Z",
   "items": [
     {
-      "title": "Substructures Induced by Dust Drag in Protoplanetary Disks",
-      "summary": "arXiv:2604.22912v1 Announce Type: new Abstract: Dust substructures observed in protoplanetary disks are commonly attributed to embedded planets; however, intrinsic gas-dust interactions can also generate complex morphologies. We performed two-dimensional, axisymmetric simulations…",
-      "published_at": "2026-04-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.22912",
+      "title": "Learning Neural Operator Surrogates for the Black Hole Accretion Code",
+      "summary": "arXiv:2604.25985v1 Announce Type: new Abstract: General-relativistic magnetohydrodynamic (GR-MHD) simulations are essential for studying black hole accretion, relativistic jets, and magnetic reconnection, yet their computational cost severely limits systematic parameter explorati…",
+      "published_at": "2026-04-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.25985",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The Effects of Accretion Feedback on Stellar Evolution in AGN Disks",
-      "summary": "arXiv:2604.22913v1 Announce Type: new Abstract: Stars embedded in the accretion disks of active galactic nuclei (AGN) can accrete rapidly from their surroundings, dramatically altering their structure and evolution. However, feedback from the release of gravitational potential en…",
-      "published_at": "2026-04-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.22913",
+      "title": "Measuring Apsidal Clustering",
+      "summary": "arXiv:2604.25990v1 Announce Type: new Abstract: The decade-long debate over the existence of apsidal clustering in the outer solar system is poised for reignition given the plethora of distant trans-Neptunian object (TNO) discoveries expected from the forthcoming Vera C. Rubin Ob…",
+      "published_at": "2026-04-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.25990",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "IXPE Polarizations of the Lighthouse Pulsar, Trail, and Filament",
-      "summary": "arXiv:2604.22914v1 Announce Type: new Abstract: The Lighthouse pulsar (PSR J1101$-$6101) sports a bright X-ray trail and filament. The synchrotron emission from both structures is expected to be polarized, with electric vector position angle (EVPA) perpendicular to the magnetic f…",
-      "published_at": "2026-04-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.22914",
+      "title": "The GlimmIr: Spectroscopic Variability in a z~7 LRD Indicates Rapid Changes in Both the Narrow and Broad Line Regions",
+      "summary": "arXiv:2604.25991v1 Announce Type: new Abstract: The enigmatic population of ``Little Red Dots'' (LRDs) sit at the center of some of the largest debates in extragalactic astronomy today. The source(s) of ionizing emission and the physical scale over which it governs is still large…",
+      "published_at": "2026-04-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.25991",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Diffusion-based Galaxy Simulations for the Roman High Latitude Survey",
-      "summary": "arXiv:2604.22917v1 Announce Type: new Abstract: Future weak lensing analyses with the Nancy Grace Roman Space Telescope will require highly realistic image simulations to control shear systematics at unprecedented precision. A key limitation of existing approaches is their relian…",
-      "published_at": "2026-04-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.22917",
+      "title": "Properties of black hole mergers in disks of active galactic nuclei",
+      "summary": "arXiv:2604.25994v1 Announce Type: new Abstract: Ground-based gravitational wave (GW) observatories have detected approximately 200 binary black hole (BH) mergers. The astrophysical origin of these events are debated, with evidence suggesting that at least a subset originated from…",
+      "published_at": "2026-04-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.25994",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The abundance and radial distribution of faint and ultra-faint dwarfs in galaxy clusters",
-      "summary": "arXiv:2604.22920v1 Announce Type: new Abstract: Cosmological simulations of galaxy clusters are unable to resolve dwarf galaxies due to limited numerical resolution which drives the artificial disruption of dark matter substructures. We address these limitations by combining the…",
-      "published_at": "2026-04-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.22920",
+      "title": "Distortion of a relativistic jet echoing a magnetic flux eruption",
+      "summary": "arXiv:2604.25996v1 Announce Type: new Abstract: Magnetized accretion onto spinning black holes can accumulate a large magnetic flux across the event horizon and launch a pair of relativistic jets via the Blandford-Znajek mechanism. In the magnetically saturated (arrested) state,…",
+      "published_at": "2026-04-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.25996",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Cluster-green galaxy correlations: where do these galaxies live?",
-      "summary": "arXiv:2604.22921v1 Announce Type: new Abstract: Green valley (GV) galaxies are thought to represent a transitional population between star-forming and quiescent systems. However, their spatial distribution relative to galaxy systems remains unclear, particularly in relation to th…",
-      "published_at": "2026-04-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2604.22921",
+      "title": "A quantum theory of the alignment and polarization of very small dust grains",
+      "summary": "arXiv:2604.26001v1 Announce Type: new Abstract: Context. Anomalous microwave emission (AME) is a component of interstellar medium emission peaking at 10-60 GHz. Its polarization is both a CMB foreground and a probe of the alignment physics of very small dust grains. Aims. We quan…",
+      "published_at": "2026-04-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2604.26001",
       "tags": [
         "arxiv",
         "astro-ph"
