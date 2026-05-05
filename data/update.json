@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-04T12:09:58Z",
+  "generated_at": "2026-05-05T11:48:36Z",
   "items": [
     {
-      "title": "The LISA Astrophysics MBHcatalogues Project: A comparison of predictions of simulated massive black hole binaries",
-      "summary": "arXiv:2605.00092v1 Announce Type: new Abstract: In the hierarchical paradigm of galaxy formation, central massive black holes (MBHs) are expected to coalesce after the merger of their host galaxies. One of the main goals of the Laser Interferometer Space Antenna (LISA) is to cons…",
-      "published_at": "2026-05-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00092",
+      "title": "Self-acceleration of Hardening Binaries",
+      "summary": "arXiv:2605.00976v1 Announce Type: new Abstract: A Keplerian binary immersed in a bath of lighter particles hardens by ejecting them through gravitational slingshots. This process drives, for example, the evolution of supermassive black hole binaries following galaxy mergers, and…",
+      "published_at": "2026-05-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.00976",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A New Robust Constraint on the Self-interaction Cross-section of Dark Matter with Double Radio Relic Clusters",
-      "summary": "arXiv:2605.00093v1 Announce Type: new Abstract: Merging galaxy clusters are a promising laboratory for measuring the self-interaction cross-section (SICS) of dark matter. However, previous studies have focused on galaxy-mass offsets, which numerical simulations have shown to be i…",
-      "published_at": "2026-05-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00093",
+      "title": "Discovery of Quasar Variability and Early Accretion Disk Signatures at Cosmic Dawn",
+      "summary": "arXiv:2605.00978v1 Announce Type: new Abstract: In the nearby universe, quasars are well known to exhibit variability in their brightness over time, offering a powerful tool to probe the physics of accretion onto the SMBH and directly measure the mass of the SMBH. However, detect…",
+      "published_at": "2026-05-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.00978",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy",
-      "summary": "arXiv:2605.00100v1 Announce Type: new Abstract: JWST has opened a new era in the study of rocky exoplanets, enabling direct characterization of their surfaces with mid-infrared spectroscopy. Different types of rock have distinct spectral features that are diagnostic of the chemic…",
-      "published_at": "2026-05-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00100",
+      "title": "Coverage is not enough: Frequentist tests of simulation-based inference for primordial non-Gaussianity",
+      "summary": "arXiv:2605.00980v1 Announce Type: new Abstract: (Abridged) Simulation-based inference (SBI) has emerged as a powerful framework for extracting cosmological information from complex, non-linear data where analytical likelihoods are unavailable. Its reliability is commonly assessed…",
+      "published_at": "2026-05-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.00980",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Self-consistent numerical simulations for the formation and dynamics of solar prominences",
-      "summary": "arXiv:2605.00102v1 Announce Type: new Abstract: Solar prominences are cool and dense plasma structures floating in the hot solar corona. They are ubiquitous features in the solar atmosphere, but their formation mechanism is still unclear. Here we perform comprehensive fully three…",
-      "published_at": "2026-05-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00102",
+      "title": "Stellar mass and morphology segregation in pairs and multiplets in the cosmic web",
+      "summary": "arXiv:2605.00982v1 Announce Type: new Abstract: In this work, we investigate whether the location of galaxies within the large-scale structures (LSS) of the Universe affects their stellar mass ($M_\\star$) and morphology. To this end, we attempt to disentangle the effects of local…",
+      "published_at": "2026-05-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.00982",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Deep Learning galaxy cluster's structural parameters from Weak Lensing observations",
-      "summary": "arXiv:2605.00105v1 Announce Type: new Abstract: Galaxy clusters are the most massive gravitationally bound structures in the Universe and key probes of cosmic evolution. The large data volume expected from upcoming surveys requires efficient automated analysis methods for tens of…",
-      "published_at": "2026-05-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00105",
+      "title": "Merge and Strip II: Imprint of galaxy formation physics and viscosity on baryon-dominated dwarf galaxies",
+      "summary": "arXiv:2605.00984v1 Announce Type: new Abstract: Motivated by the discovery of peculiar dwarf galaxies inside galaxy clusters such as blue candidates (BCs), dark galaxies and ultra-diffuse galaxies (UDGs), we present hydrodynamic simulations of galaxy mergers in cluster environmen…",
+      "published_at": "2026-05-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.00984",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Towards a measurement of the primordial helium isotope ratio",
-      "summary": "arXiv:2605.00122v1 Announce Type: new Abstract: We report the discovery of two metastable neutral helium (He I*) absorbers in the Milky Way, and use the upgraded CRyogenic InfraRed Echelle Spectrograph on the Very Large Telescope to determine the helium isotope ratio, $^{3}$He/$^…",
-      "published_at": "2026-05-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00122",
+      "title": "On the isotropy of viscosity in accretion discs",
+      "summary": "arXiv:2605.00985v1 Announce Type: new Abstract: Accretion discs are fundamental to many astrophysical systems, providing the conversion of gravitational potential energy into radiation that we can observe. In many systems there is evidence that discs are warped; from spatially-re…",
+      "published_at": "2026-05-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.00985",
       "tags": [
         "arxiv",
         "astro-ph"
