@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-05T11:48:36Z",
+  "generated_at": "2026-05-06T12:16:39Z",
   "items": [
     {
-      "title": "Self-acceleration of Hardening Binaries",
-      "summary": "arXiv:2605.00976v1 Announce Type: new Abstract: A Keplerian binary immersed in a bath of lighter particles hardens by ejecting them through gravitational slingshots. This process drives, for example, the evolution of supermassive black hole binaries following galaxy mergers, and…",
-      "published_at": "2026-05-05T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00976",
+      "title": "The Catastrophic Consequences of Agnosticism for Life Searches and a Possible Workaround",
+      "summary": "arXiv:2605.02969v1 Announce Type: new Abstract: Planned and ongoing searches for life, both biological and technological, confront an epistemic barrier concerning false positives - namely, that we don't know what we don't know. The most defensible and agnostic approach is to adop…",
+      "published_at": "2026-05-06T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.02969",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Discovery of Quasar Variability and Early Accretion Disk Signatures at Cosmic Dawn",
-      "summary": "arXiv:2605.00978v1 Announce Type: new Abstract: In the nearby universe, quasars are well known to exhibit variability in their brightness over time, offering a powerful tool to probe the physics of accretion onto the SMBH and directly measure the mass of the SMBH. However, detect…",
-      "published_at": "2026-05-05T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00978",
+      "title": "Wave interference as the origin of the cyclic magnetorotational dynamo in accretion disks: insights from weakly nonlinear theory and local s…",
+      "summary": "arXiv:2605.02996v1 Announce Type: new Abstract: Long-period cyclic reversals of the large-scale magnetic field are a prominent feature of the dynamo driven by the magnetorotational instability (MRI) in accretion disks, but their physical origin remains unclear. We develop a quasi…",
+      "published_at": "2026-05-06T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.02996",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Coverage is not enough: Frequentist tests of simulation-based inference for primordial non-Gaussianity",
-      "summary": "arXiv:2605.00980v1 Announce Type: new Abstract: (Abridged) Simulation-based inference (SBI) has emerged as a powerful framework for extracting cosmological information from complex, non-linear data where analytical likelihoods are unavailable. Its reliability is commonly assessed…",
-      "published_at": "2026-05-05T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00980",
+      "title": "Built to Rest: The Evolving Star-Forming Main Sequence Requires Episodic Quiescence or Late Assembly",
+      "summary": "arXiv:2605.02997v1 Announce Type: new Abstract: The star-forming main sequence of galaxies has now been observed out to redshifts of $z\\sim6$ and beyond. However, it remains unclear how long typical galaxies remain on or near it as they evolve, and how frequently they return afte…",
+      "published_at": "2026-05-06T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.02997",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Stellar mass and morphology segregation in pairs and multiplets in the cosmic web",
-      "summary": "arXiv:2605.00982v1 Announce Type: new Abstract: In this work, we investigate whether the location of galaxies within the large-scale structures (LSS) of the Universe affects their stellar mass ($M_\\star$) and morphology. To this end, we attempt to disentangle the effects of local…",
-      "published_at": "2026-05-05T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00982",
+      "title": "The SRG/eROSITA diffuse soft X-ray background II. spectra and morphology of the eROSITA bubbles in the western Galactic hemisphere",
+      "summary": "arXiv:2605.02998v1 Announce Type: new Abstract: The eROSITA bubbles (eRObub) were discovered in 2020 in the first SRG/eROSITA All-Sky Survey, and are among the most extended structures in the X-ray sky. Using eROSITA all-sky maps and spatially resolved spectra, we aim to infer th…",
+      "published_at": "2026-05-06T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.02998",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Merge and Strip II: Imprint of galaxy formation physics and viscosity on baryon-dominated dwarf galaxies",
-      "summary": "arXiv:2605.00984v1 Announce Type: new Abstract: Motivated by the discovery of peculiar dwarf galaxies inside galaxy clusters such as blue candidates (BCs), dark galaxies and ultra-diffuse galaxies (UDGs), we present hydrodynamic simulations of galaxy mergers in cluster environmen…",
-      "published_at": "2026-05-05T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00984",
+      "title": "Peering down the barrel with DESI DR2: 10 000+ inflows at $z$ < 0.6 reveal how galaxies accrete cold gas",
+      "summary": "arXiv:2605.02999v1 Announce Type: new Abstract: Direct observational constraints on how galaxies acquire their gas remain remarkably limited, hindering our understanding of the baryon cycle. We present a search for down-the-barrel \\ion{Na}{i} D absorption towards 15.6 million gal…",
+      "published_at": "2026-05-06T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.02999",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "On the isotropy of viscosity in accretion discs",
-      "summary": "arXiv:2605.00985v1 Announce Type: new Abstract: Accretion discs are fundamental to many astrophysical systems, providing the conversion of gravitational potential energy into radiation that we can observe. In many systems there is evidence that discs are warped; from spatially-re…",
-      "published_at": "2026-05-05T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.00985",
+      "title": "Are Nucleosynthetic Yields Universal? Interpreting the Multi-Elemental Abundances of Quiescent Galaxies over Cosmic Time Using Milky Way Sta…",
+      "summary": "arXiv:2605.03000v1 Announce Type: new Abstract: The detailed abundance patterns of quiescent galaxies offer powerful constraints on their formation and evolution. Yet physical insight remains elusive, as nucleosynthetic yields are notoriously uncertain. We introduce a framework t…",
+      "published_at": "2026-05-06T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.03000",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -94,7 +94,7 @@
     },
     {
       "title": "Photo Release: Sombrero Galaxy: The Universe’s Dusty Brimmed Hat Revealed Like Never Before",
-      "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur o…",
+      "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomic…",
       "published_at": "2026-04-24T15:27:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2612/",
       "tags": [
@@ -108,7 +108,7 @@
     },
     {
       "title": "Organization Release: DESI Completes Planned 3D Map of the Universe and Continues Exploring",
-      "summary": "<img align=\"left\" alt=\"Zoomed-in portion of DESI’s year-five map\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2610a.jpg\" />DESI has mapped more than 47 million galaxies and quasars, creating the largest high-…",
+      "summary": "<img align=\"left\" alt=\"Zoomed-in portion of DESI’s year-five map\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2610a.jpg\" />DESI has mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of ou…",
       "published_at": "2026-04-15T15:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2610/",
       "tags": [
@@ -122,7 +122,7 @@
     },
     {
       "title": "Science Release: The Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up",
-      "summary": "<img align=\"left\" alt=\"Artist’s interpretation of the cosmic distance ladder\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2611a.jpg\" />An international collaboration of astronomers has produced one of the mos…",
+      "summary": "<img align=\"left\" alt=\"Artist’s interpretation of the cosmic distance ladder\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2611a.jpg\" />An international collaboration of astronomers has produced one of the most precise measurements…",
       "published_at": "2026-04-10T21:43:23Z",
       "url": "http://noirlab.edu/public/news/noirlab2611/",
       "tags": [
@@ -136,7 +136,7 @@
     },
     {
       "title": "Science Release: Early Data from NSF–DOE Vera C. Rubin Observatory Reveals Over 11,000 New Asteroids",
-      "summary": "<img align=\"left\" alt=\"3D rendering of asteroids discovered by NSF–DOE Rubin Observatory\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2608a.jpg\" />Scientists at NSF–DOE Vera C. Rubin Observatory, jointly fund…",
+      "summary": "<img align=\"left\" alt=\"3D rendering of asteroids discovered by NSF–DOE Rubin Observatory\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2608a.jpg\" />Scientists at NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National…",
       "published_at": "2026-04-02T17:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2608/",
       "tags": [
@@ -150,7 +150,7 @@
     },
     {
       "title": "Science Release: Gemini South Confirms Long-Suspected Link Between the Composition of Exoplanets and Their Host Stars",
-      "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Ultra-Hot Jupiter\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2609a.jpg\" />Astronomers discovered that a giant planet, WASP-189b, echoes the composition of its…",
+      "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Ultra-Hot Jupiter\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2609a.jpg\" />Astronomers discovered that a giant planet, WASP-189b, echoes the composition of its host star, providing t…",
       "published_at": "2026-04-01T18:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2609/",
       "tags": [
@@ -164,7 +164,7 @@
     },
     {
       "title": "Science Release: Extremely Rare Second-Generation Star Discovered Inside Ancient Relic Dwarf Galaxy",
-      "summary": "<img align=\"left\" alt=\"Pictor II ultra-faint dwarf galaxy\" border=\"0\" hspace=\"4\" src=\"https://www.noirlab.eduhttps://storage.noirlab.edu/media/archives/images/newsmini/noirlab2607a.jpg\" />Discovered in the Pictor II dwarf galaxy, star PicII-503 has an extreme deficiency in iron —…",
+      "summary": "<img align=\"left\" alt=\"Pictor II ultra-faint dwarf galaxy\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2607a.jpg\" />Discovered in the Pictor II dwarf galaxy, star PicII-503 has an extreme deficiency in iron — less than 1/40,000th o…",
       "published_at": "2026-03-16T15:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2607/",
       "tags": [
