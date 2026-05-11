@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-10T11:27:29Z",
+  "generated_at": "2026-05-11T13:24:23Z",
   "items": [
+    {
+      "title": "A PINK update: Improvements to the CELEBI fast radio burst data reduction and analysis pipeline",
+      "summary": "arXiv:2605.06766v1 Announce Type: new Abstract: Fast radio bursts (FRBs) which are well localised ($<$1\") to their host galaxy are tools for studying cosmology and the intergalactic medium. Furthermore, high-time resolution datasets of their polarisation properties can enable tes…",
+      "published_at": "2026-05-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.06766",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Complex organic molecules and cosmic ray ionisation rate towards the massive protostar Cepheus A HW2",
+      "summary": "arXiv:2605.06767v1 Announce Type: new Abstract: Cosmic rays (CRs) are important drivers for molecular chemistry in star-forming regions, and laboratory experiments have shown that CRs can stimulate the release of complex organic molecules (COMs) such as methanol. Observationally,…",
+      "published_at": "2026-05-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.06767",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Origins of Extreme Emission-Line Ratios in z > 3 Galaxies: Insights from the Lumen Model",
+      "summary": "arXiv:2605.06769v1 Announce Type: new Abstract: Optical emission-line ratios in star-forming galaxies at $z \\sim 3$-8, such as [OIII]/H$\\beta$ and [OIII]/[OII], are strongly offset from those at $z \\sim 0$-2, pointing to more extreme ionization and ISM conditions in the early Uni…",
+      "published_at": "2026-05-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.06769",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at $z\\sim6-8$",
+      "summary": "arXiv:2605.06770v1 Announce Type: new Abstract: The competition between metal synthesis and feedback from massive stars establishes the mass-metallicity relation (MZR) at low-redshifts. Examining this relation at higher redshifts, particularly at the low-mass end $\\lesssim10^{8}\\…",
+      "published_at": "2026-05-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.06770",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "An HST Wide Field Survey of the Galactic Bulge: Overview, Strategy, and First Results",
+      "summary": "arXiv:2605.06778v1 Announce Type: new Abstract: We present an HST imaging survey of a 1.1 sq. degree sky area toward the Milky Way Galactic Bulge. This field significantly overlaps with the upcoming Nancy Grace Roman Galactic Bulge Time Domain Survey (GBTDS). High angular resolut…",
+      "published_at": "2026-05-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.06778",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Radial redistribution of stellar orbits in FIRE simulations of Milky-Way-mass galaxies",
+      "summary": "arXiv:2605.06781v1 Announce Type: new Abstract: A central question in galactic dynamics and galactic archeology is: how much do the orbits of stars redistribute (migrate) after birth? We use the FIRE-2 cosmological zoom-in simulations of 11 Milky Way-mass galaxies to quantify the…",
+      "published_at": "2026-05-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.06781",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: Sombrero Galaxy: The Universe’s Dusty Brimmed Hat Revealed Like Never Before",
       "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomic…",
