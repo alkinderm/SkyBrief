@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-11T13:24:23Z",
+  "generated_at": "2026-05-12T12:25:05Z",
   "items": [
     {
-      "title": "A PINK update: Improvements to the CELEBI fast radio burst data reduction and analysis pipeline",
-      "summary": "arXiv:2605.06766v1 Announce Type: new Abstract: Fast radio bursts (FRBs) which are well localised ($<$1\") to their host galaxy are tools for studying cosmology and the intergalactic medium. Furthermore, high-time resolution datasets of their polarisation properties can enable tes…",
-      "published_at": "2026-05-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.06766",
+      "title": "You Shall Not Pass (Without Modeling): High-Resolution Analysis of KMT-2019-BLG-0253 using MORIA",
+      "summary": "arXiv:2605.08340v1 Announce Type: new Abstract: We present the Microlensing Object high-Resolution Imaging Analysis pipeline, or MORIA. This is an automated procedure to reduce high-resolution HST images of microlensing targets, build empirical point-spread function models from t…",
+      "published_at": "2026-05-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.08340",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Complex organic molecules and cosmic ray ionisation rate towards the massive protostar Cepheus A HW2",
-      "summary": "arXiv:2605.06767v1 Announce Type: new Abstract: Cosmic rays (CRs) are important drivers for molecular chemistry in star-forming regions, and laboratory experiments have shown that CRs can stimulate the release of complex organic molecules (COMs) such as methanol. Observationally,…",
-      "published_at": "2026-05-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.06767",
+      "title": "Satellite Metallicity Enhancement I: Suppressed Star Formation, Stellar Mass Loss, and Enriched Inflow of DESI and EAGLE Galaxies around Mas…",
+      "summary": "arXiv:2605.08342v1 Announce Type: new Abstract: Environmental effects are a primary driver of elevated gas-phase metallicities in galaxies around massive clusters, but the underlying physical mechanisms for this satellite metallicity enhancement (SME) are still unclear. Using the…",
+      "published_at": "2026-05-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.08342",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Origins of Extreme Emission-Line Ratios in z > 3 Galaxies: Insights from the Lumen Model",
-      "summary": "arXiv:2605.06769v1 Announce Type: new Abstract: Optical emission-line ratios in star-forming galaxies at $z \\sim 3$-8, such as [OIII]/H$\\beta$ and [OIII]/[OII], are strongly offset from those at $z \\sim 0$-2, pointing to more extreme ionization and ISM conditions in the early Uni…",
-      "published_at": "2026-05-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.06769",
+      "title": "An Inverse-Compton-Boosted Cool Core Unifies Perseus's Radio and X-ray Halos",
+      "summary": "arXiv:2605.08349v1 Announce Type: new Abstract: Perseus is the brightest X-ray strong cool-core (SCC) cluster, with a bright central radio and $\\gamma$-ray source plus low-frequency radio mini and giant halos. It is the archetype of the cooling flow (CF) problem, with X-rays impl…",
+      "published_at": "2026-05-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.08349",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Glimpse of the Low-Mass End of the Direct Mass-Metallicity Relation at $z\\sim6-8$",
-      "summary": "arXiv:2605.06770v1 Announce Type: new Abstract: The competition between metal synthesis and feedback from massive stars establishes the mass-metallicity relation (MZR) at low-redshifts. Examining this relation at higher redshifts, particularly at the low-mass end $\\lesssim10^{8}\\…",
-      "published_at": "2026-05-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.06770",
+      "title": "Empirical estimates of how massive galaxies can be in {\\Lambda}CDM",
+      "summary": "arXiv:2605.08353v1 Announce Type: new Abstract: Using Extreme Value Statistics applied to the observed galaxy stellar mass and the UV luminosity functions, we empirically estimate masses and luminosities of the most extreme galaxies in cosmological surveys, including the full sky…",
+      "published_at": "2026-05-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.08353",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "An HST Wide Field Survey of the Galactic Bulge: Overview, Strategy, and First Results",
-      "summary": "arXiv:2605.06778v1 Announce Type: new Abstract: We present an HST imaging survey of a 1.1 sq. degree sky area toward the Milky Way Galactic Bulge. This field significantly overlaps with the upcoming Nancy Grace Roman Galactic Bulge Time Domain Survey (GBTDS). High angular resolut…",
-      "published_at": "2026-05-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.06778",
+      "title": "Identification of Compact Groups of Galaxies in IllustrisTNG300",
+      "summary": "arXiv:2605.08364v1 Announce Type: new Abstract: We identify compact groups of galaxies (CGs) in the IllustrisTNG-300 simulation using a Friends-of-Friends (FoF) algorithm. Our approach is designed to be comparable to systematic CG searches based on spectroscopic surveys, while av…",
+      "published_at": "2026-05-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.08364",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Radial redistribution of stellar orbits in FIRE simulations of Milky-Way-mass galaxies",
-      "summary": "arXiv:2605.06781v1 Announce Type: new Abstract: A central question in galactic dynamics and galactic archeology is: how much do the orbits of stars redistribute (migrate) after birth? We use the FIRE-2 cosmological zoom-in simulations of 11 Milky Way-mass galaxies to quantify the…",
-      "published_at": "2026-05-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.06781",
+      "title": "The Peculiar Velocity of Messier~87 from Microarcsecond Geodetic VLBI Astrometry",
+      "summary": "arXiv:2605.08407v1 Announce Type: new Abstract: Our knowledge of the space velocity of Messier 87, which is the dominant galaxy in the Virgo cluster, has been limited to the radial velocity component. Using a cadence of precision position measurements with the global geodetic ver…",
+      "published_at": "2026-05-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.08407",
       "tags": [
         "arxiv",
         "astro-ph"
