@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-12T12:25:05Z",
+  "generated_at": "2026-05-13T12:27:55Z",
   "items": [
     {
-      "title": "You Shall Not Pass (Without Modeling): High-Resolution Analysis of KMT-2019-BLG-0253 using MORIA",
-      "summary": "arXiv:2605.08340v1 Announce Type: new Abstract: We present the Microlensing Object high-Resolution Imaging Analysis pipeline, or MORIA. This is an automated procedure to reduce high-resolution HST images of microlensing targets, build empirical point-spread function models from t…",
-      "published_at": "2026-05-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.08340",
+      "title": "A practical guide to implementing zero-order-hold interplanetary trajectory legs",
+      "summary": "arXiv:2605.11043v1 Announce Type: new Abstract: We study the practical implementation of zero-order-hold (ZOH) transcriptions for spacecraft trajectory optimisation, identifying a set of design principles that render them robust across a broad class of dynamical settings without…",
+      "published_at": "2026-05-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.11043",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Satellite Metallicity Enhancement I: Suppressed Star Formation, Stellar Mass Loss, and Enriched Inflow of DESI and EAGLE Galaxies around Mas…",
-      "summary": "arXiv:2605.08342v1 Announce Type: new Abstract: Environmental effects are a primary driver of elevated gas-phase metallicities in galaxies around massive clusters, but the underlying physical mechanisms for this satellite metallicity enhancement (SME) are still unclear. Using the…",
-      "published_at": "2026-05-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.08342",
+      "title": "Clustering constraints on super-early galaxy formation scenarios",
+      "summary": "arXiv:2605.11064v1 Announce Type: new Abstract: The unexpectedly high abundance of bright, blue, super-early galaxies ($z\\gtrsim10$) has challenged most pre-JWST models of early galaxy formation and motivated a wide range of proposed explanations. We systematically investigate wh…",
+      "published_at": "2026-05-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.11064",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "An Inverse-Compton-Boosted Cool Core Unifies Perseus's Radio and X-ray Halos",
-      "summary": "arXiv:2605.08349v1 Announce Type: new Abstract: Perseus is the brightest X-ray strong cool-core (SCC) cluster, with a bright central radio and $\\gamma$-ray source plus low-frequency radio mini and giant halos. It is the archetype of the cooling flow (CF) problem, with X-rays impl…",
-      "published_at": "2026-05-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.08349",
+      "title": "Spectroscopic Bolometric Corrections and Empirical Zero-point Constants of \\textit{Gaia} Magnitudes, $G$, $G_{\\rm BP}$, and $G_{\\rm RP}$, fr…",
+      "summary": "arXiv:2605.11067v1 Announce Type: new Abstract: The International Astronomical Union 2015 Resolution B2 (IAU2015GARB2) has resolved the long-standing problem of zero-point constants for the absolute and apparent bolometric magnitude scales and opened a new window in fundamental a…",
+      "published_at": "2026-05-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.11067",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Empirical estimates of how massive galaxies can be in {\\Lambda}CDM",
-      "summary": "arXiv:2605.08353v1 Announce Type: new Abstract: Using Extreme Value Statistics applied to the observed galaxy stellar mass and the UV luminosity functions, we empirically estimate masses and luminosities of the most extreme galaxies in cosmological surveys, including the full sky…",
-      "published_at": "2026-05-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.08353",
+      "title": "A correlation predicting galaxies without dark matter",
+      "summary": "arXiv:2605.11070v1 Announce Type: new Abstract: The standard theory of galaxy formation predicts that all galaxies should contain dark matter, yet a handful of recently discovered galaxies appear to lack it, challenging our understanding of galaxy formation. We investigate whethe…",
+      "published_at": "2026-05-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.11070",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Identification of Compact Groups of Galaxies in IllustrisTNG300",
-      "summary": "arXiv:2605.08364v1 Announce Type: new Abstract: We identify compact groups of galaxies (CGs) in the IllustrisTNG-300 simulation using a Friends-of-Friends (FoF) algorithm. Our approach is designed to be comparable to systematic CG searches based on spectroscopic surveys, while av…",
-      "published_at": "2026-05-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.08364",
+      "title": "Observational Signatures and Constraints on the Intermediate Neutron-Capture Process. The Case of the CEMP star TYC 6044-714-1 (RAVE J094921…",
+      "summary": "arXiv:2605.11074v1 Announce Type: new Abstract: Observational abundances of CEMP stars with patterns in between those produced by the rapid and slow nucleosynthesis processes (CEMP-rs stars) are currently invoked as evidence of synthesis via the intermediate process in the early…",
+      "published_at": "2026-05-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.11074",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The Peculiar Velocity of Messier~87 from Microarcsecond Geodetic VLBI Astrometry",
-      "summary": "arXiv:2605.08407v1 Announce Type: new Abstract: Our knowledge of the space velocity of Messier 87, which is the dominant galaxy in the Virgo cluster, has been limited to the radial velocity component. Using a cadence of precision position measurements with the global geodetic ver…",
-      "published_at": "2026-05-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.08407",
+      "title": "A Uniform Determination of the Bulk Metallicities and Alpha Enrichments of Confirmed Exoplanet Systems with TRES",
+      "summary": "arXiv:2605.11075v1 Announce Type: new Abstract: We present a uniform spectroscopic characterization of 625 F, G, and K stars hosting 859 confirmed exoplanets using high-resolution archival optical spectra from the Tillinghast Reflector Echelle Spectrograph (TRES). We use the neur…",
+      "published_at": "2026-05-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.11075",
       "tags": [
         "arxiv",
         "astro-ph"
