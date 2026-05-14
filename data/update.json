@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-13T12:27:55Z",
+  "generated_at": "2026-05-14T12:10:45Z",
   "items": [
     {
-      "title": "A practical guide to implementing zero-order-hold interplanetary trajectory legs",
-      "summary": "arXiv:2605.11043v1 Announce Type: new Abstract: We study the practical implementation of zero-order-hold (ZOH) transcriptions for spacecraft trajectory optimisation, identifying a set of design principles that render them robust across a broad class of dynamical settings without…",
-      "published_at": "2026-05-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.11043",
+      "title": "Earth Science Foundation Models: From Perception to Reasoning and Discovery",
+      "summary": "arXiv:2605.12542v1 Announce Type: new Abstract: Large foundation models (FMs) are transforming Earth science by integrating heterogeneous multimodal data, such as multi-platform imagery, gridded reanalysis data, diverse geophysical and geochemical observations, and domain-specifi…",
+      "published_at": "2026-05-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.12542",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Clustering constraints on super-early galaxy formation scenarios",
-      "summary": "arXiv:2605.11064v1 Announce Type: new Abstract: The unexpectedly high abundance of bright, blue, super-early galaxies ($z\\gtrsim10$) has challenged most pre-JWST models of early galaxy formation and motivated a wide range of proposed explanations. We systematically investigate wh…",
-      "published_at": "2026-05-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.11064",
+      "title": "Formation of stable exoplanetary systems around pulsars by capture: An exercise in computational classical mechanics",
+      "summary": "arXiv:2605.12591v1 Announce Type: new Abstract: The study of our Solar System -- its formation, evolution, and long-term stability -- has been ongoing for centuries and is now a standard part of scientific education. While the formation of other Solar-like exoplanetary systems is…",
+      "published_at": "2026-05-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.12591",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Spectroscopic Bolometric Corrections and Empirical Zero-point Constants of \\textit{Gaia} Magnitudes, $G$, $G_{\\rm BP}$, and $G_{\\rm RP}$, fr…",
-      "summary": "arXiv:2605.11067v1 Announce Type: new Abstract: The International Astronomical Union 2015 Resolution B2 (IAU2015GARB2) has resolved the long-standing problem of zero-point constants for the absolute and apparent bolometric magnitude scales and opened a new window in fundamental a…",
-      "published_at": "2026-05-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.11067",
+      "title": "Global and Local Infall in the ASHES Sample (GLASHES). II. Asymmetric Line Profiles around Dense Cores in 70 $\\mu$m Dark Massive Clumps",
+      "summary": "arXiv:2605.12595v1 Announce Type: new Abstract: Gravitational collapse is fundamental to star formation, yet direct kinematic evidence of infall at the core scale in high-mass star-forming regions remains poorly constrained. We present the first large-scale statistical study of i…",
+      "published_at": "2026-05-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.12595",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A correlation predicting galaxies without dark matter",
-      "summary": "arXiv:2605.11070v1 Announce Type: new Abstract: The standard theory of galaxy formation predicts that all galaxies should contain dark matter, yet a handful of recently discovered galaxies appear to lack it, challenging our understanding of galaxy formation. We investigate whethe…",
-      "published_at": "2026-05-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.11070",
+      "title": "Strong Progenitor Age Bias in Supernova Cosmology. III. Progenitor Age as the Physical Origin of the Type Ia Supernova Magnitude Steps with…",
+      "summary": "arXiv:2605.12596v1 Announce Type: new Abstract: The standardized magnitude of a type Ia supernova (SN Ia) correlates with host-galaxy properties, and a host mass-step correction is now routinely included in SN Ia luminosity standardization. Given that host mass cannot directly in…",
+      "published_at": "2026-05-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.12596",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Observational Signatures and Constraints on the Intermediate Neutron-Capture Process. The Case of the CEMP star TYC 6044-714-1 (RAVE J094921…",
-      "summary": "arXiv:2605.11074v1 Announce Type: new Abstract: Observational abundances of CEMP stars with patterns in between those produced by the rapid and slow nucleosynthesis processes (CEMP-rs stars) are currently invoked as evidence of synthesis via the intermediate process in the early…",
-      "published_at": "2026-05-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.11074",
+      "title": "Depth of Maximum of Air-Shower Profiles above 10^17.7 eV Measured with the Fluorescence Detector of the Pierre Auger Observatory",
+      "summary": "arXiv:2605.12598v1 Announce Type: new Abstract: We present measurements of the depth of shower maximum, Xmax, for cosmic-ray-induced extensive air showers recorded by the fluorescence detector of the Pierre Auger Observatory over 17 years. The data set covers primary energies fro…",
+      "published_at": "2026-05-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.12598",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A Uniform Determination of the Bulk Metallicities and Alpha Enrichments of Confirmed Exoplanet Systems with TRES",
-      "summary": "arXiv:2605.11075v1 Announce Type: new Abstract: We present a uniform spectroscopic characterization of 625 F, G, and K stars hosting 859 confirmed exoplanets using high-resolution archival optical spectra from the Tillinghast Reflector Echelle Spectrograph (TRES). We use the neur…",
-      "published_at": "2026-05-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.11075",
+      "title": "One Merge to Rule Them All: From Galaxy Interactions to Black Hole Mergers Using Horizon-AGN",
+      "summary": "arXiv:2605.12599v1 Announce Type: new Abstract: Galaxy mergers are fundamental drivers of galaxy evolution and black hole (BH) growth across cosmic time. We use the Horizon-AGN simulation to investigate the fraction of galaxy pairs, the merger fraction, and the galaxy merger rate…",
+      "published_at": "2026-05-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.12599",
       "tags": [
         "arxiv",
         "astro-ph"
