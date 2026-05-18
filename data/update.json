@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-17T11:39:08Z",
+  "generated_at": "2026-05-18T14:06:12Z",
   "items": [
+    {
+      "title": "Entity -- Hardware-agnostic Particle-in-Cell Code for Plasma Astrophysics. III: Higher-order shape functions & generalized field stencils",
+      "summary": "arXiv:2605.15260v1 Announce Type: new Abstract: Modern particle-in-cell (PIC) codes have become an integral tool in plasma astrophysics. As most plasma phenomena grow from initially small instabilities, it is important to ensure PIC codes can suppress noise and ensure that any gr…",
+      "published_at": "2026-05-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.15260",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "On the quenching of LRD X-ray emission by both Compton-thick gas and high accretion rates",
+      "summary": "arXiv:2605.15263v1 Announce Type: new Abstract: Little Red Dots (LRDs), candidate high-redshift supermassive black holes accreting in dense gas, remain undetected in X-rays. In previous work, we provided the first quantitative models that reproduce the optical and near-infrared s…",
+      "published_at": "2026-05-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.15263",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Near-IR Weak-lensing (NIRWL) Measurements in the CANDELS Fields. II. Mass Mapping and Overdensity Characterization",
+      "summary": "arXiv:2605.15264v1 Announce Type: new Abstract: The Hubble Space Telescope Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey (CANDELS) fields offer an exceptional combination of depth, spatial resolution, and area for identifying a shear-selected sample of dark matte…",
+      "published_at": "2026-05-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.15264",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Eccentric Stellar-mass Binary Black Holes: Population, Detectability, and Waveform Analysis in the LISA and LIGO Era",
+      "summary": "arXiv:2605.15265v1 Announce Type: new Abstract: Eccentric binary black holes (BBHs) formed through dynamical interactions can significantly contribute to gravitational wave (GW) detections. In this work, we present a simulated catalog of dynamically-formed, stellar-mass BBHs in t…",
+      "published_at": "2026-05-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.15265",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A stellar bar hidden in an extreme gas-rich disk galaxy at z=4.055",
+      "summary": "arXiv:2605.15273v1 Announce Type: new Abstract: The classical picture for the formation of stellar bars -- key dynamical drivers of the evolution of galaxies -- is through secular evolution of instability in gas poor, stellar-dominated disks. The detection with the James Webb Spa…",
+      "published_at": "2026-05-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.15273",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Simulated Oxygen Shortage (SOS): Mapping the Missing OVI in Simulated Dwarf Galaxies to Subgrid Physics",
+      "summary": "arXiv:2605.15275v1 Announce Type: new Abstract: Observations reveal extended \\OVI\\, reservoirs in the circumgalactic medium (CGM) of dwarf galaxies, yet current simulations systematically underpredict \\OVI\\, column densities. Utilizing two suites run with different simulation cod…",
+      "published_at": "2026-05-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.15275",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: Sombrero Galaxy: The Universe’s Dusty Brimmed Hat Revealed Like Never Before",
       "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomic…",
