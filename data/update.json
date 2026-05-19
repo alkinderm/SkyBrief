@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-18T14:06:12Z",
+  "generated_at": "2026-05-19T13:40:41Z",
   "items": [
     {
-      "title": "Entity -- Hardware-agnostic Particle-in-Cell Code for Plasma Astrophysics. III: Higher-order shape functions & generalized field stencils",
-      "summary": "arXiv:2605.15260v1 Announce Type: new Abstract: Modern particle-in-cell (PIC) codes have become an integral tool in plasma astrophysics. As most plasma phenomena grow from initially small instabilities, it is important to ensure PIC codes can suppress noise and ensure that any gr…",
-      "published_at": "2026-05-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.15260",
+      "title": "Mosaic: Area-Closed Spherical Surface Mosaics Induced by Cartesian Grids",
+      "summary": "arXiv:2605.16422v1 Announce Type: new Abstract: We describe Mosaic, a computational geometry method for constructing the surface mosaic induced when a Cartesian volume grid intersects a spherical shell. The motivating application is conservative coupling between data produced on…",
+      "published_at": "2026-05-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.16422",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "On the quenching of LRD X-ray emission by both Compton-thick gas and high accretion rates",
-      "summary": "arXiv:2605.15263v1 Announce Type: new Abstract: Little Red Dots (LRDs), candidate high-redshift supermassive black holes accreting in dense gas, remain undetected in X-rays. In previous work, we provided the first quantitative models that reproduce the optical and near-infrared s…",
-      "published_at": "2026-05-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.15263",
+      "title": "Polarization Birefringence and Waveform Systematics in GW231123",
+      "summary": "arXiv:2605.16425v1 Announce Type: new Abstract: GW231123 is a short, massive binary-black-hole event whose source properties show strong waveform dependence. We use this event to test gravitational-wave polarization birefringence, modeled as a frequency-dependent rotation of the…",
+      "published_at": "2026-05-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.16425",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Near-IR Weak-lensing (NIRWL) Measurements in the CANDELS Fields. II. Mass Mapping and Overdensity Characterization",
-      "summary": "arXiv:2605.15264v1 Announce Type: new Abstract: The Hubble Space Telescope Cosmic Assembly Near-infrared Deep Extragalactic Legacy Survey (CANDELS) fields offer an exceptional combination of depth, spatial resolution, and area for identifying a shear-selected sample of dark matte…",
-      "published_at": "2026-05-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.15264",
+      "title": "Expected redshift drift for tilted observers",
+      "summary": "arXiv:2605.16426v1 Announce Type: new Abstract: Redshift drift is usually discussed for observers comoving with the cosmological background, but realistic observations are made by observers with nonzero peculiar motion. In this work, we calculate the expected redshift drift for t…",
+      "published_at": "2026-05-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.16426",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Eccentric Stellar-mass Binary Black Holes: Population, Detectability, and Waveform Analysis in the LISA and LIGO Era",
-      "summary": "arXiv:2605.15265v1 Announce Type: new Abstract: Eccentric binary black holes (BBHs) formed through dynamical interactions can significantly contribute to gravitational wave (GW) detections. In this work, we present a simulated catalog of dynamically-formed, stellar-mass BBHs in t…",
-      "published_at": "2026-05-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.15265",
+      "title": "The limits of feedback from active galactic nuclei",
+      "summary": "arXiv:2605.16483v1 Announce Type: new Abstract: We use FLAMINGO to investigate why feedback from active galactic nuclei (AGN) significantly depletes gas in galaxy groups but is ineffective in clusters. We delineate three radial zones: an inner zone where AGN feedback heats halo g…",
+      "published_at": "2026-05-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.16483",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A stellar bar hidden in an extreme gas-rich disk galaxy at z=4.055",
-      "summary": "arXiv:2605.15273v1 Announce Type: new Abstract: The classical picture for the formation of stellar bars -- key dynamical drivers of the evolution of galaxies -- is through secular evolution of instability in gas poor, stellar-dominated disks. The detection with the James Webb Spa…",
-      "published_at": "2026-05-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.15273",
+      "title": "Halo-driven Origin and Suppression of Over-massive Black Holes and Little Red Dots",
+      "summary": "arXiv:2605.16485v1 Announce Type: new Abstract: We present a theoretical model in which the recently detected over-massive black holes (OBHs), and possibly Little Red Dots (LRDs), arise during a halo-driven transient phase preceding the established coevolution of supermassive bla…",
+      "published_at": "2026-05-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.16485",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The Simulated Oxygen Shortage (SOS): Mapping the Missing OVI in Simulated Dwarf Galaxies to Subgrid Physics",
-      "summary": "arXiv:2605.15275v1 Announce Type: new Abstract: Observations reveal extended \\OVI\\, reservoirs in the circumgalactic medium (CGM) of dwarf galaxies, yet current simulations systematically underpredict \\OVI\\, column densities. Utilizing two suites run with different simulation cod…",
-      "published_at": "2026-05-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.15275",
+      "title": "The pair-instability origin of supernova 2023vbw",
+      "summary": "arXiv:2605.16487v1 Announce Type: new Abstract: Stars in the initial and carbon-oxygen core mass ranges of $\\sim140-260$ and $50-130$ M$_\\odot$, respectively, with low metallicity are predicted to experience copious electron-positron pair production in their cores, leading to a r…",
+      "published_at": "2026-05-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.16487",
       "tags": [
         "arxiv",
         "astro-ph"
