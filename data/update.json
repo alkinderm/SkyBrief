@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-20T12:42:13Z",
+  "generated_at": "2026-05-21T13:44:42Z",
   "items": [
     {
-      "title": "First detection of the moving lens effect with ACT and DESI LS",
-      "summary": "arXiv:2605.18938v1 Announce Type: new Abstract: The moving lens effect is a secondary CMB anisotropy induced by the transverse motion of gravitational potentials. We develop a Fourier-space cross-spectrum estimator that retains the scale dependence of the signal, and apply it to…",
-      "published_at": "2026-05-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.18938",
+      "title": "Effective Field Theory for a Baryon-Correlated Dark Matter Profile",
+      "summary": "arXiv:2605.20217v1 Announce Type: new Abstract: While the standard $\\Lambda$CDM model succeeds on large cosmological scales, it faces persistent small-scale challenges, including the core-cusp problem, the diversity of galaxy rotation curves, and the Tully-Fisher relation. To add…",
+      "published_at": "2026-05-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.20217",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The Lumina Project: CMB Optical Depth Fluctuations from Patchy Reionization",
-      "summary": "arXiv:2605.18939v1 Announce Type: new Abstract: Patchy reionization couples the ionized-bubble morphology to the underlying density field, making the CMB Thomson optical depth sensitive to both the global ionization history and anisotropic fluctuations on the sky. Using the large…",
-      "published_at": "2026-05-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.18939",
+      "title": "Cosmological perturbations with $f(R)$ gravity scalarons : Galaxy power spectra and the scalaron mass",
+      "summary": "arXiv:2605.20227v1 Announce Type: new Abstract: In this paper we study cosmological perturbations with $f(R)$ gravity scalaron. We consider epoch of transition from early general relativity (GR) phase to late time non-GR phase of cosmogenic history for a viable $f(R)$ gravity Lag…",
+      "published_at": "2026-05-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.20227",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The pre-infall bias of subhalos",
-      "summary": "arXiv:2605.18940v1 Announce Type: new Abstract: Dark matter halos destined to fall into a more massive host differ from typical field halos of the same mass even before infall. In cosmological simulations, we find that the progenitor mass functions of these \"future subhalos\" are…",
-      "published_at": "2026-05-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.18940",
+      "title": "CMB Acoustic Power Spectra in STVG-MOG",
+      "summary": "arXiv:2605.20231v1 Announce Type: new Abstract: We present a cosmological realization of Scalar--Tensor--Vector Gravity (STVG--MOG) in which the pre-recombination scalar perturbation dynamics become degenerate with those of $\\Lambda$CDM without invoking particle dark matter. In t…",
+      "published_at": "2026-05-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.20231",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Bulgeless Evolution And the Rise of Discs (BEARD) II. The role of mergers in shaping the Milky Way analogues in TNG50",
-      "summary": "arXiv:2605.18948v1 Announce Type: new Abstract: We study the formation and evolution of bulgeless galaxies within the Milky Way-Andromeda analogue sample of the TNG50 simulation. Through kinematic decomposition with Mordor, we identified bulgeless galaxies with a bulge-to-disc ma…",
-      "published_at": "2026-05-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.18948",
+      "title": "Simulation-Based Prediction of Black Hole Fe K$\\alpha$ Line Profiles",
+      "summary": "arXiv:2605.20317v1 Announce Type: new Abstract: One of the most useful spectral diagnostics of accreting black hole systems is the Fe K$\\alpha$ fluorescence line. Detected in many systems, it is often used to estimate the black hole spin, as its breadth is attributed to relativis…",
+      "published_at": "2026-05-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.20317",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Mars as an Exoplanet: Lessons from a Planet at the Edge of Habitability",
-      "summary": "arXiv:2605.18949v1 Announce Type: new Abstract: Mars is the Solar System's canonical small, rocky planet that transitioned from early geologic activity and surface liquid water to a cold and arid planet with a thin, cold, CO$_2$-dominated atmosphere. The evolution of Mars, in the…",
-      "published_at": "2026-05-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.18949",
+      "title": "Guide-Field-mediated Multiscale Instabilities in Relativistic Reconnection",
+      "summary": "arXiv:2605.20318v1 Announce Type: new Abstract: We investigate magnetic-energy dissipation, current-sheet dynamics, and nonthermal particle acceleration in three-dimensional relativistic reconnection in an electron--ion plasma with a realistic mass ratio. Using particle-in-cell s…",
+      "published_at": "2026-05-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.20318",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Planetary formation tracks on the Hertzsprung-Russell diagram: Visualising the processes of giant planet growth",
-      "summary": "arXiv:2605.18950v1 Announce Type: new Abstract: The Hertzsprung-Russell diagram (HRD) is central to stellar astrophysics but has rarely been used to interpret planet formation. We extend the HRD concept to forming planets and study how solid and gas accretion, cooling/contraction…",
-      "published_at": "2026-05-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.18950",
+      "title": "Inferring Globular Cluster Initial Mass Function from Stellar Streams",
+      "summary": "arXiv:2605.20322v1 Announce Type: new Abstract: The Gaia mission has provided precise astrometry and spectrophotometry for billions of stars in the Milky Way, enabling the identification and kinematic characterization of stellar streams. These streams, remnants of disrupted globu…",
+      "published_at": "2026-05-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.20322",
       "tags": [
         "arxiv",
         "astro-ph"
