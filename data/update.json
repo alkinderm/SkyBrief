@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-21T13:44:42Z",
+  "generated_at": "2026-05-22T12:39:14Z",
   "items": [
     {
-      "title": "Effective Field Theory for a Baryon-Correlated Dark Matter Profile",
-      "summary": "arXiv:2605.20217v1 Announce Type: new Abstract: While the standard $\\Lambda$CDM model succeeds on large cosmological scales, it faces persistent small-scale challenges, including the core-cusp problem, the diversity of galaxy rotation curves, and the Tully-Fisher relation. To add…",
-      "published_at": "2026-05-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.20217",
+      "title": "Fisher Information Velocity: A New Geometric Channel for Precision Glitch Identification in Gravitational-Wave Detectors",
+      "summary": "arXiv:2605.21531v1 Announce Type: new Abstract: Gravitational-wave detectors operate in inherently non-stationary environments, requiring robust detector characterization (DetChar) to distinguish instrumental transients from astrophysical signals. Traditional DetChar frameworks t…",
+      "published_at": "2026-05-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.21531",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Cosmological perturbations with $f(R)$ gravity scalarons : Galaxy power spectra and the scalaron mass",
-      "summary": "arXiv:2605.20227v1 Announce Type: new Abstract: In this paper we study cosmological perturbations with $f(R)$ gravity scalaron. We consider epoch of transition from early general relativity (GR) phase to late time non-GR phase of cosmogenic history for a viable $f(R)$ gravity Lag…",
-      "published_at": "2026-05-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.20227",
+      "title": "Information Content of the Cosmic Web",
+      "summary": "arXiv:2605.21554v1 Announce Type: new Abstract: We present an information-theoretic analysis of the Cosmic Web that goes beyond the scalar density contrast and exploits the full structure of the tidal deformation tensor. The three eigenvalues (lambda1, lambda2, lambda3) of the ti…",
+      "published_at": "2026-05-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.21554",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "CMB Acoustic Power Spectra in STVG-MOG",
-      "summary": "arXiv:2605.20231v1 Announce Type: new Abstract: We present a cosmological realization of Scalar--Tensor--Vector Gravity (STVG--MOG) in which the pre-recombination scalar perturbation dynamics become degenerate with those of $\\Lambda$CDM without invoking particle dark matter. In t…",
-      "published_at": "2026-05-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.20231",
+      "title": "(LRDs)$^2$: The Low-ReDshift Little Red Dots Survey. II. DESI DR1 Sample",
+      "summary": "arXiv:2605.21574v1 Announce Type: new Abstract: JWST has revealed a substantial population of \"Little Red Dots\" (LRDs) at $z>4$, challenging conventional AGN frameworks. However, the low-redshift regime remains largely unexplored. In the second paper of the (LRDs)$^2$ series, we…",
+      "published_at": "2026-05-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.21574",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Simulation-Based Prediction of Black Hole Fe K$\\alpha$ Line Profiles",
-      "summary": "arXiv:2605.20317v1 Announce Type: new Abstract: One of the most useful spectral diagnostics of accreting black hole systems is the Fe K$\\alpha$ fluorescence line. Detected in many systems, it is often used to estimate the black hole spin, as its breadth is attributed to relativis…",
-      "published_at": "2026-05-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.20317",
+      "title": "First-Principles Turbulence-Driven Deflagration-to-Detonation Transition Mechanism for Near-Chandrasekhar Mass White Dwarf Progenitors",
+      "summary": "arXiv:2605.21575v1 Announce Type: new Abstract: Type Ia supernovae (SNe Ia) play an important role throughout astrophysics, most notably as standardizable cosmological candles. Yet, their stellar progenitors and explosion mechanism remain areas of active investigation. For decade…",
+      "published_at": "2026-05-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.21575",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Guide-Field-mediated Multiscale Instabilities in Relativistic Reconnection",
-      "summary": "arXiv:2605.20318v1 Announce Type: new Abstract: We investigate magnetic-energy dissipation, current-sheet dynamics, and nonthermal particle acceleration in three-dimensional relativistic reconnection in an electron--ion plasma with a realistic mass ratio. Using particle-in-cell s…",
-      "published_at": "2026-05-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.20318",
+      "title": "Investigating central star formation in local AGN host galaxies: is there tension between coeval growth and AGN feedback?",
+      "summary": "arXiv:2605.21576v1 Announce Type: new Abstract: It has been argued that supermassive black holes (BHs) coevolve with the central parts of galaxies, as a result of the common fuel for both the BH and star formation in the galaxy central region, as supported by the particularly sig…",
+      "published_at": "2026-05-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.21576",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Inferring Globular Cluster Initial Mass Function from Stellar Streams",
-      "summary": "arXiv:2605.20322v1 Announce Type: new Abstract: The Gaia mission has provided precise astrometry and spectrophotometry for billions of stars in the Milky Way, enabling the identification and kinematic characterization of stellar streams. These streams, remnants of disrupted globu…",
-      "published_at": "2026-05-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.20322",
+      "title": "Gravitational wave detectability range informed by external messengers",
+      "summary": "arXiv:2605.21578v1 Announce Type: new Abstract: A rapid estimate of gravitational-wave (GW) detectability associated with astronomical transients is crucial for optimizing multi-messenger follow-up strategies and for constraining the physical origin of the transient itself. We in…",
+      "published_at": "2026-05-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.21578",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Photo Release: Gaze into the Crystal Ball Nebula and See the Light Emitted by a Dying Star 1500 Years Ago",
+      "summary": "<img align=\"left\" alt=\"NGC 1514: The Crystal Ball Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2613a.jpg\" />The 8.1-meter Gemini North telescope, located on the summit of Maunakea in Hawai‘i, has captured NGC 1514, nicknamed…",
+      "published_at": "2026-05-21T19:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2613/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Ultra-Hot Jupiter\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2609a.jpg\" />Astronomers discovered that a giant planet, WASP-189b, echoes the composition of its host star, providing t…",
       "published_at": "2026-04-01T18:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2609/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Extremely Rare Second-Generation Star Discovered Inside Ancient Relic Dwarf Galaxy",
-      "summary": "<img align=\"left\" alt=\"Pictor II ultra-faint dwarf galaxy\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2607a.jpg\" />Discovered in the Pictor II dwarf galaxy, star PicII-503 has an extreme deficiency in iron — less than 1/40,000th o…",
-      "published_at": "2026-03-16T15:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2607/",
       "tags": [
         "noirlab"
       ],
