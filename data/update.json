@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-24T11:49:15Z",
+  "generated_at": "2026-05-25T13:45:41Z",
   "items": [
+    {
+      "title": "A No-Go Theorem for the Mass-Radius Relation of Solitons",
+      "summary": "arXiv:2605.22901v1 Announce Type: new Abstract: We prove a no-go theorem for the mass-radius relation of localized and stable field configurations, known as solitons. Defining the mass-radius index by $\\Gamma \\equiv \\frac{{\\rm{d}}\\ln M}{{\\rm{d}}\\ln R}$, for real scalar field theo…",
+      "published_at": "2026-05-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.22901",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Mergers via failed common envelope as a route towards intermediate-mass stripped stars",
+      "summary": "arXiv:2605.22911v1 Announce Type: new Abstract: Stripped stars are a common product of binary stellar systems and span a wide mass range from Wolf-Rayet stars to hot subdwarfs and helium white dwarfs. The recent discovery of intermediate-mass stripped stars, with masses between t…",
+      "published_at": "2026-05-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.22911",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Precise Measurement of the Fermi-LAT Galactic Center Excess Morphology and Spectrum",
+      "summary": "arXiv:2605.22913v1 Announce Type: new Abstract: We present a new Fermi-LAT analysis of the Galactic-center excess (GCE) designed to substantially reduce the dominant systematic uncertainties associated with interstellar-emission and source modeling in the inner Galaxy. Using an o…",
+      "published_at": "2026-05-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.22913",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "No Blue without Red: Evolutionary Properties of Super-Early Galaxies",
+      "summary": "arXiv:2605.22914v1 Announce Type: new Abstract: The discovery of numerous luminous, super-early galaxies at $z>10$ by JWST has revealed a striking diversity in their ultraviolet (UV) properties, ranging from extremely blue, dust-poor systems to a smaller population of significant…",
+      "published_at": "2026-05-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.22914",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Mg II h&k spectral line properties computed using 3D radiative transfer in an enhanced network region simulated with the MURaM-ChE code",
+      "summary": "arXiv:2605.22916v1 Announce Type: new Abstract: The Mg II h&amp;k lines form in the middle to upper chromosphere and are well-suited to study the structure of the chromosphere. However, the details of their formation in the solar chromosphere are not fully understood. We aim to s…",
+      "published_at": "2026-05-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.22916",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Strong X-ray Variability of I Zwicky 1: Obscuration from Clumpy Accretion-Disk Winds",
+      "summary": "arXiv:2605.22918v1 Announce Type: new Abstract: Obscuration from clumpy accretion-disk winds has been invoked to explain the extreme X-ray weakness and X-ray variability observed in a substantial fraction of super-Eddington accreting quasars. We present a comprehensive study of t…",
+      "published_at": "2026-05-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.22918",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: Gaze into the Crystal Ball Nebula and See the Light Emitted by a Dying Star 1500 Years Ago",
       "summary": "<img align=\"left\" alt=\"NGC 1514: The Crystal Ball Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2613a.jpg\" />The 8.1-meter Gemini North telescope, located on the summit of Maunakea in Hawai‘i, has captured NGC 1514, nicknamed…",
