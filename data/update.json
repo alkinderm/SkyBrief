@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-25T13:45:41Z",
+  "generated_at": "2026-05-26T13:27:32Z",
   "items": [
     {
-      "title": "A No-Go Theorem for the Mass-Radius Relation of Solitons",
-      "summary": "arXiv:2605.22901v1 Announce Type: new Abstract: We prove a no-go theorem for the mass-radius relation of localized and stable field configurations, known as solitons. Defining the mass-radius index by $\\Gamma \\equiv \\frac{{\\rm{d}}\\ln M}{{\\rm{d}}\\ln R}$, for real scalar field theo…",
-      "published_at": "2026-05-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.22901",
+      "title": "The Phenomenological Nature of Quasar-type Blazars (BZQ). I. Revisiting the Flat-Spectrum Paradigm",
+      "summary": "arXiv:2605.23980v1 Announce Type: new Abstract: We reevaluate 610 sources classified as Flat-spectrum radio quasars (FSRQs) in the 5th edition of the Roma-BZCAT. Optical spectra from SDSS DR16 confirm broad emission lines within $0.11 \\leq z \\leq 5.28$. To assess their blazar-lik…",
+      "published_at": "2026-05-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.23980",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Mergers via failed common envelope as a route towards intermediate-mass stripped stars",
-      "summary": "arXiv:2605.22911v1 Announce Type: new Abstract: Stripped stars are a common product of binary stellar systems and span a wide mass range from Wolf-Rayet stars to hot subdwarfs and helium white dwarfs. The recent discovery of intermediate-mass stripped stars, with masses between t…",
-      "published_at": "2026-05-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.22911",
+      "title": "Hamilton-Jacobi Approach to Inflationary Scenarios through Extended Entropies: An Observational Perspective",
+      "summary": "arXiv:2605.23990v1 Announce Type: new Abstract: The slow-roll inflation paradigm can be systematically generalized within the framework of non-standard entropy formalisms, giving rise to a broad class of inflationary models that deviate from the conventional Bekenstein--Hawking c…",
+      "published_at": "2026-05-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.23990",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A Precise Measurement of the Fermi-LAT Galactic Center Excess Morphology and Spectrum",
-      "summary": "arXiv:2605.22913v1 Announce Type: new Abstract: We present a new Fermi-LAT analysis of the Galactic-center excess (GCE) designed to substantially reduce the dominant systematic uncertainties associated with interstellar-emission and source modeling in the inner Galaxy. Using an o…",
-      "published_at": "2026-05-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.22913",
+      "title": "Detecting Gravitational-Wave Anisotropies with Simulation-Based Inference",
+      "summary": "arXiv:2605.24082v1 Announce Type: new Abstract: Over the last five years, multiple Pulsar Timing Array (PTA) collaborations have reported mounting evidence for a gravitational-wave background (GWB) at nanohertz frequencies. Measuring anisotropies in the sky distribution of the GW…",
+      "published_at": "2026-05-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.24082",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "No Blue without Red: Evolutionary Properties of Super-Early Galaxies",
-      "summary": "arXiv:2605.22914v1 Announce Type: new Abstract: The discovery of numerous luminous, super-early galaxies at $z>10$ by JWST has revealed a striking diversity in their ultraviolet (UV) properties, ranging from extremely blue, dust-poor systems to a smaller population of significant…",
-      "published_at": "2026-05-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.22914",
+      "title": "Hadronic Processes, Plasma Evolution and Neutrino Emission in Magnetic Towers of Neutron-Star Merger Remnants",
+      "summary": "arXiv:2605.24083v1 Announce Type: new Abstract: Binary neutron star mergers can form short-lived magnetar-like remnants whose magnetically dominated polar towers reach $B\\sim10^{15}$--$10^{16}\\,\\mathrm{G}$, but the microphysical composition of these outflows remains poorly unders…",
+      "published_at": "2026-05-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.24083",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Mg II h&k spectral line properties computed using 3D radiative transfer in an enhanced network region simulated with the MURaM-ChE code",
-      "summary": "arXiv:2605.22916v1 Announce Type: new Abstract: The Mg II h&amp;k lines form in the middle to upper chromosphere and are well-suited to study the structure of the chromosphere. However, the details of their formation in the solar chromosphere are not fully understood. We aim to s…",
-      "published_at": "2026-05-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.22916",
+      "title": "A formation scenario of black hole-envelope systems --viscous hydrodynamics simulation in general relativity--",
+      "summary": "arXiv:2605.24087v1 Announce Type: new Abstract: By performing a viscous hydrodynamics simulation in general relativity for super-Eddington accretion flows onto massive black holes of mass $M=10^5$--$10^7M_\\odot$, we discuss a formation scenario for black hole-envelope systems. We…",
+      "published_at": "2026-05-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.24087",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Strong X-ray Variability of I Zwicky 1: Obscuration from Clumpy Accretion-Disk Winds",
-      "summary": "arXiv:2605.22918v1 Announce Type: new Abstract: Obscuration from clumpy accretion-disk winds has been invoked to explain the extreme X-ray weakness and X-ray variability observed in a substantial fraction of super-Eddington accreting quasars. We present a comprehensive study of t…",
-      "published_at": "2026-05-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.22918",
+      "title": "Discovery and Analysis of a Type II Supernova Candidate at z = 3.19 from JWST's COSMOS-Web Survey",
+      "summary": "arXiv:2605.24088v1 Announce Type: new Abstract: The launch of the James Webb Space Telescope (JWST) has enabled the discovery of a small but increasing sample of high-redshift core-collapse supernovae (CC SNe), which provide new tests of massive star evolution in the early Univer…",
+      "published_at": "2026-05-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.24088",
       "tags": [
         "arxiv",
         "astro-ph"
