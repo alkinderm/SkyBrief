@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-26T13:27:32Z",
+  "generated_at": "2026-05-27T13:58:57Z",
   "items": [
     {
-      "title": "The Phenomenological Nature of Quasar-type Blazars (BZQ). I. Revisiting the Flat-Spectrum Paradigm",
-      "summary": "arXiv:2605.23980v1 Announce Type: new Abstract: We reevaluate 610 sources classified as Flat-spectrum radio quasars (FSRQs) in the 5th edition of the Roma-BZCAT. Optical spectra from SDSS DR16 confirm broad emission lines within $0.11 \\leq z \\leq 5.28$. To assess their blazar-lik…",
-      "published_at": "2026-05-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.23980",
+      "title": "Mars, a Post-Habitable Planet?",
+      "summary": "arXiv:2605.26138v1 Announce Type: new Abstract: Mars provides a critical analog to once habitable exoplanets that have since lost their surface liquid water. The current atmospheric state of Mars retains the chemical fingerprints of that transition, including isotopic signatures…",
+      "published_at": "2026-05-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.26138",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Hamilton-Jacobi Approach to Inflationary Scenarios through Extended Entropies: An Observational Perspective",
-      "summary": "arXiv:2605.23990v1 Announce Type: new Abstract: The slow-roll inflation paradigm can be systematically generalized within the framework of non-standard entropy formalisms, giving rise to a broad class of inflationary models that deviate from the conventional Bekenstein--Hawking c…",
-      "published_at": "2026-05-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.23990",
+      "title": "The role of the Hubble Space Telescope in advancing our understanding of atmospheric escape in exoplanets",
+      "summary": "arXiv:2605.26140v1 Announce Type: new Abstract: An important evolutionary pathway for planetary atmospheres is escape to space, which has been studied on Earth and Mars for several decades and more recently in exoplanets. A particularly important regime is the hydrodynamic escape…",
+      "published_at": "2026-05-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.26140",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Detecting Gravitational-Wave Anisotropies with Simulation-Based Inference",
-      "summary": "arXiv:2605.24082v1 Announce Type: new Abstract: Over the last five years, multiple Pulsar Timing Array (PTA) collaborations have reported mounting evidence for a gravitational-wave background (GWB) at nanohertz frequencies. Measuring anisotropies in the sky distribution of the GW…",
-      "published_at": "2026-05-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.24082",
+      "title": "From Hubble to HWO: Bridging the Frontier of White Dwarf Exoplanet Science",
+      "summary": "arXiv:2605.26142v1 Announce Type: new Abstract: White dwarf stars, the endpoint of stellar evolution for 97% of stars in our Milky Way, offer a unique and powerful window into the bulk elemental composition of rocky exoplanetary bodies. Up to 50% of single white dwarfs are observ…",
+      "published_at": "2026-05-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.26142",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Hadronic Processes, Plasma Evolution and Neutrino Emission in Magnetic Towers of Neutron-Star Merger Remnants",
-      "summary": "arXiv:2605.24083v1 Announce Type: new Abstract: Binary neutron star mergers can form short-lived magnetar-like remnants whose magnetically dominated polar towers reach $B\\sim10^{15}$--$10^{16}\\,\\mathrm{G}$, but the microphysical composition of these outflows remains poorly unders…",
-      "published_at": "2026-05-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.24083",
+      "title": "Exploring Space Weather From Young Solar-like Stars as Windows to Exoplanetary Habitability",
+      "summary": "arXiv:2605.26150v1 Announce Type: new Abstract: Young solar-like stars are efficient generators of magnetic activity, superflares, coronal mass ejections (CMEs), and stellar energetic particles. These phenomena drive the early evolution of stars and shape the habitability of exop…",
+      "published_at": "2026-05-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.26150",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A formation scenario of black hole-envelope systems --viscous hydrodynamics simulation in general relativity--",
-      "summary": "arXiv:2605.24087v1 Announce Type: new Abstract: By performing a viscous hydrodynamics simulation in general relativity for super-Eddington accretion flows onto massive black holes of mass $M=10^5$--$10^7M_\\odot$, we discuss a formation scenario for black hole-envelope systems. We…",
-      "published_at": "2026-05-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.24087",
+      "title": "White dwarf planetary systems in the ultraviolet",
+      "summary": "arXiv:2605.26152v1 Announce Type: new Abstract: Almost every known planet host will evolve into a white dwarf, and the surviving planetary material will continue to orbit this stellar remnant. Asteroids perturbed onto star-grazing orbits will become disrupted, forming an accretio…",
+      "published_at": "2026-05-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.26152",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Discovery and Analysis of a Type II Supernova Candidate at z = 3.19 from JWST's COSMOS-Web Survey",
-      "summary": "arXiv:2605.24088v1 Announce Type: new Abstract: The launch of the James Webb Space Telescope (JWST) has enabled the discovery of a small but increasing sample of high-redshift core-collapse supernovae (CC SNe), which provide new tests of massive star evolution in the early Univer…",
-      "published_at": "2026-05-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.24088",
+      "title": "Bimodality in Rotational Modulation of Planet-Hosting Stars",
+      "summary": "arXiv:2605.26197v1 Announce Type: new Abstract: Stellar magnetic activity is governed by the interplay between rotation, convection, and the evolution of surface magnetic structures, yet the role of planetary systems in shaping these processes remains uncertain. Here, we analyze…",
+      "published_at": "2026-05-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.26197",
       "tags": [
         "arxiv",
         "astro-ph"
