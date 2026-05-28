@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-27T13:58:57Z",
+  "generated_at": "2026-05-28T14:09:23Z",
   "items": [
     {
-      "title": "Mars, a Post-Habitable Planet?",
-      "summary": "arXiv:2605.26138v1 Announce Type: new Abstract: Mars provides a critical analog to once habitable exoplanets that have since lost their surface liquid water. The current atmospheric state of Mars retains the chemical fingerprints of that transition, including isotopic signatures…",
-      "published_at": "2026-05-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.26138",
+      "title": "Multi-mission Observations of GS 1354-64 during the 2025-26 Outburst: First Results",
+      "summary": "arXiv:2605.27415v1 Announce Type: new Abstract: The Galactic transient black hole GS 1354-64 recently showed a new outburst, which has been continuously monitored by {\\it MAXI}, {\\it NuSTAR} and {\\it Insight-HXMT} missions. The ongoing $2025-26$ outburst shows a slow-rise with an…",
+      "published_at": "2026-05-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.27415",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The role of the Hubble Space Telescope in advancing our understanding of atmospheric escape in exoplanets",
-      "summary": "arXiv:2605.26140v1 Announce Type: new Abstract: An important evolutionary pathway for planetary atmospheres is escape to space, which has been studied on Earth and Mars for several decades and more recently in exoplanets. A particularly important regime is the hydrodynamic escape…",
-      "published_at": "2026-05-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.26140",
+      "title": "Astronomy Open Science Competence Centre in Europe",
+      "summary": "arXiv:2605.27481v1 Announce Type: new Abstract: The Astronomy Open Science Competence Centre Pilot (Astro-CC) is an ESCAPE-cluster related project meant to enable the astronomy research communities to accelerate their use of Open Science by supporting the implementation of FAIR p…",
+      "published_at": "2026-05-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.27481",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "From Hubble to HWO: Bridging the Frontier of White Dwarf Exoplanet Science",
-      "summary": "arXiv:2605.26142v1 Announce Type: new Abstract: White dwarf stars, the endpoint of stellar evolution for 97% of stars in our Milky Way, offer a unique and powerful window into the bulk elemental composition of rocky exoplanetary bodies. Up to 50% of single white dwarfs are observ…",
-      "published_at": "2026-05-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.26142",
+      "title": "SPHEREx confirms predictions for artificial satellite trail pollution in Low Earth Orbit",
+      "summary": "arXiv:2605.27501v1 Announce Type: new Abstract: The number of artificial satellites in Low Earth Orbit (LEO) is increasing at an exponential rate since 2019. Satellites are visible to both ground and space telescopes, and their bright emission in optical, infrared, and radio-wave…",
+      "published_at": "2026-05-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.27501",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Exploring Space Weather From Young Solar-like Stars as Windows to Exoplanetary Habitability",
-      "summary": "arXiv:2605.26150v1 Announce Type: new Abstract: Young solar-like stars are efficient generators of magnetic activity, superflares, coronal mass ejections (CMEs), and stellar energetic particles. These phenomena drive the early evolution of stars and shape the habitability of exop…",
-      "published_at": "2026-05-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.26150",
+      "title": "BlackHoleWeather -- Spin-coupled chaotic cold accretion across the meso-scale: Morphology and thermodynamics",
+      "summary": "arXiv:2605.27502v1 Announce Type: new Abstract: Supermassive black hole (SMBH) spin is a key but poorly constrained ingredient of the feeding-feedback loop. Chaotic cold accretion (CCA) of cold gas clouds delivers rapidly varying three-dimensional torques that drive spin evolutio…",
+      "published_at": "2026-05-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.27502",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "White dwarf planetary systems in the ultraviolet",
-      "summary": "arXiv:2605.26152v1 Announce Type: new Abstract: Almost every known planet host will evolve into a white dwarf, and the surviving planetary material will continue to orbit this stellar remnant. Asteroids perturbed onto star-grazing orbits will become disrupted, forming an accretio…",
-      "published_at": "2026-05-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.26152",
+      "title": "BlackHoleWeather -- Jet-regulated chaotic cold accretion across the meso scale: Morphology and thermodynamics",
+      "summary": "arXiv:2605.27503v1 Announce Type: new Abstract: How mechanical AGN feedback couples to multiphase condensation across scales remains a problem in galaxy groups and clusters. It is unclear how jets reshape the chaotic cold accretion (CCA) cycle and regulate black-hole fueling. Bla…",
+      "published_at": "2026-05-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.27503",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Bimodality in Rotational Modulation of Planet-Hosting Stars",
-      "summary": "arXiv:2605.26197v1 Announce Type: new Abstract: Stellar magnetic activity is governed by the interplay between rotation, convection, and the evolution of surface magnetic structures, yet the role of planetary systems in shaping these processes remains uncertain. Here, we analyze…",
-      "published_at": "2026-05-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.26197",
+      "title": "BlackHoleWeather -- Chaotic cold accretion across the meso-scale: Variability and kinematics",
+      "summary": "arXiv:2605.27504v1 Announce Type: new Abstract: Accretion onto supermassive black holes (SMBHs) in realistic halos is time-variable, governed by turbulence, cooling, and multiphase condensation. In chaotic cold accretion (CCA), clouds and filaments condense out of the hot gas and…",
+      "published_at": "2026-05-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.27504",
       "tags": [
         "arxiv",
         "astro-ph"
