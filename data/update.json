@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-28T14:09:23Z",
+  "generated_at": "2026-05-29T13:42:19Z",
   "items": [
     {
-      "title": "Multi-mission Observations of GS 1354-64 during the 2025-26 Outburst: First Results",
-      "summary": "arXiv:2605.27415v1 Announce Type: new Abstract: The Galactic transient black hole GS 1354-64 recently showed a new outburst, which has been continuously monitored by {\\it MAXI}, {\\it NuSTAR} and {\\it Insight-HXMT} missions. The ongoing $2025-26$ outburst shows a slow-rise with an…",
-      "published_at": "2026-05-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.27415",
+      "title": "Towards a Foundation Model for the Martian Atmosphere",
+      "summary": "arXiv:2605.28851v1 Announce Type: new Abstract: The martian atmosphere hosts dynamical phenomena ranging from planet-encircling dust storms to mesoscale orographic clouds and nocturnal low-level jets. General circulation model show capability to simulate these phenomena, but is c…",
+      "published_at": "2026-05-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.28851",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Astronomy Open Science Competence Centre in Europe",
-      "summary": "arXiv:2605.27481v1 Announce Type: new Abstract: The Astronomy Open Science Competence Centre Pilot (Astro-CC) is an ESCAPE-cluster related project meant to enable the astronomy research communities to accelerate their use of Open Science by supporting the implementation of FAIR p…",
-      "published_at": "2026-05-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.27481",
+      "title": "The energy conditions and model selection in the local Universe",
+      "summary": "arXiv:2605.28903v1 Announce Type: new Abstract: The four principal energy conditions (ECs) in general relativity prohibit negative energies, repulsive gravity and superluminal energy flows. One must invoke exotic matter to violate any one of these, yet $\\Lambda$CDM does so quite…",
+      "published_at": "2026-05-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.28903",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "SPHEREx confirms predictions for artificial satellite trail pollution in Low Earth Orbit",
-      "summary": "arXiv:2605.27501v1 Announce Type: new Abstract: The number of artificial satellites in Low Earth Orbit (LEO) is increasing at an exponential rate since 2019. Satellites are visible to both ground and space telescopes, and their bright emission in optical, infrared, and radio-wave…",
-      "published_at": "2026-05-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.27501",
+      "title": "First head-to-head comparison of agentic AI applied to the analysis of simulated data of the Einstein Telescope",
+      "summary": "arXiv:2605.28916v1 Announce Type: new Abstract: We report a comparison of two state-of-the-art agentic AI systems, Claude Code (Anthropic) and Codex (OpenAI), tasked with autonomously executing a simple end-to-end gravitational wave data analysis pipeline on a shared computing in…",
+      "published_at": "2026-05-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.28916",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "BlackHoleWeather -- Spin-coupled chaotic cold accretion across the meso-scale: Morphology and thermodynamics",
-      "summary": "arXiv:2605.27502v1 Announce Type: new Abstract: Supermassive black hole (SMBH) spin is a key but poorly constrained ingredient of the feeding-feedback loop. Chaotic cold accretion (CCA) of cold gas clouds delivers rapidly varying three-dimensional torques that drive spin evolutio…",
-      "published_at": "2026-05-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.27502",
+      "title": "The incidence and star-formation properties of X-ray active galactic nuclei across the star-forming main sequence in DESI-eRASS1: the role o…",
+      "summary": "arXiv:2605.28921v1 Announce Type: new Abstract: The interplay between star formation and supermassive black-hole growth is central to galaxy evolution, but how host-galaxy morphology regulates star-formation enhancement and AGN triggering across the star-forming main sequence rem…",
+      "published_at": "2026-05-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.28921",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "BlackHoleWeather -- Jet-regulated chaotic cold accretion across the meso scale: Morphology and thermodynamics",
-      "summary": "arXiv:2605.27503v1 Announce Type: new Abstract: How mechanical AGN feedback couples to multiphase condensation across scales remains a problem in galaxy groups and clusters. It is unclear how jets reshape the chaotic cold accretion (CCA) cycle and regulate black-hole fueling. Bla…",
-      "published_at": "2026-05-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.27503",
+      "title": "Photometry is all you need: supernova classification as a mixing problem",
+      "summary": "arXiv:2605.28922v1 Announce Type: new Abstract: In the era of large-scale photometric surveys, scalable and robust methods for classifying supernova (SN) populations are increasingly necessary. Often, spectroscopy is essential in addition to photometry to reliably classify SNe; h…",
+      "published_at": "2026-05-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.28922",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "BlackHoleWeather -- Chaotic cold accretion across the meso-scale: Variability and kinematics",
-      "summary": "arXiv:2605.27504v1 Announce Type: new Abstract: Accretion onto supermassive black holes (SMBHs) in realistic halos is time-variable, governed by turbulence, cooling, and multiphase condensation. In chaotic cold accretion (CCA), clouds and filaments condense out of the hot gas and…",
-      "published_at": "2026-05-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.27504",
+      "title": "Assessing Ariel's capabilities to observe free-floating brown dwarfs",
+      "summary": "arXiv:2605.28924v1 Announce Type: new Abstract: The primary goal of the Ariel space telescope is to conduct the biggest spectroscopic survey of transiting exoplanets to characterize their atmospheres and weather. We propose to extend the Ariel survey to another domain of alien at…",
+      "published_at": "2026-05-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.28924",
       "tags": [
         "arxiv",
         "astro-ph"
