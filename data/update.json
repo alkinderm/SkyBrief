@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-05-31T11:59:10Z",
+  "generated_at": "2026-06-01T16:21:32Z",
   "items": [
+    {
+      "title": "Observing the Peculiar Acceleration of our Solar System with Quasar Proper Motions",
+      "summary": "arXiv:2605.30367v1 Announce Type: new Abstract: We measure the proper motion dipole of quasars observed by Gaia to determine the acceleration of the Solar System with respect to the quasar rest frame. We characterise the full angular power spectrum of the proper motion field usin…",
+      "published_at": "2026-06-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.30367",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Reconciling GW170817 and GW190814 with a Nonmonotonic Sound-Speed Equation of State",
+      "summary": "arXiv:2605.30369v1 Announce Type: new Abstract: We show that the GW170817-GW190814 tension can be reconciled within General Relativity by a structured causal EoS basin found with a Constrained Evolutionary TOV Discovery pipeline (CETD). The basin contains ~1.4x10^4 unique EoS wit…",
+      "published_at": "2026-06-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.30369",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The EPS Research Astro-RAG Platform: A Unified Open-Science Infrastructure for Cross-Epoch Astrophysical Kinematic Analysis, LLM-Assisted Re…",
+      "summary": "arXiv:2605.30384v1 Announce Type: new Abstract: We present the EPS Research Astro-RAG Platform (v1.0), an open-science research infrastructure providing four machine-readable, cross-epoch astrophysical corpora, 120 verified executable Jupyter notebook examples, a QuickStart repro…",
+      "published_at": "2026-06-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.30384",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Experiments on Settling of Granular and Cohesive Material in Low Gravity",
+      "summary": "arXiv:2605.30395v1 Announce Type: new Abstract: The regolith of rocky bodies, such as planets or asteroids, generally settles under gravity conditions different from those of Earth. The behavior of granular material is not easily scalable for different gravities. To predict these…",
+      "published_at": "2026-06-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.30395",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "RUBIES: The Evolution of the Ionization Parameter from 0 < z < 9",
+      "summary": "arXiv:2605.30410v1 Announce Type: new Abstract: High-redshift galaxies have smaller radii, harder ionizing continua, and higher ionizing photon production efficiencies than lower redshift systems, which implies a corresponding evolution in nebular conditions. A key metric to quan…",
+      "published_at": "2026-06-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.30410",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Choosing the right MCMC sampler: a systematic benchmark of gradient-free methods",
+      "summary": "arXiv:2605.30412v1 Announce Type: new Abstract: We present a set of metrics and methods for testing and comparing a range of modern gradient-free Markov Chain Monte Carlo (MCMC) samplers against the commonly used Metropolis-Hastings (MH) algorithm. The goal is to quantify key per…",
+      "published_at": "2026-06-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2605.30412",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: Gaze into the Crystal Ball Nebula and See the Light Emitted by a Dying Star 1500 Years Ago",
       "summary": "<img align=\"left\" alt=\"NGC 1514: The Crystal Ball Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2613a.jpg\" />The 8.1-meter Gemini North telescope, located on the summit of Maunakea in Hawai‘i, has captured NGC 1514, nicknamed…",
