@@ -1,12 +1,26 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-01T16:21:32Z",
+  "generated_at": "2026-06-02T14:36:38Z",
   "items": [
     {
-      "title": "Observing the Peculiar Acceleration of our Solar System with Quasar Proper Motions",
-      "summary": "arXiv:2605.30367v1 Announce Type: new Abstract: We measure the proper motion dipole of quasars observed by Gaia to determine the acceleration of the Solar System with respect to the quasar rest frame. We characterise the full angular power spectrum of the proper motion field usin…",
-      "published_at": "2026-06-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.30367",
+      "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
+      "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
+      "published_at": "2026-06-02T09:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2614/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Astronomical Advantages of a Boost Mission to Facilitate HST Science into the 2030s: Imaging the Circumgalactic Medium of Galaxies",
+      "summary": "arXiv:2606.00164v1 Announce Type: new Abstract: We present the case for imaging ultraviolet line emission from highly ionized metals and HI Lya in the circumgalactic medium of galaxies, should the Hubble Space Telescope receive an orbital boost. Hubble can uniquely probe emission…",
+      "published_at": "2026-06-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.00164",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +32,10 @@
       }
     },
     {
-      "title": "Reconciling GW170817 and GW190814 with a Nonmonotonic Sound-Speed Equation of State",
-      "summary": "arXiv:2605.30369v1 Announce Type: new Abstract: We show that the GW170817-GW190814 tension can be reconciled within General Relativity by a structured causal EoS basin found with a Constrained Evolutionary TOV Discovery pipeline (CETD). The basin contains ~1.4x10^4 unique EoS wit…",
-      "published_at": "2026-06-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.30369",
+      "title": "Eigenvalue formulation of Stochastic Inflation and application to large perturbation generating inflationary features",
+      "summary": "arXiv:2606.00176v1 Announce Type: new Abstract: Stochastic inflation is a powerful technique for calculating the probability distribution function (PDF) of large inflationary perturbations, which may collapse to form Primordial Black Holes. The PDF, $P({\\cal N})$, of the stochast…",
+      "published_at": "2026-06-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.00176",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +47,10 @@
       }
     },
     {
-      "title": "The EPS Research Astro-RAG Platform: A Unified Open-Science Infrastructure for Cross-Epoch Astrophysical Kinematic Analysis, LLM-Assisted Re…",
-      "summary": "arXiv:2605.30384v1 Announce Type: new Abstract: We present the EPS Research Astro-RAG Platform (v1.0), an open-science research infrastructure providing four machine-readable, cross-epoch astrophysical corpora, 120 verified executable Jupyter notebook examples, a QuickStart repro…",
-      "published_at": "2026-06-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.30384",
+      "title": "Magnesium Silicate Clouds in the Atmosphere of HD 209458b from a Rule-Based Tree-Structured Data Reduction",
+      "summary": "arXiv:2606.00177v1 Announce Type: new Abstract: HD 209458b is the canonical hot Jupiter: the first to have its atmosphere measured and the first to hint at the role of aerosols in exoplanet atmospheres through the muting of Na absorption signatures in the optical. Here we present…",
+      "published_at": "2026-06-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.00177",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +62,10 @@
       }
     },
     {
-      "title": "Experiments on Settling of Granular and Cohesive Material in Low Gravity",
-      "summary": "arXiv:2605.30395v1 Announce Type: new Abstract: The regolith of rocky bodies, such as planets or asteroids, generally settles under gravity conditions different from those of Earth. The behavior of granular material is not easily scalable for different gravities. To predict these…",
-      "published_at": "2026-06-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.30395",
+      "title": "Ultraviolet diversity of Little Red Dots as a probe for direct-collapse black hole ages",
+      "summary": "arXiv:2606.00205v1 Announce Type: new Abstract: Little Red Dots (LRDs) uncovered by the James Webb Space Telescope have been proposed as candidate galaxies hosting embedded accreting direct-collapse black holes (DCBHs), yet the relative ultraviolet (UV) emission of their host gal…",
+      "published_at": "2026-06-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.00205",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +77,10 @@
       }
     },
     {
-      "title": "RUBIES: The Evolution of the Ionization Parameter from 0 < z < 9",
-      "summary": "arXiv:2605.30410v1 Announce Type: new Abstract: High-redshift galaxies have smaller radii, harder ionizing continua, and higher ionizing photon production efficiencies than lower redshift systems, which implies a corresponding evolution in nebular conditions. A key metric to quan…",
-      "published_at": "2026-06-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.30410",
+      "title": "JWST Reveals Large Reservoirs of Dust and Ongoing Circumstellar Interaction in SN Ibn/Icn 2023xgo over a Year Post-Explosion",
+      "summary": "arXiv:2606.00208v1 Announce Type: new Abstract: We present infrared (IR) photometric and spectroscopic observations of SN 2023xgo, a recent and nearby Type Ibn/Icn supernova (SN Ibn/Icn) which shows shock interaction with a He/C-rich and H-poor circumstellar medium (CSM). Althoug…",
+      "published_at": "2026-06-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.00208",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +92,10 @@
       }
     },
     {
-      "title": "Choosing the right MCMC sampler: a systematic benchmark of gradient-free methods",
-      "summary": "arXiv:2605.30412v1 Announce Type: new Abstract: We present a set of metrics and methods for testing and comparing a range of modern gradient-free Markov Chain Monte Carlo (MCMC) samplers against the commonly used Metropolis-Hastings (MH) algorithm. The goal is to quantify key per…",
-      "published_at": "2026-06-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2605.30412",
+      "title": "On the Faint Early-time Radio and X-ray Emissions in TDE2025aarm",
+      "summary": "arXiv:2606.00209v1 Announce Type: new Abstract: TDE2025aarm is a nearby tidal disruption event whose early radio and X-ray emissions are exceptionally faint compared with previously observed TDEs. We examine whether these weak signals can be explained within standard outflow and…",
+      "published_at": "2026-06-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.00209",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"3D rendering of asteroids discovered by NSF–DOE Rubin Observatory\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2608a.jpg\" />Scientists at NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National…",
       "published_at": "2026-04-02T17:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2608/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Gemini South Confirms Long-Suspected Link Between the Composition of Exoplanets and Their Host Stars",
-      "summary": "<img align=\"left\" alt=\"Artist’s Illustration of Ultra-Hot Jupiter\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2609a.jpg\" />Astronomers discovered that a giant planet, WASP-189b, echoes the composition of its host star, providing t…",
-      "published_at": "2026-04-01T18:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2609/",
       "tags": [
         "noirlab"
       ],
