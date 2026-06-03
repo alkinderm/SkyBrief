@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-02T14:36:38Z",
+  "generated_at": "2026-06-03T15:18:49Z",
   "items": [
+    {
+      "title": "Hybrid stars among mass gap objects are excluded by twin stars at $1.4\\,M_\\odot$",
+      "summary": "arXiv:2606.02593v1 Announce Type: new Abstract: We test whether compact objects in the so called mass gap ($2.5 < M_{\\rm max}/M_\\odot < 5.0$) can be hybrid stars. Using a generic hybrid equation of state with a first-order deconfinement transition, we map the allowed parameter sp…",
+      "published_at": "2026-06-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.02593",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Systematic Polarization Errors from Parallactic-Angle Dependent Leakage in Pseudo-Circular Feeds",
+      "summary": "arXiv:2606.02653v1 Announce Type: new Abstract: Wideband radio interferometers increasingly rely on analog quadrature hybrids to synthesize circular polarization from linear feeds. These systems are typically calibrated under the assumption that instrumental polarization leakage…",
+      "published_at": "2026-06-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.02653",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Enabling tomorrow's planetary defence and space resource economy: Autonomous fleet-based asteroid rendezvous missions",
+      "summary": "arXiv:2606.02665v1 Announce Type: new Abstract: Asteroids preserve the solar system's earliest history and pose real threats to Earth. Strengthening the UK's capabilities to detect, track, and characterise Near-Earth Objects (NEOs) is vital for national security, world-leading pl…",
+      "published_at": "2026-06-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.02665",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Steep-Extinction QSO at z=4.6: JWST Evidence for Abundant Small Dust Grains",
+      "summary": "arXiv:2606.02685v1 Announce Type: new Abstract: The rapid accumulation of massive dust reservoirs in the early Universe remains a major challenge in astrophysics. While core-collapse supernovae can inject large dust grains ($a \\gtrsim 0.1\\,\\mu{\\rm m}$) on short timescales, explai…",
+      "published_at": "2026-06-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.02685",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Euclid: Disky titans -- surprisingly high star formation efficiency in two brightest group galaxies at $z\\sim 0.75$",
+      "summary": "arXiv:2606.02687v1 Announce Type: new Abstract: We present the discovery of two disky titans in the first data release of the Euclid satellite. These sources are massive ($M>10^{11} M_\\odot$) star-forming (SFR $\\sim 20 M_\\odot$/yr) discs located in strong over-densities at interm…",
+      "published_at": "2026-06-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.02687",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "NOEMA$^\\rm{3D}$: A deep view of cold gas flows in a barred spiral galaxy at $z\\sim1$",
+      "summary": "arXiv:2606.02688v1 Announce Type: new Abstract: We present a deep, high-resolution CO(4-3) IRAM-NOEMA observation of a main sequence, barred, spiral galaxy at $z\\approx1.12$, with an on-source integration time of $\\approx37$ hours and a beam FWHM of $\\approx0.\\!\\!^{\\prime\\prime}3…",
+      "published_at": "2026-06-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.02688",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
       "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
@@ -14,96 +104,6 @@
         "name": "NOIRLab News",
         "type": "rss",
         "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Astronomical Advantages of a Boost Mission to Facilitate HST Science into the 2030s: Imaging the Circumgalactic Medium of Galaxies",
-      "summary": "arXiv:2606.00164v1 Announce Type: new Abstract: We present the case for imaging ultraviolet line emission from highly ionized metals and HI Lya in the circumgalactic medium of galaxies, should the Hubble Space Telescope receive an orbital boost. Hubble can uniquely probe emission…",
-      "published_at": "2026-06-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.00164",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Eigenvalue formulation of Stochastic Inflation and application to large perturbation generating inflationary features",
-      "summary": "arXiv:2606.00176v1 Announce Type: new Abstract: Stochastic inflation is a powerful technique for calculating the probability distribution function (PDF) of large inflationary perturbations, which may collapse to form Primordial Black Holes. The PDF, $P({\\cal N})$, of the stochast…",
-      "published_at": "2026-06-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.00176",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Magnesium Silicate Clouds in the Atmosphere of HD 209458b from a Rule-Based Tree-Structured Data Reduction",
-      "summary": "arXiv:2606.00177v1 Announce Type: new Abstract: HD 209458b is the canonical hot Jupiter: the first to have its atmosphere measured and the first to hint at the role of aerosols in exoplanet atmospheres through the muting of Na absorption signatures in the optical. Here we present…",
-      "published_at": "2026-06-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.00177",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Ultraviolet diversity of Little Red Dots as a probe for direct-collapse black hole ages",
-      "summary": "arXiv:2606.00205v1 Announce Type: new Abstract: Little Red Dots (LRDs) uncovered by the James Webb Space Telescope have been proposed as candidate galaxies hosting embedded accreting direct-collapse black holes (DCBHs), yet the relative ultraviolet (UV) emission of their host gal…",
-      "published_at": "2026-06-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.00205",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "JWST Reveals Large Reservoirs of Dust and Ongoing Circumstellar Interaction in SN Ibn/Icn 2023xgo over a Year Post-Explosion",
-      "summary": "arXiv:2606.00208v1 Announce Type: new Abstract: We present infrared (IR) photometric and spectroscopic observations of SN 2023xgo, a recent and nearby Type Ibn/Icn supernova (SN Ibn/Icn) which shows shock interaction with a He/C-rich and H-poor circumstellar medium (CSM). Althoug…",
-      "published_at": "2026-06-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.00208",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "On the Faint Early-time Radio and X-ray Emissions in TDE2025aarm",
-      "summary": "arXiv:2606.00209v1 Announce Type: new Abstract: TDE2025aarm is a nearby tidal disruption event whose early radio and X-ray emissions are exceptionally faint compared with previously observed TDEs. We examine whether these weak signals can be explained within standard outflow and…",
-      "published_at": "2026-06-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.00209",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
       }
     },
     {
