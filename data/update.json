@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-03T15:18:49Z",
+  "generated_at": "2026-06-04T13:40:16Z",
   "items": [
     {
-      "title": "Hybrid stars among mass gap objects are excluded by twin stars at $1.4\\,M_\\odot$",
-      "summary": "arXiv:2606.02593v1 Announce Type: new Abstract: We test whether compact objects in the so called mass gap ($2.5 < M_{\\rm max}/M_\\odot < 5.0$) can be hybrid stars. Using a generic hybrid equation of state with a first-order deconfinement transition, we map the allowed parameter sp…",
-      "published_at": "2026-06-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.02593",
+      "title": "Blackholistic 2026 meeting report",
+      "summary": "arXiv:2606.04022v1 Announce Type: new Abstract: Accretion and relativistic jet formation take place across the black hole mass range, from black holes of just a few solar masses to those in excess of ten billion. Despite the enormous range in scales, qualitative similarities and…",
+      "published_at": "2026-06-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.04022",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Systematic Polarization Errors from Parallactic-Angle Dependent Leakage in Pseudo-Circular Feeds",
-      "summary": "arXiv:2606.02653v1 Announce Type: new Abstract: Wideband radio interferometers increasingly rely on analog quadrature hybrids to synthesize circular polarization from linear feeds. These systems are typically calibrated under the assumption that instrumental polarization leakage…",
-      "published_at": "2026-06-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.02653",
+      "title": "The Cosmological Hart-Tipler Conjecture",
+      "summary": "arXiv:2606.04044v1 Announce Type: new Abstract: Self-reproducing automata, so-called von Neumann machines, have been repeatedly estimated to be capable of traversing the Galaxy many times given its age. Our mere existence thus seems to exclude an aggressive variant of such a prob…",
+      "published_at": "2026-06-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.04044",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Enabling tomorrow's planetary defence and space resource economy: Autonomous fleet-based asteroid rendezvous missions",
-      "summary": "arXiv:2606.02665v1 Announce Type: new Abstract: Asteroids preserve the solar system's earliest history and pose real threats to Earth. Strengthening the UK's capabilities to detect, track, and characterise Near-Earth Objects (NEOs) is vital for national security, world-leading pl…",
-      "published_at": "2026-06-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.02665",
+      "title": "Relativistic Lightsail Propulsion Dynamics",
+      "summary": "arXiv:2606.04052v1 Announce Type: new Abstract: Lightsail technology currently stands as one of the most promising means for interstellar travel, having entered the application phase following multiple successful on-orbit validations. This paper systematically investigates the pr…",
+      "published_at": "2026-06-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.04052",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Steep-Extinction QSO at z=4.6: JWST Evidence for Abundant Small Dust Grains",
-      "summary": "arXiv:2606.02685v1 Announce Type: new Abstract: The rapid accumulation of massive dust reservoirs in the early Universe remains a major challenge in astrophysics. While core-collapse supernovae can inject large dust grains ($a \\gtrsim 0.1\\,\\mu{\\rm m}$) on short timescales, explai…",
-      "published_at": "2026-06-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.02685",
+      "title": "The role of major mergers in triggering super-Eddington accretion",
+      "summary": "arXiv:2606.04081v1 Announce Type: new Abstract: JWST observations have opened a new era in the exploration of the high-redshift Universe, revealing black holes (BHs) with masses of several million solar masses already at $z>8$, challenging our understanding of their growth mechan…",
+      "published_at": "2026-06-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.04081",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Euclid: Disky titans -- surprisingly high star formation efficiency in two brightest group galaxies at $z\\sim 0.75$",
-      "summary": "arXiv:2606.02687v1 Announce Type: new Abstract: We present the discovery of two disky titans in the first data release of the Euclid satellite. These sources are massive ($M>10^{11} M_\\odot$) star-forming (SFR $\\sim 20 M_\\odot$/yr) discs located in strong over-densities at interm…",
-      "published_at": "2026-06-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.02687",
+      "title": "Dynamics and detectability of long-lived non-accretion phases for massive black hole binaries in cold, thermally regulating disks",
+      "summary": "arXiv:2606.04082v1 Announce Type: new Abstract: We investigate whether the non-accreting phases found in thin, locally isothermal circumbinary disks survive when the disk thermodynamics are evolved self-consistently. We present grid-based hydrodynamics simulations of circumbinary…",
+      "published_at": "2026-06-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.04082",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "NOEMA$^\\rm{3D}$: A deep view of cold gas flows in a barred spiral galaxy at $z\\sim1$",
-      "summary": "arXiv:2606.02688v1 Announce Type: new Abstract: We present a deep, high-resolution CO(4-3) IRAM-NOEMA observation of a main sequence, barred, spiral galaxy at $z\\approx1.12$, with an on-source integration time of $\\approx37$ hours and a beam FWHM of $\\approx0.\\!\\!^{\\prime\\prime}3…",
-      "published_at": "2026-06-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.02688",
+      "title": "Studying the absorption signatures of H I Lyman-\\alpha\\ in the warm-hot circumgalactic medium with TNG50",
+      "summary": "arXiv:2606.04083v1 Announce Type: new Abstract: In this study, we investigate the spectral signatures of neutral hydrogen Lyman-$\\alpha$ absorption arising from the warm-hot gas component of the circumgalactic medium (CGM) around $z=0$ Milky Way (MW)-like galaxies using the high-…",
+      "published_at": "2026-06-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.04083",
       "tags": [
         "arxiv",
         "astro-ph"
