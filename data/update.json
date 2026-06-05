@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-04T13:40:16Z",
+  "generated_at": "2026-06-05T13:36:33Z",
   "items": [
     {
-      "title": "Blackholistic 2026 meeting report",
-      "summary": "arXiv:2606.04022v1 Announce Type: new Abstract: Accretion and relativistic jet formation take place across the black hole mass range, from black holes of just a few solar masses to those in excess of ten billion. Despite the enormous range in scales, qualitative similarities and…",
-      "published_at": "2026-06-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.04022",
+      "title": "GREX-PLUS Science Book v2",
+      "summary": "arXiv:2606.05237v1 Announce Type: new Abstract: GREX-PLUS (Galaxy Reionization EXplorer and PLanetary Universe Spectrometer) is a mission candidate for a JAXA strategic L-class mission to be launched in the 2030s. Its primary science goals are two-fold: galaxy formation and evolu…",
+      "published_at": "2026-06-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.05237",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The Cosmological Hart-Tipler Conjecture",
-      "summary": "arXiv:2606.04044v1 Announce Type: new Abstract: Self-reproducing automata, so-called von Neumann machines, have been repeatedly estimated to be capable of traversing the Galaxy many times given its age. Our mere existence thus seems to exclude an aggressive variant of such a prob…",
-      "published_at": "2026-06-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.04044",
+      "title": "UK White Paper on Space-based total solar eclipse observations: structure and dynamics of the solar atmosphere",
+      "summary": "arXiv:2606.05244v1 Announce Type: new Abstract: Our Sun is uniquely placed to enable a detailed study of astrophysical plasmas and how they are governed by the magnetic fields that thread through them. On the one hand, magnetic fields confine plasma and determine plasma heating,…",
+      "published_at": "2026-06-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.05244",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Relativistic Lightsail Propulsion Dynamics",
-      "summary": "arXiv:2606.04052v1 Announce Type: new Abstract: Lightsail technology currently stands as one of the most promising means for interstellar travel, having entered the application phase following multiple successful on-orbit validations. This paper systematically investigates the pr…",
-      "published_at": "2026-06-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.04052",
+      "title": "The free-streaming length of dark matter from JWST observations of 28 strong gravitational lenses",
+      "summary": "arXiv:2606.05277v1 Announce Type: new Abstract: The formation of gravitationally bound overdensities of dark matter (DM), or \\textit{halos}, is a generic prediction of theories with particle DM. We present a measurement of halo properties in 28 quadruple image strong lens systems…",
+      "published_at": "2026-06-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.05277",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The role of major mergers in triggering super-Eddington accretion",
-      "summary": "arXiv:2606.04081v1 Announce Type: new Abstract: JWST observations have opened a new era in the exploration of the high-redshift Universe, revealing black holes (BHs) with masses of several million solar masses already at $z>8$, challenging our understanding of their growth mechan…",
-      "published_at": "2026-06-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.04081",
+      "title": "Little red dots as a cosmological probe: constraining $H_0$ with quasi-periodic pulsations",
+      "summary": "arXiv:2606.05281v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has uncovered a population of ``little red dots'' (LRDs) at $z \\gtrsim 4$, potentially representing early supermassive black holes embedded in dense gaseous envelopes. The recent discovery of th…",
+      "published_at": "2026-06-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.05281",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Dynamics and detectability of long-lived non-accretion phases for massive black hole binaries in cold, thermally regulating disks",
-      "summary": "arXiv:2606.04082v1 Announce Type: new Abstract: We investigate whether the non-accreting phases found in thin, locally isothermal circumbinary disks survive when the disk thermodynamics are evolved self-consistently. We present grid-based hydrodynamics simulations of circumbinary…",
-      "published_at": "2026-06-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.04082",
+      "title": "Strong environmental AGN enhancement among DSFGs in z > 2 protoclusters",
+      "summary": "arXiv:2606.05283v1 Announce Type: new Abstract: Galaxy protoclusters (PCs) at z > 2 are dense regions in which cold gas availability and elevated galaxy interaction rates trigger intense, often dust-obscured, star formation. These mechanisms are also expected to promote super-mas…",
+      "published_at": "2026-06-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.05283",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Studying the absorption signatures of H I Lyman-\\alpha\\ in the warm-hot circumgalactic medium with TNG50",
-      "summary": "arXiv:2606.04083v1 Announce Type: new Abstract: In this study, we investigate the spectral signatures of neutral hydrogen Lyman-$\\alpha$ absorption arising from the warm-hot gas component of the circumgalactic medium (CGM) around $z=0$ Milky Way (MW)-like galaxies using the high-…",
-      "published_at": "2026-06-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.04083",
+      "title": "Metal-Poor Gas Accretion Drives Giant Clump Formation at 0.6 < z < 2.6",
+      "summary": "arXiv:2606.05284v1 Announce Type: new Abstract: The physical properties of kiloparsec-scale clumps in high-redshift star-forming galaxies (SFGs) contain crucial constraints on how they assemble. Building on recent work that indicates the presence of a metallicity offset in clumpy…",
+      "published_at": "2026-06-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.05284",
       "tags": [
         "arxiv",
         "astro-ph"
