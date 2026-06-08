@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-07T12:07:44Z",
+  "generated_at": "2026-06-08T14:34:43Z",
   "items": [
+    {
+      "title": "The quasi-star model for Little Red Dots: potential and challenges",
+      "summary": "arXiv:2606.06575v1 Announce Type: new Abstract: (Abridged) Little Red Dots (LRDs) are a class of sources discovered by JWST observationally defined by a \"V-shaped\" rest-frame UV-Optical SED, a compact or unresolved morphology, and for having, frequently, broad hydrogen emission l…",
+      "published_at": "2026-06-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.06575",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Nonthermal line broadening at solar flare footpoints is primarily field-aligned",
+      "summary": "arXiv:2606.06577v1 Announce Type: new Abstract: Magnetic reconnection powers solar and stellar flares, but a full understanding of how the released energy is transported and converted within the solar atmosphere remains elusive. One clue lies at solar-flare footpoints, where spec…",
+      "published_at": "2026-06-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.06577",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Disappearing Act: Constraints From \"Missing\" Flares of Repeating Partial TDE Candidates",
+      "summary": "arXiv:2606.06578v1 Announce Type: new Abstract: Recurrent tidal disruption events (rTDEs) are sources that exhibit multiple TDE-like flares; many are likely powered by the recurring partial disruption of a bound star, in a repeating partial TDE (rpTDE). Two such sources, TDE 2022…",
+      "published_at": "2026-06-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.06578",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The short and long of iPhoton science for a boosted Hubble",
+      "summary": "arXiv:2606.06583v1 Announce Type: new Abstract: Boosting the Hubble Space Telescope (HST) will provide unique opportunities to carry out precursor science for the Habitable Worlds Observatory (HWO). Chief among them are science cases for determining the properties of star forming…",
+      "published_at": "2026-06-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.06583",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Population of Red Galaxies with Very Strong Emission Lines at $z > 5$ Revealed by the NIRCam Medium Bands: ''Classic'' LRDs, Dusty Star-Fo…",
+      "summary": "arXiv:2606.06585v1 Announce Type: new Abstract: The NIRCam medium-bands have proven to be efficient at identifying Emission Line Galaxies (ELGs) with high equivalent width (EW) H$\\alpha$ and [OIII]+H$\\beta$ emission lines. In this paper we exploit this efficiency to identify a sa…",
+      "published_at": "2026-06-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.06585",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Combined Dense Gas and Excitation Atlas of the Milky Way I. Mass Distribution and Ripples in the Molecular Layer",
+      "summary": "arXiv:2606.06590v1 Announce Type: new Abstract: The first components of a new meta-survey, the Combined Dense Gas and Excitation Atlas (CODEX) of the Milky Way, are presented here with combined data from five previously published surveys: NANTEN+CHaMP, ThrUMMS, FUGIN, and MWISP.…",
+      "published_at": "2026-06-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.06590",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
       "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
