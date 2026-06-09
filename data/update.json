@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-08T14:34:43Z",
+  "generated_at": "2026-06-09T13:24:14Z",
   "items": [
     {
-      "title": "The quasi-star model for Little Red Dots: potential and challenges",
-      "summary": "arXiv:2606.06575v1 Announce Type: new Abstract: (Abridged) Little Red Dots (LRDs) are a class of sources discovered by JWST observationally defined by a \"V-shaped\" rest-frame UV-Optical SED, a compact or unresolved morphology, and for having, frequently, broad hydrogen emission l…",
-      "published_at": "2026-06-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.06575",
+      "title": "PyCBC Live Search for Compact Binary Mergers in Advanced LIGO and Virgo's Fourth Observing Run",
+      "summary": "arXiv:2606.07679v1 Announce Type: new Abstract: PyCBC Live is a low-latency search pipeline that identifies gravitational waves from compact binary coalescences and provides alerts for electromagnetic follow-up. This paper presents improvements to PyCBC Live that were implemented…",
+      "published_at": "2026-06-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.07679",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Nonthermal line broadening at solar flare footpoints is primarily field-aligned",
-      "summary": "arXiv:2606.06577v1 Announce Type: new Abstract: Magnetic reconnection powers solar and stellar flares, but a full understanding of how the released energy is transported and converted within the solar atmosphere remains elusive. One clue lies at solar-flare footpoints, where spec…",
-      "published_at": "2026-06-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.06577",
+      "title": "The X-ray-to-UV relation does not evolve in homogeneous quasar samples",
+      "summary": "arXiv:2606.07730v1 Announce Type: new Abstract: We present a new, highly homogeneous quasar sample with X-ray and UV observations optimized to reliably estimate distances via the non-linear X-ray-to-UV relation. Cross-matching the Sloan Digital Sky Survey DR16 quasar catalog with…",
+      "published_at": "2026-06-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.07730",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A Disappearing Act: Constraints From \"Missing\" Flares of Repeating Partial TDE Candidates",
-      "summary": "arXiv:2606.06578v1 Announce Type: new Abstract: Recurrent tidal disruption events (rTDEs) are sources that exhibit multiple TDE-like flares; many are likely powered by the recurring partial disruption of a bound star, in a repeating partial TDE (rpTDE). Two such sources, TDE 2022…",
-      "published_at": "2026-06-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.06578",
+      "title": "The Effects of Cosmic Ray Protons on Galactic Nonthermal Filaments",
+      "summary": "arXiv:2606.07733v1 Announce Type: new Abstract: The Galactic Center (GC) contains a collection of filaments that are typically tens of parsecs in length, illuminated by synchrotron radiation from cosmic rays (CR). The origin of these nonthermal filaments (NTFs) is unclear. We aim…",
+      "published_at": "2026-06-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.07733",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The short and long of iPhoton science for a boosted Hubble",
-      "summary": "arXiv:2606.06583v1 Announce Type: new Abstract: Boosting the Hubble Space Telescope (HST) will provide unique opportunities to carry out precursor science for the Habitable Worlds Observatory (HWO). Chief among them are science cases for determining the properties of star forming…",
-      "published_at": "2026-06-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.06583",
+      "title": "Clumps in a Cocoon: Geometry and Mixing Set the Universal X-ray to H$\\alpha$ Surface Brightness Ratio",
+      "summary": "arXiv:2606.07741v1 Announce Type: new Abstract: Recent observations reveal a universal X-ray to H$\\alpha$ surface-brightness ratio, ${\\rm SB}_{\\rm X}/{\\rm SB}_{\\rm H\\alpha}\\sim 3$, in galactic winds, ram-pressure stripped tails, and cluster filaments. This is surprising because H…",
+      "published_at": "2026-06-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.07741",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A Population of Red Galaxies with Very Strong Emission Lines at $z > 5$ Revealed by the NIRCam Medium Bands: ''Classic'' LRDs, Dusty Star-Fo…",
-      "summary": "arXiv:2606.06585v1 Announce Type: new Abstract: The NIRCam medium-bands have proven to be efficient at identifying Emission Line Galaxies (ELGs) with high equivalent width (EW) H$\\alpha$ and [OIII]+H$\\beta$ emission lines. In this paper we exploit this efficiency to identify a sa…",
-      "published_at": "2026-06-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.06585",
+      "title": "CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing",
+      "summary": "arXiv:2606.07745v1 Announce Type: new Abstract: We present the first installment of CMBolic: a suite of symbolic cosmic microwave background (CMB) emulators. In this instance, we emulate the CMB lensing potential power spectrum $C_\\ell^{\\phi\\phi}$ for the widely used extended $\\L…",
+      "published_at": "2026-06-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.07745",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The Combined Dense Gas and Excitation Atlas of the Milky Way I. Mass Distribution and Ripples in the Molecular Layer",
-      "summary": "arXiv:2606.06590v1 Announce Type: new Abstract: The first components of a new meta-survey, the Combined Dense Gas and Excitation Atlas (CODEX) of the Milky Way, are presented here with combined data from five previously published surveys: NANTEN+CHaMP, ThrUMMS, FUGIN, and MWISP.…",
-      "published_at": "2026-06-08T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.06590",
+      "title": "Euclid Quick Data Release (Q1): The impact of AGN emission on SED-derived physical properties",
+      "summary": "arXiv:2606.07750v1 Announce Type: new Abstract: The Euclid Quick Data Release (Q1) is a powerful dataset to study active galactic nuclei (AGN) and their host galaxies. Deriving their physical properties through multi-component spectral energy distribution (SED) fitting is a chall…",
+      "published_at": "2026-06-09T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.07750",
       "tags": [
         "arxiv",
         "astro-ph"
