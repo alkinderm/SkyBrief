@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-09T13:24:14Z",
+  "generated_at": "2026-06-10T13:55:21Z",
   "items": [
     {
-      "title": "PyCBC Live Search for Compact Binary Mergers in Advanced LIGO and Virgo's Fourth Observing Run",
-      "summary": "arXiv:2606.07679v1 Announce Type: new Abstract: PyCBC Live is a low-latency search pipeline that identifies gravitational waves from compact binary coalescences and provides alerts for electromagnetic follow-up. This paper presents improvements to PyCBC Live that were implemented…",
-      "published_at": "2026-06-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.07679",
+      "title": "Modelling the Dynamics of Middle-Aged Pulsar Wind Nebulae in the Reverberation Phase",
+      "summary": "arXiv:2606.09914v1 Announce Type: new Abstract: Pulsar Wind Nebulae (PWNe) are among the most important sources emitting in the very-high-energy gamma-ray band. Predicting their long-term evolution is crucial for forthcoming high-energy observatories like ASTRI and CTA. In this w…",
+      "published_at": "2026-06-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.09914",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The X-ray-to-UV relation does not evolve in homogeneous quasar samples",
-      "summary": "arXiv:2606.07730v1 Announce Type: new Abstract: We present a new, highly homogeneous quasar sample with X-ray and UV observations optimized to reliably estimate distances via the non-linear X-ray-to-UV relation. Cross-matching the Sloan Digital Sky Survey DR16 quasar catalog with…",
-      "published_at": "2026-06-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.07730",
+      "title": "Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature…",
+      "summary": "arXiv:2606.09933v1 Announce Type: new Abstract: We present a patch-level scoring architecture for unsupervised gravitational-wave glitch detection that mitigates the signal dilution limitation identified in Cirfeta (2026b). The CLS token of frozen DINOv2 (ViT-S/14) performs globa…",
+      "published_at": "2026-06-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.09933",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The Effects of Cosmic Ray Protons on Galactic Nonthermal Filaments",
-      "summary": "arXiv:2606.07733v1 Announce Type: new Abstract: The Galactic Center (GC) contains a collection of filaments that are typically tens of parsecs in length, illuminated by synchrotron radiation from cosmic rays (CR). The origin of these nonthermal filaments (NTFs) is unclear. We aim…",
-      "published_at": "2026-06-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.07733",
+      "title": "Commissioning of the Vera C. Rubin Observatory and Weak Gravitational Lensing",
+      "summary": "arXiv:2606.09938v1 Announce Type: new Abstract: The Vera C. Rubin Observatory began commissioning its camera, LSSTCam, in April 2025, with the Legacy Survey of Space and Time (LSST) scheduled to start in 2026. A primary science goal is constraining Dark Energy through weak gravit…",
+      "published_at": "2026-06-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.09938",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Clumps in a Cocoon: Geometry and Mixing Set the Universal X-ray to H$\\alpha$ Surface Brightness Ratio",
-      "summary": "arXiv:2606.07741v1 Announce Type: new Abstract: Recent observations reveal a universal X-ray to H$\\alpha$ surface-brightness ratio, ${\\rm SB}_{\\rm X}/{\\rm SB}_{\\rm H\\alpha}\\sim 3$, in galactic winds, ram-pressure stripped tails, and cluster filaments. This is surprising because H…",
-      "published_at": "2026-06-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.07741",
+      "title": "Through the Veil: Ly$\\alpha$ Illuminates the Host Galaxies of Little Red Dots",
+      "summary": "arXiv:2606.09970v1 Announce Type: new Abstract: Little Red Dots (LRDs) are enigmatic, compact red sources ubiquitous in JWST deep fields whose physical nature remains elusive. As one of the most sensitive tracers of neutral hydrogen in galaxy environments, Ly$\\alpha$ is uniquely…",
+      "published_at": "2026-06-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.09970",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "CMBolic: Symbolic emulators for the Cosmic Microwave Background. I. Lensing",
-      "summary": "arXiv:2606.07745v1 Announce Type: new Abstract: We present the first installment of CMBolic: a suite of symbolic cosmic microwave background (CMB) emulators. In this instance, we emulate the CMB lensing potential power spectrum $C_\\ell^{\\phi\\phi}$ for the widely used extended $\\L…",
-      "published_at": "2026-06-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.07745",
+      "title": "Stellar Obliquities of Young Systems, Atmospheres Undergoing Contraction and Escape (SOYSAUCE) II: a 135 Myr planet on an aligned orbit with…",
+      "summary": "arXiv:2606.09973v1 Announce Type: new Abstract: Young planets (<1 Gyr) provide opportunities to directly probe planet formation and evolution processes in action. However, due to heightened stellar activity, there is a lack of known transiting planets in adolescence (~100-500 Myr…",
+      "published_at": "2026-06-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.09973",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Euclid Quick Data Release (Q1): The impact of AGN emission on SED-derived physical properties",
-      "summary": "arXiv:2606.07750v1 Announce Type: new Abstract: The Euclid Quick Data Release (Q1) is a powerful dataset to study active galactic nuclei (AGN) and their host galaxies. Deriving their physical properties through multi-component spectral energy distribution (SED) fitting is a chall…",
-      "published_at": "2026-06-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.07750",
+      "title": "Flux-cube reconstruction from slitless spectroscopy",
+      "summary": "arXiv:2606.09974v1 Announce Type: new Abstract: Slitless spectroscopy enables efficient, large-area surveys without target pre-selection, yet it faces challenges from source blending, higher noise, and lost spatial-spectral information. We present an advanced, non-parametric, dat…",
+      "published_at": "2026-06-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.09974",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,90 +90,6 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
-      "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
-      "published_at": "2026-06-02T09:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2614/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Gaze into the Crystal Ball Nebula and See the Light Emitted by a Dying Star 1500 Years Ago",
-      "summary": "<img align=\"left\" alt=\"NGC 1514: The Crystal Ball Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2613a.jpg\" />The 8.1-meter Gemini North telescope, located on the summit of Maunakea in Hawai‘i, has captured NGC 1514, nicknamed…",
-      "published_at": "2026-05-21T19:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2613/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Sombrero Galaxy: The Universe’s Dusty Brimmed Hat Revealed Like Never Before",
-      "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomic…",
-      "published_at": "2026-04-24T15:27:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2612/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Organization Release: DESI Completes Planned 3D Map of the Universe and Continues Exploring",
-      "summary": "<img align=\"left\" alt=\"Zoomed-in portion of DESI’s year-five map\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2610a.jpg\" />DESI has mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of ou…",
-      "published_at": "2026-04-15T15:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2610/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: The Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up",
-      "summary": "<img align=\"left\" alt=\"Artist’s interpretation of the cosmic distance ladder\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2611a.jpg\" />An international collaboration of astronomers has produced one of the most precise measurements…",
-      "published_at": "2026-04-10T21:43:23Z",
-      "url": "http://noirlab.edu/public/news/noirlab2611/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Early Data from NSF–DOE Vera C. Rubin Observatory Reveals Over 11,000 New Asteroids",
-      "summary": "<img align=\"left\" alt=\"3D rendering of asteroids discovered by NSF–DOE Rubin Observatory\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2608a.jpg\" />Scientists at NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National…",
-      "published_at": "2026-04-02T17:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2608/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
       }
     }
   ]
