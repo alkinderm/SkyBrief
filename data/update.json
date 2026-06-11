@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-10T13:55:21Z",
+  "generated_at": "2026-06-11T14:23:17Z",
   "items": [
     {
-      "title": "Modelling the Dynamics of Middle-Aged Pulsar Wind Nebulae in the Reverberation Phase",
-      "summary": "arXiv:2606.09914v1 Announce Type: new Abstract: Pulsar Wind Nebulae (PWNe) are among the most important sources emitting in the very-high-energy gamma-ray band. Predicting their long-term evolution is crucial for forthcoming high-energy observatories like ASTRI and CTA. In this w…",
-      "published_at": "2026-06-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.09914",
+      "title": "TAMBO: A Novel Neutrino Telescope for High-Energy Astrophysical Neutrino Detection",
+      "summary": "arXiv:2606.11230v1 Announce Type: new Abstract: The detection of astrophysical neutrino point sources remains challenging due to atmospheric backgrounds obscuring signal and statistical penalties from the look-elsewhere effect. The Tau Air-shower Mountain-Based Observatory (TAMBO…",
+      "published_at": "2026-06-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.11230",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Patch-Level DINOv2 Scoring for Gravitational-Wave Glitch Detection: Breaking the Signal Dilution Barrier via Vector-Quantized Local Feature…",
-      "summary": "arXiv:2606.09933v1 Announce Type: new Abstract: We present a patch-level scoring architecture for unsupervised gravitational-wave glitch detection that mitigates the signal dilution limitation identified in Cirfeta (2026b). The CLS token of frozen DINOv2 (ViT-S/14) performs globa…",
-      "published_at": "2026-06-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.09933",
+      "title": "A synchro-curvature treatment of gamma-ray luminosity trends in pulsars",
+      "summary": "arXiv:2606.11234v1 Announce Type: new Abstract: In recent years, the Large Area Telescope (LAT) onboard the \\emph{Fermi} satellite has detected more than 300 pulsars in the high energy range. The population studies of high energy pulsars show that the gamma ray luminosity of a pu…",
+      "published_at": "2026-06-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.11234",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Commissioning of the Vera C. Rubin Observatory and Weak Gravitational Lensing",
-      "summary": "arXiv:2606.09938v1 Announce Type: new Abstract: The Vera C. Rubin Observatory began commissioning its camera, LSSTCam, in April 2025, with the Legacy Survey of Space and Time (LSST) scheduled to start in 2026. A primary science goal is constraining Dark Energy through weak gravit…",
-      "published_at": "2026-06-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.09938",
+      "title": "A phase-coherent timing solution for the X-ray dim isolated neutron star eRASSU J131716.9-402647",
+      "summary": "arXiv:2606.11291v1 Announce Type: new Abstract: Based on its predominantly thermal X-ray emission and long spin period, the isolated neutron star eRASSU J131716.9-402647 is one of the most promising candidates for membership in the still small class of X-ray dim isolated neutron…",
+      "published_at": "2026-06-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.11291",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Through the Veil: Ly$\\alpha$ Illuminates the Host Galaxies of Little Red Dots",
-      "summary": "arXiv:2606.09970v1 Announce Type: new Abstract: Little Red Dots (LRDs) are enigmatic, compact red sources ubiquitous in JWST deep fields whose physical nature remains elusive. As one of the most sensitive tracers of neutral hydrogen in galaxy environments, Ly$\\alpha$ is uniquely…",
-      "published_at": "2026-06-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.09970",
+      "title": "Revealing the Origin of Desert Dwellers via Stellar Obliquities",
+      "summary": "arXiv:2606.11292v1 Announce Type: new Abstract: Observations suggest that the hot Neptune desert contains the remnants of destroyed gas giants. Recent theoretical work has shown that gas giant destruction via Roche lobe overflow (RLO) can indeed populate the desert with remnant p…",
+      "published_at": "2026-06-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.11292",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Stellar Obliquities of Young Systems, Atmospheres Undergoing Contraction and Escape (SOYSAUCE) II: a 135 Myr planet on an aligned orbit with…",
-      "summary": "arXiv:2606.09973v1 Announce Type: new Abstract: Young planets (<1 Gyr) provide opportunities to directly probe planet formation and evolution processes in action. However, due to heightened stellar activity, there is a lack of known transiting planets in adolescence (~100-500 Myr…",
-      "published_at": "2026-06-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.09973",
+      "title": "A systematic survey for hypervelocity runaways from thermonuclear supernovae",
+      "summary": "arXiv:2606.11293v1 Announce Type: new Abstract: The explosion of a white dwarf (WD) in a close binary can launch a surviving runaway star at velocities of $\\gtrsim 1000\\, \\rm km\\,s^{-1}$. Such runaways provide a direct probe of thermonuclear supernovae (SNe) in double-degenerate…",
+      "published_at": "2026-06-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.11293",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Flux-cube reconstruction from slitless spectroscopy",
-      "summary": "arXiv:2606.09974v1 Announce Type: new Abstract: Slitless spectroscopy enables efficient, large-area surveys without target pre-selection, yet it faces challenges from source blending, higher noise, and lost spatial-spectral information. We present an advanced, non-parametric, dat…",
-      "published_at": "2026-06-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.09974",
+      "title": "Intermediate States in Chaotic Triple Evolution and Applications to Black Hole Merger Statistics",
+      "summary": "arXiv:2606.11294v1 Announce Type: new Abstract: Three-body interactions exhibit phases of strong chaotic evolution as well as hierarchical motion where one body separates from a binary and follows a hyperbolic or elliptic trajectory around it. The binaries produced during phases…",
+      "published_at": "2026-06-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.11294",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,90 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
+      "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
+      "published_at": "2026-06-02T09:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2614/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Photo Release: Gaze into the Crystal Ball Nebula and See the Light Emitted by a Dying Star 1500 Years Ago",
+      "summary": "<img align=\"left\" alt=\"NGC 1514: The Crystal Ball Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2613a.jpg\" />The 8.1-meter Gemini North telescope, located on the summit of Maunakea in Hawai‘i, has captured NGC 1514, nicknamed…",
+      "published_at": "2026-05-21T19:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2613/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Photo Release: Sombrero Galaxy: The Universe’s Dusty Brimmed Hat Revealed Like Never Before",
+      "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomic…",
+      "published_at": "2026-04-24T15:27:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2612/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Organization Release: DESI Completes Planned 3D Map of the Universe and Continues Exploring",
+      "summary": "<img align=\"left\" alt=\"Zoomed-in portion of DESI’s year-five map\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2610a.jpg\" />DESI has mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of ou…",
+      "published_at": "2026-04-15T15:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2610/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Science Release: The Local Universe’s Expansion Rate Is Clearer Than Ever, but Still Doesn’t Add Up",
+      "summary": "<img align=\"left\" alt=\"Artist’s interpretation of the cosmic distance ladder\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2611a.jpg\" />An international collaboration of astronomers has produced one of the most precise measurements…",
+      "published_at": "2026-04-10T21:43:23Z",
+      "url": "http://noirlab.edu/public/news/noirlab2611/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Science Release: Early Data from NSF–DOE Vera C. Rubin Observatory Reveals Over 11,000 New Asteroids",
+      "summary": "<img align=\"left\" alt=\"3D rendering of asteroids discovered by NSF–DOE Rubin Observatory\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2608a.jpg\" />Scientists at NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National…",
+      "published_at": "2026-04-02T17:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2608/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     }
   ]
