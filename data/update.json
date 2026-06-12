@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-11T14:23:17Z",
+  "generated_at": "2026-06-12T13:46:24Z",
   "items": [
     {
-      "title": "TAMBO: A Novel Neutrino Telescope for High-Energy Astrophysical Neutrino Detection",
-      "summary": "arXiv:2606.11230v1 Announce Type: new Abstract: The detection of astrophysical neutrino point sources remains challenging due to atmospheric backgrounds obscuring signal and statistical penalties from the look-elsewhere effect. The Tau Air-shower Mountain-Based Observatory (TAMBO…",
-      "published_at": "2026-06-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.11230",
+      "title": "Closure-channel identifiability and two-channel recovery in monatomic kinetic normal shocks",
+      "summary": "arXiv:2606.12447v1 Announce Type: new Abstract: Residual agreement in a kinetic or moment equation does not automatically identify every higher-order closure variable entering a nonequilibrium shock. We formulate this issue as an observability problem for the fourth-order closure…",
+      "published_at": "2026-06-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.12447",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A synchro-curvature treatment of gamma-ray luminosity trends in pulsars",
-      "summary": "arXiv:2606.11234v1 Announce Type: new Abstract: In recent years, the Large Area Telescope (LAT) onboard the \\emph{Fermi} satellite has detected more than 300 pulsars in the high energy range. The population studies of high energy pulsars show that the gamma ray luminosity of a pu…",
-      "published_at": "2026-06-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.11234",
+      "title": "Multifractal Signatures of Hamiltonian Chaos in Hyperion's Rotational Dynamics",
+      "summary": "arXiv:2606.12491v1 Announce Type: new Abstract: The chaotic rotation of Saturn's moon Hyperion is a paradigmatic example of Hamiltonian chaos in a natural system. Although its tumbling motion is well established theoretically, identifying a robust observational signature of chaos…",
+      "published_at": "2026-06-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.12491",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A phase-coherent timing solution for the X-ray dim isolated neutron star eRASSU J131716.9-402647",
-      "summary": "arXiv:2606.11291v1 Announce Type: new Abstract: Based on its predominantly thermal X-ray emission and long spin period, the isolated neutron star eRASSU J131716.9-402647 is one of the most promising candidates for membership in the still small class of X-ray dim isolated neutron…",
-      "published_at": "2026-06-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.11291",
+      "title": "Artifact-Conditioned Interval Diagnostics for Flow-Matching Neural Posterior Estimation in a Controlled Gravitational-Wave Benchmark",
+      "summary": "arXiv:2606.12496v1 Announce Type: new Abstract: Calibration checks for neural posterior estimators in gravitational-wave inference should remain interpretable when observations contain data-quality artifacts. We study marginal interval calibration in a controlled frequency-domain…",
+      "published_at": "2026-06-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.12496",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Revealing the Origin of Desert Dwellers via Stellar Obliquities",
-      "summary": "arXiv:2606.11292v1 Announce Type: new Abstract: Observations suggest that the hot Neptune desert contains the remnants of destroyed gas giants. Recent theoretical work has shown that gas giant destruction via Roche lobe overflow (RLO) can indeed populate the desert with remnant p…",
-      "published_at": "2026-06-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.11292",
+      "title": "TBD LBD: The nature of `little blue dots'",
+      "summary": "arXiv:2606.12509v1 Announce Type: new Abstract: Previous Sirocco radiative-transfer models of gas-cocooned AGN predicted lower-column counterparts to little red dots (LRDs): compact, X-ray-weak sources with bluer continuum slopes and Balmer jumps rather than Balmer breaks. The re…",
+      "published_at": "2026-06-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.12509",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A systematic survey for hypervelocity runaways from thermonuclear supernovae",
-      "summary": "arXiv:2606.11293v1 Announce Type: new Abstract: The explosion of a white dwarf (WD) in a close binary can launch a surviving runaway star at velocities of $\\gtrsim 1000\\, \\rm km\\,s^{-1}$. Such runaways provide a direct probe of thermonuclear supernovae (SNe) in double-degenerate…",
-      "published_at": "2026-06-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.11293",
+      "title": "Unification models of Active Galactic Nuclei",
+      "summary": "arXiv:2606.12511v1 Announce Type: new Abstract: This chapter presents an overview of the unification models for Active Galactic Nuclei (AGN), focusing on the physical structures, classification schemes, and evolutionary processes that characterize accreting supermassive black hol…",
+      "published_at": "2026-06-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.12511",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Intermediate States in Chaotic Triple Evolution and Applications to Black Hole Merger Statistics",
-      "summary": "arXiv:2606.11294v1 Announce Type: new Abstract: Three-body interactions exhibit phases of strong chaotic evolution as well as hierarchical motion where one body separates from a binary and follows a hyperbolic or elliptic trajectory around it. The binaries produced during phases…",
-      "published_at": "2026-06-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.11294",
+      "title": "Bar-induced migration of $\\omega$ Centauri away from Gaia Sausage-Enceladus",
+      "summary": "arXiv:2606.12516v1 Announce Type: new Abstract: The globular cluster $\\omega$ Cen has been suggested to have originated in the Gaia Sausage-Enceladus (GSE) merger event, possibly as its nuclear star cluster. However, the present-day orbits of $\\omega$ Cen and the GSE debris are v…",
+      "published_at": "2026-06-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.12516",
       "tags": [
         "arxiv",
         "astro-ph"
