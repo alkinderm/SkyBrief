@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-14T12:23:37Z",
+  "generated_at": "2026-06-15T16:07:33Z",
   "items": [
+    {
+      "title": "On the survival of dark matter spikes: Stellar and compact-object perturbations",
+      "summary": "arXiv:2606.13761v1 Announce Type: new Abstract: Establishing realistic expectations for the dark matter (DM) distribution near a supermassive black hole (BH) is essential for assessing environmental imprints on gravitational wave (GW) signals. Using the Galactic Center as an obse…",
+      "published_at": "2026-06-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.13761",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "IceCube Real-time Searches for High-energy Neutrinos Coincident with LIGO/Virgo/KAGRA Gravitational-Wave Alerts in O4a",
+      "summary": "arXiv:2606.13762v1 Announce Type: new Abstract: Gravitational-wave events from mergers of compact objects are a predicted source of high-energy neutrinos. Using data from the IceCube Neutrino Observatory, we search for neutrinos coincident with 85 significant and 945 low-signific…",
+      "published_at": "2026-06-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.13762",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Dynamo Simulations Confirm Predominantly Toroidal Fields in Near-Core Region of an Intermediate-Mass Star",
+      "summary": "arXiv:2606.13776v1 Announce Type: new Abstract: Recent asteroseismic analysis of the main-sequence F star KIC 9244992 has revealed evidence for a strong, predominantly toroidal magnetic field in its deep radiative interior. Motivated by this result, we present three-dimensional a…",
+      "published_at": "2026-06-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.13776",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Turbulence in the multi-phase circumgalactic medium: bridging TNG50 and idealized kpc-scale simulations",
+      "summary": "arXiv:2606.13777v1 Announce Type: new Abstract: The circumgalactic medium (CGM) is the extended multi-phase gaseous halo surrounding a galaxy. To study how its dynamics are shaped by the interplay of radiative cooling and turbulence, we first turn to the TNG50 cosmological magnet…",
+      "published_at": "2026-06-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.13777",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "CANUCS/Technicolor Data Release 2: A Catalogue of Galaxy Structural Parameters in up to 29 HST+JWST bands and a Multi-Wavelength Exploration…",
+      "summary": "arXiv:2606.13781v1 Announce Type: new Abstract: We present James Webb Space Telescope (JWST) results of a morphological study of galaxies in the CAnadian NIRISS Unbiased Cluster (CANUCS) and Technicolor surveys, observed in 19 medium- and broadband NIRCam filters in five CANUCS N…",
+      "published_at": "2026-06-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.13781",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The host halo masses of AGNs and quasars at $z \\sim 3-7$ with TNG-Cluster, FLAMINGO and other cosmological galaxy simulations",
+      "summary": "arXiv:2606.13784v1 Announce Type: new Abstract: Most observations and clustering analyses suggest that quasars inhabit a narrow range of dark-matter halo masses ($10^{12-13}$ M$_{\\odot}$) across cosmic time ($z\\lesssim7$). Recent hydrodynamical simulations in gigaparsec-scale vol…",
+      "published_at": "2026-06-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.13784",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
       "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
