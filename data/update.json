@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-15T16:07:33Z",
+  "generated_at": "2026-06-16T15:27:37Z",
   "items": [
     {
-      "title": "On the survival of dark matter spikes: Stellar and compact-object perturbations",
-      "summary": "arXiv:2606.13761v1 Announce Type: new Abstract: Establishing realistic expectations for the dark matter (DM) distribution near a supermassive black hole (BH) is essential for assessing environmental imprints on gravitational wave (GW) signals. Using the Galactic Center as an obse…",
-      "published_at": "2026-06-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.13761",
+      "title": "Polarization Signatures of Rotating Black Holes in Perfect Fluid Dark Matter Spacetimes",
+      "summary": "arXiv:2606.14736v1 Announce Type: new Abstract: Motivated by horizon-scale polarization observations of M87^{*}, we investigate polarized emission from rotating black holes (BHs) immersed in a perfect fluid dark matter (PFDM) background. Fully relativistic ray tracing is utilized…",
+      "published_at": "2026-06-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.14736",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "IceCube Real-time Searches for High-energy Neutrinos Coincident with LIGO/Virgo/KAGRA Gravitational-Wave Alerts in O4a",
-      "summary": "arXiv:2606.13762v1 Announce Type: new Abstract: Gravitational-wave events from mergers of compact objects are a predicted source of high-energy neutrinos. Using data from the IceCube Neutrino Observatory, we search for neutrinos coincident with 85 significant and 945 low-signific…",
-      "published_at": "2026-06-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.13762",
+      "title": "Centaurus A Inner Lobes -- I. Hydrodynamic modeling of a Precessing Jet",
+      "summary": "arXiv:2606.14807v1 Announce Type: new Abstract: We present a numerical investigation into the precessing jets of the inner lobes of Centaurus A, focusing on their dynamical evolution and interaction with the surrounding medium. Using three-dimensional relativistic hydrodynamic si…",
+      "published_at": "2026-06-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.14807",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Dynamo Simulations Confirm Predominantly Toroidal Fields in Near-Core Region of an Intermediate-Mass Star",
-      "summary": "arXiv:2606.13776v1 Announce Type: new Abstract: Recent asteroseismic analysis of the main-sequence F star KIC 9244992 has revealed evidence for a strong, predominantly toroidal magnetic field in its deep radiative interior. Motivated by this result, we present three-dimensional a…",
-      "published_at": "2026-06-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.13776",
+      "title": "The impact of the white dwarf initial-final mass relation on star clusters' ages inferred from their cooling sequence",
+      "summary": "arXiv:2606.14826v1 Announce Type: new Abstract: We have investigated and quantified how the choice of the white dwarf (WD) initial-final mass relation (IFMRs) affects the age determination of star clusters from the luminosity function of their cooling sequences. We have performed…",
+      "published_at": "2026-06-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.14826",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Turbulence in the multi-phase circumgalactic medium: bridging TNG50 and idealized kpc-scale simulations",
-      "summary": "arXiv:2606.13777v1 Announce Type: new Abstract: The circumgalactic medium (CGM) is the extended multi-phase gaseous halo surrounding a galaxy. To study how its dynamics are shaped by the interplay of radiative cooling and turbulence, we first turn to the TNG50 cosmological magnet…",
-      "published_at": "2026-06-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.13777",
+      "title": "Probing the fate of large primordial perturbations with exoplanets",
+      "summary": "arXiv:2606.14827v1 Announce Type: new Abstract: We propose ultra-wide-orbit exoplanets as a noval probe of small-scale dark matter objects. These systems are highly sensitive to gravitational perturbations that could be induced by a Galactic population of compact baryon-free dark…",
+      "published_at": "2026-06-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.14827",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "CANUCS/Technicolor Data Release 2: A Catalogue of Galaxy Structural Parameters in up to 29 HST+JWST bands and a Multi-Wavelength Exploration…",
-      "summary": "arXiv:2606.13781v1 Announce Type: new Abstract: We present James Webb Space Telescope (JWST) results of a morphological study of galaxies in the CAnadian NIRISS Unbiased Cluster (CANUCS) and Technicolor surveys, observed in 19 medium- and broadband NIRCam filters in five CANUCS N…",
-      "published_at": "2026-06-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.13781",
+      "title": "Encounters of star clusters as a possible source of disturbances in their internal structure",
+      "summary": "arXiv:2606.14833v1 Announce Type: new Abstract: We searched for past close encounters of the Hyades and Pleiades with all 5736 clusters of the Hunt & Reffert catalog, integrating orbits with galpy over the last 100 Myr and validating candidates by Monte Carlo. Most nominally clos…",
+      "published_at": "2026-06-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.14833",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The host halo masses of AGNs and quasars at $z \\sim 3-7$ with TNG-Cluster, FLAMINGO and other cosmological galaxy simulations",
-      "summary": "arXiv:2606.13784v1 Announce Type: new Abstract: Most observations and clustering analyses suggest that quasars inhabit a narrow range of dark-matter halo masses ($10^{12-13}$ M$_{\\odot}$) across cosmic time ($z\\lesssim7$). Recent hydrodynamical simulations in gigaparsec-scale vol…",
-      "published_at": "2026-06-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.13784",
+      "title": "Red Giant Destruction by Stellar and Black Hole Collisions in Galactic Nuclei",
+      "summary": "arXiv:2606.14843v1 Announce Type: new Abstract: We study the impact of collisions involving red giants (RGs) in the dense stellar environments of galactic nuclei. We analytically estimate when collisions with main-sequence stars or stellar-mass black holes can strip a RG's envelo…",
+      "published_at": "2026-06-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.14843",
       "tags": [
         "arxiv",
         "astro-ph"
