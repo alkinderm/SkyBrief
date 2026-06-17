@@ -1,12 +1,26 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-16T15:27:37Z",
+  "generated_at": "2026-06-17T14:07:36Z",
   "items": [
     {
-      "title": "Polarization Signatures of Rotating Black Holes in Perfect Fluid Dark Matter Spacetimes",
-      "summary": "arXiv:2606.14736v1 Announce Type: new Abstract: Motivated by horizon-scale polarization observations of M87^{*}, we investigate polarized emission from rotating black holes (BHs) immersed in a perfect fluid dark matter (PFDM) background. Fully relativistic ray tracing is utilized…",
-      "published_at": "2026-06-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.14736",
+      "title": "Science Release: Tracing a Neutrino Ghost to Distant “Shadow Blaster” Galaxy",
+      "summary": "<img align=\"left\" alt=\"Composite of Gemini North and ALMA images of &quot;Shadow Blaster&quot;\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2615a.jpg\" />A team of astronomers has identified a remarkably bright, gravitationally-lens…",
+      "published_at": "2026-06-17T09:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2615/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Searching for axion dark matter conversion spectral lines in neutron star magnetospheres with FAST",
+      "summary": "arXiv:2606.17067v1 Announce Type: new Abstract: The axion is a well-motivated dark matter candidate, which can convert into narrow radio spectral lines via the Primakoff effect in the strongly magnetized magnetospheres of neutron stars. This provides a novel astrophysical probe f…",
+      "published_at": "2026-06-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.17067",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +32,10 @@
       }
     },
     {
-      "title": "Centaurus A Inner Lobes -- I. Hydrodynamic modeling of a Precessing Jet",
-      "summary": "arXiv:2606.14807v1 Announce Type: new Abstract: We present a numerical investigation into the precessing jets of the inner lobes of Centaurus A, focusing on their dynamical evolution and interaction with the surrounding medium. Using three-dimensional relativistic hydrodynamic si…",
-      "published_at": "2026-06-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.14807",
+      "title": "What an Amortized X-ray Posterior Cannot See: Gain Shifts, Silent Miscalibration, and Where Nested Sampling Still Earns Its Cost",
+      "summary": "arXiv:2606.17098v1 Announce Type: new Abstract: Neural posterior estimation (NPE) gives X-ray spectral fits a posterior in milliseconds instead of the minutes nested sampling costs, but without its calibration guarantee or goodness-of-fit. The simulation-based inference (SBI) lit…",
+      "published_at": "2026-06-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.17098",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +47,10 @@
       }
     },
     {
-      "title": "The impact of the white dwarf initial-final mass relation on star clusters' ages inferred from their cooling sequence",
-      "summary": "arXiv:2606.14826v1 Announce Type: new Abstract: We have investigated and quantified how the choice of the white dwarf (WD) initial-final mass relation (IFMRs) affects the age determination of star clusters from the luminosity function of their cooling sequences. We have performed…",
-      "published_at": "2026-06-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.14826",
+      "title": "Constraints on Late-Time Flaring from Luminous Fast Blue Optical Transients using the Transiting Exoplanet Survey Satellite and the Zwicky T…",
+      "summary": "arXiv:2606.17129v1 Announce Type: new Abstract: The Luminous Fast Blue Optical Transient (LFBOT) AT2022tsd exhibited minutes-timescale optical flares in the tens of days following the initial transient event, likely due to a central engine -- either an accreting black hole or a m…",
+      "published_at": "2026-06-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.17129",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +62,10 @@
       }
     },
     {
-      "title": "Probing the fate of large primordial perturbations with exoplanets",
-      "summary": "arXiv:2606.14827v1 Announce Type: new Abstract: We propose ultra-wide-orbit exoplanets as a noval probe of small-scale dark matter objects. These systems are highly sensitive to gravitational perturbations that could be induced by a Galactic population of compact baryon-free dark…",
-      "published_at": "2026-06-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.14827",
+      "title": "On the Robustness of Bi-Stability Jump Predictions",
+      "summary": "arXiv:2606.17130v1 Announce Type: new Abstract: The bi-stability jump is a long-standing theoretical prediction of radiatively driven wind theory, associated with Fe IV/III recombination around T = 21000 - 25000 K. While most theoretical approaches predict a strong increase in ma…",
+      "published_at": "2026-06-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.17130",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +77,10 @@
       }
     },
     {
-      "title": "Encounters of star clusters as a possible source of disturbances in their internal structure",
-      "summary": "arXiv:2606.14833v1 Announce Type: new Abstract: We searched for past close encounters of the Hyades and Pleiades with all 5736 clusters of the Hunt & Reffert catalog, integrating orbits with galpy over the last 100 Myr and validating candidates by Monte Carlo. Most nominally clos…",
-      "published_at": "2026-06-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.14833",
+      "title": "The flaring drill in the Galactic centre. Did the IRS 13 cluster carve out the mini-cavity in the mini-spiral?",
+      "summary": "arXiv:2606.17131v1 Announce Type: new Abstract: The mini-cavity is a low-density region observed in the complex of streams of ionized gas around the Galactic central supermassive black hole, Sgr A$^\\star$, known as the mini-spiral. Its near-circular shape is suggestive of a forma…",
+      "published_at": "2026-06-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.17131",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +92,10 @@
       }
     },
     {
-      "title": "Red Giant Destruction by Stellar and Black Hole Collisions in Galactic Nuclei",
-      "summary": "arXiv:2606.14843v1 Announce Type: new Abstract: We study the impact of collisions involving red giants (RGs) in the dense stellar environments of galactic nuclei. We analytically estimate when collisions with main-sequence stars or stellar-mass black holes can strip a RG's envelo…",
-      "published_at": "2026-06-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.14843",
+      "title": "The Lazuli Space Observatory: Opportunities for time-domain and multi-messenger astronomy",
+      "summary": "arXiv:2606.17136v1 Announce Type: new Abstract: Advancing time-domain and multi-messenger astronomy requires a multi-wavelength network of observatories capable of rapidly discovering, classifying, and characterizing transient phenomena. A critical gap in current capabilities is…",
+      "published_at": "2026-06-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.17136",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Artist’s interpretation of the cosmic distance ladder\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2611a.jpg\" />An international collaboration of astronomers has produced one of the most precise measurements…",
       "published_at": "2026-04-10T21:43:23Z",
       "url": "http://noirlab.edu/public/news/noirlab2611/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Early Data from NSF–DOE Vera C. Rubin Observatory Reveals Over 11,000 New Asteroids",
-      "summary": "<img align=\"left\" alt=\"3D rendering of asteroids discovered by NSF–DOE Rubin Observatory\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2608a.jpg\" />Scientists at NSF–DOE Vera C. Rubin Observatory, jointly funded by the U.S. National…",
-      "published_at": "2026-04-02T17:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2608/",
       "tags": [
         "noirlab"
       ],
