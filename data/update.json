@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-17T14:07:36Z",
+  "generated_at": "2026-06-18T13:47:31Z",
   "items": [
+    {
+      "title": "Building a Roadmap for Hubble Science into the 2030s: Revealing Atmospheric Structure and Evolution in Substellar Worlds Using HST",
+      "summary": "arXiv:2606.18299v1 Announce Type: new Abstract: Substellar objects occupy a unique place in our universe, bridging the gap between the smallest stars and the largest planets, and serving as powerful laboratories for understanding extrasolar atmospheric physics without the contami…",
+      "published_at": "2026-06-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.18299",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Ultra-High-Resolution Astronomy with the Solar Gravitational Lens",
+      "summary": "arXiv:2606.18300v1 Announce Type: new Abstract: The solar gravitational lens (SGL) is a target-specific observatory: the Sun supplies the wave-optical element, while spacecraft provide occultation, annular photometry, sampling, metrology, and inverse reconstruction. We develop an…",
+      "published_at": "2026-06-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.18300",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Projecting the ultimate pulsar timing sensitivity to dark matter substructure in a stochastic gravitational wave background",
+      "summary": "arXiv:2606.18329v1 Announce Type: new Abstract: Pulsar timing arrays (PTAs) are sensitive to the gravitational influence of passing compact substructures, which can produce Doppler timing delays by accelerating pulsars or the Solar System barycenter, and Shapiro timing delays whe…",
+      "published_at": "2026-06-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.18329",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "THOR and HAMRR",
+      "summary": "arXiv:2606.18330v1 Announce Type: new Abstract: We present the Terry Hubble Observations of Roman (THOR) data reduction pipeline and Hubble Advanced Mining Routine for Roman (HAMRR). THOR is designed to reduce HST Wide-field Camera 3 (WFC3) and Advanced Camera for Surveys (ACS) i…",
+      "published_at": "2026-06-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.18330",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Via Project: Overview of the Science, Instrument, and Survey",
+      "summary": "arXiv:2606.18332v1 Announce Type: new Abstract: Via is a forthcoming all-sky spectroscopic survey that will achieve 100 m s$^{-1}$ radial velocity stability for millions of faint ($G \\lesssim 21$) stars while reaching LSST's single-visit depth ($r \\approx 24$) for transient spect…",
+      "published_at": "2026-06-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.18332",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Polarisation and Faraday rotation measure imaging at metre wavelengths with sub-arcsecond resolution: a foundational calibration strategy",
+      "summary": "arXiv:2606.18333v1 Announce Type: new Abstract: Low-frequency radio polarimetric observations provide a powerful probe of magnetic fields in astrophysical sources and the intervening medium, as well as magnetospheric emission from compact objects such as pulsars, magnetically act…",
+      "published_at": "2026-06-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.18333",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Tracing a Neutrino Ghost to Distant “Shadow Blaster” Galaxy",
       "summary": "<img align=\"left\" alt=\"Composite of Gemini North and ALMA images of &quot;Shadow Blaster&quot;\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2615a.jpg\" />A team of astronomers has identified a remarkably bright, gravitationally-lens…",
@@ -14,96 +104,6 @@
         "name": "NOIRLab News",
         "type": "rss",
         "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Searching for axion dark matter conversion spectral lines in neutron star magnetospheres with FAST",
-      "summary": "arXiv:2606.17067v1 Announce Type: new Abstract: The axion is a well-motivated dark matter candidate, which can convert into narrow radio spectral lines via the Primakoff effect in the strongly magnetized magnetospheres of neutron stars. This provides a novel astrophysical probe f…",
-      "published_at": "2026-06-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.17067",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "What an Amortized X-ray Posterior Cannot See: Gain Shifts, Silent Miscalibration, and Where Nested Sampling Still Earns Its Cost",
-      "summary": "arXiv:2606.17098v1 Announce Type: new Abstract: Neural posterior estimation (NPE) gives X-ray spectral fits a posterior in milliseconds instead of the minutes nested sampling costs, but without its calibration guarantee or goodness-of-fit. The simulation-based inference (SBI) lit…",
-      "published_at": "2026-06-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.17098",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Constraints on Late-Time Flaring from Luminous Fast Blue Optical Transients using the Transiting Exoplanet Survey Satellite and the Zwicky T…",
-      "summary": "arXiv:2606.17129v1 Announce Type: new Abstract: The Luminous Fast Blue Optical Transient (LFBOT) AT2022tsd exhibited minutes-timescale optical flares in the tens of days following the initial transient event, likely due to a central engine -- either an accreting black hole or a m…",
-      "published_at": "2026-06-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.17129",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "On the Robustness of Bi-Stability Jump Predictions",
-      "summary": "arXiv:2606.17130v1 Announce Type: new Abstract: The bi-stability jump is a long-standing theoretical prediction of radiatively driven wind theory, associated with Fe IV/III recombination around T = 21000 - 25000 K. While most theoretical approaches predict a strong increase in ma…",
-      "published_at": "2026-06-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.17130",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "The flaring drill in the Galactic centre. Did the IRS 13 cluster carve out the mini-cavity in the mini-spiral?",
-      "summary": "arXiv:2606.17131v1 Announce Type: new Abstract: The mini-cavity is a low-density region observed in the complex of streams of ionized gas around the Galactic central supermassive black hole, Sgr A$^\\star$, known as the mini-spiral. Its near-circular shape is suggestive of a forma…",
-      "published_at": "2026-06-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.17131",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "The Lazuli Space Observatory: Opportunities for time-domain and multi-messenger astronomy",
-      "summary": "arXiv:2606.17136v1 Announce Type: new Abstract: Advancing time-domain and multi-messenger astronomy requires a multi-wavelength network of observatories capable of rapidly discovering, classifying, and characterizing transient phenomena. A critical gap in current capabilities is…",
-      "published_at": "2026-06-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.17136",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
       }
     },
     {
