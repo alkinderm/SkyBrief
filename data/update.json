@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-18T13:47:31Z",
+  "generated_at": "2026-06-19T13:54:41Z",
   "items": [
     {
-      "title": "Building a Roadmap for Hubble Science into the 2030s: Revealing Atmospheric Structure and Evolution in Substellar Worlds Using HST",
-      "summary": "arXiv:2606.18299v1 Announce Type: new Abstract: Substellar objects occupy a unique place in our universe, bridging the gap between the smallest stars and the largest planets, and serving as powerful laboratories for understanding extrasolar atmospheric physics without the contami…",
-      "published_at": "2026-06-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.18299",
+      "title": "Scintillation of the first-known pulsar planetary system",
+      "summary": "arXiv:2606.19406v1 Announce Type: new Abstract: We present a scintillation study of the first-known pulsar planetary system, PSR~B1257+12, using the Five-hundred-meter Aperture Spherical radio Telescope (FAST). A total of 31 observations with durations greater than or equal to 30…",
+      "published_at": "2026-06-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.19406",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Ultra-High-Resolution Astronomy with the Solar Gravitational Lens",
-      "summary": "arXiv:2606.18300v1 Announce Type: new Abstract: The solar gravitational lens (SGL) is a target-specific observatory: the Sun supplies the wave-optical element, while spacecraft provide occultation, annular photometry, sampling, metrology, and inverse reconstruction. We develop an…",
-      "published_at": "2026-06-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.18300",
+      "title": "Steady-state Stellar Winds Driven by Recombination",
+      "summary": "arXiv:2606.19422v1 Announce Type: new Abstract: Hydrogen and helium recombination energy has been proposed as a potential driver of mass ejection in common-envelope evolution and other eruptive stellar phenomena. We investigate whether recombination can by itself launch a steady,…",
+      "published_at": "2026-06-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.19422",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Projecting the ultimate pulsar timing sensitivity to dark matter substructure in a stochastic gravitational wave background",
-      "summary": "arXiv:2606.18329v1 Announce Type: new Abstract: Pulsar timing arrays (PTAs) are sensitive to the gravitational influence of passing compact substructures, which can produce Doppler timing delays by accelerating pulsars or the Solar System barycenter, and Shapiro timing delays whe…",
-      "published_at": "2026-06-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.18329",
+      "title": "Characterization of a symmetric-facet dual-ruled grating for spatial heterodyne spectroscopy",
+      "summary": "arXiv:2606.19424v1 Announce Type: new Abstract: Dual-bandpass spatial heterodyne spectrometers (DB-SHS) enable simultaneous high-resolution measurements of widely separated passbands, providing powerful diagnostics of astrophysical and planetary environments. However, DB-SHS inst…",
+      "published_at": "2026-06-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.19424",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "THOR and HAMRR",
-      "summary": "arXiv:2606.18330v1 Announce Type: new Abstract: We present the Terry Hubble Observations of Roman (THOR) data reduction pipeline and Hubble Advanced Mining Routine for Roman (HAMRR). THOR is designed to reduce HST Wide-field Camera 3 (WFC3) and Advanced Camera for Surveys (ACS) i…",
-      "published_at": "2026-06-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.18330",
+      "title": "Physics-guided discovery of dynamical dark-energy equations of state through iterative AI reasoning",
+      "summary": "arXiv:2606.19427v1 Announce Type: new Abstract: Phenomenological model building has traditionally relied on human reasoning: equations are proposed from theoretical intuition, analogy, or empirical convenience, and only then tested against data. Here we show that this cycle can b…",
+      "published_at": "2026-06-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.19427",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Via Project: Overview of the Science, Instrument, and Survey",
-      "summary": "arXiv:2606.18332v1 Announce Type: new Abstract: Via is a forthcoming all-sky spectroscopic survey that will achieve 100 m s$^{-1}$ radial velocity stability for millions of faint ($G \\lesssim 21$) stars while reaching LSST's single-visit depth ($r \\approx 24$) for transient spect…",
-      "published_at": "2026-06-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.18332",
+      "title": "Cooling, conduction, compact objects: Gravothermal evolution of dissipative self-interacting dark matter halos",
+      "summary": "arXiv:2606.19428v1 Announce Type: new Abstract: Many proposed self-interacting dark matter (SIDM) models give rise to radiative processes that can dissipate energy. Understanding their impact on astrophysical objects through simulations and comparing the results with observations…",
+      "published_at": "2026-06-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.19428",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Polarisation and Faraday rotation measure imaging at metre wavelengths with sub-arcsecond resolution: a foundational calibration strategy",
-      "summary": "arXiv:2606.18333v1 Announce Type: new Abstract: Low-frequency radio polarimetric observations provide a powerful probe of magnetic fields in astrophysical sources and the intervening medium, as well as magnetospheric emission from compact objects such as pulsars, magnetically act…",
-      "published_at": "2026-06-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.18333",
+      "title": "BayeSN $\\times$ Dovekie: Joint Photometric Cross-calibration and SED Modelling of Type Ia Supernovae",
+      "summary": "arXiv:2606.19429v1 Announce Type: new Abstract: We present a new framework for BayeSN, the hierarchical Bayesian SED model for type Ia supernovae (SNe Ia), incorporating cross-calibration of samples observed across heterogeneous telescopes. This framework is the first to parametr…",
+      "published_at": "2026-06-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.19429",
       "tags": [
         "arxiv",
         "astro-ph"
