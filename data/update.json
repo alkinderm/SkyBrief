@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-22T15:35:18Z",
+  "generated_at": "2026-06-23T13:22:32Z",
   "items": [
+    {
+      "title": "Gas-induced perturbations on the gravitational wave in-spiral of live post-Newtonian LISA massive black hole binaries: 0.1 disk aspect ratio",
+      "summary": "arXiv:2606.20787v1 Announce Type: new Abstract: We perform 3D hydrodynamics simulations of an equal-mass quasi-circular live $10^6~{\\rm M}_\\odot$ massive black hole binary (MBHB) embedded in a prograde, locally isothermal circumbinary disk (CBD) with $0.1$ aspect ratio. The binar…",
+      "published_at": "2026-06-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.20787",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Dynamical Tides during High-Eccentricity Migration produces the Hot Jupiter Pile-up, Neptune Ridge, and Neptune Desert",
+      "summary": "arXiv:2606.20789v1 Announce Type: new Abstract: The period distribution of hot gaseous exoplanets depends strongly on mass. Clustering between the orbital periods of $\\sim$3 to $\\sim$5-6 days is seen for sub-Saturns (\"Neptune ridge\") and Jovians (\"hot Jupiter pile-up\"), contrasti…",
+      "published_at": "2026-06-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.20789",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The explosive growth of the Messier 74 galaxy. A galaxy doubling its size in less than a Gigayear",
+      "summary": "arXiv:2606.20793v1 Announce Type: new Abstract: Galaxy formation models predict that galaxies grow inside-out, becoming larger over time. While observations broadly support this paradigm, the nature and timescales of this growth remain poorly constrained. We report the discovery…",
+      "published_at": "2026-06-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.20793",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Constraints on Horndeski Gravity with Phantom Crossing",
+      "summary": "arXiv:2606.20794v1 Announce Type: new Abstract: Gravity models in which the dark energy equation of state crosses $w=-1$, also known as the phantom divide, have received extensive interest due to recent analyses favouring this behaviour. We introduce a new subclass of Horndeski s…",
+      "published_at": "2026-06-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.20794",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Raising the reionization optical depth with inflationary CMB features",
+      "summary": "arXiv:2606.20795v1 Announce Type: new Abstract: Within the highly successful $\\Lambda$CDM paradigm established with cosmic microwave background (CMB) anisotropy measurements, the optical depth through reionization $\\tau$ is the most uncertain due both to the difficulty in measuri…",
+      "published_at": "2026-06-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.20795",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "No hidden monsters: Probing recently-quenched galaxies for obscured AGN with JWST-PRIMER MIRI and NIRCam",
+      "summary": "arXiv:2606.20800v1 Announce Type: new Abstract: We investigate the role of obscured active galactic nuclei (AGN) in recently quenched post-starburst galaxies (PSBs), using a sample of 65 photometrically selected PSBs in the PRIMER-UDS field at $1 < z < 2$. Combining JWST/MIRI 7.7…",
+      "published_at": "2026-06-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.20800",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Tracing a Neutrino Ghost to Distant “Shadow Blaster” Galaxy",
       "summary": "<img align=\"left\" alt=\"Composite of Gemini North and ALMA images of &quot;Shadow Blaster&quot;\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2615a.jpg\" />A team of astronomers has identified a remarkably bright, gravitationally-lens…",
