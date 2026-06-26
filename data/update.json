@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-25T12:37:32Z",
+  "generated_at": "2026-06-26T12:31:27Z",
   "items": [
     {
-      "title": "Collaborating with Artists in the Search for Life",
-      "summary": "arXiv:2606.24943v1 Announce Type: new Abstract: Art and science collaborations that go beyond outreach and advertisement in service of science have the potential to unlock new ways of seeing and understanding the Universe that science alone cannot reach. In this white paper for t…",
-      "published_at": "2026-06-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.24943",
+      "title": "Measuring Asteroid Rotation Periods Using the KMTNet Bulge Survey Data",
+      "summary": "arXiv:2606.26184v1 Announce Type: new Abstract: Since 2015, the Korea Microlensing Telescope Network (KMTNet) has conducted high-cadence, near-continuous observations of the Galactic bulge for nearly nine months each year from three sites in Chile, South Africa, and Australia, an…",
+      "published_at": "2026-06-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.26184",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Empirical-Bayes Unfolding of $\\gamma$-ray Spectra",
-      "summary": "arXiv:2606.24971v1 Announce Type: new Abstract: Unfolding observed $\\gamma$-ray spectra is an ill-conditioned Poisson inverse problem. Detector response effects and finite energy resolution make distinct non-negative emitted $\\gamma$-ray spectra nearly indistinguishable after for…",
-      "published_at": "2026-06-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.24971",
+      "title": "Fast Simultaneous Surveys with On-the-Fly Mapping",
+      "summary": "arXiv:2606.26209v1 Announce Type: new Abstract: The SKAO is a next-generation radio telescope that will transform our understanding of the formation and evolution of radio galaxies, quasars, transients, and other cosmic sources. Surveys conducted on precursor telescopes can infor…",
+      "published_at": "2026-06-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.26209",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Synergies Between Pulsar Timing Array and Astrometry",
-      "summary": "arXiv:2606.24992v1 Announce Type: new Abstract: The presence of a gravitational wave background can be established not only via exquisitely precise pulsar timing array (PTA) measurements, but also via astrometric observations. In fact, the very same background responsible for the…",
-      "published_at": "2026-06-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.24992",
+      "title": "Nautilus Space Observatory: The Evolution of Planets and their Atmospheres",
+      "summary": "arXiv:2606.26214v1 Announce Type: new Abstract: We are just beginning to explore the billion-year evolution from nascent planets in disks to mature planetary systems. Recent discoveries hint at demographic and atmospheric differences between young planets and their Gyr-old counte…",
+      "published_at": "2026-06-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.26214",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Low-frequency VLBI with the SKA-Low",
-      "summary": "arXiv:2606.25017v1 Announce Type: new Abstract: The Square Kilometre Array Observatory (SKAO) will provide unprecedented observational capabilities, revolutionizing radio astronomy in the next decade. Of particular interest for many science areas is the low-frequency component: t…",
-      "published_at": "2026-06-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.25017",
+      "title": "Dark Matter in Draco and Bo\\\"otes I: Hints of a Core in an Ultra-Faint Dwarf from Simulation-Based Inference",
+      "summary": "arXiv:2606.26218v1 Announce Type: new Abstract: The density profiles of dwarf spheroidal galaxies are among the most sensitive probes of dark matter physics, yet extracting them from noisy stellar kinematics remains a fundamental obstacle. We present GraphNPE, a simulation-based…",
+      "published_at": "2026-06-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.26218",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "X-rays Mark the Spot: The Effects of Reduced Metallicity on X-ray AGN Obscuration at High Redshift",
-      "summary": "arXiv:2606.25018v1 Announce Type: new Abstract: The James Webb Space Telescope has pushed the frontier of high-redshift galaxy and active galactic nucleus (AGN) observations firmly past $z=10$. Corresponding to the first 500 Myr after the Big Bang, this coincides with the epoch o…",
-      "published_at": "2026-06-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.25018",
+      "title": "Connecting Stellar Population Surveys to Stellar Evolution with Delay-time Distributions: Application to LMC Classical Cepheids",
+      "summary": "arXiv:2606.26219v1 Announce Type: new Abstract: The progenitors of many stellar-origin phenomena such as supernovae, evolved giants and supergiants, planetary nebulae, AGB stars and other post-main-sequence exotica remain poorly understood due to stellar evolution uncertainties s…",
+      "published_at": "2026-06-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.26219",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Multi-messenger and Multi-band Studies of Massive Black Holes: the Synergies Between LISA and SKAO",
-      "summary": "arXiv:2606.25020v1 Announce Type: new Abstract: Depending on its mass, the same gas-embedded massive black hole (BH) binary can emit gravitational waves (GWs) in one or more bands (nHz and mHz) concurrently, along with electromagnetic (EM) waves over the entire spectrum. The Squa…",
-      "published_at": "2026-06-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.25020",
+      "title": "Cross-correlation of SPT-3G D1 CMB lensing and DES Y3 galaxy lensing",
+      "summary": "arXiv:2606.26223v1 Announce Type: new Abstract: Measurements of the weak lensing of galaxies and of the cosmic microwave background (CMB) provide direct probes of the cosmic matter density field, but the two observables are sensitive to different spatial scales, redshift ranges,…",
+      "published_at": "2026-06-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.26223",
       "tags": [
         "arxiv",
         "astro-ph"
