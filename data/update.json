@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-06-28T12:03:50Z",
+  "generated_at": "2026-06-29T14:34:26Z",
   "items": [
+    {
+      "title": "The Karl G. Jansky Very Large Array Sky Survey (VLASS). Data Products",
+      "summary": "arXiv:2606.27414v1 Announce Type: new Abstract: The VLA Sky Survey (VLASS) is a radio continuum survey of the entire sky visible to the VLA (dec > -40deg) at ~2.5 arcsecond resolution over 2-4 GHz with full polarization. Data processing and quality assurance have proven challengi…",
+      "published_at": "2026-06-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.27414",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Discriminating blazar emission models with high-energy polarimetry: Multi-band predictions and detectability",
+      "summary": "arXiv:2606.27417v1 Announce Type: new Abstract: Polarimetric properties of blazars provide key constraints on the acceleration mechanisms powering their relativistic jets, the high-energy emission processes involved, and the composition of the jet itself. We present a multi-band…",
+      "published_at": "2026-06-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.27417",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Unveiling the Microhertz Gravitational-Wave Sky with the Square Kilometre Array Observatory",
+      "summary": "arXiv:2606.27418v1 Announce Type: new Abstract: The gravitational-wave sky is expected to contain a rich variety of sources across a very broad range of frequencies. Much like in electromagnetic astronomy, exploring new gravitational-wave frequency bands therefore has the potenti…",
+      "published_at": "2026-06-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.27418",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Revisiting the picture of circumbinary disc truncation",
+      "summary": "arXiv:2606.27419v1 Announce Type: new Abstract: Circumbinary discs are observed to develop central cavities carved by the gravitational influence of the binary. Analytical estimates of cavity sizes predict truncation at $\\sim 2 \\textrm{--} 3$ binary separations, depending on the…",
+      "published_at": "2026-06-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.27419",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Analytical and fitting formulae for solutions to Lyman-alpha radiative transfer equations: the effects of geometry, recoil, and velocity gra…",
+      "summary": "arXiv:2606.27423v1 Announce Type: new Abstract: Lyman-alpha (Ly$\\alpha$) radiative transfer (RT) is important in many astrophysical environments and governed by multiple physical processes. In this paper, we provide analytical formulae/procedures for the solutions to Ly$\\alpha$ R…",
+      "published_at": "2026-06-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.27423",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Impact of neutrino-electron scattering and an improved treatment of pair processes on binary neutron star mergers",
+      "summary": "arXiv:2606.27425v1 Announce Type: new Abstract: Multimessenger observations of neutron star mergers are unique opportunities to constrain the properties of dense matter and the production site of heavy nuclei. To leverage these observations, we require reliable models of the elec…",
+      "published_at": "2026-06-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2606.27425",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Tracing a Neutrino Ghost to Distant “Shadow Blaster” Galaxy",
       "summary": "<img align=\"left\" alt=\"Composite of Gemini North and ALMA images of &quot;Shadow Blaster&quot;\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2615a.jpg\" />A team of astronomers has identified a remarkably bright, gravitationally-lens…",
