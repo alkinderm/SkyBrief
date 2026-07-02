@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-01T13:17:41Z",
+  "generated_at": "2026-07-02T12:29:08Z",
   "items": [
     {
-      "title": "Assessing the Predictability of $\\delta$ Scuti Variable Stars for Spacecraft Navigation",
-      "summary": "arXiv:2606.30691v1 Announce Type: new Abstract: Previous studies have shown that $\\delta$ Scuti stars can be used for determining spacecraft position and time similar to X-ray pulsar navigation, but open questions remain regarding the light-curve stability, and, therefore, the na…",
-      "published_at": "2026-07-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.30691",
+      "title": "The Fleeting Laboratory: An Experimental Guide for Total Solar Eclipses",
+      "summary": "arXiv:2607.00014v1 Announce Type: new Abstract: Since times immemorial, total solar eclipses have inspired awe and wonder. In the modern scientific era they have transformed into exclusive natural laboratories, offering fleeting but invaluable opportunities to study the Sun's fai…",
+      "published_at": "2026-07-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.00014",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Mapping Stellar Heterogeneities with the Nautilus Space Observatory",
-      "summary": "arXiv:2606.30706v1 Announce Type: new Abstract: Stellar photospheric heterogeneities, such as starspots and faculae, are a fundamental limitation for exoplanet transmission spectroscopy. Inhomogeneous surfaces can imprint wavelength-dependent signals during transits that may mimi…",
-      "published_at": "2026-07-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.30706",
+      "title": "Understanding Pulsar Wind Nebulae with the SKA",
+      "summary": "arXiv:2607.00042v1 Announce Type: new Abstract: Produced by the interaction between the ``pulsar wind'' powered by the rotational energy of a neutron star and its surroundings, the study of pulsar wind nebulae (PWNe) provides vital insight into the physics of neutron star magneto…",
+      "published_at": "2026-07-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.00042",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Morpho-kinematic of galaxies at cosmic noon",
-      "summary": "arXiv:2606.30710v1 Announce Type: new Abstract: Recent studies of local galaxies highlight the need for high-resolution photometry and kinematics to accurately characterize galactic structures. From this, limitations emerged in the standard two-phase evolutionary scenario, where…",
-      "published_at": "2026-07-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.30710",
+      "title": "An Analytical Toy Equation of State for Neutron Stars Consistent with Current Observations",
+      "summary": "arXiv:2607.00070v1 Announce Type: new Abstract: Fast analytic and semi-analytic studies of neutron stars often require an equation of state that is convenient to evaluate while producing relativistic stellar sequences compatible with current multimessenger constraints. We constru…",
+      "published_at": "2026-07-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.00070",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Little Red Dots as Intermediate Mass, Super-Eddington Engines: Insights from Type IIn Supernovae and The 1837-1856 Great Eruption of $\\eta$…",
-      "summary": "arXiv:2606.30711v1 Announce Type: new Abstract: JWST's Little Red Dots (LRDs) display a unique constellation of features that do not occur simultaneously in any other class of galaxies or AGN. Here we observe that many of these features find parallels in the 19th century Great Er…",
-      "published_at": "2026-07-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.30711",
+      "title": "Magneto-Thermal Instability in Galaxy Clusters -- III. The Limit of Adiabatic Stratification",
+      "summary": "arXiv:2607.00073v1 Announce Type: new Abstract: In the hot and dilute intracluster medium of galaxy clusters, large-scale buoyancy instabilities can develop due to the transport of heat along magnetic field lines. In particular, the peripheries of galaxy clusters are unstable to…",
+      "published_at": "2026-07-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.00073",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Galaxy Power Spectrum at Two-Loop Order: Implications for Weak Lensing Surveys and New Physics",
-      "summary": "arXiv:2606.30713v1 Announce Type: new Abstract: We compute the galaxy power spectrum at two-loop order in cosmological perturbation theory (effective field theory, EFT). We derive galaxy bias operators through the fifth order and obtain two-loop renormalization conditions for the…",
-      "published_at": "2026-07-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.30713",
+      "title": "Decoding the Early-Time Light Curves of Type Ia Supernovae. I. A Hierarchical Bayesian Framework for Demographic Inference",
+      "summary": "arXiv:2607.00075v1 Announce Type: new Abstract: Light curves of Type Ia Supernovae (SNe Ia) in the days following explosion encode the diversity of progenitor systems and explosion physics. We present a hierarchical Bayesian framework to robustly constrain the population-level li…",
+      "published_at": "2026-07-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.00075",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The magnetic mayhem in Abell 2199: discovery of synchrotron threads and homogeneous diffuse radio lobes",
-      "summary": "arXiv:2606.30714v1 Announce Type: new Abstract: Sensitive low-frequency radio observations have started uncovering examples of synchrotron-emitting threads, isolated from the rest of radio emission in galaxy clusters. As the bridge of radio emission previously detected between th…",
-      "published_at": "2026-07-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2606.30714",
+      "title": "Hot or Cold? Radial Redistribution of Stars in FIRE Simulations of Milky Way-Mass Galaxies and the Asymmetry of Inward versus Outward Migrat…",
+      "summary": "arXiv:2607.00077v1 Announce Type: new Abstract: Stars can radially redistribute (migrate) within galactic disks. The degree to which this occurs as dynamically `cold' (preserves orbital eccentricity) or `hot' (increases eccentricity) remains debated. Many models presume that radi…",
+      "published_at": "2026-07-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.00077",
       "tags": [
         "arxiv",
         "astro-ph"
