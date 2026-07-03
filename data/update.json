@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-02T12:29:08Z",
+  "generated_at": "2026-07-03T12:26:55Z",
   "items": [
     {
-      "title": "The Fleeting Laboratory: An Experimental Guide for Total Solar Eclipses",
-      "summary": "arXiv:2607.00014v1 Announce Type: new Abstract: Since times immemorial, total solar eclipses have inspired awe and wonder. In the modern scientific era they have transformed into exclusive natural laboratories, offering fleeting but invaluable opportunities to study the Sun's fai…",
-      "published_at": "2026-07-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.00014",
+      "title": "Pulsar Science with the SKAO",
+      "summary": "arXiv:2607.01288v1 Announce Type: new Abstract: The large instantaneous sensitivity, wide frequency coverage and flexible observation modes, with large number of beams in the sky, are the main features of the SKA observatory's two telescopes, the SKA-Low and the SKA-Mid. Owing to…",
+      "published_at": "2026-07-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.01288",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Understanding Pulsar Wind Nebulae with the SKA",
-      "summary": "arXiv:2607.00042v1 Announce Type: new Abstract: Produced by the interaction between the ``pulsar wind'' powered by the rotational energy of a neutron star and its surroundings, the study of pulsar wind nebulae (PWNe) provides vital insight into the physics of neutron star magneto…",
-      "published_at": "2026-07-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.00042",
+      "title": "How I stop worrying about non-universality and $b_\\phi$: Constraining local $f_{\\rm NL}$ with $b_\\phi$ priors from HOD posteriors",
+      "summary": "arXiv:2607.01314v1 Announce Type: new Abstract: Local primordial non-Gaussianity (local PNG) induces a scale-dependent contribution to galaxy clustering proportional to $f_{\\rm NL}\\,b_\\phi$, where $f_{\\rm NL}$ is the local PNG amplitude and $b_\\phi$ encodes the galaxy response to…",
+      "published_at": "2026-07-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.01314",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "An Analytical Toy Equation of State for Neutron Stars Consistent with Current Observations",
-      "summary": "arXiv:2607.00070v1 Announce Type: new Abstract: Fast analytic and semi-analytic studies of neutron stars often require an equation of state that is convenient to evaluate while producing relativistic stellar sequences compatible with current multimessenger constraints. We constru…",
-      "published_at": "2026-07-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.00070",
+      "title": "Discovery of an Inflated Hot Neptune and Its Formation from Jovian Mass Loss",
+      "summary": "arXiv:2607.01315v1 Announce Type: new Abstract: The production of Neptune-like planets with orbital periods of 3--6 days is challenging for conventional models of high-eccentricity migration. We present the discovery and characterization of TOI-2195~A~b, an inflated hot Neptune (…",
+      "published_at": "2026-07-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.01315",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Magneto-Thermal Instability in Galaxy Clusters -- III. The Limit of Adiabatic Stratification",
-      "summary": "arXiv:2607.00073v1 Announce Type: new Abstract: In the hot and dilute intracluster medium of galaxy clusters, large-scale buoyancy instabilities can develop due to the transport of heat along magnetic field lines. In particular, the peripheries of galaxy clusters are unstable to…",
-      "published_at": "2026-07-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.00073",
+      "title": "Aerosols and hydrocarbons in the atmosphere of a white dwarf planet",
+      "summary": "arXiv:2607.01316v1 Announce Type: new Abstract: Most stars, including our Sun, will one day evolve into red giants and, subsequently, white dwarfs. Several planet candidates have recently been identified orbiting white dwarfs, demonstrating that planets can survive the stellar po…",
+      "published_at": "2026-07-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.01316",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Decoding the Early-Time Light Curves of Type Ia Supernovae. I. A Hierarchical Bayesian Framework for Demographic Inference",
-      "summary": "arXiv:2607.00075v1 Announce Type: new Abstract: Light curves of Type Ia Supernovae (SNe Ia) in the days following explosion encode the diversity of progenitor systems and explosion physics. We present a hierarchical Bayesian framework to robustly constrain the population-level li…",
-      "published_at": "2026-07-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.00075",
+      "title": "TEQUILA: Mechanism-free polarimetry for astronomy",
+      "summary": "arXiv:2607.01325v1 Announce Type: new Abstract: TEQUILA (Transient Event $Q$, $U$, and $I$ Light Analyzer) is an optical imaging polarimeter developed for the second Nasmyth port of the 1.3-m COLIBR\\'I altitude-azimuth telescope at Observatorio Astron\\'omico Nacional in San Pedro…",
+      "published_at": "2026-07-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.01325",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Hot or Cold? Radial Redistribution of Stars in FIRE Simulations of Milky Way-Mass Galaxies and the Asymmetry of Inward versus Outward Migrat…",
-      "summary": "arXiv:2607.00077v1 Announce Type: new Abstract: Stars can radially redistribute (migrate) within galactic disks. The degree to which this occurs as dynamically `cold' (preserves orbital eccentricity) or `hot' (increases eccentricity) remains debated. Many models presume that radi…",
-      "published_at": "2026-07-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.00077",
+      "title": "Extreme outflow velocities and weak UV emission lines indicate quasars shedding their dust cocoons",
+      "summary": "arXiv:2607.01330v1 Announce Type: new Abstract: The recently discovered low-ionisation broad absorption line (LoBAL) quasar GQ 1309$+$2904 is unusual due to its very broad, highly blueshifted absorption troughs and an absence of broad emission lines except for ${\\mathrm{H} \\alpha…",
+      "published_at": "2026-07-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.01330",
       "tags": [
         "arxiv",
         "astro-ph"
