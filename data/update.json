@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-06T14:07:31Z",
+  "generated_at": "2026-07-07T13:00:34Z",
   "items": [
+    {
+      "title": "Probing Neutron Star Interiors and the Properties of Cold Ultra-dense Matter with the SKAO",
+      "summary": "arXiv:2607.02597v1 Announce Type: new Abstract: Matter inside neutron stars is compressed to densities several times greater than nuclear saturation density, while maintaining low temperatures and large asymmetries between neutrons and protons. Neutron stars, therefore, provide a…",
+      "published_at": "2026-07-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.02597",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Shock-based Interpretation of Radio and X-ray Emission in Active Galactic Nuclei",
+      "summary": "arXiv:2607.02641v1 Announce Type: new Abstract: We propose a shock-based framework to interpret the radio and X-ray emission in active galactic nuclei (AGNs), whose origin remains an open problem. In this framework, the radio emission is produced by synchrotron radiation in the a…",
+      "published_at": "2026-07-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.02641",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "High-Energy Neutrino Tomography of the Earth's Interior with IceCube",
+      "summary": "arXiv:2607.02644v1 Announce Type: new Abstract: The Earth's interior reflects its geological evolution, from accretion to present-day dynamics. Its structure drives the geodynamo in the outer core, generating the magnetic field that shields the surface from charged cosmic radiati…",
+      "published_at": "2026-07-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.02644",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Investigating the star formation histories of galaxies from Cosmic Dawn to the Epoch of Reionization with the Santa Cruz SAM",
+      "summary": "arXiv:2607.02650v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has opened a new window onto galaxy evolution in the very early Universe. In this work, we leverage halo merger trees extracted from the GUREFT dark-matter-only cosmological simulation suite tog…",
+      "published_at": "2026-07-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.02650",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "First Search for Kaluza-Klein Gravitons and Radion Using Planck Data",
+      "summary": "arXiv:2607.02651v1 Announce Type: new Abstract: Heavy moduli and Kaluza-Klein (KK) gravitons from extra dimensions may evade terrestrial probes but can be produced during inflation, generating primordial non-Gaussianity (NG) through unavoidable couplings to density perturbations.…",
+      "published_at": "2026-07-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.02651",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Contribution of White Dwarf Formation Kicks to the Free-Floating Planet Population",
+      "summary": "arXiv:2607.02653v1 Announce Type: new Abstract: Free-Floating Planets (FFPs) are a distinct class of exoplanets that do not orbit stars but are nevertheless found to be very common. A variety of formation mechanisms have been proposed as their origin, such as \"star-like\" direct c…",
+      "published_at": "2026-07-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.02653",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: Action! NSF–DOE Vera C. Rubin Observatory Begins Capturing the Greatest Cosmic Movie Ever Made",
       "summary": "<img align=\"left\" alt=\"Ocean of Stars\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2616a.jpg\" />The wait is over: NSF–DOE Rubin Observatory, funded by the U.S. National Science Foundation and the U.S. Department of Energy’s Office…",
