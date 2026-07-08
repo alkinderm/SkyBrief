@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-07T13:00:34Z",
+  "generated_at": "2026-07-08T12:04:39Z",
   "items": [
     {
-      "title": "Probing Neutron Star Interiors and the Properties of Cold Ultra-dense Matter with the SKAO",
-      "summary": "arXiv:2607.02597v1 Announce Type: new Abstract: Matter inside neutron stars is compressed to densities several times greater than nuclear saturation density, while maintaining low temperatures and large asymmetries between neutrons and protons. Neutron stars, therefore, provide a…",
-      "published_at": "2026-07-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.02597",
+      "title": "Understanding Pulsar Magnetospheres with the SKAO",
+      "summary": "arXiv:2607.05432v1 Announce Type: new Abstract: The SKA telescopes will bring unparalleled sensitivity across a broad radio band, a wide field of view across the Southern sky, and the capacity for sub-arraying, all of which make them the ideal instruments for studying the pulsar…",
+      "published_at": "2026-07-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.05432",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Shock-based Interpretation of Radio and X-ray Emission in Active Galactic Nuclei",
-      "summary": "arXiv:2607.02641v1 Announce Type: new Abstract: We propose a shock-based framework to interpret the radio and X-ray emission in active galactic nuclei (AGNs), whose origin remains an open problem. In this framework, the radio emission is produced by synchrotron radiation in the a…",
-      "published_at": "2026-07-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.02641",
+      "title": "The Impact of Space Debris on Optical Astronomy",
+      "summary": "arXiv:2607.05480v1 Announce Type: new Abstract: Photometric observations of space debris objects brighter than magnitudes 6.0, 7.0 and 8.0 are characterized. Those magnitudes pertain to different levels of interference with astronomy as defined by the International Astronomical U…",
+      "published_at": "2026-07-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.05480",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "High-Energy Neutrino Tomography of the Earth's Interior with IceCube",
-      "summary": "arXiv:2607.02644v1 Announce Type: new Abstract: The Earth's interior reflects its geological evolution, from accretion to present-day dynamics. Its structure drives the geodynamo in the outer core, generating the magnetic field that shields the surface from charged cosmic radiati…",
-      "published_at": "2026-07-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.02644",
+      "title": "Uncertainty-Aware Deep Learning for the Ly$\\alpha$ Forest: CNN-Based Absorber Detection and Characterization",
+      "summary": "arXiv:2607.05494v1 Announce Type: new Abstract: The Ly$\\alpha$ forest is a powerful probe of the intergalactic medium and small-scale matter distribution, but deriving absorber properties traditionally requires computationally expensive Voigt-profile fitting. We present a convolu…",
+      "published_at": "2026-07-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.05494",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Investigating the star formation histories of galaxies from Cosmic Dawn to the Epoch of Reionization with the Santa Cruz SAM",
-      "summary": "arXiv:2607.02650v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has opened a new window onto galaxy evolution in the very early Universe. In this work, we leverage halo merger trees extracted from the GUREFT dark-matter-only cosmological simulation suite tog…",
-      "published_at": "2026-07-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.02650",
+      "title": "Formation of rotating supergiants via stellar mergers in dense clusters: Implications for black hole natal spins",
+      "summary": "arXiv:2607.05495v1 Announce Type: new Abstract: We investigate how massive stellar mergers in young star clusters imprint on black hole spin distributions and the broader implications for gravitational wave sources. The central hypothesis is that angular momentum transferred duri…",
+      "published_at": "2026-07-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.05495",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "First Search for Kaluza-Klein Gravitons and Radion Using Planck Data",
-      "summary": "arXiv:2607.02651v1 Announce Type: new Abstract: Heavy moduli and Kaluza-Klein (KK) gravitons from extra dimensions may evade terrestrial probes but can be produced during inflation, generating primordial non-Gaussianity (NG) through unavoidable couplings to density perturbations.…",
-      "published_at": "2026-07-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.02651",
+      "title": "Puffed-up Edges of Planet-opened Gaps in Protoplanetary Disks. II. The Role of the Planet's Orbital Eccentricity",
+      "summary": "arXiv:2607.05497v1 Announce Type: new Abstract: Eccentric planets constitute a large population of known exoplanets and may drive significant substructures in protoplanetary disks through planet-disk interactions if their eccentricities are excited early in the planet formation p…",
+      "published_at": "2026-07-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.05497",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Contribution of White Dwarf Formation Kicks to the Free-Floating Planet Population",
-      "summary": "arXiv:2607.02653v1 Announce Type: new Abstract: Free-Floating Planets (FFPs) are a distinct class of exoplanets that do not orbit stars but are nevertheless found to be very common. A variety of formation mechanisms have been proposed as their origin, such as \"star-like\" direct c…",
-      "published_at": "2026-07-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.02653",
+      "title": "Non-spherical Cows: Introducing the Asphericity Parameter as a Measure of Accretion Geometry",
+      "summary": "arXiv:2607.05498v1 Announce Type: new Abstract: The outer regions of galactic halos represent the bridge connecting internal processes within the galaxy to the larger surrounding cosmic web. The gas in this bridge region is shaped by the competing processes of cold inflows from t…",
+      "published_at": "2026-07-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.05498",
       "tags": [
         "arxiv",
         "astro-ph"
