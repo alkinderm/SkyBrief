@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-09T13:32:26Z",
+  "generated_at": "2026-07-10T12:40:46Z",
   "items": [
     {
-      "title": "Fast Graph-based Higher-Order Clustering Statistics on the GPU",
-      "summary": "arXiv:2607.06604v1 Announce Type: new Abstract: We present a significant update to GRAMSCI (GRAph Made Statistics for Cosmological Information; Sabiu et.al 2019), an algorithm for the fast computation of the general $N$-point spatial correlation function of any discrete point set…",
-      "published_at": "2026-07-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.06604",
+      "title": "Space and Lunar Interferometry: Emerging Concepts and Pathways",
+      "summary": "arXiv:2607.07746v1 Announce Type: new Abstract: Space- and lunar-based interferometry are moving from aspiration toward a concrete landscape of mission studies, pathfinders, and staged architectures. This invited review surveys that landscape across two principal platform pathway…",
+      "published_at": "2026-07-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.07746",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "HDRL Staff Strategy Meeting Report",
-      "summary": "arXiv:2607.06650v1 Announce Type: new Abstract: HDRL held its first HDRL wide strategy meeting in January 2026, pulling in a majority of HDRL member staff and selected HDRL grantees. Just over 40 people attended with a few more online to listen to over 30 lightning talks presente…",
-      "published_at": "2026-07-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.06650",
+      "title": "Multi-Wavelength Signatures of a Giant Cometary Radio Halo in MACSJ0417-1154",
+      "summary": "arXiv:2607.07750v1 Announce Type: new Abstract: Galaxy clusters hosting diffuse non-thermal radio emission offer direct insight into plasma processes of the intracluster medium (ICM). We present the first multi-frequency study of the radio halo in MACSJ0417 (z = 0.445) using uGMR…",
+      "published_at": "2026-07-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.07750",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The Treble Clef radio phoenix and its old nonthermal filaments",
-      "summary": "arXiv:2607.06659v1 Announce Type: new Abstract: By inspecting data from the LOFAR Two-meter Sky Survey (LoTSS), we noticed a peculiar bright and filamentary radio source at low-galactic latitude ($b \\approx 0.5 \\deg$). This source, detected also in previous radio observations, wa…",
-      "published_at": "2026-07-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.06659",
+      "title": "Sub-Torque-Balance Upper Limits on Continuous Gravitational Waves from Scorpius X-1",
+      "summary": "arXiv:2607.07765v1 Announce Type: new Abstract: We present the results of a search for continuous gravitational waves from the low-mass X-ray binary Scorpius X-1 using LIGO data from the first part of the fourth LIGO-Virgo-KAGRA observing run. By applying the resampling version o…",
+      "published_at": "2026-07-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.07765",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A comparison of numerical schemes for driven subsonic MHD turbulence",
-      "summary": "arXiv:2607.06660v1 Announce Type: new Abstract: Turbulence is ubiquitous in astrophysical systems, and since most cosmic gas is ionised, it supports magnetic fields. In turbulent environments, these fields are rapidly amplified through a small-scale dynamo. Multi-scale astrophysi…",
-      "published_at": "2026-07-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.06660",
+      "title": "Infrared-enhanced Photometric Redshifts for the Dark Energy Survey Y6 Gold catalogue",
+      "summary": "arXiv:2607.07771v1 Announce Type: new Abstract: The Dark Energy Survey (DES) provides optical data across 5000 square degrees of the southern sky, enabling a broad range of extragalactic and cosmological studies. Combining DES data with infrared surveys offers the opportunity to…",
+      "published_at": "2026-07-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.07771",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "J-PLUS: Spectral classification and photometric redshifts for 79 million sources in the fourth data release",
-      "summary": "arXiv:2607.06662v1 Announce Type: new Abstract: We present spectral classifications and photometric redshifts for 79.2 million sources up to an r-band magnitude of 22 in Data Release 4 of the Javalambre Photometric Local Universe Survey (J-PLUS). Leveraging the 12-band J-PLUS fil…",
-      "published_at": "2026-07-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.06662",
+      "title": "The Status of Single Scalar Field Dark Energy",
+      "summary": "arXiv:2607.07777v1 Announce Type: new Abstract: We present an assessment of the current observational status of single scalar field models of dark energy. Motivated by recent cosmological measurements -- including baryon acoustic oscillations, Type Ia supernovae, and CMB data --…",
+      "published_at": "2026-07-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.07777",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Effects of Rotation on 3D Core-Collapse Supernova Models for Low-Mass Progenitors",
-      "summary": "arXiv:2607.06664v1 Announce Type: new Abstract: We explore the dependence upon rotation rate alone of various supernova observables simulated to their saturation for the explosion of a 9-$M_{\\odot}$ progenitor. We find that the explosion energy is non-monotonic with, and weakly d…",
-      "published_at": "2026-07-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.06664",
+      "title": "Stellar J-Harvesting: a novel angular momentum technosignature and first search in the Kepler field",
+      "summary": "arXiv:2607.07781v1 Announce Type: new Abstract: We introduce Stellar J-Harvesting (SJH), a technosignature in which an engineered system extracts rotational angular momentum from a star. Unlike a classical Dyson sphere, such a system need not produce a detectable mid-infrared exc…",
+      "published_at": "2026-07-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.07781",
       "tags": [
         "arxiv",
         "astro-ph"
