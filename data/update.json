@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-12T11:38:12Z",
+  "generated_at": "2026-07-13T13:00:19Z",
   "items": [
+    {
+      "title": "Magnetogenesis by galactic processes: impact on circumgalactic and intergalactic fields",
+      "summary": "arXiv:2607.08812v1 Announce Type: new Abstract: We investigate the origin and evolution of cosmic magnetic fields using a suite of large-volume cosmological magnetohydrodynamic simulations (L$_\\mathrm{box}=25$ Mpc/h) run with the moving-mesh code AREPO. Atop the IllustrisTNG gala…",
+      "published_at": "2026-07-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.08812",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Dark matter density profiles of the Milky Way satellite population: reconciling simulations and observations",
+      "summary": "arXiv:2607.08818v1 Announce Type: new Abstract: The cusp-core problem remains a key challenge for the $\\Lambda$CDM model. Historically, comparing inner dark matter halo slopes ($d\\log\\rho/d\\log r$) from simulations and observations has suffered from a methodological mismatch: eva…",
+      "published_at": "2026-07-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.08818",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "What becomes of JWST/NIRCam-selected high-redshift massive galaxies?",
+      "summary": "arXiv:2607.08820v1 Announce Type: new Abstract: Early JWST/NIRCam surveys revealed a puzzling population of high-redshift massive galaxy candidates largely absent from previous rest-frame UV surveys. Spectroscopic follow-up has both confirmed and contested these candidates, whose…",
+      "published_at": "2026-07-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.08820",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The type Ia supernova 2023vjh: a peculiar 1991bg-like SN with unusually faint light curves",
+      "summary": "arXiv:2607.08821v1 Announce Type: new Abstract: We present observations of the 1991bg-like type Ia supernova (SN) 2023vjh, associated with the elliptical galaxy MCG+04-10-013. Its light-curve shape parameters ($\\Delta m_{15}(B)=1.89 \\pm 0.01$ mag and $s_{BV} = 0.45 \\pm 0.03$), to…",
+      "published_at": "2026-07-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.08821",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Star-Disk Collisions II: Debris Stream Dynamics and Implications for QPEs and Other Transients Near SMBHs",
+      "summary": "arXiv:2607.08823v1 Announce Type: new Abstract: Quasi-periodic eruptions (QPEs) are repeating soft X-ray nuclear transients with recurrence times of hours-days and flare duty cycles of $\\sim$10-20%. Many aspects of QPEs can be modeled as a stellar-mass orbiter that intersects an…",
+      "published_at": "2026-07-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.08823",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Thesan-Zoom project: bursty star formation is incompatible with prolonged dust survival",
+      "summary": "arXiv:2607.08824v1 Announce Type: new Abstract: Cosmic dust is a key regulator of galaxy evolution, but its build-up and survival in the first billion years remain poorly constrained. We present a systematic analysis of dust in the thesan-zoom suite of radiation-hydrodynamical zo…",
+      "published_at": "2026-07-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.08824",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: Action! NSF–DOE Vera C. Rubin Observatory Begins Capturing the Greatest Cosmic Movie Ever Made",
       "summary": "<img align=\"left\" alt=\"Ocean of Stars\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2616a.jpg\" />The wait is over: NSF–DOE Rubin Observatory, funded by the U.S. National Science Foundation and the U.S. Department of Energy’s Office…",
