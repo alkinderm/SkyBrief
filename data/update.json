@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-14T11:56:22Z",
+  "generated_at": "2026-07-15T12:01:16Z",
   "items": [
     {
-      "title": "The Rise and Fall of Acoustic Oscillations at Cosmic Dawn",
-      "summary": "arXiv:2607.09846v1 Announce Type: new Abstract: Cosmic dawn 21-cm observations will extend standard-ruler cosmology into the first billion years, unlocking epochs inaccessible by the cosmic microwave background and large-scale structure. Realizing this promise requires an accurat…",
-      "published_at": "2026-07-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.09846",
+      "title": "Quantifying Foreground Contamination in the Dark Ages 21 cm Power Spectrum Using an Electromagnetically Simulated Dipole Antenna Atop a Diel…",
+      "summary": "arXiv:2607.11929v1 Announce Type: new Abstract: The highly-redshifted 21 cm signal from the cosmic Dark Ages presents an exciting frontier for cosmology, with the potential to observe a large number of Fourier modes of the cosmic density field in the absence of complicating astro…",
+      "published_at": "2026-07-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.11929",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Do we understand the star formation history of the universe?",
-      "summary": "arXiv:2607.09848v1 Announce Type: new Abstract: The evolving relationship between a galaxy's mass and star formation rate -- the so-called `star-forming main sequence' (MS) -- provides a critical benchmark for understanding star formation across time. Despite its fundamental impo…",
-      "published_at": "2026-07-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.09848",
+      "title": "Closed-form representations of extended astrophysical thermonuclear functions",
+      "summary": "arXiv:2607.11966v1 Announce Type: new Abstract: Reaction rate determination is an essential problem in the theories of cosmological and stellar nucleosynthesis. I investigate the closed-form analytic evaluation of thermonuclear reaction rates, which are necessary for both cosmic…",
+      "published_at": "2026-07-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.11966",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Robust Photometry for Roman High-Latitude Imaging Survey Cosmology Using Roman and Rubin Imaging",
-      "summary": "arXiv:2607.09849v1 Announce Type: new Abstract: Accurate and precise photometry is essential for Roman cosmology because it affects photometric-redshift performance, galaxy and cluster selection, tomographic binning, and redshift-distribution characterization. Achieving robust ph…",
-      "published_at": "2026-07-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.09849",
+      "title": "Probing the Innermost Region of the V883 Ori Disk Using ALMA Band 1 Methanol Line Observations",
+      "summary": "arXiv:2607.12005v1 Announce Type: new Abstract: The snowlines of major volatiles in protoplanetary disks play a pivotal role in dust evolutions and volatile delivery to nascent planetary systems. In this paper, we report the Atacama Large Millimeter/submillimeter Array Band 1 ($\\…",
+      "published_at": "2026-07-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.12005",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Low-hard to high-soft spectral state transitions in the faintest early-X-ray-detected optical tidal disruption event TDE 2025aarm",
-      "summary": "arXiv:2607.09850v1 Announce Type: new Abstract: We report the X-ray and optical spectroscopic properties of TDE 2025aarm, the second closest tidal disruption event (TDE) discovered to date. The proximity of this source, combined with a deep and intense X-ray monitoring campaign s…",
-      "published_at": "2026-07-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.09850",
+      "title": "Modeling the Evolution of Protoplanetary Disks: Two Pathways from Gravitational Instability to MHD Wind-Driven Accretion",
+      "summary": "arXiv:2607.12007v1 Announce Type: new Abstract: The global evolution of protoplanetary disks sets the initial conditions for planet formation. However, most models focus on individual evolutionary phases, with idealized initial conditions and oversimplified prescriptions for angu…",
+      "published_at": "2026-07-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.12007",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Benchmark Brown Dwarf Systems I: Chemical Abundance Analysis of FGK Stars with Wide-Separation Brown Dwarf Companions Using PEPS",
-      "summary": "arXiv:2607.09851v1 Announce Type: new Abstract: We present results from a spectroscopic survey of 32 FGK stars hosting brown dwarfs, using high-resolution optical spectra (R = 130,000 and 50,000) obtained with the PEPSI spectrograph on the Large Binocular Telescope. The primary g…",
-      "published_at": "2026-07-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.09851",
+      "title": "A Universal Distribution of Dark Matter in Milky Way-like galaxies and How to Infer It",
+      "summary": "arXiv:2607.12008v1 Announce Type: new Abstract: The phase-space density of dark matter within the Milky Way is a key quantity that encodes information about the nature of the dark sector. The local phase-space density is also required to properly interpret the results of dark mat…",
+      "published_at": "2026-07-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.12008",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The Black Hole Occupation Fraction as a Fossil Record of Seeding, Dynamics, and Galaxy Assembly",
-      "summary": "arXiv:2607.09853v1 Announce Type: new Abstract: The black hole occupation fraction (BHOF) is a powerful but intrinsically layered diagnostic of massive black hole (BH) seeding and subsequent galaxy assembly. We measure the total, central, and wandering BHOF in the ASTRID cosmolog…",
-      "published_at": "2026-07-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.09853",
+      "title": "The Limitations of Cosmological Collider Analyses",
+      "summary": "arXiv:2607.12010v1 Announce Type: new Abstract: Massive fields exchanged during inflation source cosmological collider features in the correlators of primordial curvature fluctuations. While their structure is fixed by the symmetries of inflation, the amplitude of such signatures…",
+      "published_at": "2026-07-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.12010",
       "tags": [
         "arxiv",
         "astro-ph"
