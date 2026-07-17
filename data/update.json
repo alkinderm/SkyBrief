@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-16T12:01:58Z",
+  "generated_at": "2026-07-17T11:52:48Z",
   "items": [
     {
-      "title": "Remembering George Smoot",
-      "summary": "arXiv:2607.13063v1 Announce Type: new Abstract: George Smoot (1945-2025) was a major figure in observational cosmology, particularly through his role in the precision measurement of the CMB dipole and the discovery of the primordial CMB temperature anisotropy as part of the COBE…",
-      "published_at": "2026-07-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.13063",
+      "title": "Development and characterization of a millimeter-wave cold load prototype",
+      "summary": "arXiv:2607.14198v1 Announce Type: new Abstract: Superconducting transition-edge sensors (TESs) are crucial detectors for cosmic microwave background (CMB) observations and require stable and tunable millimeter-wave cold loads for optical-efficiency calibration. This work presents…",
+      "published_at": "2026-07-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.14198",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Risk assessment of muon single-event effects for low-altitude aircraft",
-      "summary": "arXiv:2607.13064v1 Announce Type: new Abstract: With the rapid development of low-altitude economy, the radiation environment safety of low-altitude aircraft such as drones and electric vertical take-off and landing aircraft has attracted increasing attention. Although the dense…",
-      "published_at": "2026-07-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.13064",
+      "title": "Simulation-Based Priors for HI Bias from Halo Occupation Physics",
+      "summary": "arXiv:2607.14206v1 Announce Type: new Abstract: Full-shape analyses of 21 cm intensity maps with the effective field theory of large-scale structure will require priors on HI bias parameters, and the standard choice of broad uninformative priors can lead to cosmological constrain…",
+      "published_at": "2026-07-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.14206",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Synchrotron Emission from Cooled Particle Distributions",
-      "summary": "arXiv:2607.13130v1 Announce Type: new Abstract: Synchrotron emitting electrons can lose energy (`cool') through various processes including radiative losses (e.g., synchrotron or inverse-Compton cooling) and adiabatic expansion. Such cooling will shift electrons in energy-space a…",
-      "published_at": "2026-07-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.13130",
+      "title": "Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data",
+      "summary": "arXiv:2607.14207v1 Announce Type: new Abstract: In this work, we present the observed galaxy-galaxy lensing signal of satellite galaxies in rich clusters obtained from the Ultraviolet Near-Infrared Optical Northern Survey (UNIONS). Such observations are crucial for understanding…",
+      "published_at": "2026-07-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.14207",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Here, There and Everywhere: How AGN jets affect galaxy cluster environments",
-      "summary": "arXiv:2607.13132v1 Announce Type: new Abstract: Active galactic nuclei (AGN) feedback via black hole-driven jets and winds plays a key role in redistributing matter across megaparsec scales. However, the implementation of jet feedback in cosmological simulations remains highly pr…",
-      "published_at": "2026-07-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.13132",
+      "title": "The Open Cluster Chemical Abundances and Mapping Survey: IX. Measuring the Effects of Stellar Diffusion in the Open Clusters NGC 752 and Rup…",
+      "summary": "arXiv:2607.14208v1 Announce Type: new Abstract: A growing understanding of stellar processes that alter surface chemical abundances over time has opened new avenues for using these changes as probes of stellar properties. On the main sequence and near the turnoff, stellar surface…",
+      "published_at": "2026-07-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.14208",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Photometric Variability and Rotation of Beta Pictoris b from JWST NIRCam Coronagraphic Imaging",
-      "summary": "arXiv:2607.13133v1 Announce Type: new Abstract: We report the detection of photometric variability in the directly imaged super-Jupiter $\\beta$ Pictoris b. Using JWST NIRCam dual-band coronagraphic imaging, we conducted a 16-hour continuous photometric monitoring campaign in the…",
-      "published_at": "2026-07-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.13133",
+      "title": "The topology of the magnetic field in Abell 2255 out to its virial radius. Results from the LOFAR Galaxy Cluster Ultra-Deep Field",
+      "summary": "arXiv:2607.14209v1 Announce Type: new Abstract: We present the LOFAR Galaxy Cluster Ultra-Deep Field, in which 336 h of LOFAR observations at 120$-$168 MHz have been collected on the nearby ($z=0.080$) cluster Abell 2255. This massive and merging system is known to host spectacul…",
+      "published_at": "2026-07-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.14209",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Fe K$\\alpha$ line from the Broad Line Region of PDS456 with XRISM/Resolve",
-      "summary": "arXiv:2607.13139v1 Announce Type: new Abstract: The high-luminosity, high-mass and likely super-Eddington quasar PDS 456 is known for its extremely dynamic environment. A wealth of observational features from the millimetric up to the X-ray band shows energetic outflows at all sc…",
-      "published_at": "2026-07-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.13139",
+      "title": "Non-Primordial Contribution to the Cosmic Microwave Background",
+      "summary": "arXiv:2607.14211v1 Announce Type: new Abstract: The cosmic microwave background is interpreted as relic thermal radiation from the epoch of recombination at z~1090. Recent work by Gjergo & Kroupa (GK25) have challenged this assumption proposing that dust-enshrouded starbursts in…",
+      "published_at": "2026-07-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.14211",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Photo Release: The Starry Night Redux",
+      "summary": "<img align=\"left\" alt=\"Corona Australis Molecular Cloud\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2617a.jpg\" />The 570-megapixel Department of Energy-fabricated Dark Energy Camera (DECam) captures a vibrant scene, filled with sw…",
+      "published_at": "2026-07-16T16:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2617/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomic…",
       "published_at": "2026-04-24T15:27:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2612/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Organization Release: DESI Completes Planned 3D Map of the Universe and Continues Exploring",
-      "summary": "<img align=\"left\" alt=\"Zoomed-in portion of DESI’s year-five map\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2610a.jpg\" />DESI has mapped more than 47 million galaxies and quasars, creating the largest high-resolution 3D map of ou…",
-      "published_at": "2026-04-15T15:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2610/",
       "tags": [
         "noirlab"
       ],
