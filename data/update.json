@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-19T11:36:41Z",
+  "generated_at": "2026-07-20T12:32:24Z",
   "items": [
+    {
+      "title": "On the reconstruction of the Rotation Curve for Milky Way and its spacetime implications: a Machine Learning approach",
+      "summary": "arXiv:2607.15320v1 Announce Type: new Abstract: We propose a machine learning-assisted analytical reconstruction of the Milky Way rotation curve and discuss its implications in a relativistic spacetime context. The rotation curve is reconstructed using 73 observational data point…",
+      "published_at": "2026-07-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.15320",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Primordial tensor mode from the neutrino sector",
+      "summary": "arXiv:2607.15335v1 Announce Type: new Abstract: We show that a regular solution for primordial tensor fluctuations can arise from the higher-order multipoles of the collisionless neutrino distribution after neutrino decoupling. Focusing on the leading case with the neutrino octup…",
+      "published_at": "2026-07-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.15335",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Searching for Folded Primordial Non-Gaussianity with Galaxy Surveys",
+      "summary": "arXiv:2607.15337v1 Announce Type: new Abstract: Large-scale structure provides a powerful probe of inflationary physics through primordial non-Gaussianity (PNG): the galaxy power spectrum depends on local PNG through scale-dependent bias, while the galaxy bispectrum depends sensi…",
+      "published_at": "2026-07-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.15337",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Tighter Dark Matter Constraints from the Projected Mass Method: A Neural Network Enhanced Method for Galaxy Groups and Clusters",
+      "summary": "arXiv:2607.15339v1 Announce Type: new Abstract: Measuring the total mass of the Milky Way and nearby galaxy groups is difficult because classical dynamical estimators rely on assumptions about satellite orbital geometry that are rarely satisfied in practice, and because only a ha…",
+      "published_at": "2026-07-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.15339",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "How large can galaxies be? Ultra-deep imaging of IC 1101, the most extended known galaxy",
+      "summary": "arXiv:2607.15340v1 Announce Type: new Abstract: The maximum physical extent that galaxies can reach is poorly understood. In this regard, IC 1101, one of the most extended and massive galaxies known, provides a valuable opportunity to constrain the upper limit of galaxy sizes at…",
+      "published_at": "2026-07-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.15340",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Forest without Trees is still Fruitful: Constraints on the thermal state of the neutral IGM at $z\\approx5.6$ with the 21-cm forest power spe…",
+      "summary": "arXiv:2607.15341v1 Announce Type: new Abstract: Neutral regions of the intergalactic medium (IGM) during the Epoch of Reionization (EoR) remain largely unexplored due to the limitations of existing probes. Owing to discoveries of numerous high-redshift radio-bright sources, the 2…",
+      "published_at": "2026-07-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.15341",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: The Starry Night Redux",
       "summary": "<img align=\"left\" alt=\"Corona Australis Molecular Cloud\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2617a.jpg\" />The 570-megapixel Department of Energy-fabricated Dark Energy Camera (DECam) captures a vibrant scene, filled with sw…",
