@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-21T12:08:37Z",
+  "generated_at": "2026-07-22T12:12:00Z",
   "items": [
     {
-      "title": "Rolling Galileons: Evolving Braiding Strength for Viable Dark Energy",
-      "summary": "arXiv:2607.16395v1 Announce Type: new Abstract: Motivated by growing observational indications that dark energy may be dynamical, we introduce Rolling Galileon gravity: a minimal shift-symmetry-breaking extension of the cubic Galileon in which the coupling coefficients are allowe…",
-      "published_at": "2026-07-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.16395",
+      "title": "Gas Motions in Hydra-A: XRISM Constraints on ICM Kinematics Across Jet-Inflated Cavities",
+      "summary": "arXiv:2607.18315v1 Announce Type: new Abstract: We report on two deep XRISM observations of the central and northern regions of Hydra-A's X-ray atmosphere covering the bubbles inflated by jets from the central galaxy's active galactic nucleus (AGN). We use spatial-spectral mixing…",
+      "published_at": "2026-07-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.18315",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Superorbital variability in the quiescent black hole X-ray transient A0620-00",
-      "summary": "arXiv:2607.16397v1 Announce Type: new Abstract: Quiescent black hole low-mass X-ray binaries provide a key setting for probing accretion physics at low luminosities. A0620-00, the archetypal system in this class, has remained in X-ray quiescence for decades and exhibits complex o…",
-      "published_at": "2026-07-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.16397",
+      "title": "Search for Planetary-mass Black Holes with an Improved Viterbi Algorithm",
+      "summary": "arXiv:2607.18352v1 Announce Type: new Abstract: Primordial black holes in the planetary-mass range have attracted renewed interest; however, the search for gravitational waves from such binaries remains challenging due to their long-lived nature. In this work, we present, define,…",
+      "published_at": "2026-07-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.18352",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Planet-moon ejections in close stellar encounters",
-      "summary": "arXiv:2607.16402v1 Announce Type: new Abstract: Free-floating planet-moon pairs (FFPMs) may form when planetary systems experience close stellar encounters. We quantify moon-retention probabilities and ejection cross sections for planets and planet-moon systems subject to close s…",
-      "published_at": "2026-07-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.16402",
+      "title": "Dissecting the Scalar Cosmological Collider with the Cosmic Microwave Background",
+      "summary": "arXiv:2607.18369v1 Announce Type: new Abstract: The cosmological collider program probes ultra-high-energy physics by searching for subtle oscillatory signatures induced by inflationary particle exchange. Due to the non-linear symmetries usually assumed in inflation, these signal…",
+      "published_at": "2026-07-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.18369",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Cosmological simulations of the high-redshift galaxy population adopting a variable stellar initial mass function",
-      "summary": "arXiv:2607.16404v1 Announce Type: new Abstract: JWST surveys reveal a greater space density of high-redshift UV-bright galaxies than predicted by conventional galaxy formation models. We present results from a $L=100$ cMpc cosmological simulation evolved to $z=5$ with a variation…",
-      "published_at": "2026-07-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.16404",
+      "title": "Late-infall-induced formation of giant planets, multi-generational planetesimals, and disk substructures",
+      "summary": "arXiv:2607.18370v1 Announce Type: new Abstract: Late infall can replenish the building materials of planets in protoplanetary disks and dramatically alter their structural evolution. The resulting pressure bumps effectively accumulate dust, facilitate grain coagulation, and trigg…",
+      "published_at": "2026-07-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.18370",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Goldstone Awakens: Unimodular dark energy in scale-invariant $R^2$ gravity",
-      "summary": "arXiv:2607.16405v1 Announce Type: new Abstract: We construct an $R^2$ cosmology based on scale invariance and unimodular gravity in which the Goldstone boson of dilatations establishes a predictive connection between inflation and dark energy. The conservation of the correspondin…",
-      "published_at": "2026-07-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.16405",
+      "title": "Dark Energy Bubble as Dynamical Dark Energy: Properties and CMB Constraints",
+      "summary": "arXiv:2607.18376v1 Announce Type: new Abstract: Recent DESI results are in tension with the constant dark energy density predicted by the $\\Lambda$CDM model. If dark energy is associated with the vacuum energy of a scalar field in a metastable state, it will undergo a first-order…",
+      "published_at": "2026-07-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.18376",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Case Study of a Super-eccentric Warm Jupiter Migrating via Equilibrium and Dynamical Tides",
-      "summary": "arXiv:2607.16406v1 Announce Type: new Abstract: A leading theory for hot Jupiter formation is high-eccentricity migration, in which planets are born at large separations and excited to near-unity eccentricities, creating extreme tidal dissipation that shrinks and circularizes the…",
-      "published_at": "2026-07-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.16406",
+      "title": "Probing large mass-splitting inelastic Dark Matter with RES-NOVA",
+      "summary": "arXiv:2607.18378v1 Announce Type: new Abstract: Probing inelastic dark matter at large mass splittings requires heavy target nuclei, an extended recoil-energy range, and the high-velocity tail of the dark-matter distribution. We exploit these features with the RES-NOVA prototype…",
+      "published_at": "2026-07-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.18378",
       "tags": [
         "arxiv",
         "astro-ph"
