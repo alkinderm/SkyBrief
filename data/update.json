@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-26T11:45:20Z",
+  "generated_at": "2026-07-27T13:25:09Z",
   "items": [
+    {
+      "title": "Echoes of Star Stories: Integrating Indigenous narratives into modern stellar astrophysics",
+      "summary": "arXiv:2607.21679v1 Announce Type: new Abstract: Indigenous narratives have long preserved observations of celestial phenomena, offering insights that resonate with modern astrophysical research. Deeply embedded in cultural traditions, these stories describe events such as stellar…",
+      "published_at": "2026-07-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.21679",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Detecting habitable exoplanet atmospheres with LIFE, the Large Interferometer for Exoplanets",
+      "summary": "arXiv:2607.21683v1 Announce Type: new Abstract: A key goal of astronomers with the next generation telescopes is to detect signs of life in exoplanet atmospheres. NASA's next flagship is the Habitable Worlds Observatory (HWO). In the context of ESA's Voyage 2050 program, the Seni…",
+      "published_at": "2026-07-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.21683",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Light Antinuclei Coalescence: Femtoscopic Constraints via Neural-Flow Surrogates",
+      "summary": "arXiv:2607.21689v1 Announce Type: new Abstract: Precise predictions of cosmic-ray antinuclei fluxes, a prime dark matter signature, are limited by the lack of data constraining production rates of antinuclei. We mitigate this bottleneck with a fast, differentiable normalizing-flo…",
+      "published_at": "2026-07-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.21689",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Different paths, same appearance: an intermediate-age red nugget at z~0.13",
+      "summary": "arXiv:2607.21696v1 Announce Type: new Abstract: Massive ultra-compact galaxies are commonly regarded as nearby relics of the compact quiescent population at z~2-3, and detailed studies have focused so far only on old systems in dense environments. Here we present a spatially reso…",
+      "published_at": "2026-07-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.21696",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The AGORA High-resolution Galaxy Simulations Comparison Project. IX - Part 1: Effects of a Major Galaxy Merger on Star Formation of a Milky…",
+      "summary": "arXiv:2607.21709v1 Announce Type: new Abstract: Given their highly nonlinear dynamics and sensitivity to initial conditions, galaxy mergers are a compelling area to conduct a simulation code comparison. We perform a comparative study of a major galaxy merger at $z \\approx 4.5$ in…",
+      "published_at": "2026-07-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.21709",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The AGORA High-resolution Galaxy Simulations Comparison Project. IX - Part 2: Effects of a Major Galaxy Merger on the Stellar Morphology of…",
+      "summary": "arXiv:2607.21710v1 Announce Type: new Abstract: Galaxy mergers, with their high sensitivity to initial conditions, provide a valuable setting for comparative studies of galaxy simulation codes. Following our first paper focusing on merger-driven star formation, we present a code…",
+      "published_at": "2026-07-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.21710",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: The Starry Night Redux",
       "summary": "<img align=\"left\" alt=\"Corona Australis Molecular Cloud\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2617a.jpg\" />The 570-megapixel Department of Energy-fabricated Dark Energy Camera (DECam) captures a vibrant scene, filled with sw…",
