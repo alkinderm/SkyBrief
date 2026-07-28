@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-27T13:25:09Z",
+  "generated_at": "2026-07-28T12:22:02Z",
   "items": [
     {
-      "title": "Echoes of Star Stories: Integrating Indigenous narratives into modern stellar astrophysics",
-      "summary": "arXiv:2607.21679v1 Announce Type: new Abstract: Indigenous narratives have long preserved observations of celestial phenomena, offering insights that resonate with modern astrophysical research. Deeply embedded in cultural traditions, these stories describe events such as stellar…",
-      "published_at": "2026-07-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.21679",
+      "title": "Modified electron dispersion relations in degenerate white dwarfs",
+      "summary": "arXiv:2607.22735v1 Announce Type: new Abstract: We investigate how modified electron dispersion relations affect the structure of cold white dwarfs (WDs). The deformation is introduced only in the degenerate electron equation of state, through the energy of a single particle and…",
+      "published_at": "2026-07-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.22735",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Detecting habitable exoplanet atmospheres with LIFE, the Large Interferometer for Exoplanets",
-      "summary": "arXiv:2607.21683v1 Announce Type: new Abstract: A key goal of astronomers with the next generation telescopes is to detect signs of life in exoplanet atmospheres. NASA's next flagship is the Habitable Worlds Observatory (HWO). In the context of ESA's Voyage 2050 program, the Seni…",
-      "published_at": "2026-07-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.21683",
+      "title": "Jointly Modeling Roman Coronagraph Astrometry and Photometry Improves Orbital Parameter Estimates",
+      "summary": "arXiv:2607.22754v1 Announce Type: new Abstract: Launching in 2027, the Nancy Roman Grace Space Telescope (Roman) has the potential to directly image exoplanets in reflected light for the first time. Roman imaging will introduce new constraints on exoplanet orbital parameters, sin…",
+      "published_at": "2026-07-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.22754",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Light Antinuclei Coalescence: Femtoscopic Constraints via Neural-Flow Surrogates",
-      "summary": "arXiv:2607.21689v1 Announce Type: new Abstract: Precise predictions of cosmic-ray antinuclei fluxes, a prime dark matter signature, are limited by the lack of data constraining production rates of antinuclei. We mitigate this bottleneck with a fast, differentiable normalizing-flo…",
-      "published_at": "2026-07-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.21689",
+      "title": "Probing Dark Matter Substructure with Wave-Optics Distortions of Strongly Lensed LISA Gravitational Waves",
+      "summary": "arXiv:2607.22787v1 Announce Type: new Abstract: Strong lensing changes the phase of a gravitational-wave signal as well as its amplitude and arrival time. We study whether this phase information can distinguish three dark-matter structures in the lens: a Navarro--Frenk--White hal…",
+      "published_at": "2026-07-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.22787",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Different paths, same appearance: an intermediate-age red nugget at z~0.13",
-      "summary": "arXiv:2607.21696v1 Announce Type: new Abstract: Massive ultra-compact galaxies are commonly regarded as nearby relics of the compact quiescent population at z~2-3, and detailed studies have focused so far only on old systems in dense environments. Here we present a spatially reso…",
-      "published_at": "2026-07-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.21696",
+      "title": "Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy",
+      "summary": "arXiv:2607.22812v1 Announce Type: new Abstract: Multi-wavelength observations of quadruply lensed quasars constitute a powerful probe of cosmology, dark matter substructure along the line of sight, and the structure of X-ray emitting regions in high-redshift quasars. These invest…",
+      "published_at": "2026-07-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.22812",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The AGORA High-resolution Galaxy Simulations Comparison Project. IX - Part 1: Effects of a Major Galaxy Merger on Star Formation of a Milky…",
-      "summary": "arXiv:2607.21709v1 Announce Type: new Abstract: Given their highly nonlinear dynamics and sensitivity to initial conditions, galaxy mergers are a compelling area to conduct a simulation code comparison. We perform a comparative study of a major galaxy merger at $z \\approx 4.5$ in…",
-      "published_at": "2026-07-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.21709",
+      "title": "Charting the Galactic Underworld I: Comprehensive simulations of the kinematics, rates, and demographics of Milky Way black holes",
+      "summary": "arXiv:2607.22814v1 Announce Type: new Abstract: With upcoming data from Roman, Gaia DR4, and spectroscopic surveys, we will soon have an unprecedented dataset of Milky Way black holes (BHs) to constrain their formation and evolution. To prepare, we simulate the intrinsic populati…",
+      "published_at": "2026-07-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.22814",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The AGORA High-resolution Galaxy Simulations Comparison Project. IX - Part 2: Effects of a Major Galaxy Merger on the Stellar Morphology of…",
-      "summary": "arXiv:2607.21710v1 Announce Type: new Abstract: Galaxy mergers, with their high sensitivity to initial conditions, provide a valuable setting for comparative studies of galaxy simulation codes. Following our first paper focusing on merger-driven star formation, we present a code…",
-      "published_at": "2026-07-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.21710",
+      "title": "A charge-flow instability in plasmas with charge fluctuations",
+      "summary": "arXiv:2607.22815v1 Announce Type: new Abstract: We present a linear instability in magnetized plasmas with charge fluctuations. It is driven by an electric current proportional to the charge chemical potential $\\mu$ and the bulk velocity. This charge-flow (C-flow) instability has…",
+      "published_at": "2026-07-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.22815",
       "tags": [
         "arxiv",
         "astro-ph"
