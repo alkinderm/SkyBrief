@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-28T12:22:02Z",
+  "generated_at": "2026-07-29T12:30:15Z",
   "items": [
     {
-      "title": "Modified electron dispersion relations in degenerate white dwarfs",
-      "summary": "arXiv:2607.22735v1 Announce Type: new Abstract: We investigate how modified electron dispersion relations affect the structure of cold white dwarfs (WDs). The deformation is introduced only in the degenerate electron equation of state, through the energy of a single particle and…",
-      "published_at": "2026-07-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.22735",
+      "title": "Disk-averaged spectrum generation for spherically symmetric planets and moons",
+      "summary": "arXiv:2607.24894v1 Announce Type: new Abstract: Here I present a simple and efficient method for generating a disk-averaged planetary spectrum. The technique uses a weighted average of component spectra generated on an irregular grid of offsets from the planet center. This accoun…",
+      "published_at": "2026-07-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.24894",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Jointly Modeling Roman Coronagraph Astrometry and Photometry Improves Orbital Parameter Estimates",
-      "summary": "arXiv:2607.22754v1 Announce Type: new Abstract: Launching in 2027, the Nancy Roman Grace Space Telescope (Roman) has the potential to directly image exoplanets in reflected light for the first time. Roman imaging will introduce new constraints on exoplanet orbital parameters, sin…",
-      "published_at": "2026-07-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.22754",
+      "title": "CHORD HI-Galaxy Survey Forecasts: Searching for nearby dark galaxies and high redshift giants",
+      "summary": "arXiv:2607.24903v1 Announce Type: new Abstract: Population studies of gas-rich galaxies across the full range of Neutral Hydrogen (HI) masses that galaxies are known to exhibit ($10^5 \\lesssim M_{\\mathrm{HI}} \\lesssim 10^{11} M_{\\odot}$) remain limited by the need to conduct high…",
+      "published_at": "2026-07-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.24903",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Probing Dark Matter Substructure with Wave-Optics Distortions of Strongly Lensed LISA Gravitational Waves",
-      "summary": "arXiv:2607.22787v1 Announce Type: new Abstract: Strong lensing changes the phase of a gravitational-wave signal as well as its amplitude and arrival time. We study whether this phase information can distinguish three dark-matter structures in the lens: a Navarro--Frenk--White hal…",
-      "published_at": "2026-07-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.22787",
+      "title": "Cosmological evolution with decaying dark matter: an integral-equation approach",
+      "summary": "arXiv:2607.24910v1 Announce Type: new Abstract: We present CLASSIER-DDM, an extension of the Boltzmann solver CLASSIER that implements the decaying dark matter (DDM) model via its integral-equation approach. The code handles generic two-body decays of a dark matter particle into…",
+      "published_at": "2026-07-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.24910",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Speeding up Gravitational Lens Mass Models with Machine Learning: Applications in X-ray Astronomy",
-      "summary": "arXiv:2607.22812v1 Announce Type: new Abstract: Multi-wavelength observations of quadruply lensed quasars constitute a powerful probe of cosmology, dark matter substructure along the line of sight, and the structure of X-ray emitting regions in high-redshift quasars. These invest…",
-      "published_at": "2026-07-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.22812",
+      "title": "Vigorous turbulence driven by quasar-mode feedback in a cluster core",
+      "summary": "arXiv:2607.24911v1 Announce Type: new Abstract: Quasars are among the most luminous objects. They are powered by accretion onto supermassive black holes. They are thought to impact cosmological evolution primarily through energetic winds, known as quasar-mode feedback, yet the ef…",
+      "published_at": "2026-07-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.24911",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Charting the Galactic Underworld I: Comprehensive simulations of the kinematics, rates, and demographics of Milky Way black holes",
-      "summary": "arXiv:2607.22814v1 Announce Type: new Abstract: With upcoming data from Roman, Gaia DR4, and spectroscopic surveys, we will soon have an unprecedented dataset of Milky Way black holes (BHs) to constrain their formation and evolution. To prepare, we simulate the intrinsic populati…",
-      "published_at": "2026-07-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.22814",
+      "title": "Correlated signals of ultralight scalar dark matter in pulsar timing",
+      "summary": "arXiv:2607.24912v1 Announce Type: new Abstract: Pulsar timing arrays (PTAs) are sensitive to ultralight dark matter (ULDM) in the $10^{-24}$-$10^{-20}\\,\\mathrm{eV}$ mass range, with existing datasets already probing otherwise open parameter space and future PTAs promising substan…",
+      "published_at": "2026-07-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.24912",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A charge-flow instability in plasmas with charge fluctuations",
-      "summary": "arXiv:2607.22815v1 Announce Type: new Abstract: We present a linear instability in magnetized plasmas with charge fluctuations. It is driven by an electric current proportional to the charge chemical potential $\\mu$ and the bulk velocity. This charge-flow (C-flow) instability has…",
-      "published_at": "2026-07-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.22815",
+      "title": "Interlopers as Signal in Line Intensity Mapping",
+      "summary": "arXiv:2607.24917v1 Announce Type: new Abstract: Line intensity mapping measures the combined emission of atomic and molecular lines from unresolved galaxies, offering a way to map cosmic structure across enormous volumes. A single observed frequency, however, contains emission fr…",
+      "published_at": "2026-07-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.24917",
       "tags": [
         "arxiv",
         "astro-ph"
