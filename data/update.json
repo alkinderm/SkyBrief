@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-29T12:30:15Z",
+  "generated_at": "2026-07-30T12:12:04Z",
   "items": [
     {
-      "title": "Disk-averaged spectrum generation for spherically symmetric planets and moons",
-      "summary": "arXiv:2607.24894v1 Announce Type: new Abstract: Here I present a simple and efficient method for generating a disk-averaged planetary spectrum. The technique uses a weighted average of component spectra generated on an irregular grid of offsets from the planet center. This accoun…",
-      "published_at": "2026-07-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.24894",
+      "title": "Emulating the complex galactic-scale orbital dynamics of LISA massive black hole pairs with normalizing flows",
+      "summary": "arXiv:2607.26125v1 Announce Type: new Abstract: Massive black hole (MBH) pairs, formed in galaxy mergers, may coalesce in a burst of gravitational waves. Estimating the coalescence time-scales and rates is a long-standing astrophysical problem, essential to inform predictions for…",
+      "published_at": "2026-07-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.26125",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "CHORD HI-Galaxy Survey Forecasts: Searching for nearby dark galaxies and high redshift giants",
-      "summary": "arXiv:2607.24903v1 Announce Type: new Abstract: Population studies of gas-rich galaxies across the full range of Neutral Hydrogen (HI) masses that galaxies are known to exhibit ($10^5 \\lesssim M_{\\mathrm{HI}} \\lesssim 10^{11} M_{\\odot}$) remain limited by the need to conduct high…",
-      "published_at": "2026-07-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.24903",
+      "title": "From S2 to LISA: Astrometric Bounds on Extreme-Mass-Ratio Inspirals and Bursts",
+      "summary": "arXiv:2607.26127v1 Announce Type: new Abstract: Stellar orbits around the massive black hole at the center of our galaxy provide a unique local probe of the compact-object population in the Galactic Centre and, consequently, of the sources of millihertz gravitational waves: peria…",
+      "published_at": "2026-07-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.26127",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Cosmological evolution with decaying dark matter: an integral-equation approach",
-      "summary": "arXiv:2607.24910v1 Announce Type: new Abstract: We present CLASSIER-DDM, an extension of the Boltzmann solver CLASSIER that implements the decaying dark matter (DDM) model via its integral-equation approach. The code handles generic two-body decays of a dark matter particle into…",
-      "published_at": "2026-07-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.24910",
+      "title": "The ultra-fast afterglow of GRB 260226A",
+      "summary": "arXiv:2607.26129v1 Announce Type: new Abstract: Long-duration gamma-ray bursts are typically powered by relativistic jets launched after the core collapse of some rapidly rotating massive stars. Internal dissipation releases part of the jet energy as highly variable MeV prompt em…",
+      "published_at": "2026-07-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.26129",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Vigorous turbulence driven by quasar-mode feedback in a cluster core",
-      "summary": "arXiv:2607.24911v1 Announce Type: new Abstract: Quasars are among the most luminous objects. They are powered by accretion onto supermassive black holes. They are thought to impact cosmological evolution primarily through energetic winds, known as quasar-mode feedback, yet the ef…",
-      "published_at": "2026-07-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.24911",
+      "title": "Gamma-ray burst progenitors revisited",
+      "summary": "arXiv:2607.26133v1 Announce Type: new Abstract: Recently, several long-duration gamma-ray bursts (GRBs) associated with kilonovae have cast doubt on the traditional, dichotomous mapping between gamma-ray duration and progenitor system. Here, we investigate the rates and propertie…",
+      "published_at": "2026-07-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.26133",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Correlated signals of ultralight scalar dark matter in pulsar timing",
-      "summary": "arXiv:2607.24912v1 Announce Type: new Abstract: Pulsar timing arrays (PTAs) are sensitive to ultralight dark matter (ULDM) in the $10^{-24}$-$10^{-20}\\,\\mathrm{eV}$ mass range, with existing datasets already probing otherwise open parameter space and future PTAs promising substan…",
-      "published_at": "2026-07-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.24912",
+      "title": "Stellar rotation of S301 as a macroscopic gyroscope to test general relativity",
+      "summary": "arXiv:2607.26134v1 Announce Type: new Abstract: Stellar trajectories around the Galactic Center provide a testing environment for general relativity. The intrinsic rotation of these stars evolves under covariant transport in curved spacetime and classical Newtonian quadrupole tor…",
+      "published_at": "2026-07-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.26134",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Interlopers as Signal in Line Intensity Mapping",
-      "summary": "arXiv:2607.24917v1 Announce Type: new Abstract: Line intensity mapping measures the combined emission of atomic and molecular lines from unresolved galaxies, offering a way to map cosmic structure across enormous volumes. A single observed frequency, however, contains emission fr…",
-      "published_at": "2026-07-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.24917",
+      "title": "The FRB--Galaxy Overdensity Cross-Correlation Statistic in Dispersion Space",
+      "summary": "arXiv:2607.26135v1 Announce Type: new Abstract: Cross-correlating the dispersion of fast radio bursts (FRBs) with galaxies provides a means to study the distribution of the baryons in the Universe, even in the absence of FRB redshifts. To this end, two variants of angular cross-p…",
+      "published_at": "2026-07-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.26135",
       "tags": [
         "arxiv",
         "astro-ph"
