@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-30T12:12:04Z",
+  "generated_at": "2026-07-31T12:28:16Z",
   "items": [
     {
-      "title": "Emulating the complex galactic-scale orbital dynamics of LISA massive black hole pairs with normalizing flows",
-      "summary": "arXiv:2607.26125v1 Announce Type: new Abstract: Massive black hole (MBH) pairs, formed in galaxy mergers, may coalesce in a burst of gravitational waves. Estimating the coalescence time-scales and rates is a long-standing astrophysical problem, essential to inform predictions for…",
-      "published_at": "2026-07-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.26125",
+      "title": "Co-design of ground-based gravitational wave detector networks",
+      "summary": "arXiv:2607.27254v1 Announce Type: new Abstract: Discussions around the design philosophy and location of the next generation of ground-based gravitational wave detectors are still underway. In this context, we propose IfoScout, an innovative methodology for detector co-design bas…",
+      "published_at": "2026-07-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.27254",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "From S2 to LISA: Astrometric Bounds on Extreme-Mass-Ratio Inspirals and Bursts",
-      "summary": "arXiv:2607.26127v1 Announce Type: new Abstract: Stellar orbits around the massive black hole at the center of our galaxy provide a unique local probe of the compact-object population in the Galactic Centre and, consequently, of the sources of millihertz gravitational waves: peria…",
-      "published_at": "2026-07-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.26127",
+      "title": "Assessing the Impact of Instrumental Requirements on the Scientific Performance of the Einstein Telescope",
+      "summary": "arXiv:2607.27311v1 Announce Type: new Abstract: We investigate the relationship between instrumental requirements and the scientific performance of the Einstein Telescope (ET), a third-generation (3G) gravitational-wave (GW) observatory. Different technical design choices result…",
+      "published_at": "2026-07-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.27311",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The ultra-fast afterglow of GRB 260226A",
-      "summary": "arXiv:2607.26129v1 Announce Type: new Abstract: Long-duration gamma-ray bursts are typically powered by relativistic jets launched after the core collapse of some rapidly rotating massive stars. Internal dissipation releases part of the jet energy as highly variable MeV prompt em…",
-      "published_at": "2026-07-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.26129",
+      "title": "Non-linear Evolution of Dark Plasma Subhalos",
+      "summary": "arXiv:2607.27312v1 Announce Type: new Abstract: Dark matter that self interacts through long-range forces exhibits coherent, collective effects that are absent in short-range interactions. In the case where dark matter interacts through a hidden-photon mediator, its dynamics clos…",
+      "published_at": "2026-07-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.27312",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Gamma-ray burst progenitors revisited",
-      "summary": "arXiv:2607.26133v1 Announce Type: new Abstract: Recently, several long-duration gamma-ray bursts (GRBs) associated with kilonovae have cast doubt on the traditional, dichotomous mapping between gamma-ray duration and progenitor system. Here, we investigate the rates and propertie…",
-      "published_at": "2026-07-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.26133",
+      "title": "Semi-analytic Inference of Satellite Densities in the Cold Dark Matter Model Part I. Comparison to Ultra-faint Dwarf Kinematics",
+      "summary": "arXiv:2607.27316v1 Announce Type: new Abstract: Ultra-faint dwarf galaxies are critical testing grounds for probing the limits of galaxy formation in the cold dark matter (CDM) paradigm. Employing a semi-analytic cosmological satellite generator that captures the expected CDM hal…",
+      "published_at": "2026-07-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.27316",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Stellar rotation of S301 as a macroscopic gyroscope to test general relativity",
-      "summary": "arXiv:2607.26134v1 Announce Type: new Abstract: Stellar trajectories around the Galactic Center provide a testing environment for general relativity. The intrinsic rotation of these stars evolves under covariant transport in curved spacetime and classical Newtonian quadrupole tor…",
-      "published_at": "2026-07-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.26134",
+      "title": "Superdiffusion at the Galactic Centre",
+      "summary": "arXiv:2607.27317v1 Announce Type: new Abstract: Tracking S-star cluster orbits around Sgr A* calibrates orbital transport models for space-borne gravitational wave detectors. Standard kinetic theories model this cluster via local Fokker-Planck equations, which predict that genera…",
+      "published_at": "2026-07-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.27317",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The FRB--Galaxy Overdensity Cross-Correlation Statistic in Dispersion Space",
-      "summary": "arXiv:2607.26135v1 Announce Type: new Abstract: Cross-correlating the dispersion of fast radio bursts (FRBs) with galaxies provides a means to study the distribution of the baryons in the Universe, even in the absence of FRB redshifts. To this end, two variants of angular cross-p…",
-      "published_at": "2026-07-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.26135",
+      "title": "The influence of feedback on the baryonic content of haloes in the COLIBRE simulations",
+      "summary": "arXiv:2607.27319v1 Announce Type: new Abstract: We present predictions for the relation between the halo gas mass fraction and halo mass, $f_{\\rm gas}^{200}-M_{200}$, from the COLIBRE cosmological simulations of galaxy formation, and explore how the gas content of haloes is influ…",
+      "published_at": "2026-07-31T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.27319",
       "tags": [
         "arxiv",
         "astro-ph"
