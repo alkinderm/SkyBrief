@@ -1,95 +1,19 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-07-31T12:28:16Z",
+  "generated_at": "2026-08-01T11:43:24Z",
   "items": [
     {
-      "title": "Co-design of ground-based gravitational wave detector networks",
-      "summary": "arXiv:2607.27254v1 Announce Type: new Abstract: Discussions around the design philosophy and location of the next generation of ground-based gravitational wave detectors are still underway. In this context, we propose IfoScout, an innovative methodology for detector co-design bas…",
-      "published_at": "2026-07-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.27254",
+      "title": "Photo Release: NSF–DOE Rubin Observatory Opens Deep Window on Famous Cosmic Field",
+      "summary": "<img align=\"left\" alt=\"Rubin Looks Deep Into a Famous Cosmic Field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2618a.jpg\" />A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region o…",
+      "published_at": "2026-07-31T20:20:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2618/",
       "tags": [
-        "arxiv",
-        "astro-ph"
+        "noirlab"
       ],
       "source": {
-        "name": "arXiv astro-ph (recent)",
+        "name": "NOIRLab News",
         "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Assessing the Impact of Instrumental Requirements on the Scientific Performance of the Einstein Telescope",
-      "summary": "arXiv:2607.27311v1 Announce Type: new Abstract: We investigate the relationship between instrumental requirements and the scientific performance of the Einstein Telescope (ET), a third-generation (3G) gravitational-wave (GW) observatory. Different technical design choices result…",
-      "published_at": "2026-07-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.27311",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Non-linear Evolution of Dark Plasma Subhalos",
-      "summary": "arXiv:2607.27312v1 Announce Type: new Abstract: Dark matter that self interacts through long-range forces exhibits coherent, collective effects that are absent in short-range interactions. In the case where dark matter interacts through a hidden-photon mediator, its dynamics clos…",
-      "published_at": "2026-07-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.27312",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Semi-analytic Inference of Satellite Densities in the Cold Dark Matter Model Part I. Comparison to Ultra-faint Dwarf Kinematics",
-      "summary": "arXiv:2607.27316v1 Announce Type: new Abstract: Ultra-faint dwarf galaxies are critical testing grounds for probing the limits of galaxy formation in the cold dark matter (CDM) paradigm. Employing a semi-analytic cosmological satellite generator that captures the expected CDM hal…",
-      "published_at": "2026-07-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.27316",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Superdiffusion at the Galactic Centre",
-      "summary": "arXiv:2607.27317v1 Announce Type: new Abstract: Tracking S-star cluster orbits around Sgr A* calibrates orbital transport models for space-borne gravitational wave detectors. Standard kinetic theories model this cluster via local Fokker-Planck equations, which predict that genera…",
-      "published_at": "2026-07-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.27317",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "The influence of feedback on the baryonic content of haloes in the COLIBRE simulations",
-      "summary": "arXiv:2607.27319v1 Announce Type: new Abstract: We present predictions for the relation between the halo gas mass fraction and halo mass, $f_{\\rm gas}^{200}-M_{200}$, from the COLIBRE cosmological simulations of galaxy formation, and explore how the gas content of haloes is influ…",
-      "published_at": "2026-07-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.27319",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +77,6 @@
       "summary": "<img align=\"left\" alt=\"NGC 1514: The Crystal Ball Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2613a.jpg\" />The 8.1-meter Gemini North telescope, located on the summit of Maunakea in Hawai‘i, has captured NGC 1514, nicknamed…",
       "published_at": "2026-05-21T19:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2613/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Sombrero Galaxy: The Universe’s Dusty Brimmed Hat Revealed Like Never Before",
-      "summary": "<img align=\"left\" alt=\"Sombrero Galaxy: The Universe’s Dusty Brimmed Hat\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2612a.jpg\" />Messier 104, nicknamed the Sombrero Galaxy, is a popular target for amateur observing and astronomic…",
-      "published_at": "2026-04-24T15:27:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2612/",
       "tags": [
         "noirlab"
       ],
