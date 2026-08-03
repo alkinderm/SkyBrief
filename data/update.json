@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-02T11:43:01Z",
+  "generated_at": "2026-08-03T13:25:10Z",
   "items": [
+    {
+      "title": "Understanding constraints on primordial mass black holes made of dark matter using fast radio bursts",
+      "summary": "arXiv:2607.28704v1 Announce Type: new Abstract: In recent decades, a multitude of modified gravity theories have been proposed to address a variety of cosmological and astrophysical problems. While many of these theories remain viable, observational constraints on their parameter…",
+      "published_at": "2026-08-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.28704",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Single Frequency CMB Foreground Removal with Inter-scale Machine Learning",
+      "summary": "arXiv:2607.28712v1 Announce Type: new Abstract: Accurate measurements of Cosmic Microwave Background (CMB) B-mode polarization, a key probe of inflationary physics, are hindered by complex Galactic dust foregrounds. Traditional foreground removal with Internal Linear Combination…",
+      "published_at": "2026-08-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.28712",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Searching for Population III stars with line intensity mapping cross-correlations",
+      "summary": "arXiv:2607.28713v1 Announce Type: new Abstract: Decades of searches for Population III stars in individual galaxies have yielded a few potential candidates, but a statistically robust characterization of the demographics of the first stars in the lowest-mass systems remains elusi…",
+      "published_at": "2026-08-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.28713",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Peering through the dip: IXPE unveils the extended scattering environment of GX 13+1",
+      "summary": "arXiv:2607.28714v1 Announce Type: new Abstract: Neutron star low-mass X-ray binaries feature complex accretion geometries, often including an accretion disk corona or disk winds. Here, a study of the highly inclined dipping source GX 13+1, using coordinated observations from the…",
+      "published_at": "2026-08-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.28714",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Misaligned or chaotic? A strong break of axial symmetry in the local LRD J1025 revealed with VLT/FORS2 spectropolarimetry",
+      "summary": "arXiv:2607.28715v1 Announce Type: new Abstract: Little Red Dots (LRDs) are compact active galactic nuclei (AGN) with unusual spectral energy distributions and broad Balmer emission, candidate signposts of rapid black-hole growth. We present VLT/FORS2 optical linear spectropolarim…",
+      "published_at": "2026-08-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.28715",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Atmospheric Signatures of Common Envelope Evolution in White Dwarf Planets",
+      "summary": "arXiv:2607.28717v1 Announce Type: new Abstract: The majority of confirmed exoplanets orbit within 1 au of a main-sequence (MS) star. When their stellar hosts evolve off the MS, many of these planets will be engulfed and destroyed, creating empty \"forbidden\" zones around the stars…",
+      "published_at": "2026-08-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2607.28717",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: NSF–DOE Rubin Observatory Opens Deep Window on Famous Cosmic Field",
       "summary": "<img align=\"left\" alt=\"Rubin Looks Deep Into a Famous Cosmic Field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2618a.jpg\" />A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region o…",
