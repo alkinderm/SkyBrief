@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-03T13:25:10Z",
+  "generated_at": "2026-08-04T12:26:13Z",
   "items": [
     {
-      "title": "Understanding constraints on primordial mass black holes made of dark matter using fast radio bursts",
-      "summary": "arXiv:2607.28704v1 Announce Type: new Abstract: In recent decades, a multitude of modified gravity theories have been proposed to address a variety of cosmological and astrophysical problems. While many of these theories remain viable, observational constraints on their parameter…",
-      "published_at": "2026-08-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.28704",
+      "title": "SMDET-1: a Nearby Y Dwarf Candidate",
+      "summary": "arXiv:2608.00046v1 Announce Type: new Abstract: We present the discovery of SMDET-1, a red, fast-moving object ($\\mu \\approx 1.3$\"/yr) identified in time-resolved unWISE coadds using a pixel-level deep learning methodology called SMDET. Despite being relatively bright at 4.5 micr…",
+      "published_at": "2026-08-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.00046",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Single Frequency CMB Foreground Removal with Inter-scale Machine Learning",
-      "summary": "arXiv:2607.28712v1 Announce Type: new Abstract: Accurate measurements of Cosmic Microwave Background (CMB) B-mode polarization, a key probe of inflationary physics, are hindered by complex Galactic dust foregrounds. Traditional foreground removal with Internal Linear Combination…",
-      "published_at": "2026-08-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.28712",
+      "title": "The critical role of HST UV spectroscopy in constraining red supergiant binary systems",
+      "summary": "arXiv:2608.00128v1 Announce Type: new Abstract: The Hubble Space Telescope (HST) has advanced our knowledge of stellar evolution thanks to its unique high-spectral resolution and high-sensitivity capabilities in the UV region, especially for hot massive stars. Within the field of…",
+      "published_at": "2026-08-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.00128",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Searching for Population III stars with line intensity mapping cross-correlations",
-      "summary": "arXiv:2607.28713v1 Announce Type: new Abstract: Decades of searches for Population III stars in individual galaxies have yielded a few potential candidates, but a statistically robust characterization of the demographics of the first stars in the lowest-mass systems remains elusi…",
-      "published_at": "2026-08-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.28713",
+      "title": "Evidence for a thermal pressure deficit in galaxy groups from the tSZ effect and weak lensing",
+      "summary": "arXiv:2608.00164v1 Announce Type: new Abstract: Measurements of the thermal Sunyaev-Zel'dovich (tSZ) effect have yet to form a consistent picture of the thermodynamic state of the gas in the intracluster medium: their interpretation is complicated by foreground contamination and…",
+      "published_at": "2026-08-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.00164",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Peering through the dip: IXPE unveils the extended scattering environment of GX 13+1",
-      "summary": "arXiv:2607.28714v1 Announce Type: new Abstract: Neutron star low-mass X-ray binaries feature complex accretion geometries, often including an accretion disk corona or disk winds. Here, a study of the highly inclined dipping source GX 13+1, using coordinated observations from the…",
-      "published_at": "2026-08-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.28714",
+      "title": "The Dynamics of Planetary Ejection",
+      "summary": "arXiv:2608.00173v1 Announce Type: new Abstract: The ubiquity of free-floating planets inferred from microlensing and direct imaging surveys suggests that planetary ejection---a process in which planets initially born encircling a stellar host become gravitationally unbound---is c…",
+      "published_at": "2026-08-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.00173",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Misaligned or chaotic? A strong break of axial symmetry in the local LRD J1025 revealed with VLT/FORS2 spectropolarimetry",
-      "summary": "arXiv:2607.28715v1 Announce Type: new Abstract: Little Red Dots (LRDs) are compact active galactic nuclei (AGN) with unusual spectral energy distributions and broad Balmer emission, candidate signposts of rapid black-hole growth. We present VLT/FORS2 optical linear spectropolarim…",
-      "published_at": "2026-08-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.28715",
+      "title": "On Bimodality in the Eccentricity Distribution of Galactic Double Neutron Stars",
+      "summary": "arXiv:2608.00174v1 Announce Type: new Abstract: The detection of Galactic double neutron stars (DNSs) through pulsar timing offers a unique opportunity to probe massive stellar and binary evolution. The observed DNS population exhibits an apparently bimodal eccentricity distribut…",
+      "published_at": "2026-08-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.00174",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Atmospheric Signatures of Common Envelope Evolution in White Dwarf Planets",
-      "summary": "arXiv:2607.28717v1 Announce Type: new Abstract: The majority of confirmed exoplanets orbit within 1 au of a main-sequence (MS) star. When their stellar hosts evolve off the MS, many of these planets will be engulfed and destroyed, creating empty \"forbidden\" zones around the stars…",
-      "published_at": "2026-08-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2607.28717",
+      "title": "An upgraded frequency-selectable laser source (FLS) calibrator for CMB bandpass characterization",
+      "summary": "arXiv:2608.00192v1 Announce Type: new Abstract: One of the biggest challenges for Cosmic Microwave Background (CMB) experiments comes from the uncertainty in instrument bandpass calibration. Uncertainties in bandpass can limit foreground removal and spectral fitting, which are cr…",
+      "published_at": "2026-08-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.00192",
       "tags": [
         "arxiv",
         "astro-ph"
