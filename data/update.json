@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-04T12:26:13Z",
+  "generated_at": "2026-08-05T12:23:37Z",
   "items": [
     {
-      "title": "SMDET-1: a Nearby Y Dwarf Candidate",
-      "summary": "arXiv:2608.00046v1 Announce Type: new Abstract: We present the discovery of SMDET-1, a red, fast-moving object ($\\mu \\approx 1.3$\"/yr) identified in time-resolved unWISE coadds using a pixel-level deep learning methodology called SMDET. Despite being relatively bright at 4.5 micr…",
-      "published_at": "2026-08-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.00046",
+      "title": "Something new under the Sun: A magnetically driven CH/CN anti-correlation",
+      "summary": "arXiv:2608.02721v1 Announce Type: new Abstract: Spectroscopic monitoring surveys have shown that the magnetic cycle alters the photospheric structure of the Sun, perturbing the formation of molecular lines. In parallel, the study of Globular Clusters has remained centred on the m…",
+      "published_at": "2026-08-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.02721",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The critical role of HST UV spectroscopy in constraining red supergiant binary systems",
-      "summary": "arXiv:2608.00128v1 Announce Type: new Abstract: The Hubble Space Telescope (HST) has advanced our knowledge of stellar evolution thanks to its unique high-spectral resolution and high-sensitivity capabilities in the UV region, especially for hot massive stars. Within the field of…",
-      "published_at": "2026-08-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.00128",
+      "title": "The Research Impact of the Jodrell Bank Observatory and Other Facilities affected by the UK Science Funding Cuts in 2025",
+      "summary": "arXiv:2608.02723v1 Announce Type: new Abstract: The United Kingdom Research and Innovation body and the Science and Technology Facilities Council recently announced funding cuts to facilities at the Jodrell Bank Observatory, specifically the e-MERLIN network of radio telescopes a…",
+      "published_at": "2026-08-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.02723",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Evidence for a thermal pressure deficit in galaxy groups from the tSZ effect and weak lensing",
-      "summary": "arXiv:2608.00164v1 Announce Type: new Abstract: Measurements of the thermal Sunyaev-Zel'dovich (tSZ) effect have yet to form a consistent picture of the thermodynamic state of the gas in the intracluster medium: their interpretation is complicated by foreground contamination and…",
-      "published_at": "2026-08-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.00164",
+      "title": "AT 2022csn: A Photometrically Peculiar Optical/UV Tidal Disruption Event in a Type II AGN",
+      "summary": "arXiv:2608.02725v1 Announce Type: new Abstract: The emission mechanism and host galaxy preference of optical/UV tidal disruption events (TDEs) are still not entirely understood. We present observations of the TDE AT 2022csn, which is one of the most distant (d_L~726 Mpc) and lumi…",
+      "published_at": "2026-08-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.02725",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The Dynamics of Planetary Ejection",
-      "summary": "arXiv:2608.00173v1 Announce Type: new Abstract: The ubiquity of free-floating planets inferred from microlensing and direct imaging surveys suggests that planetary ejection---a process in which planets initially born encircling a stellar host become gravitationally unbound---is c…",
-      "published_at": "2026-08-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.00173",
+      "title": "The Fornax Cluster VLT Spectroscopic Survey - V. Mass modelling of the BCG NGC 1399 out to 150 kpc",
+      "summary": "arXiv:2608.02730v1 Announce Type: new Abstract: NGC 1399, the bright central galaxy of the Fornax cluster, hosts an extensive population of globular clusters (GCs) extending beyond 200 kpc into its outer halo, about 6.5 effective radii (Re). We conducted dynamical mass modelling…",
+      "published_at": "2026-08-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.02730",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "On Bimodality in the Eccentricity Distribution of Galactic Double Neutron Stars",
-      "summary": "arXiv:2608.00174v1 Announce Type: new Abstract: The detection of Galactic double neutron stars (DNSs) through pulsar timing offers a unique opportunity to probe massive stellar and binary evolution. The observed DNS population exhibits an apparently bimodal eccentricity distribut…",
-      "published_at": "2026-08-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.00174",
+      "title": "Galaxy-LRD Strong Lenses: A Missing Population?",
+      "summary": "arXiv:2608.02739v1 Announce Type: new Abstract: The physical nature of Little Red Dots (LRDs) remains uncertain, although these abundant, compact, and red sources may offer important insights into early black-hole growth and galaxy formation. Strong gravitational lensing can magn…",
+      "published_at": "2026-08-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.02739",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "An upgraded frequency-selectable laser source (FLS) calibrator for CMB bandpass characterization",
-      "summary": "arXiv:2608.00192v1 Announce Type: new Abstract: One of the biggest challenges for Cosmic Microwave Background (CMB) experiments comes from the uncertainty in instrument bandpass calibration. Uncertainties in bandpass can limit foreground removal and spectral fitting, which are cr…",
-      "published_at": "2026-08-04T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.00192",
+      "title": "A \"Neutrino Fog\" For Gravitational Waves: The Stochastic Gravitational Wave Background from Supernova Neutrino Memory",
+      "summary": "arXiv:2608.02747v1 Announce Type: new Abstract: Gravitational waves originating from unresolved sources, or stochastic gravitational wave backgrounds (SGWBs), carry precious information about the physics underlying their diverse sources, and represent an important target for futu…",
+      "published_at": "2026-08-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.02747",
       "tags": [
         "arxiv",
         "astro-ph"
