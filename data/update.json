@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-06T12:26:25Z",
+  "generated_at": "2026-08-07T11:23:08Z",
   "items": [
     {
-      "title": "Charged Clouds of Ionized Gas Emerge from Tribocharging Grains",
-      "summary": "arXiv:2608.04062v1 Announce Type: new Abstract: If two solid particles collide, charge is exchanged. However, this transfer is not restricted to the surface of the particle. Ions are also dispersed into the environment. They form a charge cloud around the particle. In this way, a…",
-      "published_at": "2026-08-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.04062",
+      "title": "Equivalence of mapping gravitational wave background anisotropy across bases at equal information content",
+      "summary": "arXiv:2608.05200v1 Announce Type: new Abstract: Mapping anisotropies in the gravitational-wave background (GWB) requires choosing a basis to represent the sky intensity, such as pixel and spherical harmonic bases. Each introduces a truncation---e.g., a number of pixels or a maxim…",
+      "published_at": "2026-08-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.05200",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "The most extreme high-z radio quasars in the eRASS:1 X-ray survey",
-      "summary": "arXiv:2608.04078v1 Announce Type: new Abstract: We present the selection and identification of high-z radio quasars from a combination of X-ray (eROSITA All-Sky Survey), optical/NIR (DECam Local Volume Exploration), and radio (Rapid ASKAP Continuum Survey) surveys. After building…",
-      "published_at": "2026-08-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.04078",
+      "title": "Inventories of Rich Carbon-Chain Chemistry in Prestellar and Starless Cores in the Perseus Molecular Cloud",
+      "summary": "arXiv:2608.05264v1 Announce Type: new Abstract: Carbon-chain molecules serve as an important reservoir of reactive organic matter that will eventually be incorporated into protoplanetary disks, planets, and cometary material. Prestellar and starless cores are composed of cold (~…",
+      "published_at": "2026-08-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.05264",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Cosmological constraints and standard sirens forecasts for non-dynamical dark energy in Horndeski gravity",
-      "summary": "arXiv:2608.04079v1 Announce Type: new Abstract: We investigate an analytically tractable sector of the Extended Cuscuton model, a non-dynamical dark-energy realization within the framework of viable Horndeski gravity. We focus on four benchmark submodels and constrain them with c…",
-      "published_at": "2026-08-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.04079",
+      "title": "Where did all the Little Red Dots go? The abundance of LRD analogues among objects with broad lines at $z < 0.35$",
+      "summary": "arXiv:2608.05267v1 Announce Type: new Abstract: One of the most puzzling discoveries since the launch of the James Webb Space Telescope is a numerous population of sources at high redshift nicknamed ``Little Red Dots'' (LRDs). Characterized by broad Balmer emission lines, compact…",
+      "published_at": "2026-08-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.05267",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The Most Dangerous Seed: Nonlinear Optimal Perturbations in Rayleigh-Taylor Instability",
-      "summary": "arXiv:2608.04085v1 Announce Type: new Abstract: Long-term instabilities in astrophysical fluids are inherently nonlinear, where even small-amplitude perturbations can trigger dramatic instability. However, owing to the complex interactions among non-normal modes, the perturbation…",
-      "published_at": "2026-08-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.04085",
+      "title": "A Galactic intermediate-mass stripped star with a Wolf-Rayet-like wind",
+      "summary": "arXiv:2608.05276v1 Announce Type: new Abstract: Binary interaction in massive stars is expected to produce a large population of intermediate-mass ($2$-$8$ M$_\\odot$) envelope-stripped stars, yet such objects have remained elusive in the Milky Way. We report the identification of…",
+      "published_at": "2026-08-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.05276",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Self-consistent 1D modelling of Jupiter's upper atmosphere as an exoplanet analogue",
-      "summary": "arXiv:2608.04086v1 Announce Type: new Abstract: Jupiter's upper atmosphere provides a real-world laboratory for validating first-principles models of giant gaseous exoplanets and for constraining the key physical processes that govern them. We extended the 1D first-principles the…",
-      "published_at": "2026-08-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.04086",
+      "title": "On the Origin of the Ly$\\alpha$ Damping Wing in Galaxies at $8\\le z \\le 10$: Explorations using the NINJA Simulations",
+      "summary": "arXiv:2608.05281v1 Announce Type: new Abstract: Ly$\\alpha$ damping wing measurements of galaxies at $7\\leq z\\leq14$ with the JWST provide a powerful probe of the Epoch of Reionization. We combine the large-scale cosmological hydrodynamical NINJA simulations with an idealized ioni…",
+      "published_at": "2026-08-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.05281",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Predicting the Kinematics of the Cold Circumgalactic Medium from its Morphology using Convolutional Neural Networks",
-      "summary": "arXiv:2608.04087v1 Announce Type: new Abstract: We present a novel approach to predicting plane-of-sky velocities of cold gas clouds in the circumgalactic medium (CGM) of galaxies. The method uses a convolutional neural network (CNN) trained on simulated emission maps derived fro…",
-      "published_at": "2026-08-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.04087",
+      "title": "Emission line formation in scattering dominated media: implications for LRDs",
+      "summary": "arXiv:2608.05283v1 Announce Type: new Abstract: Recent JWST observations of ``Little Red Dots'' (LRDs) reveal broad and prominent Balmer emission lines. We present a theoretical framework for intrinsic emission line formation and broadening within static, optically thick, scatter…",
+      "published_at": "2026-08-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.05283",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,90 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: Astronomers Catch Massive Star’s Death From the First Explosive Moment",
+      "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin image of the field around the progenitor to supernova SN 2026gzf\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2619a.jpg\" />A rare cosmic explosion has given astronomers an unprecedented view of…",
+      "published_at": "2026-08-05T15:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2619/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Photo Release: NSF–DOE Rubin Observatory Opens Deep Window on Famous Cosmic Field",
+      "summary": "<img align=\"left\" alt=\"Rubin Looks Deep Into a Famous Cosmic Field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2618a.jpg\" />A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region o…",
+      "published_at": "2026-07-31T20:20:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2618/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Photo Release: The Starry Night Redux",
+      "summary": "<img align=\"left\" alt=\"Corona Australis Molecular Cloud\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2617a.jpg\" />The 570-megapixel Department of Energy-fabricated Dark Energy Camera (DECam) captures a vibrant scene, filled with sw…",
+      "published_at": "2026-07-16T16:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2617/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Organization Release: Action! NSF–DOE Vera C. Rubin Observatory Begins Capturing the Greatest Cosmic Movie Ever Made",
+      "summary": "<img align=\"left\" alt=\"Ocean of Stars\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2616a.jpg\" />The wait is over: NSF–DOE Rubin Observatory, funded by the U.S. National Science Foundation and the U.S. Department of Energy’s Office…",
+      "published_at": "2026-06-30T15:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2616/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Science Release: Tracing a Neutrino Ghost to Distant “Shadow Blaster” Galaxy",
+      "summary": "<img align=\"left\" alt=\"Composite of Gemini North and ALMA images of &quot;Shadow Blaster&quot;\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2615a.jpg\" />A team of astronomers has identified a remarkably bright, gravitationally-lens…",
+      "published_at": "2026-06-17T09:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2615/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
+      "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
+      "published_at": "2026-06-02T09:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2614/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     }
   ]
