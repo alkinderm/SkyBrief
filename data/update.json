@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-09T11:02:49Z",
+  "generated_at": "2026-08-10T11:30:26Z",
   "items": [
+    {
+      "title": "The Early Career Astrobiology Workforce Under Strain Survey Evidence from 2025-2026",
+      "summary": "arXiv:2608.06431v1 Announce Type: new Abstract: A survey of self identified early career astrobiologists was organized by the NOW early career group FLOW and the Scientific Society of Astrobiology. During November 2025 to February 2026, 165 responses were collected to gain insigh…",
+      "published_at": "2026-08-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.06431",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Atmospheric Light Pollution by Proposed Reflect Orbital Space Mirrors",
+      "summary": "arXiv:2608.06433v1 Announce Type: new Abstract: ReflectOrbital is planning to launch a $18\\times18$\\,m mirror in space at a $\\sim$600\\,km altitude to illuminate a $2.5$\\,km radius circular patch on Earth. The pilot satellite, called EARENDIL-1, is a pathfinder for a constellation…",
+      "published_at": "2026-08-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.06433",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Spectroscopic follow-up of compact object binary candidates from Gaia DR3: White dwarfs, neutron stars, black holes, and the parallax zeropo…",
+      "summary": "arXiv:2608.06453v1 Announce Type: new Abstract: Astrometry and radial velocities (RVs) from Gaia DR3 yielded orbits for hundreds of thousands of binary systems, including several samples proposed to contain black holes (BHs), neutron stars (NSs), and white dwarfs (WDs). We presen…",
+      "published_at": "2026-08-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.06453",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Sonora Substellar Atmosphere Models. VII. Flame Skimmer: Cloud-free Atmospheric and Evolutionary Models for the Coldest Substellar Objec…",
+      "summary": "arXiv:2608.06454v1 Announce Type: new Abstract: JWST has provided unprecedented access to ultra-cool brown dwarfs and has pushed the boundaries of directly imaging temperate giant planets. As we continue to push toward detecting sub-Saturn and Neptune-like planets, it is crucial…",
+      "published_at": "2026-08-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.06454",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Beyond Feedback: Disentangling Baryonic Effects with tSZ$\\times$FRB Cross-Correlations",
+      "summary": "arXiv:2608.06455v1 Announce Type: new Abstract: Standard observational probes lack the sensitivity to characterize the interplay between feedback-driven gas ejection and non-thermal pressure support in groups and clusters, and current models lack the framework to disentangle it.…",
+      "published_at": "2026-08-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.06455",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Geometry of dust rings in protoplanetary disks: the case of LkCa 15",
+      "summary": "arXiv:2608.06457v1 Announce Type: new Abstract: Dust properties in proto-planetary disks shape the pathways for planet formation. Here, we present a method to measure these properties in moderately inclined dust rings. Our method exploits the simple geometric fact that, for such…",
+      "published_at": "2026-08-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.06457",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Astronomers Catch Massive Star’s Death From the First Explosive Moment",
       "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin image of the field around the progenitor to supernova SN 2026gzf\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2619a.jpg\" />A rare cosmic explosion has given astronomers an unprecedented view of…",
