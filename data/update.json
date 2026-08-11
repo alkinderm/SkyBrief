@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-10T11:30:26Z",
+  "generated_at": "2026-08-11T11:21:39Z",
   "items": [
     {
-      "title": "The Early Career Astrobiology Workforce Under Strain Survey Evidence from 2025-2026",
-      "summary": "arXiv:2608.06431v1 Announce Type: new Abstract: A survey of self identified early career astrobiologists was organized by the NOW early career group FLOW and the Scientific Society of Astrobiology. During November 2025 to February 2026, 165 responses were collected to gain insigh…",
-      "published_at": "2026-08-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.06431",
+      "title": "Environmental Noise Challenges for the Einstein Telescope - A Review",
+      "summary": "arXiv:2608.07633v1 Announce Type: new Abstract: Einstein Telescope (ET) will be a next-generation ground based interferometric gravitational-wave detector designed to explore the Universe to an unprecedented depth and detail. With its 10-15 km long arms, underground infrastructur…",
+      "published_at": "2026-08-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.07633",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Atmospheric Light Pollution by Proposed Reflect Orbital Space Mirrors",
-      "summary": "arXiv:2608.06433v1 Announce Type: new Abstract: ReflectOrbital is planning to launch a $18\\times18$\\,m mirror in space at a $\\sim$600\\,km altitude to illuminate a $2.5$\\,km radius circular patch on Earth. The pilot satellite, called EARENDIL-1, is a pathfinder for a constellation…",
-      "published_at": "2026-08-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.06433",
+      "title": "Constraints on magnetic monopoles from X-ray observations of neutron stars",
+      "summary": "arXiv:2608.07652v1 Announce Type: new Abstract: Magnetic monopoles are captured efficiently by neutron stars, and if they catalyze nucleon decay, the decay products would thermalize and generate observable X-ray surface emission. We use archival Chandra, XMM-Newton, and Swift-XRT…",
+      "published_at": "2026-08-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.07652",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Spectroscopic follow-up of compact object binary candidates from Gaia DR3: White dwarfs, neutron stars, black holes, and the parallax zeropo…",
-      "summary": "arXiv:2608.06453v1 Announce Type: new Abstract: Astrometry and radial velocities (RVs) from Gaia DR3 yielded orbits for hundreds of thousands of binary systems, including several samples proposed to contain black holes (BHs), neutron stars (NSs), and white dwarfs (WDs). We presen…",
-      "published_at": "2026-08-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.06453",
+      "title": "Deus ex $H_0$ -- Is evidence for dynamical dark energy conditioned on early cosmology?",
+      "summary": "arXiv:2608.07654v1 Announce Type: new Abstract: Some free-form reconstructions of the dark energy equation of state suggest that dynamical dark energy is the only explanation for the observed data. In this letter we argue that early Universe solutions to the Hubble tension (aroun…",
+      "published_at": "2026-08-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.07654",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The Sonora Substellar Atmosphere Models. VII. Flame Skimmer: Cloud-free Atmospheric and Evolutionary Models for the Coldest Substellar Objec…",
-      "summary": "arXiv:2608.06454v1 Announce Type: new Abstract: JWST has provided unprecedented access to ultra-cool brown dwarfs and has pushed the boundaries of directly imaging temperate giant planets. As we continue to push toward detecting sub-Saturn and Neptune-like planets, it is crucial…",
-      "published_at": "2026-08-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.06454",
+      "title": "GLOW I: Comprehensive Measurements of Gas-Rich, Star-Forming, Low-Mass Galaxies in the Nearby Universe",
+      "summary": "arXiv:2608.07659v1 Announce Type: new Abstract: Gas-rich, star-forming, low-mass galaxies in the nearby universe are powerful laboratories for studying baryonic physics in detail including: stellar mass assembly, stellar feedback, chemical enrichment, and the interplay of the int…",
+      "published_at": "2026-08-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.07659",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Beyond Feedback: Disentangling Baryonic Effects with tSZ$\\times$FRB Cross-Correlations",
-      "summary": "arXiv:2608.06455v1 Announce Type: new Abstract: Standard observational probes lack the sensitivity to characterize the interplay between feedback-driven gas ejection and non-thermal pressure support in groups and clusters, and current models lack the framework to disentangle it.…",
-      "published_at": "2026-08-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.06455",
+      "title": "Wild behaviour near the finish line: the Type Ibn SN 2020able and its stratified environment",
+      "summary": "arXiv:2608.07661v1 Announce Type: new Abstract: We present spectrophotometric observations of the Type Ibn supernova SN~2020able, along with a comprehensive analysis and modelling of its evolution. The transient occurred in SDSS J092602.93+243115.1, a faint host galaxy characteri…",
+      "published_at": "2026-08-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.07661",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Geometry of dust rings in protoplanetary disks: the case of LkCa 15",
-      "summary": "arXiv:2608.06457v1 Announce Type: new Abstract: Dust properties in proto-planetary disks shape the pathways for planet formation. Here, we present a method to measure these properties in moderately inclined dust rings. Our method exploits the simple geometric fact that, for such…",
-      "published_at": "2026-08-10T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.06457",
+      "title": "GLOW II: A Census of Oxygen in Low-Mass Galaxies",
+      "summary": "arXiv:2608.07665v1 Announce Type: new Abstract: Oxygen is forged by stars and redistributed through galaxies by feedback-driven outflows, leaving a record of star formation and the baryon cycle imprinted on its present-day abundance and distribution. The Galaxies Losing Oxygen vi…",
+      "published_at": "2026-08-11T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.07665",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Organization Release: Scientists Release Biggest 2D Map of the Universe",
+      "summary": "<img align=\"left\" alt=\"Messier 96 as Seen with DESI Legacy Survey\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2620a.jpg\" />The newest DESI Legacy Imaging Surveys map, 13 years in the making, covers three-quarters of the sky and ca…",
+      "published_at": "2026-08-10T16:10:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2620/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Composite of Gemini North and ALMA images of &quot;Shadow Blaster&quot;\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2615a.jpg\" />A team of astronomers has identified a remarkably bright, gravitationally-lens…",
       "published_at": "2026-06-17T09:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2615/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Strange Winds Reveal Strongest Hints Yet of Magnetic Activity in Exoplanets",
-      "summary": "<img align=\"left\" alt=\"Artist’s illustration of hot Jupiter with magnetic field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2614a.jpg\" />Using the Gemini North telescope in Hawai‘i and the European Southern Observatory’s Very Larg…",
-      "published_at": "2026-06-02T09:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2614/",
       "tags": [
         "noirlab"
       ],
