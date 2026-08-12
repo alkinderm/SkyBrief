@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-11T11:21:39Z",
+  "generated_at": "2026-08-12T11:22:54Z",
   "items": [
     {
-      "title": "Environmental Noise Challenges for the Einstein Telescope - A Review",
-      "summary": "arXiv:2608.07633v1 Announce Type: new Abstract: Einstein Telescope (ET) will be a next-generation ground based interferometric gravitational-wave detector designed to explore the Universe to an unprecedented depth and detail. With its 10-15 km long arms, underground infrastructur…",
-      "published_at": "2026-08-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.07633",
+      "title": "Multi-night photometric repeatability of STDWeb: an empirical error budget from a 14-night campaign on a single field",
+      "summary": "arXiv:2608.10017v1 Announce Type: new Abstract: Web-based photometric pipelines such as STDWeb are routinely used by small observatories and professional-amateur networks across the full range of photometric science: variable stars, supernovae, exoplanet transits, transient follo…",
+      "published_at": "2026-08-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.10017",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Constraints on magnetic monopoles from X-ray observations of neutron stars",
-      "summary": "arXiv:2608.07652v1 Announce Type: new Abstract: Magnetic monopoles are captured efficiently by neutron stars, and if they catalyze nucleon decay, the decay products would thermalize and generate observable X-ray surface emission. We use archival Chandra, XMM-Newton, and Swift-XRT…",
-      "published_at": "2026-08-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.07652",
+      "title": "Radiative Transfer Modeling of Stripped-envelope Supernovae II: Neural Network Emulation of Light Curves",
+      "summary": "arXiv:2608.10058v1 Announce Type: new Abstract: We present the first neural-network emulator of stripped-envelope supernova (SESN) lightcurves, trained on a grid of 4499 light curves simulated with the radiative transfer (RT) code sedona. Using this emulator, we show that m_ni, m…",
+      "published_at": "2026-08-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.10058",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Deus ex $H_0$ -- Is evidence for dynamical dark energy conditioned on early cosmology?",
-      "summary": "arXiv:2608.07654v1 Announce Type: new Abstract: Some free-form reconstructions of the dark energy equation of state suggest that dynamical dark energy is the only explanation for the observed data. In this letter we argue that early Universe solutions to the Hubble tension (aroun…",
-      "published_at": "2026-08-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.07654",
+      "title": "Unveiling and Characterising Ubiquitous Nitrogen Enhancement in $6 \\leq z \\leq 10$ Galaxies with JWST Spectroscopy",
+      "summary": "arXiv:2608.10063v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has revealed a growing number of $z>6$ galaxies with enhanced N/O ratios that challenge standard chemical enrichment frameworks. We test whether this is exclusive to extreme systems or a generic…",
+      "published_at": "2026-08-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.10063",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "GLOW I: Comprehensive Measurements of Gas-Rich, Star-Forming, Low-Mass Galaxies in the Nearby Universe",
-      "summary": "arXiv:2608.07659v1 Announce Type: new Abstract: Gas-rich, star-forming, low-mass galaxies in the nearby universe are powerful laboratories for studying baryonic physics in detail including: stellar mass assembly, stellar feedback, chemical enrichment, and the interplay of the int…",
-      "published_at": "2026-08-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.07659",
+      "title": "Explaining the X-ray Precursor, Ultra-long Prompt Emission, and Week-long Decay of GRB250702B with a Jetted Micro-TDE",
+      "summary": "arXiv:2608.10065v1 Announce Type: new Abstract: The longest detected gamma-ray burst, GRB250702B, exhibited seven hours of prompt $\\gamma$-ray emission, preceded by a soft X-ray precursor ($\\sim1$ day earlier) and followed by a weeks-long fading X-ray tail. Lacking an established…",
+      "published_at": "2026-08-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.10065",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Wild behaviour near the finish line: the Type Ibn SN 2020able and its stratified environment",
-      "summary": "arXiv:2608.07661v1 Announce Type: new Abstract: We present spectrophotometric observations of the Type Ibn supernova SN~2020able, along with a comprehensive analysis and modelling of its evolution. The transient occurred in SDSS J092602.93+243115.1, a faint host galaxy characteri…",
-      "published_at": "2026-08-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.07661",
+      "title": "The Last Crossing in Excursion-Set Theory of Cosmic Reionization",
+      "summary": "arXiv:2608.10066v1 Announce Type: new Abstract: I introduce the last crossing of the photon-counting barrier as a statistic for analytical models of cosmic reionization. Because ionizing galaxies are biased tracers of density and their photons propagate through gas of spatially v…",
+      "published_at": "2026-08-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.10066",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "GLOW II: A Census of Oxygen in Low-Mass Galaxies",
-      "summary": "arXiv:2608.07665v1 Announce Type: new Abstract: Oxygen is forged by stars and redistributed through galaxies by feedback-driven outflows, leaving a record of star formation and the baryon cycle imprinted on its present-day abundance and distribution. The Galaxies Losing Oxygen vi…",
-      "published_at": "2026-08-11T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.07665",
+      "title": "Decoding the jet of BL Lacertae using relativistic magneto-hydrodynamics",
+      "summary": "arXiv:2608.10067v1 Announce Type: new Abstract: Blazars are a highly variable subclass of active galactic nuclei, whose relativistic jet is pointed towards our line of sight at a small angle. Their variability is often characterised by multi-band flares. BL Lacertae (BL Lac), the…",
+      "published_at": "2026-08-12T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.10067",
       "tags": [
         "arxiv",
         "astro-ph"
