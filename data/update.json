@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-12T11:22:54Z",
+  "generated_at": "2026-08-13T11:21:36Z",
   "items": [
     {
-      "title": "Multi-night photometric repeatability of STDWeb: an empirical error budget from a 14-night campaign on a single field",
-      "summary": "arXiv:2608.10017v1 Announce Type: new Abstract: Web-based photometric pipelines such as STDWeb are routinely used by small observatories and professional-amateur networks across the full range of photometric science: variable stars, supernovae, exoplanet transits, transient follo…",
-      "published_at": "2026-08-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.10017",
+      "title": "Deconstructing Sunlight - A Community Enterprise",
+      "summary": "arXiv:2608.11253v1 Announce Type: new Abstract: A memoir of a sixty year career in solar physics.",
+      "published_at": "2026-08-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.11253",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Radiative Transfer Modeling of Stripped-envelope Supernovae II: Neural Network Emulation of Light Curves",
-      "summary": "arXiv:2608.10058v1 Announce Type: new Abstract: We present the first neural-network emulator of stripped-envelope supernova (SESN) lightcurves, trained on a grid of 4499 light curves simulated with the radiative transfer (RT) code sedona. Using this emulator, we show that m_ni, m…",
-      "published_at": "2026-08-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.10058",
+      "title": "Which is the best day of the week to submit to arXiv:astro-ph?",
+      "summary": "arXiv:2608.11268v1 Announce Type: new Abstract: We examine whether the citations received by refereed astronomy papers vary systematically with the day of the week of their arXiv preprint release. We use NASA ADS citation data for all refereed articles published in 2020--2023 in…",
+      "published_at": "2026-08-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.11268",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Unveiling and Characterising Ubiquitous Nitrogen Enhancement in $6 \\leq z \\leq 10$ Galaxies with JWST Spectroscopy",
-      "summary": "arXiv:2608.10063v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has revealed a growing number of $z>6$ galaxies with enhanced N/O ratios that challenge standard chemical enrichment frameworks. We test whether this is exclusive to extreme systems or a generic…",
-      "published_at": "2026-08-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.10063",
+      "title": "Full-Covariance Bayesian Inference of Stochastic Gravitational Wave Background with Time-Domain Simulations for Taiji-like Missions",
+      "summary": "arXiv:2608.11276v1 Announce Type: new Abstract: For Taiji-like missions, we implement a Bayesian spectral inference framework that combines second-generation time-domain (TD) simulations of time-delay interferometry (TDI) with a frequency-domain (FD) spectral likelihood for stoch…",
+      "published_at": "2026-08-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.11276",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Explaining the X-ray Precursor, Ultra-long Prompt Emission, and Week-long Decay of GRB250702B with a Jetted Micro-TDE",
-      "summary": "arXiv:2608.10065v1 Announce Type: new Abstract: The longest detected gamma-ray burst, GRB250702B, exhibited seven hours of prompt $\\gamma$-ray emission, preceded by a soft X-ray precursor ($\\sim1$ day earlier) and followed by a weeks-long fading X-ray tail. Lacking an established…",
-      "published_at": "2026-08-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.10065",
+      "title": "Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory",
+      "summary": "arXiv:2608.11294v1 Announce Type: new Abstract: The Habitable Worlds Observatory (HWO) is a future NASA flagship mission concept identified by the Astro2020 Decadal Survey as the highest priority for large space missions. HWO should conduct \"transformative astrophysics\" and searc…",
+      "published_at": "2026-08-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.11294",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Last Crossing in Excursion-Set Theory of Cosmic Reionization",
-      "summary": "arXiv:2608.10066v1 Announce Type: new Abstract: I introduce the last crossing of the photon-counting barrier as a statistic for analytical models of cosmic reionization. Because ionizing galaxies are biased tracers of density and their photons propagate through gas of spatially v…",
-      "published_at": "2026-08-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.10066",
+      "title": "A new measurement of the FRB DM-galaxy cross correlation and a first joint analysis with the kinematic SZ effect",
+      "summary": "arXiv:2608.11296v1 Announce Type: new Abstract: Understanding the distribution of cosmic baryons is crucial for advancing cosmology and galaxy formation. Localized Fast Radio Bursts (FRBs) are a promising new probe of the diffuse gas, but measurements thus far have been limited b…",
+      "published_at": "2026-08-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.11296",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Decoding the jet of BL Lacertae using relativistic magneto-hydrodynamics",
-      "summary": "arXiv:2608.10067v1 Announce Type: new Abstract: Blazars are a highly variable subclass of active galactic nuclei, whose relativistic jet is pointed towards our line of sight at a small angle. Their variability is often characterised by multi-band flares. BL Lacertae (BL Lac), the…",
-      "published_at": "2026-08-12T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.10067",
+      "title": "ATLAS22kjn (AT 2022fpx): A Coronal Line Emitter with an Early Light Curve Bump and Mid-Infrared Dust Echo",
+      "summary": "arXiv:2608.11300v1 Announce Type: new Abstract: We present an analysis of ATLAS22kjn (AT 2022fpx), whose high-ionisation coronal lines (CLs) and pre-peak light curve bump provide distinctive opportunities to investigate the physical mechanisms powering tidal disruption events (TD…",
+      "published_at": "2026-08-13T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.11300",
       "tags": [
         "arxiv",
         "astro-ph"
