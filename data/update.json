@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-13T11:21:36Z",
+  "generated_at": "2026-08-14T11:20:07Z",
   "items": [
     {
-      "title": "Deconstructing Sunlight - A Community Enterprise",
-      "summary": "arXiv:2608.11253v1 Announce Type: new Abstract: A memoir of a sixty year career in solar physics.",
-      "published_at": "2026-08-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.11253",
+      "title": "Magnus mountains on spinning neutron stars",
+      "summary": "arXiv:2608.12378v1 Announce Type: new Abstract: We investigate the formation of a \"Magnus mountain'' on a neutron star, arising from the non-axisymmetric Magnus force acting on the elastic crust by pinned superfluid vortices. Such a deformed star would act as a source of continuo…",
+      "published_at": "2026-08-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.12378",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Which is the best day of the week to submit to arXiv:astro-ph?",
-      "summary": "arXiv:2608.11268v1 Announce Type: new Abstract: We examine whether the citations received by refereed astronomy papers vary systematically with the day of the week of their arXiv preprint release. We use NASA ADS citation data for all refereed articles published in 2020--2023 in…",
-      "published_at": "2026-08-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.11268",
+      "title": "Synchrotron and Inverse-Compton Signatures of Black to White Hole Explosions: Weibel-Mediated External Shocks in the Interstellar Medium",
+      "summary": "arXiv:2608.12380v1 Announce Type: new Abstract: We study the non-thermal electromagnetic counterpart expected when the relativistic, near-isotropic ejecta of a black-to-white hole transition sweep up the interstellar medium (ISM). Building on a photospheric model for the prompt $…",
+      "published_at": "2026-08-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.12380",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Full-Covariance Bayesian Inference of Stochastic Gravitational Wave Background with Time-Domain Simulations for Taiji-like Missions",
-      "summary": "arXiv:2608.11276v1 Announce Type: new Abstract: For Taiji-like missions, we implement a Bayesian spectral inference framework that combines second-generation time-domain (TD) simulations of time-delay interferometry (TDI) with a frequency-domain (FD) spectral likelihood for stoch…",
-      "published_at": "2026-08-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.11276",
+      "title": "Microscopic Interaction versus Purely Gravitational Coupling in Strange Quark Stars Admixed with Dark Matter: A One-Fluid and Two-Fluid Comp…",
+      "summary": "arXiv:2608.12383v1 Announce Type: new Abstract: In this study, we investigate strange quark stars (SQSs) admixed with scalar dark matter (DM), focusing on the role of microscopic interactions versus purely gravitational coupling. Our results demonstrate that while the interacting…",
+      "published_at": "2026-08-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.12383",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Early Exploration of the Scientific Discovery Space for the Habitable Worlds Observatory",
-      "summary": "arXiv:2608.11294v1 Announce Type: new Abstract: The Habitable Worlds Observatory (HWO) is a future NASA flagship mission concept identified by the Astro2020 Decadal Survey as the highest priority for large space missions. HWO should conduct \"transformative astrophysics\" and searc…",
-      "published_at": "2026-08-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.11294",
+      "title": "Climates of Gl 514 b",
+      "summary": "arXiv:2608.12457v1 Announce Type: new Abstract: The continuous discovery of exoplanets, each with distinctive stellar and planetary properties, along with the development of higher resolution ground and space telescopes has positioned climate evolution as a fundamental component…",
+      "published_at": "2026-08-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.12457",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A new measurement of the FRB DM-galaxy cross correlation and a first joint analysis with the kinematic SZ effect",
-      "summary": "arXiv:2608.11296v1 Announce Type: new Abstract: Understanding the distribution of cosmic baryons is crucial for advancing cosmology and galaxy formation. Localized Fast Radio Bursts (FRBs) are a promising new probe of the diffuse gas, but measurements thus far have been limited b…",
-      "published_at": "2026-08-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.11296",
+      "title": "The \\^G Infrared Search for Extraterrestrial Civilizations with Large Energy Supplies. V. When Galaxies Glow with Industry",
+      "summary": "arXiv:2608.12458v1 Announce Type: new Abstract: We present the most robust stellar population synthesis (SPS)-based search for galaxy-spanning technological waste heat to date, applied to 129 nearby galaxies spanning a wide range of spectral energy distribution (SED) types, inclu…",
+      "published_at": "2026-08-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.12458",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "ATLAS22kjn (AT 2022fpx): A Coronal Line Emitter with an Early Light Curve Bump and Mid-Infrared Dust Echo",
-      "summary": "arXiv:2608.11300v1 Announce Type: new Abstract: We present an analysis of ATLAS22kjn (AT 2022fpx), whose high-ionisation coronal lines (CLs) and pre-peak light curve bump provide distinctive opportunities to investigate the physical mechanisms powering tidal disruption events (TD…",
-      "published_at": "2026-08-13T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.11300",
+      "title": "Recycled Gas Dominates the Metal-rich Fuel of Supermassive Black Holes",
+      "summary": "arXiv:2608.12462v1 Announce Type: new Abstract: Understanding the origin and chemical properties of gas accreted by supermassive black holes (SMBHs) is essential for linking black hole growth to galaxy evolution. Using a suite of 30 high-resolution cosmological zoom-in simulation…",
+      "published_at": "2026-08-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.12462",
       "tags": [
         "arxiv",
         "astro-ph"
