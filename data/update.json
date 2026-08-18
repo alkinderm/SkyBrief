@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-17T10:57:38Z",
+  "generated_at": "2026-08-18T10:56:18Z",
   "items": [
     {
-      "title": "Effects of Pebble Accretion Isolation Mass on Observable Exoplanet Properties",
-      "summary": "arXiv:2608.13639v1 Announce Type: new Abstract: The Kepler Mission has discovered a plethora of planetary systems with super-Earth sized planets. These systems exhibit many properties, from widely-spaced planets with non-negligible eccentricities and inclinations, to tightly-spac…",
-      "published_at": "2026-08-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.13639",
+      "title": "Unveiling Neutrino Nature with the Diffuse Supernova Background",
+      "summary": "arXiv:2608.14785v1 Announce Type: new Abstract: The true nature of neutrinos--whether Dirac or Majorana--is a foundational, unresolved question. We demonstrate that the diffuse supernova neutrino background (DSNB) offers an untapped avenue to resolve this issue, provided neutrino…",
+      "published_at": "2026-08-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.14785",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Laser Metrology for Precision Alignment of Transmission Gratings in the REDSoX Soft X-ray Polarimeter",
-      "summary": "arXiv:2608.13640v1 Announce Type: new Abstract: The Rocket Experiment Demonstration of a Soft X-ray Polarimeter (REDSoX) is a NASA sounding-rocket mission designed to perform the first astrophysical spectropolarimetry in the 0.2-0.4 keV energy band. The instrument uses critical-a…",
-      "published_at": "2026-08-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.13640",
+      "title": "JWST/NIRSpec Spectra for Three Ultracool Brown Dwarfs Detected in Extragalactic Surveys: Further Evidence for Phosphine Absorption",
+      "summary": "arXiv:2608.14786v1 Announce Type: new Abstract: We present JWST NIRSpec prism spectra for three ultracool brown dwarfs discovered in extragalactic survey data, two from the JWST Advanced Deep Extragalactic Survey (JADES), and one from Public Release IMaging for Extragalactic Rese…",
+      "published_at": "2026-08-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.14786",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Orbital Migration of Interacting Stellar Mass Black Holes in Disks around Supermassive Black Holes. III. Mass Distribution of Hierarchical M…",
-      "summary": "arXiv:2608.13641v1 Announce Type: new Abstract: Active galactic nucleus (AGN) disks are a promising location for the formation of binary black holes (BBHs) that will merge on relatively short timescales and be detected by LIGO-Virgo-KAGRA (LVK). To compare the mass function (MF)…",
-      "published_at": "2026-08-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.13641",
+      "title": "Mixing stochasticity relinquishes evidence for magnetorotational hypernovae",
+      "summary": "arXiv:2608.14788v1 Announce Type: new Abstract: A recent work claimed by fitting the observed elemental abundance pattern of a halo star with the total yields from single super-/hypernova events that only a magnetorotational hypernova event (a very energetic supernova event that…",
+      "published_at": "2026-08-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.14788",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Explosions from Rotating Very Massive Star Collapses to Black Holes: Effects of Nuclear Burning",
-      "summary": "arXiv:2608.13642v1 Announce Type: new Abstract: We investigate the collapse of rotating very massive and supermassive stellar cores using numerical relativity simulations including an alpha-chain nuclear reaction network and neutrino cooling. Our main survey focuses on newly cons…",
-      "published_at": "2026-08-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.13642",
+      "title": "The Enceladian crater production function",
+      "summary": "arXiv:2608.14814v1 Announce Type: new Abstract: Interpreting Enceladus's past and present surface history and interior state remains challenging, owing to uncertain prescription of its impact bombardment history and limited interpretation of its crater statistics. Further progres…",
+      "published_at": "2026-08-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.14814",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Observational Constraints on Horizonless Compact Objects from Thermal Emission in AGNs",
-      "summary": "arXiv:2608.13645v1 Announce Type: new Abstract: The Swift Burst Alert Telescope Active Galactic Nuclei Spectroscopic Survey (BASS DR2) provides one of the largest and most complete samples of bright, local (z < 0.1) active galactic nuclei (AGNs) with high-quality spectroscopic me…",
-      "published_at": "2026-08-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.13645",
+      "title": "X-ray thread/Nonthermal Radio Filament associations: Evidence for Interstellar Magnetic Reconnection",
+      "summary": "arXiv:2608.14830v1 Announce Type: new Abstract: Nonthermal radio filaments (NTFs), first discovered at 20-centimeter wavelength more than four decades ago, are among the most enigmatic structures at the Galactic Center. They still defy a clear explanation. These striking narrow f…",
+      "published_at": "2026-08-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.14830",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A binary black hole merger rate comparison within the same metallicity - star formation rate framework",
-      "summary": "arXiv:2608.13648v1 Announce Type: new Abstract: Recent studies have suggested that binary population synthesis models, when coupled with observationally based, metallicity-dependent star formation rate density, overpredict the observed local binary black hole (BBH) merger rate de…",
-      "published_at": "2026-08-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.13648",
+      "title": "An open-source data processing pipeline for Keck / NIRC2-Polarimetry",
+      "summary": "arXiv:2608.14864v1 Announce Type: new Abstract: The Keck/NIRC2 infrared imager was recently upgraded with a new suite of polarimetric observing modes. This polarimetry upgrade (referred to as NIRC2-Pol) will open up a wide range of new astronomical studies, including investigatio…",
+      "published_at": "2026-08-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.14864",
       "tags": [
         "arxiv",
         "astro-ph"
