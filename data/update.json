@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-18T10:56:18Z",
+  "generated_at": "2026-08-19T10:55:51Z",
   "items": [
     {
-      "title": "Unveiling Neutrino Nature with the Diffuse Supernova Background",
-      "summary": "arXiv:2608.14785v1 Announce Type: new Abstract: The true nature of neutrinos--whether Dirac or Majorana--is a foundational, unresolved question. We demonstrate that the diffuse supernova neutrino background (DSNB) offers an untapped avenue to resolve this issue, provided neutrino…",
-      "published_at": "2026-08-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.14785",
+      "title": "Controlling artificial surface heating in neutron star simulations: Application to hybrid equations of state",
+      "summary": "arXiv:2608.16945v1 Announce Type: new Abstract: The treatment of the stellar surface in binary neutron star simulations is crucial for the accuracy of the numerical evolution and the physical reliability of the predicted observables. Numerical artifacts associated with the treatm…",
+      "published_at": "2026-08-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.16945",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "JWST/NIRSpec Spectra for Three Ultracool Brown Dwarfs Detected in Extragalactic Surveys: Further Evidence for Phosphine Absorption",
-      "summary": "arXiv:2608.14786v1 Announce Type: new Abstract: We present JWST NIRSpec prism spectra for three ultracool brown dwarfs discovered in extragalactic survey data, two from the JWST Advanced Deep Extragalactic Survey (JADES), and one from Public Release IMaging for Extragalactic Rese…",
-      "published_at": "2026-08-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.14786",
+      "title": "TomoSphero: Fast Differentiable Projector for Planetary and Solar Tomography on Spherical Grids",
+      "summary": "arXiv:2608.16960v1 Announce Type: new Abstract: Computational tomography is a tool for determining the internal structure of objects from a set of projections, typically taken along some regular path. In recent years, methods and GPU-accelerated libraries have emerged that allow…",
+      "published_at": "2026-08-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.16960",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Mixing stochasticity relinquishes evidence for magnetorotational hypernovae",
-      "summary": "arXiv:2608.14788v1 Announce Type: new Abstract: A recent work claimed by fitting the observed elemental abundance pattern of a halo star with the total yields from single super-/hypernova events that only a magnetorotational hypernova event (a very energetic supernova event that…",
-      "published_at": "2026-08-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.14788",
+      "title": "A Critical Eddington Ratio for X-Shaped Radio Galaxies",
+      "summary": "arXiv:2608.16976v1 Announce Type: new Abstract: We derive a quantitative condition for the formation of X-shaped radio galaxies by evaluating the competition between black hole spin evolution and the radiative fading of relic plasma within our previously proposed framework. The s…",
+      "published_at": "2026-08-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.16976",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The Enceladian crater production function",
-      "summary": "arXiv:2608.14814v1 Announce Type: new Abstract: Interpreting Enceladus's past and present surface history and interior state remains challenging, owing to uncertain prescription of its impact bombardment history and limited interpretation of its crater statistics. Further progres…",
-      "published_at": "2026-08-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.14814",
+      "title": "A JWST/MIRI Study of Dust in a Sample of Normal Type IIP Core Collapse Supernovae",
+      "summary": "arXiv:2608.16979v1 Announce Type: new Abstract: Core collapse supernovae (CCSNe) are invoked as major dust producers in the early Universe, yet the amount of dust they form, the timescale over which it grows, and the physical conditions that regulate the yield remain uncertain. W…",
+      "published_at": "2026-08-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.16979",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "X-ray thread/Nonthermal Radio Filament associations: Evidence for Interstellar Magnetic Reconnection",
-      "summary": "arXiv:2608.14830v1 Announce Type: new Abstract: Nonthermal radio filaments (NTFs), first discovered at 20-centimeter wavelength more than four decades ago, are among the most enigmatic structures at the Galactic Center. They still defy a clear explanation. These striking narrow f…",
-      "published_at": "2026-08-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.14830",
+      "title": "Probing the $\\gamma$-ray emission region and the connection to jet ejections in NRAO 150 with VLBI",
+      "summary": "arXiv:2608.16981v1 Announce Type: new Abstract: Relativistic jets launched by active galactic nuclei are fundamental for understanding the physics of accreting supermassive black holes and their immediate environments, yet the origin of these jets remains an open question. NRAO 1…",
+      "published_at": "2026-08-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.16981",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "An open-source data processing pipeline for Keck / NIRC2-Polarimetry",
-      "summary": "arXiv:2608.14864v1 Announce Type: new Abstract: The Keck/NIRC2 infrared imager was recently upgraded with a new suite of polarimetric observing modes. This polarimetry upgrade (referred to as NIRC2-Pol) will open up a wide range of new astronomical studies, including investigatio…",
-      "published_at": "2026-08-18T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.14864",
+      "title": "Resolving Nearby Supermassive Black Holes with the Black Hole Explorer",
+      "summary": "arXiv:2608.16983v1 Announce Type: new Abstract: Recent Event Horizon Telescope results have demonstrated unique and transformative science in gravitational physics and black hole astrophysics enabled by event-horizon-scale imaging of supermassive black holes (SMBHs). Nevertheless…",
+      "published_at": "2026-08-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.16983",
       "tags": [
         "arxiv",
         "astro-ph"
