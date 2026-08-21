@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-20T10:57:58Z",
+  "generated_at": "2026-08-21T10:57:59Z",
   "items": [
     {
-      "title": "Astro-Hunters: Machine Learning for Exoplanet Transit Detection in TESS Photometry",
-      "summary": "arXiv:2608.18172v1 Announce Type: new Abstract: Finding planets beyond the Solar System is now largely a data-analysis problem: photometric surveys return far more stellar light curves than can be inspected by eye, and machine learning is increasingly asked to recognise the faint…",
-      "published_at": "2026-08-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.18172",
+      "title": "The Cross-Survey Decade: A Call to Action",
+      "summary": "arXiv:2608.19272v1 Announce Type: new Abstract: By 2027, three flagship wide-field surveys will be operating simultaneously from ground and space, observing overlapping sky and representing more than $6 billion in US and European public investment. Together they will produce over…",
+      "published_at": "2026-08-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.19272",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Supernova remnant 0509-67.5 is consistent with an explosion inside an old planetary nebula (SNIP)",
-      "summary": "arXiv:2608.18196v1 Announce Type: new Abstract: I critically examine claims in the paper arXiv:2608.11978 that the double-detonation (DDet) scenario explains the type Ia supernova (SN Ia) remnant (SNR Ia) SNR 0509-67.5, and find the arguments supporting the DDet scenario weak; he…",
-      "published_at": "2026-08-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.18196",
+      "title": "Multi-lane type II radio bursts: Insights into shock propagation in the corona",
+      "summary": "arXiv:2608.19295v1 Announce Type: new Abstract: Type II solar radio bursts are considered as the signatures of the coronal shocks. These bursts are generated from plasma waves excited by magnetohydrodynamic (MHD) shocks, and then converted into radio waves at the local plasma fre…",
+      "published_at": "2026-08-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.19295",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The Mass Function of Neutron Stars from Core-Collapse Supernova Simulations",
-      "summary": "arXiv:2608.18198v1 Announce Type: new Abstract: Using the mapping between progenitor core structure and the gravitational mass of neutron stars derived from sophisticated 3D supernova simulations, we determine the theoretical mass distribution of neutron stars at birth and compar…",
-      "published_at": "2026-08-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.18198",
+      "title": "The Challenge of Observing Patchy Reionization with CMB Optical-Depth Fluctuations",
+      "summary": "arXiv:2608.19307v1 Announce Type: new Abstract: Spatial fluctuations in the Thomson optical depth encode information about the inhomogeneous nature of cosmic reionization. We compute the optical-depth angular power spectrum, $C_\\ell^{\\tau\\tau}$, using past lightcones constructed…",
+      "published_at": "2026-08-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.19307",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Heating Up the Black Hole X-ray Binary Accretion Disk by Superradiance",
-      "summary": "arXiv:2608.18200v1 Announce Type: new Abstract: A superradiant cloud of ultralight axions around a black hole, that is part of an X-ray binary system, can heat up its accretion disk and be detected by the thermal X-ray spectrum emitted by the disk. We consider a derivative coupli…",
-      "published_at": "2026-08-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.18200",
+      "title": "The THESAN-ZOOM project: clumpiness of high-redshift galaxies and its connection to bursty star formation",
+      "summary": "arXiv:2608.19308v1 Announce Type: new Abstract: Recent JWST observations have revealed diverse high-redshift galaxy morphologies, including a population with irregular and clumpy structures. The physical origin of these structures, and the extent to which observational biases sha…",
+      "published_at": "2026-08-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.19308",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The impact of recombination during tidal disruption events",
-      "summary": "arXiv:2608.18201v1 Announce Type: new Abstract: During a tidal disruption event, the resulting debris stream cools down adiabatically due to the tidal stretching. As the temperature drops, the gas is expected to undergo chemical processes, which can release thermal energy into th…",
-      "published_at": "2026-08-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.18201",
+      "title": "Low Ly$\\alpha$ Visibility in Galaxy Overdensities: Reionization Topology and Neutral-Fraction Ceilings from DIVER over $4.8<z<11$",
+      "summary": "arXiv:2608.19311v1 Announce Type: new Abstract: Ly-alpha emission is widely used to trace cosmic reionization, but its interpretation depends on how Ly-alpha visibility varies with galaxy environment. We use deep JWST/NIRSpec observations from Deep Insights into UV Spectroscopy a…",
+      "published_at": "2026-08-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.19311",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The fraction of periodic SN Ib/c light curves",
-      "summary": "arXiv:2608.18207v1 Announce Type: new Abstract: Periodic luminosity modulations have been recently identified for the stripped-envelope supernovae SN 2022jli and SN 2022esa, motivating a systematic search for a similar behavior in a larger sample. Such modulations may indicate th…",
-      "published_at": "2026-08-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.18207",
+      "title": "Detectable subhalo impacts in Milky Way streams",
+      "summary": "arXiv:2608.19321v1 Announce Type: new Abstract: Dark matter subhalos leave gravitational imprints in the stellar streams of the Milky Way. Observing individual strong impacts of subhalos offers a compelling way to constrain and discover potentially dark subhalos down to $10^6 M_\\…",
+      "published_at": "2026-08-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.19321",
       "tags": [
         "arxiv",
         "astro-ph"
