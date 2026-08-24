@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-23T10:51:08Z",
+  "generated_at": "2026-08-24T11:02:52Z",
   "items": [
+    {
+      "title": "A comparative study of emergent dark energy models",
+      "summary": "arXiv:2608.20415v1 Announce Type: new Abstract: Late (emergent) dark energy models that involve a hyperbolic tangent in their dynamic equations have achieved success due to their simplicity, the possibility of resolving the Hubble tension, and, in some cases their consistency wit…",
+      "published_at": "2026-08-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.20415",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Multi-instrument Generalized Lomb-Scargle Periodogram Implementation",
+      "summary": "arXiv:2608.20436v1 Announce Type: new Abstract: We present an implementation of the well-known and broadly used Generalized Lomb-Scargle Periodogram (GLS) which simultaneously takes into account individual offsets introduced in the data by different instruments: a \"multi-instrume…",
+      "published_at": "2026-08-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.20436",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Leveraging Impact Parameter to Mitigate the Transit Light Source Effect: Early Insights from TRAPPIST-1",
+      "summary": "arXiv:2608.20450v1 Announce Type: new Abstract: Stellar activity complicates exoplanet transmission spectra, particularly for smaller planets around M dwarfs with JWST. The transit light source (TLS) effect, the imprinting of spectral differences between the average stellar disk…",
+      "published_at": "2026-08-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.20450",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "On what scales does strong lensing robustly constrain the mass profile of low-mass perturbers?",
+      "summary": "arXiv:2608.20454v1 Announce Type: new Abstract: Galaxy-galaxy strong gravitational lensing is an established method to detect and characterise low-mass haloes, which are otherwise too faint to be directly observed. Recent analyses have shown empirically that there exists a charac…",
+      "published_at": "2026-08-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.20454",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "High-contrast aperture masking interferometry: detecting companions within the diffraction limit",
+      "summary": "arXiv:2608.20456v1 Announce Type: new Abstract: The pursuit of the direct discovery and characterization of Earth-like exoplanets has motivated high contrast imaging surveys using coronagraphs with narrow inner working angles. Traditional imaging methods, however, are limited by…",
+      "published_at": "2026-08-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.20456",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "One-point matter PDFs beyond TopHat filters",
+      "summary": "arXiv:2608.20457v1 Announce Type: new Abstract: We study the one-point probability distribution function (PDF) for matter densities averaged with an arbitrary spherically symmetric window function. The PDF is analytically modeled within the path integral framework, enabling a non…",
+      "published_at": "2026-08-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.20457",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: Scientists Release Biggest 2D Map of the Universe",
       "summary": "<img align=\"left\" alt=\"Messier 96 as Seen with DESI Legacy Survey\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2620a.jpg\" />The newest DESI Legacy Imaging Surveys map, 13 years in the making, covers three-quarters of the sky and ca…",
