@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-24T11:02:52Z",
+  "generated_at": "2026-08-25T10:59:59Z",
   "items": [
     {
-      "title": "A comparative study of emergent dark energy models",
-      "summary": "arXiv:2608.20415v1 Announce Type: new Abstract: Late (emergent) dark energy models that involve a hyperbolic tangent in their dynamic equations have achieved success due to their simplicity, the possibility of resolving the Hubble tension, and, in some cases their consistency wit…",
-      "published_at": "2026-08-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.20415",
+      "title": "Radio Galaxies detection and characterization using deep learning techniques",
+      "summary": "arXiv:2608.21474v1 Announce Type: new Abstract: Future radio telescopes will generate data volumes that are increasingly difficult to analyse using traditional statistical methods, motivating the adoption of machine-learning techniques. In this work, we present YOLO-Chars (YOLO-b…",
+      "published_at": "2026-08-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.21474",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Multi-instrument Generalized Lomb-Scargle Periodogram Implementation",
-      "summary": "arXiv:2608.20436v1 Announce Type: new Abstract: We present an implementation of the well-known and broadly used Generalized Lomb-Scargle Periodogram (GLS) which simultaneously takes into account individual offsets introduced in the data by different instruments: a \"multi-instrume…",
-      "published_at": "2026-08-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.20436",
+      "title": "NestyNet. IV. Laws Chosen by Nothing in Advance",
+      "summary": "arXiv:2608.21491v1 Announce Type: new Abstract: Differential-equation (DE) discovery tends to break down precisely where much of physics begins. Fields are coupled, governing laws are nonlinear in the state, amplitudes, coordinates, or operators of interest, yet derivatives must…",
+      "published_at": "2026-08-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.21491",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Leveraging Impact Parameter to Mitigate the Transit Light Source Effect: Early Insights from TRAPPIST-1",
-      "summary": "arXiv:2608.20450v1 Announce Type: new Abstract: Stellar activity complicates exoplanet transmission spectra, particularly for smaller planets around M dwarfs with JWST. The transit light source (TLS) effect, the imprinting of spectral differences between the average stellar disk…",
-      "published_at": "2026-08-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.20450",
+      "title": "On the importance of the IGM/CGM enrichment in determining chemical abundances during the first 600 Myr",
+      "summary": "arXiv:2608.21515v1 Announce Type: new Abstract: JWST observations show that galaxies at $z>8$ exhibit a wide range of carbon-to-oxygen (C/O) ratios at fixed metallicity and systematically elevated nitrogen-to-oxygen (N/O) ratios compared to local galaxies. Proposed explanations i…",
+      "published_at": "2026-08-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.21515",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "On what scales does strong lensing robustly constrain the mass profile of low-mass perturbers?",
-      "summary": "arXiv:2608.20454v1 Announce Type: new Abstract: Galaxy-galaxy strong gravitational lensing is an established method to detect and characterise low-mass haloes, which are otherwise too faint to be directly observed. Recent analyses have shown empirically that there exists a charac…",
-      "published_at": "2026-08-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.20454",
+      "title": "EROSE: An algorithm searching for resolved Local Group satellites. The impact of combining different photometric bands on the detectability…",
+      "summary": "arXiv:2608.21517v1 Announce Type: new Abstract: Systematic searches for ultra-faint Milky Way satellite galaxies typically combine local density estimators with colour-magnitude cuts, which are usually performed in 2D and have rarely, if ever, been extended to higher-dimensional…",
+      "published_at": "2026-08-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.21517",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "High-contrast aperture masking interferometry: detecting companions within the diffraction limit",
-      "summary": "arXiv:2608.20456v1 Announce Type: new Abstract: The pursuit of the direct discovery and characterization of Earth-like exoplanets has motivated high contrast imaging surveys using coronagraphs with narrow inner working angles. Traditional imaging methods, however, are limited by…",
-      "published_at": "2026-08-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.20456",
+      "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curve",
+      "summary": "arXiv:2608.21519v1 Announce Type: new Abstract: Ultra-short period (USP) rocky planets are expected to be depleted of any substantial gaseous envelope due to the intense irradiation they receive from their host star, making the recent detection of an atmosphere around TOI-561~b p…",
+      "published_at": "2026-08-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.21519",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "One-point matter PDFs beyond TopHat filters",
-      "summary": "arXiv:2608.20457v1 Announce Type: new Abstract: We study the one-point probability distribution function (PDF) for matter densities averaged with an arbitrary spherically symmetric window function. The PDF is analytically modeled within the path integral framework, enabling a non…",
-      "published_at": "2026-08-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.20457",
+      "title": "On the performance of pre-trained vision transformers for supernova spectral classification using different spectral representations",
+      "summary": "arXiv:2608.21520v1 Announce Type: new Abstract: The spectroscopic classification of supernovae is a key component of time-domain astronomy and plays an important role in the identification of Type Ia events. The increasing volume and diversity of spectroscopic data motivate the d…",
+      "published_at": "2026-08-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.21520",
       "tags": [
         "arxiv",
         "astro-ph"
