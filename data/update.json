@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-25T10:59:59Z",
+  "generated_at": "2026-08-26T11:02:14Z",
   "items": [
     {
-      "title": "Radio Galaxies detection and characterization using deep learning techniques",
-      "summary": "arXiv:2608.21474v1 Announce Type: new Abstract: Future radio telescopes will generate data volumes that are increasingly difficult to analyse using traditional statistical methods, motivating the adoption of machine-learning techniques. In this work, we present YOLO-Chars (YOLO-b…",
-      "published_at": "2026-08-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.21474",
+      "title": "CosmoFit: A Graphical User Interface for Bayesian Cosmological Parameter Estimation with User-Defined H(z) Models",
+      "summary": "arXiv:2608.23588v1 Announce Type: new Abstract: We present CosmoFit, a desktop graphical interface for Bayesian parameter inference in background cosmology. The application is designed to simplify cosmological analyses by reducing the need to manually program each step, while mai…",
+      "published_at": "2026-08-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.23588",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "NestyNet. IV. Laws Chosen by Nothing in Advance",
-      "summary": "arXiv:2608.21491v1 Announce Type: new Abstract: Differential-equation (DE) discovery tends to break down precisely where much of physics begins. Fields are coupled, governing laws are nonlinear in the state, amplitudes, coordinates, or operators of interest, yet derivatives must…",
-      "published_at": "2026-08-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.21491",
+      "title": "Constraining the Inner Dark-Matter Slope of Sculptor: A Comparative Analysis of Dynamical Methods",
+      "summary": "arXiv:2608.23618v1 Announce Type: new Abstract: The core-cusp problem is a discrepancy between simulations and observations of the slopes of inner dark matter density profiles. The two-population estimator, separating dwarf spheroidals into metallicity-split subcomponents, is a s…",
+      "published_at": "2026-08-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.23618",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "On the importance of the IGM/CGM enrichment in determining chemical abundances during the first 600 Myr",
-      "summary": "arXiv:2608.21515v1 Announce Type: new Abstract: JWST observations show that galaxies at $z>8$ exhibit a wide range of carbon-to-oxygen (C/O) ratios at fixed metallicity and systematically elevated nitrogen-to-oxygen (N/O) ratios compared to local galaxies. Proposed explanations i…",
-      "published_at": "2026-08-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.21515",
+      "title": "CHIANTE I: Obliquity Measurements of Four High-Priority Ariel Targets in Binaries",
+      "summary": "arXiv:2608.23662v1 Announce Type: new Abstract: We present the first results from CHIANTE: a program using the EXtreme PREcision Spectrograph (EXPRES) at the Lowell Discovery Telescope to characterize potential targets of the Ariel mission, anticipated to launch in 2031. We repor…",
+      "published_at": "2026-08-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.23662",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "EROSE: An algorithm searching for resolved Local Group satellites. The impact of combining different photometric bands on the detectability…",
-      "summary": "arXiv:2608.21517v1 Announce Type: new Abstract: Systematic searches for ultra-faint Milky Way satellite galaxies typically combine local density estimators with colour-magnitude cuts, which are usually performed in 2D and have rarely, if ever, been extended to higher-dimensional…",
-      "published_at": "2026-08-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.21517",
+      "title": "Solar-Cycle Variation of Newly Emerging Coronal Holes during Solar Cycle 24",
+      "summary": "arXiv:2608.23665v1 Announce Type: new Abstract: Coronal holes (CHs) are regions of predominantly open magnetic field and important sources of high-speed solar wind streams. We present a manually compiled catalogue of newly emerging CHs during Solar Cycle 24 (2010-2019), identifie…",
+      "published_at": "2026-08-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.23665",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curve",
-      "summary": "arXiv:2608.21519v1 Announce Type: new Abstract: Ultra-short period (USP) rocky planets are expected to be depleted of any substantial gaseous envelope due to the intense irradiation they receive from their host star, making the recent detection of an atmosphere around TOI-561~b p…",
-      "published_at": "2026-08-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.21519",
+      "title": "BlueBird 6 is Fainter than Block 1 Satellites",
+      "summary": "arXiv:2608.23668v1 Announce Type: new Abstract: The mean apparent magnitude for BlueBird 6, the first Block 2 satellite of the BlueBird constellation, is 3.85 +/- 0.10 while that for Block 1 spacecraft is 3.30 +/- 0.07. So, BlueBird 6 is 0.55 magnitudes fainter. Likewise, the mea…",
+      "published_at": "2026-08-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.23668",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "On the performance of pre-trained vision transformers for supernova spectral classification using different spectral representations",
-      "summary": "arXiv:2608.21520v1 Announce Type: new Abstract: The spectroscopic classification of supernovae is a key component of time-domain astronomy and plays an important role in the identification of Type Ia events. The increasing volume and diversity of spectroscopic data motivate the d…",
-      "published_at": "2026-08-25T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.21520",
+      "title": "More Numerous and Bluer: Companions of the Brightest Little Red Dots Differ from Control Galaxies at $>3\\sigma$, Hinting at Synchronized Bla…",
+      "summary": "arXiv:2608.23671v1 Announce Type: new Abstract: The Little Red Dots (LRDs) are a population of compact, red sources, detected abundantly at $4 \\lesssim z \\lesssim 9$. While their nature is still debated, many models suggest they are powered by accreting massive black holes. Multi…",
+      "published_at": "2026-08-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.23671",
       "tags": [
         "arxiv",
         "astro-ph"
