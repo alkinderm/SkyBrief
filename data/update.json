@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-26T11:02:14Z",
+  "generated_at": "2026-08-27T20:41:44Z",
   "items": [
     {
-      "title": "CosmoFit: A Graphical User Interface for Bayesian Cosmological Parameter Estimation with User-Defined H(z) Models",
-      "summary": "arXiv:2608.23588v1 Announce Type: new Abstract: We present CosmoFit, a desktop graphical interface for Bayesian parameter inference in background cosmology. The application is designed to simplify cosmological analyses by reducing the need to manually program each step, while mai…",
-      "published_at": "2026-08-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.23588",
+      "title": "Connecting Granulation and Magnetic Activity in Radial Velocities: The Next Breakthrough for High-Precision Spectroscopy",
+      "summary": "arXiv:2608.24969v1 Announce Type: new Abstract: Stellar variability has become the dominant limitation to achieving the radial velocity (RV) precision required for the detection and characterization of Earth-like exoplanets. While significant progress has been made in mitigating…",
+      "published_at": "2026-08-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.24969",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Constraining the Inner Dark-Matter Slope of Sculptor: A Comparative Analysis of Dynamical Methods",
-      "summary": "arXiv:2608.23618v1 Announce Type: new Abstract: The core-cusp problem is a discrepancy between simulations and observations of the slopes of inner dark matter density profiles. The two-population estimator, separating dwarf spheroidals into metallicity-split subcomponents, is a s…",
-      "published_at": "2026-08-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.23618",
+      "title": "What would it take for dark matter to be literally warm?",
+      "summary": "arXiv:2608.24990v1 Announce Type: new Abstract: Warm dark matter (WDM) has served as a valuable benchmark for constraining small-scale structure in the past decades. In this note, I examine what it would take for dark matter to be warm in the literal sense assumed by that benchma…",
+      "published_at": "2026-08-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.24990",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "CHIANTE I: Obliquity Measurements of Four High-Priority Ariel Targets in Binaries",
-      "summary": "arXiv:2608.23662v1 Announce Type: new Abstract: We present the first results from CHIANTE: a program using the EXtreme PREcision Spectrograph (EXPRES) at the Lowell Discovery Telescope to characterize potential targets of the Ariel mission, anticipated to launch in 2031. We repor…",
-      "published_at": "2026-08-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.23662",
+      "title": "SMUDGes Below the Surface: Clusters Confirm the Diversity of Low-Surface-Brightness Galaxies",
+      "summary": "arXiv:2608.24991v1 Announce Type: new Abstract: We use spatially resolved Keck Cosmic Web Imager spectroscopy to study high-surface-brightness stellar components and internal kinematics in 44 low-surface-brightness galaxies from the SMUDGes survey, including 30 ultradiffuse galax…",
+      "published_at": "2026-08-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.24991",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Solar-Cycle Variation of Newly Emerging Coronal Holes during Solar Cycle 24",
-      "summary": "arXiv:2608.23665v1 Announce Type: new Abstract: Coronal holes (CHs) are regions of predominantly open magnetic field and important sources of high-speed solar wind streams. We present a manually compiled catalogue of newly emerging CHs during Solar Cycle 24 (2010-2019), identifie…",
-      "published_at": "2026-08-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.23665",
+      "title": "Enhancing dark siren cosmology via Gaussian process reconstruction of incomplete galaxy catalogs",
+      "summary": "arXiv:2608.24992v1 Announce Type: new Abstract: We present a novel framework for improving dark siren cosmology by applying a Gaussian process (GP) to the line-of-sight (LOS) reconstruction of incomplete galaxy catalogs. In the standard galaxy catalog method for inferring the Hub…",
+      "published_at": "2026-08-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.24992",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "BlueBird 6 is Fainter than Block 1 Satellites",
-      "summary": "arXiv:2608.23668v1 Announce Type: new Abstract: The mean apparent magnitude for BlueBird 6, the first Block 2 satellite of the BlueBird constellation, is 3.85 +/- 0.10 while that for Block 1 spacecraft is 3.30 +/- 0.07. So, BlueBird 6 is 0.55 magnitudes fainter. Likewise, the mea…",
-      "published_at": "2026-08-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.23668",
+      "title": "Black hole astrometric binaries in the Roman Galactic Bulge Time Domain Survey",
+      "summary": "arXiv:2608.24998v1 Announce Type: new Abstract: The Nancy Grace Roman Space Telescope (Roman), NASA's next flagship mission, is currently scheduled to launch in August 2026. As part of its mission, Roman will conduct the Galactic Bulge Time Domain Survey (GBTDS), which will gener…",
+      "published_at": "2026-08-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.24998",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "More Numerous and Bluer: Companions of the Brightest Little Red Dots Differ from Control Galaxies at $>3\\sigma$, Hinting at Synchronized Bla…",
-      "summary": "arXiv:2608.23671v1 Announce Type: new Abstract: The Little Red Dots (LRDs) are a population of compact, red sources, detected abundantly at $4 \\lesssim z \\lesssim 9$. While their nature is still debated, many models suggest they are powered by accreting massive black holes. Multi…",
-      "published_at": "2026-08-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.23671",
+      "title": "Magnetic Heating Across the Sun and Solar-like Stars: Universal Scaling Laws from Chromospheres to Coronae",
+      "summary": "arXiv:2608.24999v1 Announce Type: new Abstract: Magnetic activity in cool stars governs the thermal structure and high-energy radiative output of their outer atmospheres, thereby influencing stellar evolution, stellar winds, and the atmospheres of orbiting (exo)planets. A long-st…",
+      "published_at": "2026-08-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.24999",
       "tags": [
         "arxiv",
         "astro-ph"
