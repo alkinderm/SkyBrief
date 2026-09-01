@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-08-31T17:40:54Z",
+  "generated_at": "2026-09-01T15:06:02Z",
   "items": [
     {
-      "title": "Multimessenger Constraints on the Central Engine in SN 2023ixf: Neutron Star or Black Hole?",
-      "summary": "arXiv:2608.27468v1 Announce Type: new Abstract: The physical trigger of core-collapse supernova (CC-SNe) is a central theme in modern surveys of the transient Universe. A multi-messenger approach may provide a unique window to CC-SNe produced by a newly born neutron star (NS) or…",
-      "published_at": "2026-08-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.27468",
+      "title": "G(2) Glueball Boson Stars as Restricted Kerr Mimickers in the Thomas--Fermi Limit",
+      "summary": "arXiv:2608.28688v1 Announce Type: new Abstract: We investigate whether horizonless compact stars made of dark glueball matter from a broken exceptional $G(2)$ gauge sector can reproduce selected Kerr observables within a Thomas--Fermi effective-fluid description. We introduce GC9…",
+      "published_at": "2026-09-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.28688",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "CHARA Array Observations of the Evolved Components in Symbiotic Star Systems",
-      "summary": "arXiv:2608.27546v1 Announce Type: new Abstract: The nature of the mechanisms that drive mass transfer in symbiotic stars remains an area of active research in stellar astronomy. Constraining the role that both stellar winds and Roche-lobe overflow play in this process is crucial…",
-      "published_at": "2026-08-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.27546",
+      "title": "Magnetic destabilisation in disc galaxies: Filament/feather formation",
+      "summary": "arXiv:2608.28737v1 Announce Type: new Abstract: Gas gravitational instability plays a crucial role in secular galactic evolution, but the role played by magnetic fields in mediating this instability - despite their dynamical relevance and ubiquity - is still not understood. To in…",
+      "published_at": "2026-09-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.28737",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A first-principles binary neutron star merger model of GW170817, GRB170817A, and AT2017gfo",
-      "summary": "arXiv:2608.27555v1 Announce Type: new Abstract: The multimessenger observation of the binary neutron star merger event GW170817, associated with its electromagnetic counterparts GRB170817A and AT2017gfo, marked a milestone in astrophysics, yet its unified physical explanation rem…",
-      "published_at": "2026-08-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.27555",
+      "title": "AXIS Could Have Accessed Dark Matter Decays",
+      "summary": "arXiv:2608.28738v1 Announce Type: new Abstract: The Advanced X-ray Imaging Satellite (AXIS) was a mission concept designed to improve upon the sensitivity and spatial resolution of the Chandra X-ray Observatory and XMM-Newton. Although AXIS was not selected for implementation, th…",
+      "published_at": "2026-09-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.28738",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Discovering Substellar Dark Matter Halos with Astrometric Weak Lensing of Multiply Imaged Quasars",
-      "summary": "arXiv:2608.27557v1 Announce Type: new Abstract: We propose time-domain astrometric weak lensing of multiply imaged quasars as a probe of substellar dark matter (DM) halos. In $\\Lambda$CDM, the photon path of each macro-image traverses numerous microhalos, which collectively produ…",
-      "published_at": "2026-08-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.27557",
+      "title": "Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI Sky Fibers",
+      "summary": "arXiv:2608.28740v1 Announce Type: new Abstract: Using 10.8 million ``blank'' sky spectra from the DESI Year 3 dataset, we measure the diffuse galactic light (DGL) spectrum in the optical at spectral resolution $R \\sim 4000$ by correlating with far-infrared emission from IRAS. Sub…",
+      "published_at": "2026-09-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.28740",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Resolved Dust in $z\\approx1$ Galaxies with JWST/MIRI MRS: Survey Description and First View on PAHs, Mid-IR Atomic Emission, and Warm H$_2$",
-      "summary": "arXiv:2608.27560v1 Announce Type: new Abstract: Dust is a key component of galaxies that regulates their thermal balance and, consequently, star formation and the build-up of stellar mass. Polycyclic aromatic hydrocarbons (PAHs) are responsible for reprocessing radiative energy o…",
-      "published_at": "2026-08-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.27560",
+      "title": "The GECKOS survey: Assembly history of the lenticular galaxy NGC 3957",
+      "summary": "arXiv:2608.28744v1 Announce Type: new Abstract: We analyse the assembly history of the edge-on lenticular galaxy NGC 3957 using deep integral-field spectroscopic MUSE data from the GECKOS survey. By applying a dust-corrected Multi-Gaussian Expansion and a population-orbit superpo…",
+      "published_at": "2026-09-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.28744",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "TDCOSMO. XXVII. JWST-based Lens Models and H$_0$ Measurement of WFI2033, HE0435, and PG1115",
-      "summary": "arXiv:2608.27566v1 Announce Type: new Abstract: Time-delay cosmography offers a one-step, distance-ladder-independent route to the Hubble-Lemaitre constant, H_0. We present new cosmography-grade lens models of three quadruply imaged quasars based on JWST-NIRCam/F115W imaging (WFI…",
-      "published_at": "2026-08-31T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.27566",
+      "title": "Super-Eddington Little Blue Dots May Reionize Helium Too Early",
+      "summary": "arXiv:2608.28745v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has identified an abundant population of faint Active Galactic Nuclei (AGN) at $z \\gtrsim 4$ which display broad emission lines, compact morphologies, and blue ultraviolet--optical continua. The…",
+      "published_at": "2026-09-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2608.28745",
       "tags": [
         "arxiv",
         "astro-ph"
