@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-01T15:06:02Z",
+  "generated_at": "2026-09-02T14:38:13Z",
   "items": [
     {
-      "title": "G(2) Glueball Boson Stars as Restricted Kerr Mimickers in the Thomas--Fermi Limit",
-      "summary": "arXiv:2608.28688v1 Announce Type: new Abstract: We investigate whether horizonless compact stars made of dark glueball matter from a broken exceptional $G(2)$ gauge sector can reproduce selected Kerr observables within a Thomas--Fermi effective-fluid description. We introduce GC9…",
-      "published_at": "2026-09-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.28688",
+      "title": "Efficient searches of small signals across two-channel noisy data: a challenge in Big Data observations",
+      "summary": "arXiv:2609.00013v1 Announce Type: new Abstract: Searching for novel small signals in noisy data is preferably pursued by correlation in two or more independently operating channels. Signals of potential interest exist in tails beyond $\\kappa\\sigma$, where $\\kappa$ denotes a multi…",
+      "published_at": "2026-09-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.00013",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Magnetic destabilisation in disc galaxies: Filament/feather formation",
-      "summary": "arXiv:2608.28737v1 Announce Type: new Abstract: Gas gravitational instability plays a crucial role in secular galactic evolution, but the role played by magnetic fields in mediating this instability - despite their dynamical relevance and ubiquity - is still not understood. To in…",
-      "published_at": "2026-09-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.28737",
+      "title": "Viability of Big Bang Nucleosynthesis in $f(R,L_m)$ Gravity",
+      "summary": "arXiv:2609.00017v1 Announce Type: new Abstract: We examine the viability of Big Bang Nucleosynthesis (BBN) constraints in $f(R,L_m)$ gravity, where the gravitational Lagrangian is an arbitrary function of the the Ricci scalar $R$ and matter Lagrangian density $L_m$. We derive str…",
+      "published_at": "2026-09-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.00017",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "AXIS Could Have Accessed Dark Matter Decays",
-      "summary": "arXiv:2608.28738v1 Announce Type: new Abstract: The Advanced X-ray Imaging Satellite (AXIS) was a mission concept designed to improve upon the sensitivity and spatial resolution of the Chandra X-ray Observatory and XMM-Newton. Although AXIS was not selected for implementation, th…",
-      "published_at": "2026-09-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.28738",
+      "title": "Lynx2030 Science Analysis Group: Final Report",
+      "summary": "arXiv:2609.00033v1 Announce Type: new Abstract: The Lynx2030 Science Analysis Group (SAG) was convened to reassess the scientific goals and technical drivers of the Lynx mission concept amid a rapidly evolving astrophysics landscape. Building on the original Lynx Concept Study, t…",
+      "published_at": "2026-09-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.00033",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Spatially-Resolved Spectra of Diffuse Galactic Light using 10.8 M DESI Sky Fibers",
-      "summary": "arXiv:2608.28740v1 Announce Type: new Abstract: Using 10.8 million ``blank'' sky spectra from the DESI Year 3 dataset, we measure the diffuse galactic light (DGL) spectrum in the optical at spectral resolution $R \\sim 4000$ by correlating with far-infrared emission from IRAS. Sub…",
-      "published_at": "2026-09-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.28740",
+      "title": "Detectability-Aware Screening of Post-Merger Gravitational-Wave Damping Anomalies in Real Detector Noise: A Graph-Spectral Approach with Emp…",
+      "summary": "arXiv:2609.00095v1 Announce Type: new Abstract: A two-stage methodological proof of concept for screening simplified post-merger gravitational-wave damping anomalies in real LIGO Livingston noise is presented. The injected signal is a controlled damped-sinusoid proxy rather than…",
+      "published_at": "2026-09-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.00095",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The GECKOS survey: Assembly history of the lenticular galaxy NGC 3957",
-      "summary": "arXiv:2608.28744v1 Announce Type: new Abstract: We analyse the assembly history of the edge-on lenticular galaxy NGC 3957 using deep integral-field spectroscopic MUSE data from the GECKOS survey. By applying a dust-corrected Multi-Gaussian Expansion and a population-orbit superpo…",
-      "published_at": "2026-09-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.28744",
+      "title": "Skyfire: A Spectroscopic Census of Little Red Dots and Broad-Line AGN in the CEERS Field",
+      "summary": "arXiv:2609.00112v1 Announce Type: new Abstract: We present the Skyfire program, a 21-hour Cycle 3 JWST/NIRSpec survey with the G395M medium-resolution grating covering five pointings in the Extended Groth Strip. The survey is designed to carry out a systematic census of faint, br…",
+      "published_at": "2026-09-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.00112",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Super-Eddington Little Blue Dots May Reionize Helium Too Early",
-      "summary": "arXiv:2608.28745v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has identified an abundant population of faint Active Galactic Nuclei (AGN) at $z \\gtrsim 4$ which display broad emission lines, compact morphologies, and blue ultraviolet--optical continua. The…",
-      "published_at": "2026-09-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2608.28745",
+      "title": "Weighing Little Red Dots with Transient Events",
+      "summary": "arXiv:2609.00113v1 Announce Type: new Abstract: Recent JWST observations have revealed a large population of compact red sources at $z \\gtrsim 4$, known as Little Red Dots (LRDs), many of which show signatures of accreting massive black holes (BHs). The physical nature of these s…",
+      "published_at": "2026-09-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.00113",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Photo Release: Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
+      "summary": "<img align=\"left\" alt=\"Nā ʻUhane Māhoe Huki Pū i ke Ola\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2621a.jpg\" />Nā ʻUhane Māhoe Huki Pū i ke Ola is the Hawaiian name given to this image of NGC 7253 — a pair of spiral galaxies cau…",
+      "published_at": "2026-09-01T18:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2621/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Ocean of Stars\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2616a.jpg\" />The wait is over: NSF–DOE Rubin Observatory, funded by the U.S. National Science Foundation and the U.S. Department of Energy’s Office…",
       "published_at": "2026-06-30T15:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2616/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Tracing a Neutrino Ghost to Distant “Shadow Blaster” Galaxy",
-      "summary": "<img align=\"left\" alt=\"Composite of Gemini North and ALMA images of &quot;Shadow Blaster&quot;\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2615a.jpg\" />A team of astronomers has identified a remarkably bright, gravitationally-lens…",
-      "published_at": "2026-06-17T09:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2615/",
       "tags": [
         "noirlab"
       ],
