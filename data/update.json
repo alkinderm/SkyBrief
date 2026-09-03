@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-02T14:38:13Z",
+  "generated_at": "2026-09-03T14:41:16Z",
   "items": [
     {
-      "title": "Efficient searches of small signals across two-channel noisy data: a challenge in Big Data observations",
-      "summary": "arXiv:2609.00013v1 Announce Type: new Abstract: Searching for novel small signals in noisy data is preferably pursued by correlation in two or more independently operating channels. Signals of potential interest exist in tails beyond $\\kappa\\sigma$, where $\\kappa$ denotes a multi…",
-      "published_at": "2026-09-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.00013",
+      "title": "Amortized Opacity Marginalization Improves C/O Interval Calibration for Brown-Dwarf Retrievals",
+      "summary": "arXiv:2609.01665v1 Announce Type: new Abstract: Molecular line lists disagree at a level that measurably shifts retrieved C/O, so retrievals conditioned on a single list omit a dominant systematic from their error bars. Classical marginalization re-runs a full retrieval under K o…",
+      "published_at": "2026-09-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.01665",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Viability of Big Bang Nucleosynthesis in $f(R,L_m)$ Gravity",
-      "summary": "arXiv:2609.00017v1 Announce Type: new Abstract: We examine the viability of Big Bang Nucleosynthesis (BBN) constraints in $f(R,L_m)$ gravity, where the gravitational Lagrangian is an arbitrary function of the the Ricci scalar $R$ and matter Lagrangian density $L_m$. We derive str…",
-      "published_at": "2026-09-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.00017",
+      "title": "CosmicPAH-IRDB: A Web Application for Including Anharmonicity in Simulated PAH Spectra for Astrophysics",
+      "summary": "arXiv:2609.01696v1 Announce Type: new Abstract: Advances in infrared observations with the James Webb Space Telescope (JWST) call for new tools to exploit the information associated with the Aromatic Infrared Bands (AIBs), now observed in both distant galaxies and the embryos of…",
+      "published_at": "2026-09-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.01696",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Lynx2030 Science Analysis Group: Final Report",
-      "summary": "arXiv:2609.00033v1 Announce Type: new Abstract: The Lynx2030 Science Analysis Group (SAG) was convened to reassess the scientific goals and technical drivers of the Lynx mission concept amid a rapidly evolving astrophysics landscape. Building on the original Lynx Concept Study, t…",
-      "published_at": "2026-09-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.00033",
+      "title": "Linking neutral gas inflows and outflows to offsets in the star-forming main sequence and mass-metallicity relation",
+      "summary": "arXiv:2609.01707v1 Announce Type: new Abstract: Gas inflows and outflows regulate galaxy growth, but direct observational links between measured gas flows and galaxy scaling relations remain limited. Using ~6,000 star-forming galaxies with down-the-barrel Na I D absorption from D…",
+      "published_at": "2026-09-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.01707",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Detectability-Aware Screening of Post-Merger Gravitational-Wave Damping Anomalies in Real Detector Noise: A Graph-Spectral Approach with Emp…",
-      "summary": "arXiv:2609.00095v1 Announce Type: new Abstract: A two-stage methodological proof of concept for screening simplified post-merger gravitational-wave damping anomalies in real LIGO Livingston noise is presented. The injected signal is a controlled damped-sinusoid proxy rather than…",
-      "published_at": "2026-09-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.00095",
+      "title": "The HERON Coma Project: Exploring the low-surface-brightness frontiers in the Coma cluster",
+      "summary": "arXiv:2609.01708v1 Announce Type: new Abstract: The technical complexity of data processing and residual instrumental systematics remain among the main barriers to reaching the faintest low-surface-brightness (LSB) regimes in the local Universe. Here, we present the HERON Coma Pr…",
+      "published_at": "2026-09-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.01708",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Skyfire: A Spectroscopic Census of Little Red Dots and Broad-Line AGN in the CEERS Field",
-      "summary": "arXiv:2609.00112v1 Announce Type: new Abstract: We present the Skyfire program, a 21-hour Cycle 3 JWST/NIRSpec survey with the G395M medium-resolution grating covering five pointings in the Extended Groth Strip. The survey is designed to carry out a systematic census of faint, br…",
-      "published_at": "2026-09-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.00112",
+      "title": "The Comprehensive Investigations of the NGC 7419 Open Cluster and the New Perspective on Mass Populations",
+      "summary": "arXiv:2609.01709v1 Announce Type: new Abstract: We present a structural, kinematic, and photometric analysis of the young, red supergiant- and Be star-rich open cluster NGC 7419 using Gaia DR3 and 2MASS data. Using the HDBSCAN algorithm and conservative membership criteria, we id…",
+      "published_at": "2026-09-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.01709",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Weighing Little Red Dots with Transient Events",
-      "summary": "arXiv:2609.00113v1 Announce Type: new Abstract: Recent JWST observations have revealed a large population of compact red sources at $z \\gtrsim 4$, known as Little Red Dots (LRDs), many of which show signatures of accreting massive black holes (BHs). The physical nature of these s…",
-      "published_at": "2026-09-02T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.00113",
+      "title": "JWST Reveals a Candidate Supermassive Black Hole Binary at z=4.3 in the Brightest Sub-millimeter Galaxy in COSMOS-Web",
+      "summary": "arXiv:2609.01711v1 Announce Type: new Abstract: We present JWST/NIRSpec PRISM and G395M grating spectroscopy for AzTEC-1, a massive sub-mm bright galaxy at $z=4.34$ in the COSMOS extragalactic field. The PRISM spectrum reveals strong H$\\alpha$, a significant Balmer break, and no…",
+      "published_at": "2026-09-03T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.01711",
       "tags": [
         "arxiv",
         "astro-ph"
