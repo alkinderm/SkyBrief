@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-03T14:41:16Z",
+  "generated_at": "2026-09-04T14:29:32Z",
   "items": [
     {
-      "title": "Amortized Opacity Marginalization Improves C/O Interval Calibration for Brown-Dwarf Retrievals",
-      "summary": "arXiv:2609.01665v1 Announce Type: new Abstract: Molecular line lists disagree at a level that measurably shifts retrieved C/O, so retrievals conditioned on a single list omit a dominant systematic from their error bars. Classical marginalization re-runs a full retrieval under K o…",
-      "published_at": "2026-09-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.01665",
+      "title": "The influence of standard relativistic effects on Gaia-like astrometric catalogs",
+      "summary": "arXiv:2609.02922v1 Announce Type: new Abstract: With the observational accuracy of astrometric space telescopes such as Gaia, the Newtonian theoretical framework for positional astronomy is no longer appropriate. To model all effects relevant at the corresponding levels of accura…",
+      "published_at": "2026-09-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.02922",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "CosmicPAH-IRDB: A Web Application for Including Anharmonicity in Simulated PAH Spectra for Astrophysics",
-      "summary": "arXiv:2609.01696v1 Announce Type: new Abstract: Advances in infrared observations with the James Webb Space Telescope (JWST) call for new tools to exploit the information associated with the Aromatic Infrared Bands (AIBs), now observed in both distant galaxies and the embryos of…",
-      "published_at": "2026-09-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.01696",
+      "title": "The Impact of Artificial Space Objects on Optical Astronomy as Determined from 32 Million Photometric Observations",
+      "summary": "arXiv:2609.02951v1 Announce Type: new Abstract: Photometric observations of satellites, rockets and space debris brighter than magnitudes 6.0, 7.0 and 8.0 are characterized. Those magnitudes pertain to different levels of interference with astronomy as defined by the Internationa…",
+      "published_at": "2026-09-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.02951",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Linking neutral gas inflows and outflows to offsets in the star-forming main sequence and mass-metallicity relation",
-      "summary": "arXiv:2609.01707v1 Announce Type: new Abstract: Gas inflows and outflows regulate galaxy growth, but direct observational links between measured gas flows and galaxy scaling relations remain limited. Using ~6,000 star-forming galaxies with down-the-barrel Na I D absorption from D…",
-      "published_at": "2026-09-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.01707",
+      "title": "Benchmarking Machine Learning Emulators of Stellar Evolution for Precision Asteroseismology",
+      "summary": "arXiv:2609.03004v1 Announce Type: new Abstract: Fast and accurate stellar evolution emulators---surrogate models that approximate expensive simulation outputs with machine learning (ML)---are powerful tools for modern stellar characterization, hierarchical inference, and populati…",
+      "published_at": "2026-09-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.03004",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The HERON Coma Project: Exploring the low-surface-brightness frontiers in the Coma cluster",
-      "summary": "arXiv:2609.01708v1 Announce Type: new Abstract: The technical complexity of data processing and residual instrumental systematics remain among the main barriers to reaching the faintest low-surface-brightness (LSB) regimes in the local Universe. Here, we present the HERON Coma Pr…",
-      "published_at": "2026-09-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.01708",
+      "title": "Radial velocity detection of the TRAPPIST-1 planetary system with SPIRou and NIRPS",
+      "summary": "arXiv:2609.03006v1 Announce Type: new Abstract: The TRAPPIST-1 system is well-known for its seven transiting Earth-sized exoplanets. It has been extensively studied and characterized, notably with transit timing variations (TTVs) to precisely measure the mass of the planets. Usin…",
+      "published_at": "2026-09-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.03006",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The Comprehensive Investigations of the NGC 7419 Open Cluster and the New Perspective on Mass Populations",
-      "summary": "arXiv:2609.01709v1 Announce Type: new Abstract: We present a structural, kinematic, and photometric analysis of the young, red supergiant- and Be star-rich open cluster NGC 7419 using Gaia DR3 and 2MASS data. Using the HDBSCAN algorithm and conservative membership criteria, we id…",
-      "published_at": "2026-09-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.01709",
+      "title": "Bridging integrated-light and resolved-star studies of Local Group dwarf spheroidals. A novel use of deep imaging based on amateur telescope…",
+      "summary": "arXiv:2609.03010v1 Announce Type: new Abstract: Low-mass galaxies beyond the Local Group can only be studied through their integrated light, yet it remains unclear whether structural parameters inferred from integrated light are directly comparable to those obtained from resolved…",
+      "published_at": "2026-09-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.03010",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "JWST Reveals a Candidate Supermassive Black Hole Binary at z=4.3 in the Brightest Sub-millimeter Galaxy in COSMOS-Web",
-      "summary": "arXiv:2609.01711v1 Announce Type: new Abstract: We present JWST/NIRSpec PRISM and G395M grating spectroscopy for AzTEC-1, a massive sub-mm bright galaxy at $z=4.34$ in the COSMOS extragalactic field. The PRISM spectrum reveals strong H$\\alpha$, a significant Balmer break, and no…",
-      "published_at": "2026-09-03T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.01711",
+      "title": "Unlocking the QPE Mystery: Star-Disk Collisions in Realistic AGN Disks",
+      "summary": "arXiv:2609.03011v1 Announce Type: new Abstract: Quasi-periodic eruptions (QPEs) are luminous, recurring soft X-ray outbursts observed in the nuclei of low-mass galaxies. They display two remarkable trends: outburst durations are $\\sim$10-20% of the recurrence timescale, and longe…",
+      "published_at": "2026-09-04T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.03011",
       "tags": [
         "arxiv",
         "astro-ph"
