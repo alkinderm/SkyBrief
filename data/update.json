@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-09T14:45:16Z",
+  "generated_at": "2026-09-10T14:34:53Z",
   "items": [
     {
-      "title": "Photon-Ring Retarded- Time Tomography: The Mahakal Phenomenon",
-      "summary": "arXiv:2609.05528v1 Announce Type: new Abstract: Near-critical null geodesics generate image-order channels with distinct mappings, delays, and weights, so one observer-time data set samples multiple source epochs. We organize the inverse problem by historical reach, dimension, an…",
-      "published_at": "2026-09-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.05528",
+      "title": "Decoding the Imprints of Energy-Momentum Squared Gravity in Neutron Stars with Machine Learning Analysis",
+      "summary": "arXiv:2609.09248v1 Announce Type: new Abstract: Neutron stars (NSs) provide a unique laboratory for testing gravity in the strong-field regime and for searching for deviations from General Relativity (GR). In this work, we investigate the effects of Energy-Momentum Squared Gravit…",
+      "published_at": "2026-09-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.09248",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Spatio-Temporal Self-Propagating Log-Gaussian Cox-Hawkes Process for Star Formation Modelling",
-      "summary": "arXiv:2609.05548v1 Announce Type: new Abstract: Stochastic self-propagating star formation models describe galactic structure through local triggering and feedback but are commonly formulated using discrete spatial cells and time steps. We extend the spatio-temporal log-Gaussian…",
-      "published_at": "2026-09-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.05548",
+      "title": "Virgo Filaments VII: MeerKAT HI-imaging of the VirgoIII filament",
+      "summary": "arXiv:2609.09253v1 Announce Type: new Abstract: We present MeerKAT HI observations of galaxies in the nearby Virgo III filament. At a median distance of $\\sim30$ Mpc, the filament extends over $\\approx16$ Mpc across $\\sim56$ deg$^2$. Our survey comprises 15 targeted MeerKAT point…",
+      "published_at": "2026-09-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.09253",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Exploring the dark sector through galaxy dynamics in clusters",
-      "summary": "arXiv:2609.05597v1 Announce Type: new Abstract: Galaxy clusters are among the most powerful laboratories to probe fundamental physics, from the formation of cosmic structures to the nature of dark matter, dark energy, and gravity. Realizing their full potential requires accurate…",
-      "published_at": "2026-09-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.05597",
+      "title": "A Spectral Framework for Testing the Quasi-Star Hypothesis in Little Red Dots I: Weighing LRDs by Their Super-Eddington Luminosity Ratios---…",
+      "summary": "arXiv:2609.09265v1 Announce Type: new Abstract: We present a spectral test of the quasi-star hypothesis for Little Red Dots (LRDs) whereby a black hole grows inside a stellar-like envelope. We use \\texttt{Prospector} to fit host galaxies and \\texttt{TLUSTY} photospheres to four L…",
+      "published_at": "2026-09-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.09265",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "POSTELLAR: Posterior Stellar Spectrum Sampling - An Alternative to Approximate Stellar Spectra for Exoplanetary Analysis",
-      "summary": "arXiv:2609.05599v1 Announce Type: new Abstract: We present a novel approach to perform posterior sampling of the underlying stellar spectrum in high-resolution spectroscopic observations. Our method, postellar, coherently combines information from empirical observations and physi…",
-      "published_at": "2026-09-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.05599",
+      "title": "SHELLQs. Black Hole Mass and Eddington Ratio Distributions of Intermediate-Luminosity Quasars at 6<z<7",
+      "summary": "arXiv:2609.09266v1 Announce Type: new Abstract: We present near-infrared spectroscopy of 21 quasars at 6.07 < z < 6.90 obtained with JWST/NIRSpec and Subaru/MOIRCS. These targets have absolute ultraviolet magnitudes of -25 < M_1450 < -22 and are drawn from a sample of z>6 quasars…",
+      "published_at": "2026-09-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.09266",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Baryon-Accelerated Core Collapse in SIDM Halos and its Imprint on Galactic Disks",
-      "summary": "arXiv:2609.05600v1 Announce Type: new Abstract: The gravitational coupling between dark matter (DM) halos and the baryonic structures they host is one of the most powerful windows into the particle nature of DM. Self-interacting dark matter (SIDM) presents a minimal, well-motivat…",
-      "published_at": "2026-09-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.05600",
+      "title": "RIGEL: Ultra-faint dwarf galaxy diversity shaped by inhomogeneous cosmic reionization",
+      "summary": "arXiv:2609.09267v1 Announce Type: new Abstract: Ultra-faint dwarf galaxies (UFDs) are among the smallest and oldest galaxies in the Universe and are widely regarded as relics of cosmic reionization. To investigate how reionization quenches star formation and shapes the diversity…",
+      "published_at": "2026-09-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.09267",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The information content of optical intensity interferometry",
-      "summary": "arXiv:2609.05602v1 Announce Type: new Abstract: Optical intensity interferometry (II) can in principle resolve structure on angular scales $\\theta\\sim \\lambda/B$, but it measures only the squared visibility $|{\\cal V}|^2$, discarding Fourier phase. We quantify what information ca…",
-      "published_at": "2026-09-09T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.05602",
+      "title": "The Ashes of Supermassive Stars: Globular Cluster-like Aluminum Enhancement in Little Red Dots",
+      "summary": "arXiv:2609.09271v1 Announce Type: new Abstract: The relative abundances of elements in galaxies serve as fossil records of the physical conditions and processes by which they were forged. While the Big Bang produced only the lightest elements, subsequent stellar nucleosynthesis i…",
+      "published_at": "2026-09-10T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.09271",
       "tags": [
         "arxiv",
         "astro-ph"
