@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-13T14:35:36Z",
+  "generated_at": "2026-09-14T16:28:25Z",
   "items": [
+    {
+      "title": "The Role of the Core in Setting Massive Neutron-Star Radii",
+      "summary": "arXiv:2609.11967v1 Announce Type: new Abstract: Recent observations by the Neutron Star Interior Composition Explorer (NICER) indicate that the massive pulsar PSR J0740+6620 ($2.08\\,M_{\\odot}$) has a radius comparable to those inferred for stars near $1.4\\,M_{\\odot}$, as shown by…",
+      "published_at": "2026-09-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.11967",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Framework for Evaluating Forward Contamination Risk for Bio-ISRU Microorganisms",
+      "summary": "arXiv:2609.12015v1 Announce Type: new Abstract: NASA planetary protection policy seeks to avoid inadvertent forward contamination of celestial bodies and backward contamination of Earth during space exploration. For Mars missions, it has historically focused on sterilization of l…",
+      "published_at": "2026-09-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.12015",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Continuous Learning of Gravity Field Irregularities Around Small Bodies via Neural Hamiltonian ODEs",
+      "summary": "arXiv:2609.12022v1 Announce Type: new Abstract: We propose to learn the unknown dynamics in the proximity of a small body directly from tracking data, representing them as a feed-forward neural network embedded in the system Hamiltonian. The equations of motion form a Neural Hami…",
+      "published_at": "2026-09-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.12022",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "An unresolved extreme warm infrared excess toward a nearby low-mass star",
+      "summary": "arXiv:2609.12034v1 Announce Type: new Abstract: Gaia DR3 2981818948336660224 is a nearby low-mass star with a substantial warm mid-infrared excess. Identified in a Gaia-2MASS-WISE search, it lies at approximately 127 pc and has an AllWISE W3 signal-to-noise ratio of 33.1. We reco…",
+      "published_at": "2026-09-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.12034",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Impact of galaxy intrinsic alignments on non-Gaussian weak lensing statistics for modified gravity",
+      "summary": "arXiv:2609.12038v1 Announce Type: new Abstract: Non-Gaussian weak lensing statistics improve the constraining power of cosmic shear data by harvesting information unavailable to two-point statistics, within and beyond the GR+$\\Lambda$CDM scenario. Dark energy, total neutrino mass…",
+      "published_at": "2026-09-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.12038",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Clustering-based halo mass assignment for high-redshift galaxies: method, validation, and application to JWST",
+      "summary": "arXiv:2609.12040v1 Announce Type: new Abstract: We present a clustering-based method for inferring halo masses of high-redshift galaxies, validated using the COLIBRE simulations combined with the HOMA empirical model, which assumes star formation to be proportional to halo accret…",
+      "published_at": "2026-09-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.12040",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Extremely Massive Galaxy Proto-Supercluster Smashes Distance Records",
       "summary": "<img align=\"left\" alt=\"Most distant galaxy proto-supercluster (annotated)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2622b.jpg\" />An international team of astronomers has discovered the most distant progenitor to a galaxy supercl…",
