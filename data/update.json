@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-14T16:28:25Z",
+  "generated_at": "2026-09-15T15:11:55Z",
   "items": [
     {
-      "title": "The Role of the Core in Setting Massive Neutron-Star Radii",
-      "summary": "arXiv:2609.11967v1 Announce Type: new Abstract: Recent observations by the Neutron Star Interior Composition Explorer (NICER) indicate that the massive pulsar PSR J0740+6620 ($2.08\\,M_{\\odot}$) has a radius comparable to those inferred for stars near $1.4\\,M_{\\odot}$, as shown by…",
-      "published_at": "2026-09-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.11967",
+      "title": "Astrophysics in the Era of Artificial Intelligence powered by Large Language Models",
+      "summary": "arXiv:2609.13301v1 Announce Type: new Abstract: In recent times there is considerable unease about the way Artificial Intelligence (AI) powered by large language models is used to do astrophysics, and, assuming that these AIs will get far better in future, several alarming situat…",
+      "published_at": "2026-09-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.13301",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Framework for Evaluating Forward Contamination Risk for Bio-ISRU Microorganisms",
-      "summary": "arXiv:2609.12015v1 Announce Type: new Abstract: NASA planetary protection policy seeks to avoid inadvertent forward contamination of celestial bodies and backward contamination of Earth during space exploration. For Mars missions, it has historically focused on sterilization of l…",
-      "published_at": "2026-09-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.12015",
+      "title": "An X-ray Data Primer: What I Wish I Knew When Starting X-ray Astronomy",
+      "summary": "arXiv:2609.13323v1 Announce Type: new Abstract: This guide is intended for astronomers new to X-ray astronomy. It provides a brief overview of the data products typically encountered by the user and highlights analysis considerations usually not discussed in more formal introduct…",
+      "published_at": "2026-09-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.13323",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Continuous Learning of Gravity Field Irregularities Around Small Bodies via Neural Hamiltonian ODEs",
-      "summary": "arXiv:2609.12022v1 Announce Type: new Abstract: We propose to learn the unknown dynamics in the proximity of a small body directly from tracking data, representing them as a feed-forward neural network embedded in the system Hamiltonian. The equations of motion form a Neural Hami…",
-      "published_at": "2026-09-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.12022",
+      "title": "The Loud Tail of the Supermassive Black Hole Binary Population: Multimessenger Candidates and Prospects for SKAO",
+      "summary": "arXiv:2609.13363v1 Announce Type: new Abstract: We assess whether electromagnetically identified supermassive black hole (SMBH) binary candidates populate the rare, high-amplitude tail of the gravitational wave (GW) amplitude distribution. Using an SMBH binary population model fi…",
+      "published_at": "2026-09-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.13363",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "An unresolved extreme warm infrared excess toward a nearby low-mass star",
-      "summary": "arXiv:2609.12034v1 Announce Type: new Abstract: Gaia DR3 2981818948336660224 is a nearby low-mass star with a substantial warm mid-infrared excess. Identified in a Gaia-2MASS-WISE search, it lies at approximately 127 pc and has an AllWISE W3 signal-to-noise ratio of 33.1. We reco…",
-      "published_at": "2026-09-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.12034",
+      "title": "Complete Second-Order Relativistic Derivation of the Observed Pulsar Timing Modulations",
+      "summary": "arXiv:2609.13364v1 Announce Type: new Abstract: We present a fully nonlinear relativistic description of the observed pulsar timing modulations, defined through the ratio of the proper-time intervals between two successive emissions of radio pulses and their observations by a pul…",
+      "published_at": "2026-09-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.13364",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Impact of galaxy intrinsic alignments on non-Gaussian weak lensing statistics for modified gravity",
-      "summary": "arXiv:2609.12038v1 Announce Type: new Abstract: Non-Gaussian weak lensing statistics improve the constraining power of cosmic shear data by harvesting information unavailable to two-point statistics, within and beyond the GR+$\\Lambda$CDM scenario. Dark energy, total neutrino mass…",
-      "published_at": "2026-09-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.12038",
+      "title": "Reigniting the FUSE II: O VI Emission in Massive Elliptical Galaxies",
+      "summary": "arXiv:2609.13368v1 Announce Type: new Abstract: This is the second paper in a series where we examine archival far-ultraviolet spectroscopy of 29 massive elliptical galaxies from the Far Ultraviolet Spectroscopic Explorer (FUSE) with modern methods. In the first paper, we perform…",
+      "published_at": "2026-09-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.13368",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Clustering-based halo mass assignment for high-redshift galaxies: method, validation, and application to JWST",
-      "summary": "arXiv:2609.12040v1 Announce Type: new Abstract: We present a clustering-based method for inferring halo masses of high-redshift galaxies, validated using the COLIBRE simulations combined with the HOMA empirical model, which assumes star formation to be proportional to halo accret…",
-      "published_at": "2026-09-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.12040",
+      "title": "Diffraction of gravitational waves by extended dark objects",
+      "summary": "arXiv:2609.13369v1 Announce Type: new Abstract: Many dark sector models predict the formation of dark objects, such as solitons and dark stars, which can be searched for through their gravitational lensing of gravitational waves (GWs). Although these objects vary widely in size a…",
+      "published_at": "2026-09-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.13369",
       "tags": [
         "arxiv",
         "astro-ph"
