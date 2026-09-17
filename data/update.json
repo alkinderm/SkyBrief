@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-16T15:07:26Z",
+  "generated_at": "2026-09-17T15:13:03Z",
   "items": [
     {
-      "title": "Bayesian Inferences on Analytical Equations of State Approximations of Neutron Stars",
-      "summary": "arXiv:2609.16080v1 Announce Type: new Abstract: Equations of state (EoS) for dense matter are commonly provided in tabulated pressure-energy density relations, complicating numerical implementation and potentially compromising thermodynamic consistency. In this work, we propose a…",
-      "published_at": "2026-09-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.16080",
+      "title": "FOSSIL: A future mission for CMB spectral distortion measurements",
+      "summary": "arXiv:2609.17618v1 Announce Type: new Abstract: We present FOSSIL, a proposed space mission which is designed to deliver unprecedented absolute spectroscopic measurements of the sky intensity over a broad frequency range (50GHz to 2THz) to accurately measure chemical-potential mu…",
+      "published_at": "2026-09-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.17618",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "$\\Lambda$CDM in a courtroom",
-      "summary": "arXiv:2609.16097v1 Announce Type: new Abstract: The cosmological constant $\\Lambda$, and its generalization as Dark Energy, makes up roughly 70% of the present-epoch universe and has been part of the dominant $\\Lambda$CDM cosmological paradigm for more than a quarter of a century…",
-      "published_at": "2026-09-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.16097",
+      "title": "IViS: Interferometric Visibility-domain inversion Software - A GPU-accelerated Python framework for joint deconvolution with ASKAP",
+      "summary": "arXiv:2609.17636v1 Announce Type: new Abstract: Wide-field spectral-line imaging with modern radio interferometers remains challenging when the emission is extended, multiscale, and distributed over many overlapping pointings. Accurate reconstruction requires joint treatment of t…",
+      "published_at": "2026-09-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.17636",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Inhomogeneous Cloud Coverage and Altitude-Dependent Heat Transport on the Hot-Jupiter NGTS-10 Ab from its Optical-to-Infrared Phase Curve",
-      "summary": "arXiv:2609.16115v1 Announce Type: new Abstract: Hot-Jupiters, gas giant planets with equilibrium temperatures above 1,000 K, host large temperature gradients between their permanent day- and nightsides, resulting in circulation regimes that have no Solar System analogs. Past Kepl…",
-      "published_at": "2026-09-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.16115",
+      "title": "Rethinking Domain Specialization for Open-Ended Scientific Reasoning in Astronomy Language Models",
+      "summary": "arXiv:2609.17644v1 Announce Type: new Abstract: Domain-specialized language models are widely used for scientific question answering, but stronger general-purpose systems raise a sharper question: when does domain-specific fine-tuning remain valuable for open-ended scientific rea…",
+      "published_at": "2026-09-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.17644",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "A Dark-matter Origin of Little Red Dots: Early Seeding and Super-Bondi Accretion",
-      "summary": "arXiv:2609.16122v1 Announce Type: new Abstract: The \"Little red dots\" (LRDs) are a population of accreting supermassive black holes (SMBHs) in the early Universe which often exhibit undermassive or even undetectable stellar hosts. Their early emergence, high space density, and ex…",
-      "published_at": "2026-09-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.16122",
+      "title": "The OpenGadget3 Code for Cosmological Simulations",
+      "summary": "arXiv:2609.17658v1 Announce Type: new Abstract: We present the public release of OpenGadget3 (OG3), a substantially extended and re-organised version of the widely used Gadget-2/3 family of cosmological simulation codes. Since G2 was made publicly available, the absence of contin…",
+      "published_at": "2026-09-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.17658",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "On the dynamical accessibility of twin stars",
-      "summary": "arXiv:2609.16126v1 Announce Type: new Abstract: A sufficiently strong hadron-to-quark first-order phase transition can give rise to a third family of stable compact stars that are commonly referred to as hybrid hadron-quark stars. Stable hybrid stars that have the same gravitatio…",
-      "published_at": "2026-09-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.16126",
+      "title": "1D PIC Simulations of Resonant Scattering-Driven Pair Cascades in Magnetar Magnetospheres",
+      "summary": "arXiv:2609.17661v1 Announce Type: new Abstract: Hard X-rays in persistent magnetar emission originate from radiative processes in pair-loaded magnetospheric plasma, yet self-consistent kinetic simulations of such radiation-rich systems remain limited. We perform 1D particle-in-ce…",
+      "published_at": "2026-09-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.17661",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "CMB-HD Foregrounds: Simulations, Source Detection, and Foreground Removal",
-      "summary": "arXiv:2609.16128v1 Announce Type: new Abstract: We present simulations of the microwave sky at 2.5 arcsecond resolution over 100 square degrees, generated from existing full-sky, lower-resolution simulations, and use them to demonstrate extragalactic foreground removal for a CMB-…",
-      "published_at": "2026-09-16T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.16128",
+      "title": "The relationship between morphology, density, and location in the cosmic web from massive to dwarf galaxies",
+      "summary": "arXiv:2609.17662v1 Announce Type: new Abstract: We study how morphology relates to environment from massive to dwarf galaxies using, for the first time, a mass-complete sample of ~13,000 galaxies, in the stellar-mass and redshift ranges 10^8 MSun < Mstar < 10^11.5 MSun and 0.2<0.…",
+      "published_at": "2026-09-17T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.17662",
       "tags": [
         "arxiv",
         "astro-ph"
