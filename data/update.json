@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-17T15:13:03Z",
+  "generated_at": "2026-09-18T14:35:52Z",
   "items": [
     {
-      "title": "FOSSIL: A future mission for CMB spectral distortion measurements",
-      "summary": "arXiv:2609.17618v1 Announce Type: new Abstract: We present FOSSIL, a proposed space mission which is designed to deliver unprecedented absolute spectroscopic measurements of the sky intensity over a broad frequency range (50GHz to 2THz) to accurately measure chemical-potential mu…",
-      "published_at": "2026-09-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.17618",
+      "title": "Effects of radial conductivity variation on the Ponomarenko dynamo",
+      "summary": "arXiv:2609.19187v1 Announce Type: new Abstract: We study the effects of conductivity variation on the Ponomarenko dynamo. Taking monotonically increasing/decreasing and sinusoidally varying radial profiles, we study the kinematic dynamo problem. The threshold of the dynamo, given…",
+      "published_at": "2026-09-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.19187",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "IViS: Interferometric Visibility-domain inversion Software - A GPU-accelerated Python framework for joint deconvolution with ASKAP",
-      "summary": "arXiv:2609.17636v1 Announce Type: new Abstract: Wide-field spectral-line imaging with modern radio interferometers remains challenging when the emission is extended, multiscale, and distributed over many overlapping pointings. Accurate reconstruction requires joint treatment of t…",
-      "published_at": "2026-09-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.17636",
+      "title": "Where the Forest Goes Dark: Halo-centered Characterization of High Column Density Systems with IllustrisTNG",
+      "summary": "arXiv:2609.19235v1 Announce Type: new Abstract: High column density systems of neutral hydrogen (HCDs) --- Lyman limit systems (LLSs), sub-damped and damped Ly$\\alpha$ absorbers (DLAs) --- contaminate both the 3D and the 1D statistics of the Ly$\\alpha$ forest. Most DLAs are maske…",
+      "published_at": "2026-09-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.19235",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Rethinking Domain Specialization for Open-Ended Scientific Reasoning in Astronomy Language Models",
-      "summary": "arXiv:2609.17644v1 Announce Type: new Abstract: Domain-specialized language models are widely used for scientific question answering, but stronger general-purpose systems raise a sharper question: when does domain-specific fine-tuning remain valuable for open-ended scientific rea…",
-      "published_at": "2026-09-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.17644",
+      "title": "Rubin LSST DP2 unveils almost-dark galaxies in the Virgo Cluster",
+      "summary": "arXiv:2609.19246v1 Announce Type: new Abstract: Galaxies with the faintest surface brightness are currently known only in the Local Group. Similar objects should exist beyond our vicinity and are crucial for understanding galaxy evolution, structure, and dark matter content, yet…",
+      "published_at": "2026-09-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.19246",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The OpenGadget3 Code for Cosmological Simulations",
-      "summary": "arXiv:2609.17658v1 Announce Type: new Abstract: We present the public release of OpenGadget3 (OG3), a substantially extended and re-organised version of the widely used Gadget-2/3 family of cosmological simulation codes. Since G2 was made publicly available, the absence of contin…",
-      "published_at": "2026-09-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.17658",
+      "title": "Precise and Accurate Mass and Radius Measurements of Thirty Galactic Metal-Poor Stars in Detached Eclipsing Binaries",
+      "summary": "arXiv:2609.19248v1 Announce Type: new Abstract: Detached eclipsing binaries have long served as fundamental benchmarks for making direct comparisons with stellar models. By combining the light curve and radial velocity orbit of a detached eclipsing binary, precise masses and radi…",
+      "published_at": "2026-09-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.19248",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "1D PIC Simulations of Resonant Scattering-Driven Pair Cascades in Magnetar Magnetospheres",
-      "summary": "arXiv:2609.17661v1 Announce Type: new Abstract: Hard X-rays in persistent magnetar emission originate from radiative processes in pair-loaded magnetospheric plasma, yet self-consistent kinetic simulations of such radiation-rich systems remain limited. We perform 1D particle-in-ce…",
-      "published_at": "2026-09-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.17661",
+      "title": "Stellar companions sculpt hot Jupiter formation and spin-orbit evolution",
+      "summary": "arXiv:2609.19249v1 Announce Type: new Abstract: Stellar companions can drive hot-Jupiter (HJ) migration and spin-orbit misalignment, but their role in HJ formation remains uncertain. We construct a homogeneous census of resolved stellar companions to $147$ northern HJs with measu…",
+      "published_at": "2026-09-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.19249",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The relationship between morphology, density, and location in the cosmic web from massive to dwarf galaxies",
-      "summary": "arXiv:2609.17662v1 Announce Type: new Abstract: We study how morphology relates to environment from massive to dwarf galaxies using, for the first time, a mass-complete sample of ~13,000 galaxies, in the stellar-mass and redshift ranges 10^8 MSun < Mstar < 10^11.5 MSun and 0.2<0.…",
-      "published_at": "2026-09-17T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.17662",
+      "title": "A High-Mass Size Deficit for Void Galaxies in the Complete SDSS DR7",
+      "summary": "arXiv:2609.19253v1 Announce Type: new Abstract: We characterize how environment shapes the sizes, luminosity functions, and mass functions of galaxies in large-scale underdensities by comparing the NSA catalog of the Sloan Digital Sky Survey Data Release 7 with an identically sel…",
+      "published_at": "2026-09-18T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.19253",
       "tags": [
         "arxiv",
         "astro-ph"
