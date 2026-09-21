@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-20T14:18:37Z",
+  "generated_at": "2026-09-21T16:33:04Z",
   "items": [
+    {
+      "title": "Reinforcement learning for post-coronagraphic wavefront control",
+      "summary": "arXiv:2609.20880v1 Announce Type: new Abstract: Direct imaging of exoplanets is limited by the extreme contrast between the star and the planets, which is mitigated using a coronagraph. However, optical aberrations cause starlight leakage through the coronagraph, producing speckl…",
+      "published_at": "2026-09-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.20880",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Free-Free Radio Emission from Little Red Dots as a Probe of Ionized Gas",
+      "summary": "arXiv:2609.20913v1 Announce Type: new Abstract: Recent studies have hypothesized that little red dots (LRDs) are rapidly accreting black holes surrounded by dense gaseous environments. Both neutral and ionized gas play a key role in explaining many of the puzzling spectral featur…",
+      "published_at": "2026-09-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.20913",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Little Red Dots As Super-Eddington Fountain Flows",
+      "summary": "arXiv:2609.20920v1 Announce Type: new Abstract: Little red dots (LRDs) may be powered by supermassive black holes (SMBHs) accreting above the Eddington limit. Spectroscopy of LRDs often shows absorption troughs blueshifted by $\\sim100-300\\,{\\rm km\\,s^{-1}}$, implying a slow wind.…",
+      "published_at": "2026-09-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.20920",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "ALMA Chemical Evolution (ACE) survey: The gas fundamental metallicity relation at cosmic noon",
+      "summary": "arXiv:2609.20921v1 Announce Type: new Abstract: Chemical enrichment shapes how galaxies form and evolve. The gas-phase metallicity is directly linked to the stellar mass, star formation rate, and cold gas of the interstellar medium. Thus, the cold gas fundamental metallicity rela…",
+      "published_at": "2026-09-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.20921",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum",
+      "summary": "arXiv:2609.20923v1 Announce Type: new Abstract: Recent JWST observations have revealed that the morning and evening limbs of the hot Jupiter WASP-94Ab have very different transmission spectra. An analysis of these resolved limb spectra yielded a metallicity more than an order of…",
+      "published_at": "2026-09-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.20923",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "ALMA Chemical Evolution (ACE) survey: dust-to-gas ratios in sub-solar metallicity galaxies at cosmic noon",
+      "summary": "arXiv:2609.20926v1 Announce Type: new Abstract: Dust is a fundamental component of the interstellar medium and provides a key tracer of the baryon cycle that regulates galaxy evolution. The dust-to-gas ratio links metals in the gas phase to those locked into dust grains, making i…",
+      "published_at": "2026-09-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.20926",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Extremely Massive Galaxy Proto-Supercluster Smashes Distance Records",
       "summary": "<img align=\"left\" alt=\"Most distant galaxy proto-supercluster (annotated)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2622b.jpg\" />An international team of astronomers has discovered the most distant progenitor to a galaxy supercl…",
