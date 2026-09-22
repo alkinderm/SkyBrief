@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-21T16:33:04Z",
+  "generated_at": "2026-09-22T15:07:20Z",
   "items": [
     {
-      "title": "Reinforcement learning for post-coronagraphic wavefront control",
-      "summary": "arXiv:2609.20880v1 Announce Type: new Abstract: Direct imaging of exoplanets is limited by the extreme contrast between the star and the planets, which is mitigated using a coronagraph. However, optical aberrations cause starlight leakage through the coronagraph, producing speckl…",
-      "published_at": "2026-09-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.20880",
+      "title": "Geometrically Thin Sub-Eddington AGN Accretion Disks show a suppressed Lyman Edge",
+      "summary": "arXiv:2609.22421v1 Announce Type: new Abstract: The observed ultraviolet continua of active galactic nuclei (AGN) generally lack a strong intrinsic HI Lyman edge predicted by classical optically thick accretion disk atmosphere models. We revisit this long-standing problem using o…",
+      "published_at": "2026-09-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.22421",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Free-Free Radio Emission from Little Red Dots as a Probe of Ionized Gas",
-      "summary": "arXiv:2609.20913v1 Announce Type: new Abstract: Recent studies have hypothesized that little red dots (LRDs) are rapidly accreting black holes surrounded by dense gaseous environments. Both neutral and ionized gas play a key role in explaining many of the puzzling spectral featur…",
-      "published_at": "2026-09-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.20913",
+      "title": "Multi-tracer constraints on quasar outflows. Acceleration from BLR to galactic scales",
+      "summary": "arXiv:2609.22424v1 Announce Type: new Abstract: Black hole-driven outflows are a fundamental component of the Active Galactic Nuclei (AGN) paradigm, and may play a major role in regulating the evolution of both supermassive black holes and their host galaxies. Yet, their physical…",
+      "published_at": "2026-09-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.22424",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Little Red Dots As Super-Eddington Fountain Flows",
-      "summary": "arXiv:2609.20920v1 Announce Type: new Abstract: Little red dots (LRDs) may be powered by supermassive black holes (SMBHs) accreting above the Eddington limit. Spectroscopy of LRDs often shows absorption troughs blueshifted by $\\sim100-300\\,{\\rm km\\,s^{-1}}$, implying a slow wind.…",
-      "published_at": "2026-09-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.20920",
+      "title": "GRB 220706A: a gamma-ray burst with a month-long engine and a luminous supernova",
+      "summary": "arXiv:2609.22426v1 Announce Type: new Abstract: While the progenitors of many long gamma-ray bursts (GRBs) are well established as the core collapse of very massive, envelope-stripped, rapidly-rotating stars, it has been suggested that bursts at the extremely long end of the dura…",
+      "published_at": "2026-09-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.22426",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "ALMA Chemical Evolution (ACE) survey: The gas fundamental metallicity relation at cosmic noon",
-      "summary": "arXiv:2609.20921v1 Announce Type: new Abstract: Chemical enrichment shapes how galaxies form and evolve. The gas-phase metallicity is directly linked to the stellar mass, star formation rate, and cold gas of the interstellar medium. Thus, the cold gas fundamental metallicity rela…",
-      "published_at": "2026-09-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.20921",
+      "title": "Linking X-ray emission to galaxy populations in GAMA groups",
+      "summary": "arXiv:2609.22427v1 Announce Type: new Abstract: We study how the presence of a detectable hot intragroup medium affects galaxy colour and star-formation properties, and how these trends depend on dynamical stage within the group. We analysed galaxies in GAMA groups with and witho…",
+      "published_at": "2026-09-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.22427",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Recovering the Morning and Evening Limbs of WASP-94Ab from Its Limb-Averaged JWST Transmission Spectrum",
-      "summary": "arXiv:2609.20923v1 Announce Type: new Abstract: Recent JWST observations have revealed that the morning and evening limbs of the hot Jupiter WASP-94Ab have very different transmission spectra. An analysis of these resolved limb spectra yielded a metallicity more than an order of…",
-      "published_at": "2026-09-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.20923",
+      "title": "Star Formation and Nebular Attenuation from Pa$\\alpha$, Br$\\alpha$, and Br$\\beta$ in Massive Dust-obscured Galaxies at Cosmic Noon using JWS…",
+      "summary": "arXiv:2609.22428v1 Announce Type: new Abstract: Near-infrared hydrogen recombination lines can provide robust star-formation rates if the effects of dust attenuation continue to diminish towards longer wavelengths. To quantify near-infrared attenuation and ultimately measure accu…",
+      "published_at": "2026-09-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.22428",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "ALMA Chemical Evolution (ACE) survey: dust-to-gas ratios in sub-solar metallicity galaxies at cosmic noon",
-      "summary": "arXiv:2609.20926v1 Announce Type: new Abstract: Dust is a fundamental component of the interstellar medium and provides a key tracer of the baryon cycle that regulates galaxy evolution. The dust-to-gas ratio links metals in the gas phase to those locked into dust grains, making i…",
-      "published_at": "2026-09-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.20926",
+      "title": "Probing Millisecond Optical Timescales with Continuous-Readout Mode Observations from ZTF",
+      "summary": "arXiv:2609.22429v1 Announce Type: new Abstract: The subminute-timescale phase space is an underexplored regime of the optical sky. Sub-second optical observations are difficult to accomplish with traditional CCD exposure-readout cycles, and alternative technologies like EMCCDs an…",
+      "published_at": "2026-09-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.22429",
       "tags": [
         "arxiv",
         "astro-ph"
