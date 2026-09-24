@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-23T15:09:05Z",
+  "generated_at": "2026-09-24T15:25:27Z",
   "items": [
     {
-      "title": "Eccentricity and Inclination Excitation of Stellar Orbits around merging Black-Hole Binaries",
-      "summary": "arXiv:2609.25109v1 Announce Type: new Abstract: Identifying the formation channels of merging compact-object binaries remains a fundamental challenge in gravitational-wave (GW) astrophysics. Here, we formulate a generalized framework incorporating both third-body perturbations an…",
-      "published_at": "2026-09-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.25109",
+      "title": "Spectroscopic Study of the Circularly Polarised Radio Source TYC 2834-1385-1: An Active Binary",
+      "summary": "arXiv:2609.26849v1 Announce Type: new Abstract: Close binaries with active chromospheres have recently been shown to emit circularly polarised radio emission at low frequencies, motivating detailed studies of their orbital properties. We present high-resolution ($R=85,000$) optic…",
+      "published_at": "2026-09-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.26849",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "CRIMSONS: An Online Tool for Modeling Chemical Enrichment with Stochastic IMF Sampling",
-      "summary": "arXiv:2609.25200v1 Announce Type: new Abstract: Chemical enrichment is a universal process shaped by several interconnected factors, including stellar feedback, the nature of chemical polluters, and the underlying distribution of stellar masses. Three key ingredients are often di…",
-      "published_at": "2026-09-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.25200",
+      "title": "Revealing the Shiny Nature of Lava Worlds: Small Planet Phase Curves with TESS",
+      "summary": "arXiv:2609.26874v1 Announce Type: new Abstract: Recent thermal emission observations suggest that `lava worlds'--Earth-sized exoplanets hot enough to melt their silicate surfaces--have atmospheres on a population-level. This evidence comes from measured dayside brightness tempera…",
+      "published_at": "2026-09-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.26874",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The white dwarf binary pathways survey - XI. The Gaia-GALEX UV Excess Sample for systems within 350 pc",
-      "summary": "arXiv:2609.25216v1 Announce Type: new Abstract: White dwarfs (WDs) with F, G or K type binary companions are the last common ancestor to a zoo of exotic phenomena. Finding a clean sample of such systems is difficult, as WDs in such binaries are usually outshone at optical wavelen…",
-      "published_at": "2026-09-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.25216",
+      "title": "Euclid Quick Data Release (Q1): Disc breaks highlight the structural evolution of galaxies through time",
+      "summary": "arXiv:2609.26877v1 Announce Type: new Abstract: Changes in the slope of the radial surface brightness profiles of disc galaxies, or disc breaks, encode valuable information about the processes driving disc formation and growth. Until now, due to the resolution and depth required,…",
+      "published_at": "2026-09-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.26877",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Dark matter haloes from dwarf to massive galaxies: no systematic inner-density tension with {\\Lambda}CDM hydrodynamical simulations",
-      "summary": "arXiv:2609.25220v1 Announce Type: new Abstract: Two of the most prominent small-scale challenges to the cold dark matter (CDM) paradigm are the cusp-core and diversity-of-rotation-curves problems. The former concerns the shallow inner DM density profiles inferred for many galaxie…",
-      "published_at": "2026-09-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.25220",
+      "title": "Compact Object Mergers and Micro-Tidal Disruption Events: A Multi-Messenger Probe of Dense Stellar Environments",
+      "summary": "arXiv:2609.26878v1 Announce Type: new Abstract: Dense stellar environments such as globular clusters and young massive clusters produce both compact-object mergers detectable in gravitational waves and tidal disruption events observable electromagnetically. We investigate compact…",
+      "published_at": "2026-09-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.26878",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The KAGG survey: KCWI Analysis of Gas around Galaxies at z~3-5",
-      "summary": "arXiv:2609.25221v1 Announce Type: new Abstract: We present the KCWI Analysis of Gas around Galaxies (KAGG) survey of Ly$\\alpha$ emission around Damped Ly$\\alpha$ Absorbers (DLAs) at z~3-5 with the Keck Cosmic Web Imager (KCWI) integral-field spectrograph. The KAGG survey is chara…",
-      "published_at": "2026-09-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.25221",
+      "title": "EPIMETHEUS: Effective PSF inferred from mosaics",
+      "summary": "arXiv:2609.26879v1 Announce Type: new Abstract: Accurate knowledge of the point spread function (PSF) is essential for a wide range of astronomical applications, from astrometry to precision photometry. However, deriving a robust average effective PSF (ePSF) from astronomical mos…",
+      "published_at": "2026-09-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.26879",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Gone with the wind? Potential gas inflow in the broad-line region of a QSO at $z=0.287$ traced by time-varying Balmer absorption",
-      "summary": "arXiv:2609.25224v1 Announce Type: new Abstract: We report spectroscopic observations of a remarkable QSO, J115724.80-000455.56 at $z=0.287$ from the Dark Energy Spectroscopic Instrument (DESI) survey. This QSO exhibits variability in its hydrogen Balmer absorption over a time int…",
-      "published_at": "2026-09-23T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.25224",
+      "title": "DIISC-VII: Linking Radial Gas Motions to Anomalously Low Metallicity Star-forming Regions in the XUV Disk of NGC 3344",
+      "summary": "arXiv:2609.26884v1 Announce Type: new Abstract: We present evidence connecting anomalously low-metallicity regions to radial gas inflows in the extended ultraviolet (XUV) disk of the galaxy NGC 3344. Anomalously low-metallicity H II regions are hypothesized to result from the acc…",
+      "published_at": "2026-09-24T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.26884",
       "tags": [
         "arxiv",
         "astro-ph"
