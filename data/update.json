@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-24T15:25:27Z",
+  "generated_at": "2026-09-25T15:27:02Z",
   "items": [
     {
-      "title": "Spectroscopic Study of the Circularly Polarised Radio Source TYC 2834-1385-1: An Active Binary",
-      "summary": "arXiv:2609.26849v1 Announce Type: new Abstract: Close binaries with active chromospheres have recently been shown to emit circularly polarised radio emission at low frequencies, motivating detailed studies of their orbital properties. We present high-resolution ($R=85,000$) optic…",
-      "published_at": "2026-09-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.26849",
+      "title": "South Pole-Aitken basin sample Return and eXploration (SPARX) Science Definition Team Report",
+      "summary": "arXiv:2609.28532v1 Announce Type: new Abstract: Sample return from South Pole-Aitken Basin (SPA) on the Moon has been recognized as the highest priority lunar science mission for well over two decades, appearing as a recommended New Frontiers class mission in the two previous Pla…",
+      "published_at": "2026-09-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.28532",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Revealing the Shiny Nature of Lava Worlds: Small Planet Phase Curves with TESS",
-      "summary": "arXiv:2609.26874v1 Announce Type: new Abstract: Recent thermal emission observations suggest that `lava worlds'--Earth-sized exoplanets hot enough to melt their silicate surfaces--have atmospheres on a population-level. This evidence comes from measured dayside brightness tempera…",
-      "published_at": "2026-09-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.26874",
+      "title": "AstroGenesis: A Domain-Specific Multi-Agent AI for Astrophysical Research",
+      "summary": "arXiv:2609.28579v1 Announce Type: new Abstract: Modern astrophysical research requires the integration of rapidly expanding scientific literature, heterogeneous observational data, and increasingly complex physical models. We introduce AstroGenesis (https://astrogenai.com), a dom…",
+      "published_at": "2026-09-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.28579",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Euclid Quick Data Release (Q1): Disc breaks highlight the structural evolution of galaxies through time",
-      "summary": "arXiv:2609.26877v1 Announce Type: new Abstract: Changes in the slope of the radial surface brightness profiles of disc galaxies, or disc breaks, encode valuable information about the processes driving disc formation and growth. Until now, due to the resolution and depth required,…",
-      "published_at": "2026-09-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.26877",
+      "title": "The shell around VY Canis Majoris in SPHEREx is likely an artifact",
+      "summary": "arXiv:2609.28612v1 Announce Type: new Abstract: Recently, the presence of a large shell around the bright hypergiant star VY Canis Majoris was reported in images from the SPHEREx mission. We report similar shells around other bright stars at similar locations in SPHEREx Band 1 im…",
+      "published_at": "2026-09-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.28612",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Compact Object Mergers and Micro-Tidal Disruption Events: A Multi-Messenger Probe of Dense Stellar Environments",
-      "summary": "arXiv:2609.26878v1 Announce Type: new Abstract: Dense stellar environments such as globular clusters and young massive clusters produce both compact-object mergers detectable in gravitational waves and tidal disruption events observable electromagnetically. We investigate compact…",
-      "published_at": "2026-09-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.26878",
+      "title": "Just a Phase? Weakening Vertical Shear Instability Explains Class II Disk Morphologies: Simulations with dust coagulation, sedimentation, th…",
+      "summary": "arXiv:2609.28618v1 Announce Type: new Abstract: The Vertical Shear Instability (VSI) is known to create turbulence and strong vertical mixing in protoplanetary disks if thermal relaxation is sufficiently fast. In simulations where this condition is met, VSI can loft dust particle…",
+      "published_at": "2026-09-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.28618",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "EPIMETHEUS: Effective PSF inferred from mosaics",
-      "summary": "arXiv:2609.26879v1 Announce Type: new Abstract: Accurate knowledge of the point spread function (PSF) is essential for a wide range of astronomical applications, from astrometry to precision photometry. However, deriving a robust average effective PSF (ePSF) from astronomical mos…",
-      "published_at": "2026-09-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.26879",
+      "title": "A Practical Primer on Software Citation in Research",
+      "summary": "arXiv:2609.28622v1 Announce Type: new Abstract: Software underlies virtually all modern research, yet citation practices for software remain inconsistent and often inadequate. This short primer offers practical guidance in two directions: how to properly cite the software you use…",
+      "published_at": "2026-09-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.28622",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "DIISC-VII: Linking Radial Gas Motions to Anomalously Low Metallicity Star-forming Regions in the XUV Disk of NGC 3344",
-      "summary": "arXiv:2609.26884v1 Announce Type: new Abstract: We present evidence connecting anomalously low-metallicity regions to radial gas inflows in the extended ultraviolet (XUV) disk of the galaxy NGC 3344. Anomalously low-metallicity H II regions are hypothesized to result from the acc…",
-      "published_at": "2026-09-24T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.26884",
+      "title": "Wave-Optics Imprints of Warm Dark Matter Subhalos with Prompt Cusps on Strongly Lensed Gravitational Waves",
+      "summary": "arXiv:2609.28626v1 Announce Type: new Abstract: Dark matter halos are expected to form with a prompt $\\rho \\propto r^{-3/2}$ density cusp at their centres, and in warm dark matter (WDM) cosmologies these cusps can dominate the inner structure of the low-mass subhalos that survive…",
+      "published_at": "2026-09-25T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.28626",
       "tags": [
         "arxiv",
         "astro-ph"
