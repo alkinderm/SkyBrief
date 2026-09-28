@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-27T15:13:58Z",
+  "generated_at": "2026-09-28T18:13:44Z",
   "items": [
+    {
+      "title": "FPCA-Enhanced Simulation-Based Inference for Robust Type Ia Supernova Cosmology",
+      "summary": "arXiv:2609.30312v1 Announce Type: new Abstract: Precision cosmology is a cornerstone of modern astronomy, and upcoming wide-field photometric surveys make it crucial to develop robust, data-driven inference methods that can handle complex survey systematics without relying on clo…",
+      "published_at": "2026-09-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.30312",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Tails and Trails: Comets and NEOs Survive Co-addition in Rubin Early Data Preview 2",
+      "summary": "arXiv:2609.30361v1 Announce Type: new Abstract: We identify effectively single-visit imaging hidden within the deep co-added images of the NSF-DOE Vera C. Rubin Observatory Early Data Preview 2 (EDP2). These shallow regions contain only one or two contributing visits, providing a…",
+      "published_at": "2026-09-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.30361",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Self-Consistent Jeans Analysis of the Milky Way Rotation Curve",
+      "summary": "arXiv:2609.30364v1 Announce Type: new Abstract: Jeans-based measurements of the Milky Way (MW) rotation curve (RC) have revealed a declining outer RC. The interpretation, however, depends sensitively on the tracer selection, the tracer density profile, gradient terms in the Jeans…",
+      "published_at": "2026-09-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.30364",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Non-linear dynamo waves in magnetized shear flows: a candidate mechanism for the solar cycle",
+      "summary": "arXiv:2609.30367v1 Announce Type: new Abstract: Large-scale magnetic reversals in planets, stars, and accretion disks require a non-linear theory coupling the magnetic field to its sustaining flow. We derive exact non-linear solutions to incompressible magnetohydrodynamics in bac…",
+      "published_at": "2026-09-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.30367",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Hidden in the Halo: New Diffuse Star Clusters in the M82 Starburst with JWST",
+      "summary": "arXiv:2609.30373v1 Announce Type: new Abstract: Diffuse star clusters (DSCs) occupy a poorly explored region of the size-luminosity plane between classical globular clusters (GCs) and dwarf galaxies. Here we report the discovery of four faint DSCs in the halo of the nearby starbu…",
+      "published_at": "2026-09-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.30373",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "TRICEPS. I. Tracing cold gas, dust, and stars at sub-kpc scales in massive star-forming galaxies at z = 4-5",
+      "summary": "arXiv:2609.30375v1 Announce Type: new Abstract: We introduce the TRICEPS (Tracing Resolved Ionized Carbon Emission in Primeval Systems) survey. TRICEPS focuses on a sample of 16 massive galaxies at z = 4 - 5 with top-quality data: (i) ALMA band-7 observations of the [CII]-158 mic…",
+      "published_at": "2026-09-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.30375",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Extremely Massive Galaxy Proto-Supercluster Smashes Distance Records",
       "summary": "<img align=\"left\" alt=\"Most distant galaxy proto-supercluster (annotated)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2622b.jpg\" />An international team of astronomers has discovered the most distant progenitor to a galaxy supercl…",
