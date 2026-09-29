@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-28T18:13:44Z",
+  "generated_at": "2026-09-29T16:35:46Z",
   "items": [
     {
-      "title": "FPCA-Enhanced Simulation-Based Inference for Robust Type Ia Supernova Cosmology",
-      "summary": "arXiv:2609.30312v1 Announce Type: new Abstract: Precision cosmology is a cornerstone of modern astronomy, and upcoming wide-field photometric surveys make it crucial to develop robust, data-driven inference methods that can handle complex survey systematics without relying on clo…",
-      "published_at": "2026-09-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.30312",
+      "title": "Radiative properties and optical appearance of a thin accretion disk around a charged-PFDM black hole",
+      "summary": "arXiv:2609.31762v1 Announce Type: new Abstract: Accretion onto magnetically charged black holes in a perfect fluid dark matter (PFDM) background opens a new window for testing strong-field gravity. This paper investigates the radiative properties and optical appearance of a thin…",
+      "published_at": "2026-09-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.31762",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Tails and Trails: Comets and NEOs Survive Co-addition in Rubin Early Data Preview 2",
-      "summary": "arXiv:2609.30361v1 Announce Type: new Abstract: We identify effectively single-visit imaging hidden within the deep co-added images of the NSF-DOE Vera C. Rubin Observatory Early Data Preview 2 (EDP2). These shallow regions contain only one or two contributing visits, providing a…",
-      "published_at": "2026-09-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.30361",
+      "title": "Joint measurements of thermal Sunyaev-Zel'dovich and cosmic infrared background cross-correlations with cosmic shear",
+      "summary": "arXiv:2609.31774v1 Announce Type: new Abstract: The cross-correlation between weak lensing (WL) and the thermal Sunyaev-Zel'dovich (tSZ) effect probes the connection between the matter distribution and the thermal state of baryons at low redshift ($z\\lesssim1$). A key systematic…",
+      "published_at": "2026-09-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.31774",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A Self-Consistent Jeans Analysis of the Milky Way Rotation Curve",
-      "summary": "arXiv:2609.30364v1 Announce Type: new Abstract: Jeans-based measurements of the Milky Way (MW) rotation curve (RC) have revealed a declining outer RC. The interpretation, however, depends sensitively on the tracer selection, the tracer density profile, gradient terms in the Jeans…",
-      "published_at": "2026-09-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.30364",
+      "title": "Wavefront-Conditioned Photon Measurements for Exoplanet Spectroscopy: Contrast Limits and Conditional Gains",
+      "summary": "arXiv:2609.31778v1 Announce Type: new Abstract: A wavefront-sensor (WFS) prediction can select the photon measurement before detection or condition its likelihood afterward. This matters for reflected-light spectra requiring hundreds of hours, because subtracting residual starlig…",
+      "published_at": "2026-09-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.31778",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Non-linear dynamo waves in magnetized shear flows: a candidate mechanism for the solar cycle",
-      "summary": "arXiv:2609.30367v1 Announce Type: new Abstract: Large-scale magnetic reversals in planets, stars, and accretion disks require a non-linear theory coupling the magnetic field to its sustaining flow. We derive exact non-linear solutions to incompressible magnetohydrodynamics in bac…",
-      "published_at": "2026-09-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.30367",
+      "title": "Measuring the Expansion of Solar Magnetic Fields with Multiline Inversions from Sunrise III",
+      "summary": "arXiv:2609.31822v1 Announce Type: new Abstract: Magnetic fields in the solar atmosphere are expected to expand with height, forming magnetic canopies that couple the photosphere and chromosphere. Except for sunspots, direct measurements of this expansion remain scarce because the…",
+      "published_at": "2026-09-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.31822",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Hidden in the Halo: New Diffuse Star Clusters in the M82 Starburst with JWST",
-      "summary": "arXiv:2609.30373v1 Announce Type: new Abstract: Diffuse star clusters (DSCs) occupy a poorly explored region of the size-luminosity plane between classical globular clusters (GCs) and dwarf galaxies. Here we report the discovery of four faint DSCs in the halo of the nearby starbu…",
-      "published_at": "2026-09-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.30373",
+      "title": "MUSE spectroscopy of the compact dual AGN in the $z=3.273$ radio-loud gravitational lens MG B2016+112",
+      "summary": "arXiv:2609.31826v1 Announce Type: new Abstract: Dual active galactic nuclei (AGN) are unique laboratories for studying how galaxy mergers trigger accretion onto supermassive black holes (SMBHs). However, at redshifts $z>1$, only few dual AGN are confirmed at projected separations…",
+      "published_at": "2026-09-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.31826",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "TRICEPS. I. Tracing cold gas, dust, and stars at sub-kpc scales in massive star-forming galaxies at z = 4-5",
-      "summary": "arXiv:2609.30375v1 Announce Type: new Abstract: We introduce the TRICEPS (Tracing Resolved Ionized Carbon Emission in Primeval Systems) survey. TRICEPS focuses on a sample of 16 massive galaxies at z = 4 - 5 with top-quality data: (i) ALMA band-7 observations of the [CII]-158 mic…",
-      "published_at": "2026-09-28T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.30375",
+      "title": "Balmer Break Measurements Trace Departures from the Star-Forming Main Sequence at $1<z<4$ with JWST/NIRSpec",
+      "summary": "arXiv:2609.31827v1 Announce Type: new Abstract: We present JWST/NIRSpec PRISM observations of galaxies at $1<4$ to study the relation between Balmer-break strength ($D_{\\rm Balmer}$) and recent star formation. Using NIRSpec spectra from the JADES Transient Survey in GOODS-S, we m…",
+      "published_at": "2026-09-29T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.31827",
       "tags": [
         "arxiv",
         "astro-ph"
