@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-29T16:35:46Z",
+  "generated_at": "2026-09-30T16:28:39Z",
   "items": [
     {
-      "title": "Radiative properties and optical appearance of a thin accretion disk around a charged-PFDM black hole",
-      "summary": "arXiv:2609.31762v1 Announce Type: new Abstract: Accretion onto magnetically charged black holes in a perfect fluid dark matter (PFDM) background opens a new window for testing strong-field gravity. This paper investigates the radiative properties and optical appearance of a thin…",
-      "published_at": "2026-09-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.31762",
+      "title": "The Preprint Evolution: The Rise of Unreviewed Drafts on arXiv and its Implications for Astronomy",
+      "summary": "arXiv:2609.35787v1 Announce Type: new Abstract: The arXiv preprint server originally democratized astronomical research by digitizing the circulation of early manuscripts and removing the financial barriers of journal subscriptions. However, a system designed for the lower public…",
+      "published_at": "2026-09-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.35787",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Joint measurements of thermal Sunyaev-Zel'dovich and cosmic infrared background cross-correlations with cosmic shear",
-      "summary": "arXiv:2609.31774v1 Announce Type: new Abstract: The cross-correlation between weak lensing (WL) and the thermal Sunyaev-Zel'dovich (tSZ) effect probes the connection between the matter distribution and the thermal state of baryons at low redshift ($z\\lesssim1$). A key systematic…",
-      "published_at": "2026-09-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.31774",
+      "title": "Reconstructing Implicit Scientific Knowledge: Evaluating LLM Agents through End-to-End Reproduction of Astronomy",
+      "summary": "arXiv:2609.35900v1 Announce Type: new Abstract: The integration of large language models (LLMs) into scientific workflows is accelerating, yet their ability to reconstruct the reasoning underlying published research remains unexplored. Papers specify explicit procedures while lea…",
+      "published_at": "2026-09-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.35900",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Wavefront-Conditioned Photon Measurements for Exoplanet Spectroscopy: Contrast Limits and Conditional Gains",
-      "summary": "arXiv:2609.31778v1 Announce Type: new Abstract: A wavefront-sensor (WFS) prediction can select the photon measurement before detection or condition its likelihood afterward. This matters for reflected-light spectra requiring hundreds of hours, because subtracting residual starlig…",
-      "published_at": "2026-09-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.31778",
+      "title": "Photoelectron and electron microscopy investigation of laboratory grown Mg-silicate space dust analogues",
+      "summary": "arXiv:2609.35925v1 Announce Type: new Abstract: The atomic structure at the surface of interstellar silicate dust particles likely plays a key role in a variety of chemical processes occurring in star- and planet-forming regions of the interstellar medium (ISM). Here, we use the…",
+      "published_at": "2026-09-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.35925",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Measuring the Expansion of Solar Magnetic Fields with Multiline Inversions from Sunrise III",
-      "summary": "arXiv:2609.31822v1 Announce Type: new Abstract: Magnetic fields in the solar atmosphere are expected to expand with height, forming magnetic canopies that couple the photosphere and chromosphere. Except for sunspots, direct measurements of this expansion remain scarce because the…",
-      "published_at": "2026-09-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.31822",
+      "title": "Massive Population III Galaxies Near a GN-z11 Analog: The Role of the Baryon-Dark Matter Streaming Velocity",
+      "summary": "arXiv:2609.35941v1 Announce Type: new Abstract: Recently the James Webb Space Telescope (JWST) detected Hebe, a Population III (Pop III) candidate located ${\\sim}3$ kpc in projection from the massive $z=10.6$ galaxy GN-z11. This raises the question of whether Pop III star formati…",
+      "published_at": "2026-09-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.35941",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "MUSE spectroscopy of the compact dual AGN in the $z=3.273$ radio-loud gravitational lens MG B2016+112",
-      "summary": "arXiv:2609.31826v1 Announce Type: new Abstract: Dual active galactic nuclei (AGN) are unique laboratories for studying how galaxy mergers trigger accretion onto supermassive black holes (SMBHs). However, at redshifts $z>1$, only few dual AGN are confirmed at projected separations…",
-      "published_at": "2026-09-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.31826",
+      "title": "GA-NIFS view of LAP1: Assembly of Pop~III stellar clusters during EoR",
+      "summary": "arXiv:2609.35945v1 Announce Type: new Abstract: Lensed and Pristine 1 (LAP1) is one of the most promising candidates for the detection of so-called Pop~III stars at $z\\sim6.6$. In this work, we present new high-spectral-resolution ($R \\sim 2700$) \\jwst NIRSpec-IFS observations of…",
+      "published_at": "2026-09-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.35945",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Balmer Break Measurements Trace Departures from the Star-Forming Main Sequence at $1<z<4$ with JWST/NIRSpec",
-      "summary": "arXiv:2609.31827v1 Announce Type: new Abstract: We present JWST/NIRSpec PRISM observations of galaxies at $1<4$ to study the relation between Balmer-break strength ($D_{\\rm Balmer}$) and recent star formation. Using NIRSpec spectra from the JADES Transient Survey in GOODS-S, we m…",
-      "published_at": "2026-09-29T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.31827",
+      "title": "Discovery of the Infrared Counterpart of the Rapid Burster with JWST",
+      "summary": "arXiv:2609.35956v1 Announce Type: new Abstract: The Rapid Burster (MXB 1730$-$335) is the only known neutron star to produce both Type I and Type II X-ray bursts, making it a key system for understanding accretion physics onto neutron stars. It resides in Liller 1, a dense, metal…",
+      "published_at": "2026-09-30T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.35956",
       "tags": [
         "arxiv",
         "astro-ph"
