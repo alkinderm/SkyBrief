@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-09-30T16:28:39Z",
+  "generated_at": "2026-10-01T17:06:12Z",
   "items": [
     {
-      "title": "The Preprint Evolution: The Rise of Unreviewed Drafts on arXiv and its Implications for Astronomy",
-      "summary": "arXiv:2609.35787v1 Announce Type: new Abstract: The arXiv preprint server originally democratized astronomical research by digitizing the circulation of early manuscripts and removing the financial barriers of journal subscriptions. However, a system designed for the lower public…",
-      "published_at": "2026-09-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.35787",
+      "title": "Diffusion Models for Polarimetric Reconstruction of Circumstellar Environments in Correlated Speckle Noise",
+      "summary": "arXiv:2609.38229v1 Announce Type: new Abstract: High-contrast polarimetric imaging of circumstellar disks is severely limited by stellar leakage and speckle noise. Building upon the RHAPSODIE framework for polarimetric inverse problems, diffusion-based methods have shown promisin…",
+      "published_at": "2026-10-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.38229",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Reconstructing Implicit Scientific Knowledge: Evaluating LLM Agents through End-to-End Reproduction of Astronomy",
-      "summary": "arXiv:2609.35900v1 Announce Type: new Abstract: The integration of large language models (LLMs) into scientific workflows is accelerating, yet their ability to reconstruct the reasoning underlying published research remains unexplored. Papers specify explicit procedures while lea…",
-      "published_at": "2026-09-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.35900",
+      "title": "Multi Kernel Gaussian Process Guiding: Predictive Correction for Mounts with Several Gear Stages",
+      "summary": "arXiv:2609.38236v1 Announce Type: new Abstract: Gaussian process (GP) based predictive periodic error correction, introduced by Klenske et al., learns a telescope mount's periodic tracking error online and applies the correction before the error is observed, removing the reaction…",
+      "published_at": "2026-10-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.38236",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Photoelectron and electron microscopy investigation of laboratory grown Mg-silicate space dust analogues",
-      "summary": "arXiv:2609.35925v1 Announce Type: new Abstract: The atomic structure at the surface of interstellar silicate dust particles likely plays a key role in a variety of chemical processes occurring in star- and planet-forming regions of the interstellar medium (ISM). Here, we use the…",
-      "published_at": "2026-09-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.35925",
+      "title": "The orbital dynamics of the LMC and SMC about the Milky Way",
+      "summary": "arXiv:2609.38277v1 Announce Type: new Abstract: This review summarizes the changing observational and theoretical landscape that has led to rapid developments in our understanding of the orbital history of the Milky Way's most massive satellite galaxies, the LMC and SMC. The dete…",
+      "published_at": "2026-10-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.38277",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Massive Population III Galaxies Near a GN-z11 Analog: The Role of the Baryon-Dark Matter Streaming Velocity",
-      "summary": "arXiv:2609.35941v1 Announce Type: new Abstract: Recently the James Webb Space Telescope (JWST) detected Hebe, a Population III (Pop III) candidate located ${\\sim}3$ kpc in projection from the massive $z=10.6$ galaxy GN-z11. This raises the question of whether Pop III star formati…",
-      "published_at": "2026-09-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.35941",
+      "title": "Not So Heavy Metal I: Low Metallicity Enhances the Rate of high-redshift Superluminous Supernovae",
+      "summary": "arXiv:2609.38299v1 Announce Type: new Abstract: Type-I superluminous supernovae (SLSNe) are extremely luminous stellar explosions originating from the core collapse of massive stars. Unlike normal core-collapse supernovae, however, SLSNe occur almost exclusively in metal-poor env…",
+      "published_at": "2026-10-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.38299",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "GA-NIFS view of LAP1: Assembly of Pop~III stellar clusters during EoR",
-      "summary": "arXiv:2609.35945v1 Announce Type: new Abstract: Lensed and Pristine 1 (LAP1) is one of the most promising candidates for the detection of so-called Pop~III stars at $z\\sim6.6$. In this work, we present new high-spectral-resolution ($R \\sim 2700$) \\jwst NIRSpec-IFS observations of…",
-      "published_at": "2026-09-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.35945",
+      "title": "Nearby Supernova Science in the Era of High Cadence, Deep Time Domain Surveys",
+      "summary": "arXiv:2609.38304v1 Announce Type: new Abstract: We discuss science opportunities for nearby supernovae (SNe) in the era of the Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST), emphasizing the youngest phases of SN evolution and the value of contemporaneous high…",
+      "published_at": "2026-10-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.38304",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Discovery of the Infrared Counterpart of the Rapid Burster with JWST",
-      "summary": "arXiv:2609.35956v1 Announce Type: new Abstract: The Rapid Burster (MXB 1730$-$335) is the only known neutron star to produce both Type I and Type II X-ray bursts, making it a key system for understanding accretion physics onto neutron stars. It resides in Liller 1, a dense, metal…",
-      "published_at": "2026-09-30T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.35956",
+      "title": "Close Pulsar Pairs See Dark Matter Substructure through the Gravitational-Wave Background",
+      "summary": "arXiv:2609.38305v1 Announce Type: new Abstract: Pulsar timing arrays detect signals from dark matter substructure, but a nanohertz gravitational-wave background (GWB) severely degrades their sensitivity. We show that timing pulsar pairs separated by sub-parsec distances avoids th…",
+      "published_at": "2026-10-01T04:00:00Z",
+      "url": "https://arxiv.org/abs/2609.38305",
       "tags": [
         "arxiv",
         "astro-ph"
