@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-01T17:06:12Z",
+  "generated_at": "2026-10-02T16:20:03Z",
   "items": [
     {
-      "title": "Diffusion Models for Polarimetric Reconstruction of Circumstellar Environments in Correlated Speckle Noise",
-      "summary": "arXiv:2609.38229v1 Announce Type: new Abstract: High-contrast polarimetric imaging of circumstellar disks is severely limited by stellar leakage and speckle noise. Building upon the RHAPSODIE framework for polarimetric inverse problems, diffusion-based methods have shown promisin…",
-      "published_at": "2026-10-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.38229",
+      "title": "Asteroseismic Detection of a Massive Unseen Companion to the $\\delta$ Scuti Star TIC 160582982",
+      "summary": "arXiv:2610.00062v1 Announce Type: new Abstract: We present TIC 160582982, an eccentric $\\delta$ Scuti binary with a dynamically massive unseen companion. Six coherent high-frequency pressure modes used as pulsation clocks yield a phase-modulation orbit with $P_{\\rm orb}=89.29\\pm0…",
+      "published_at": "2026-10-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.00062",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Multi Kernel Gaussian Process Guiding: Predictive Correction for Mounts with Several Gear Stages",
-      "summary": "arXiv:2609.38236v1 Announce Type: new Abstract: Gaussian process (GP) based predictive periodic error correction, introduced by Klenske et al., learns a telescope mount's periodic tracking error online and applies the correction before the error is observed, removing the reaction…",
-      "published_at": "2026-10-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.38236",
+      "title": "Extreme Kerr Newman Black Holes: Differential Geometry, Symmetry, and the Golden Ratio",
+      "summary": "arXiv:2610.00088v1 Announce Type: new Abstract: We investigate the geometry of extreme Kerr-Newman black holes and its role in selecting distinct black hole states. Motivated by Smarr's question of what physical information is encoded in event-horizon symmetries, we identify, bes…",
+      "published_at": "2026-10-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.00088",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "The orbital dynamics of the LMC and SMC about the Milky Way",
-      "summary": "arXiv:2609.38277v1 Announce Type: new Abstract: This review summarizes the changing observational and theoretical landscape that has led to rapid developments in our understanding of the orbital history of the Milky Way's most massive satellite galaxies, the LMC and SMC. The dete…",
-      "published_at": "2026-10-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.38277",
+      "title": "Water enhances the formation of refractory sulfur in interstellar ices",
+      "summary": "arXiv:2610.00449v1 Announce Type: new Abstract: Sulfur is the tenth most abundant element in space, yet it is strongly depleted in the gas phase of dense interstellar regions, suggesting sequestration in dust grain components that are difficult to detect. We study whether UV irra…",
+      "published_at": "2026-10-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.00449",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Not So Heavy Metal I: Low Metallicity Enhances the Rate of high-redshift Superluminous Supernovae",
-      "summary": "arXiv:2609.38299v1 Announce Type: new Abstract: Type-I superluminous supernovae (SLSNe) are extremely luminous stellar explosions originating from the core collapse of massive stars. Unlike normal core-collapse supernovae, however, SLSNe occur almost exclusively in metal-poor env…",
-      "published_at": "2026-10-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.38299",
+      "title": "Gaia neutron stars: demographics, birth rates, and connections to other neutron star populations",
+      "summary": "arXiv:2610.00454v1 Announce Type: new Abstract: Gaia DR3 revealed a new class of neutron stars (NSs) in au-scale orbits with solar-type companions. How these 'Gaia NSs' form remains unclear, and constraining their intrinsic population properties is a necessary step toward underst…",
+      "published_at": "2026-10-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.00454",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Nearby Supernova Science in the Era of High Cadence, Deep Time Domain Surveys",
-      "summary": "arXiv:2609.38304v1 Announce Type: new Abstract: We discuss science opportunities for nearby supernovae (SNe) in the era of the Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST), emphasizing the youngest phases of SN evolution and the value of contemporaneous high…",
-      "published_at": "2026-10-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.38304",
+      "title": "Three New Likely Spider Millisecond Pulsar Binaries and Optical Kinematic Tracers of Intrabinary Shocks",
+      "summary": "arXiv:2610.00455v1 Announce Type: new Abstract: We report the discovery of three candidate spider millisecond pulsars via multi-wavelength follow-up of unassociated Fermi Large Area Telescope gamma-ray sources. All have optical spectroscopy from the SOAR 4.1-m telescope and X-ray…",
+      "published_at": "2026-10-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.00455",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Close Pulsar Pairs See Dark Matter Substructure through the Gravitational-Wave Background",
-      "summary": "arXiv:2609.38305v1 Announce Type: new Abstract: Pulsar timing arrays detect signals from dark matter substructure, but a nanohertz gravitational-wave background (GWB) severely degrades their sensitivity. We show that timing pulsar pairs separated by sub-parsec distances avoids th…",
-      "published_at": "2026-10-01T04:00:00Z",
-      "url": "https://arxiv.org/abs/2609.38305",
+      "title": "Which Milky Way Streams Make the Best Dark Matter Detectors?",
+      "summary": "arXiv:2610.00456v1 Announce Type: new Abstract: The abundance and properties of low-mass dark matter subhalos can be inferred by measuring the density and velocity structure of stellar streams, testing physical models of dark matter. Which streams make the most promising dark mat…",
+      "published_at": "2026-10-02T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.00456",
       "tags": [
         "arxiv",
         "astro-ph"
