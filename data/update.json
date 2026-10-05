@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-04T15:27:59Z",
+  "generated_at": "2026-10-05T19:26:59Z",
   "items": [
+    {
+      "title": "A Missing Latent, Not a Missing Simulator: Radius-Augmented Inference for Real JWST Retrieval",
+      "summary": "arXiv:2610.02245v1 Announce Type: new Abstract: Amortized simulation-based inference (SBI), which is trained on radiative-transfer simulators, recovers exoplanet atmospheres accurately on synthetic James Webb Space Telescope (JWST) spectra but collapses when it comes to real redu…",
+      "published_at": "2026-10-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.02245",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Generation of UL-Axions by a Kerr Black Hole. Part III: The fate of its Axion Wind",
+      "summary": "arXiv:2610.02250v1 Announce Type: new Abstract: In two previous articles, we have explained how super-massive Kerr Black Holes in the nucleus of an active galaxy or quasar can generate a large amount of axion particles in their magnetosphere. In that third part, we explore the po…",
+      "published_at": "2026-10-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.02250",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Comment on: \"The Preprint Evolution: The Rise of Unreviewed Drafts on arXiv and its Implications for Astronomy\"",
+      "summary": "arXiv:2610.02273v1 Announce Type: new Abstract: I argue against the proposal of arXiv:2609.35787 to divide arXiv astrophysics submissions into two streams: peer-reviewed papers and pre-review discussion drafts. I contend that such a division would threaten open scientific discuss…",
+      "published_at": "2026-10-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.02273",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Testing internal dynamics in neutron stars with radio pulsar timing",
+      "summary": "arXiv:2610.02291v1 Announce Type: new Abstract: Rotational variations in pulsars reflect either internal angular momentum exchange via equal and opposite torques (stationary spin noise) or independent torques causing diffusive changes in total angular momentum (nonstationary spin…",
+      "published_at": "2026-10-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.02291",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Optimizing spectral-matching component separation for measuring CMB B-mode polarization with a satellite mission",
+      "summary": "arXiv:2610.02301v1 Announce Type: new Abstract: The measurement of primordial CMB B-mode polarization is fundamentally limited by our ability to separate this faint signal from bright and complex Galactic foregrounds. Spectral Matching Independent Component Analysis (SMICA) offer…",
+      "published_at": "2026-10-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.02301",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Towards robust simulations of the galactic dynamo: a cross-code comparison between Eulerian and Lagrangian schemes",
+      "summary": "arXiv:2610.02308v1 Announce Type: new Abstract: Galactic magnetic fields are thought to be seeded by microscopic processes such as the Biermann battery and are primarily amplified to observed microgauss strengths by dynamo processes. Much of this amplification likely occurs withi…",
+      "published_at": "2026-10-05T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.02308",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Extremely Massive Galaxy Proto-Supercluster Smashes Distance Records",
       "summary": "<img align=\"left\" alt=\"Most distant galaxy proto-supercluster (annotated)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2622b.jpg\" />An international team of astronomers has discovered the most distant progenitor to a galaxy supercl…",
