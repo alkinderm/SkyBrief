@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-06T16:53:31Z",
+  "generated_at": "2026-10-07T17:30:31Z",
   "items": [
+    {
+      "title": "Relaxation of a Vlasov gas to an inhomogeneous state due to phase space mixing in an axisymmetric potential: A Newtonian analogy of the Kerr…",
+      "summary": "arXiv:2610.06913v1 Announce Type: new Abstract: We explore the dynamics of a Vlasov gas propagating in an external axisymmetric potential consisting of a central potential with an additional quadrupolar component which gives rise to two potential wells along the symmetry axis. Em…",
+      "published_at": "2026-10-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.06913",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Classification of X-ray Binaries in NGC 6946 with the use of Multiwavelength Data",
+      "summary": "arXiv:2610.06916v1 Announce Type: new Abstract: We identified X-ray binary (XRB) candidates in the galaxy NGC 6946 using archival {\\it Chandra} data. A total of 98 XRB candidates were detected within the 0.3$-$8 keV energy range, with luminosities between 10$^{36}$ and 10$^{40}$…",
+      "published_at": "2026-10-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.06916",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "An Assessment of the Triangulation Capabilities of a Multi-Site All-Sky Infrared Camera Array",
+      "summary": "arXiv:2610.06922v1 Announce Type: new Abstract: The Galileo Project operates three autonomous multi-camera observing sites near Las Vegas, Nevada, separated by baselines of $2$ and $10\\,$km, with the goal of characterizing the populations of natural and human-made objects that cr…",
+      "published_at": "2026-10-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.06922",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Power-law Coupling and Mock Validation of a Surface-density Anisotropy Diagnostic for 85 Rich Galaxy Clusters",
+      "summary": "arXiv:2610.06941v1 Announce Type: new Abstract: We assess a surface-density anisotropy diagnostic, $A_{\\rm ani}$, and its association with the slope $\\alpha$ of a power-law galaxy profile. We reprocess 20-annulus profiles of 85 optically rich clusters on a canonical grid, $0 \\leq…",
+      "published_at": "2026-10-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.06941",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Deriving the Continuous $\\beta$-FPUT Model for Decayless Solar Coronal Oscillations Directly from Resistive MHD",
+      "summary": "arXiv:2610.06953v1 Announce Type: new Abstract: We present an analytical framework deriving the fluid-continuum $\\beta$-Fermi-Pasta-Ulam-Tsingou ($\\beta$-FPUT) system directly from a third-order resistive magnetohydrodynamics (MHD) expansion to explain persistent, decayless trans…",
+      "published_at": "2026-10-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.06953",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The variable mass-loss in low-mass red giant stars: Chromospheric motion across stellar evolution in 47 Tuc",
+      "summary": "arXiv:2610.06957v1 Announce Type: new Abstract: Mass-Loss (ML) is a critical process that remains poorly understood despite its broad implications across astrophysics. Our current knowledge is insufficient to reproduce ML consistently across stars, particularly in cool, low-mass…",
+      "published_at": "2026-10-07T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.06957",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: Gemini North Reveals Pearl-Like Knots in the Remnant of a Supernova Witnessed in the Year 1181",
       "summary": "<img align=\"left\" alt=\"Supernova remnant Pa 30\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2624a.jpg\" />The Gemini North telescope located on Maunakea in Hawai‘i has revealed the most detailed view yet of Pa 30, the likely remnant…",
@@ -14,96 +104,6 @@
         "name": "NOIRLab News",
         "type": "rss",
         "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Polarization Transport and Polarized Images of a Rotating Braneworld Black Hole",
-      "summary": "arXiv:2610.03738v1 Announce Type: new Abstract: We investigate polarized synchrotron emission from an optically thin accretion flow around a rotating braneworld black hole, focusing on how higher-dimensional gravity modifies photon propagation and polarization transport. We integ…",
-      "published_at": "2026-10-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.03738",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Pressure-induced desalting of NaCl-bearing ice VII: A compositional filter in water-rich planets",
-      "summary": "arXiv:2610.03806v1 Announce Type: new Abstract: Sodium chloride is a major component of extraterrestrial oceans, but it is generally assumed to be excluded from the high-pressure ice mantles of water-rich planets. Here we show that a concentrated NaCl solution, when quenched in a…",
-      "published_at": "2026-10-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.03806",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Map-based asymmetric beam treatment: application of real-space beam patterns in CMB data analysis",
-      "summary": "arXiv:2610.03840v1 Announce Type: new Abstract: Real telescope beams are asymmetric, breaking the simple $B_{\\ell}$ factorisation in harmonic space and coupling modes across $\\ell$ and $m$. We develop a map-domain treatment in which beam convolution is a local, scan-dependent ope…",
-      "published_at": "2026-10-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.03840",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Tracing the evolution of galaxy environments with manifold learning",
-      "summary": "arXiv:2610.03850v1 Announce Type: new Abstract: We present SONDE (SOrted Neighbor Distance Embedding): a scalable manifold learning approach to create a nuanced, continuous, low-dimensional representation of the geometry of galaxies' local environments. SONDE is a variation on Is…",
-      "published_at": "2026-10-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.03850",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "SCALES. I. Bridging Lensed Clump - Giant Clump Scales in Lensed Galaxies at $z=1-4$",
-      "summary": "arXiv:2610.03866v1 Announce Type: new Abstract: Dense star-forming regions in $z>1$ galaxies, often termed 'clumps', have been studied across two distinct regimes of telescope resolution, each motivating interpretations in tension with the other. In the SCALES series (Star-Formin…",
-      "published_at": "2026-10-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.03866",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "SCALES. II. The Internal Composition of Giant Star-Forming Clumps at $z = 1 - 4$",
-      "summary": "arXiv:2610.03867v1 Announce Type: new Abstract: Star-forming structures of scale $\\sim0.5-1\\,\\mathrm{kpc}$, dubbed 'giant' star-forming clumps, are routinely detected in unlensed surveys of $z > 1$ galaxies. Two scenarios are usually invoked to explain their existence -- genuine…",
-      "published_at": "2026-10-06T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.03867",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
       }
     },
     {
