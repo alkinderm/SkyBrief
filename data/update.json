@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-07T17:30:31Z",
+  "generated_at": "2026-10-08T17:32:10Z",
   "items": [
     {
-      "title": "Relaxation of a Vlasov gas to an inhomogeneous state due to phase space mixing in an axisymmetric potential: A Newtonian analogy of the Kerr…",
-      "summary": "arXiv:2610.06913v1 Announce Type: new Abstract: We explore the dynamics of a Vlasov gas propagating in an external axisymmetric potential consisting of a central potential with an additional quadrupolar component which gives rise to two potential wells along the symmetry axis. Em…",
-      "published_at": "2026-10-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.06913",
+      "title": "Extreme Stellar Death and Galaxy Feedback at z = 2: A Rest-frame Ultraviolet Characterization of the Strongly Lensed Superluminous Supernova…",
+      "summary": "arXiv:2610.08903v1 Announce Type: new Abstract: We present photometric and spectroscopic follow-up observations of the strongly-lensed H-poor superluminous supernova (SLSN) 2025wny at $z = 2.0155$. We use integral-field Keck-II/KCWI spectroscopy to obtain rest-frame ultraviolet s…",
+      "published_at": "2026-10-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.08903",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Classification of X-ray Binaries in NGC 6946 with the use of Multiwavelength Data",
-      "summary": "arXiv:2610.06916v1 Announce Type: new Abstract: We identified X-ray binary (XRB) candidates in the galaxy NGC 6946 using archival {\\it Chandra} data. A total of 98 XRB candidates were detected within the 0.3$-$8 keV energy range, with luminosities between 10$^{36}$ and 10$^{40}$…",
-      "published_at": "2026-10-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.06916",
+      "title": "KDG 162: A Nearby Isolated Star-forming Dwarf Galaxy",
+      "summary": "arXiv:2610.08905v1 Announce Type: new Abstract: The nearby dwarf galaxy KDG 162 (also known as KK 153) has recently attracted attention as a potentially gas-rich, isolated, and low-mass dwarf galaxy. However, many of these characterizations depend on the true distance to KDG 162.…",
+      "published_at": "2026-10-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.08905",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "An Assessment of the Triangulation Capabilities of a Multi-Site All-Sky Infrared Camera Array",
-      "summary": "arXiv:2610.06922v1 Announce Type: new Abstract: The Galileo Project operates three autonomous multi-camera observing sites near Las Vegas, Nevada, separated by baselines of $2$ and $10\\,$km, with the goal of characterizing the populations of natural and human-made objects that cr…",
-      "published_at": "2026-10-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.06922",
+      "title": "Modeling the nanohertz gravitational wave background with the t-process: Improved frequentist analysis of gravitational-wave power",
+      "summary": "arXiv:2610.08906v1 Announce Type: new Abstract: Pulsar timing array (PTA) collaborations have recently reported evidence for a gravitational wave background (GWB) signal in the nanohertz band, which most likely originates from the incoherent superposition of GWs emitted by a popu…",
+      "published_at": "2026-10-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.08906",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Power-law Coupling and Mock Validation of a Surface-density Anisotropy Diagnostic for 85 Rich Galaxy Clusters",
-      "summary": "arXiv:2610.06941v1 Announce Type: new Abstract: We assess a surface-density anisotropy diagnostic, $A_{\\rm ani}$, and its association with the slope $\\alpha$ of a power-law galaxy profile. We reprocess 20-annulus profiles of 85 optically rich clusters on a canonical grid, $0 \\leq…",
-      "published_at": "2026-10-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.06941",
+      "title": "Full-Shape Analysis of the Redshift-Space Galaxy Trispectrum in the EFTofLSS",
+      "summary": "arXiv:2610.08908v1 Announce Type: new Abstract: The effective field theory of large-scale structure (EFTofLSS) program for spectroscopic galaxy surveys has been remarkably successful for cosmological inference from the galaxy power spectrum and bispectrum. However, a full-shape c…",
+      "published_at": "2026-10-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.08908",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Deriving the Continuous $\\beta$-FPUT Model for Decayless Solar Coronal Oscillations Directly from Resistive MHD",
-      "summary": "arXiv:2610.06953v1 Announce Type: new Abstract: We present an analytical framework deriving the fluid-continuum $\\beta$-Fermi-Pasta-Ulam-Tsingou ($\\beta$-FPUT) system directly from a third-order resistive magnetohydrodynamics (MHD) expansion to explain persistent, decayless trans…",
-      "published_at": "2026-10-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.06953",
+      "title": "Debye cooling of ultramassive white dwarfs",
+      "summary": "arXiv:2610.08916v1 Announce Type: new Abstract: Recent observations of cold and massive white dwarfs are beginning to probe Debye cooling: an accelerated cooling phase driven by the vanishing heat capacity $C_V(T)$ of the crystallized interiors at low temperatures $T$, due to the…",
+      "published_at": "2026-10-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.08916",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "The variable mass-loss in low-mass red giant stars: Chromospheric motion across stellar evolution in 47 Tuc",
-      "summary": "arXiv:2610.06957v1 Announce Type: new Abstract: Mass-Loss (ML) is a critical process that remains poorly understood despite its broad implications across astrophysics. Our current knowledge is insufficient to reproduce ML consistently across stars, particularly in cool, low-mass…",
-      "published_at": "2026-10-07T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.06957",
+      "title": "A Newly Identified Transient Ultraluminous X-ray Source in M31",
+      "summary": "arXiv:2610.08918v1 Announce Type: new Abstract: Ultraluminous X-ray sources (ULXs) are off-nuclear X-ray sources with luminosities exceeding the Eddington limit of typical stellar-mass compact objects. While most known ULXs are relatively persistent sources, transient ULXs have e…",
+      "published_at": "2026-10-08T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.08918",
       "tags": [
         "arxiv",
         "astro-ph"
