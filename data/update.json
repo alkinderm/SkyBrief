@@ -1,7 +1,111 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-13T17:44:27Z",
+  "generated_at": "2026-10-14T15:22:20Z",
   "items": [
+    {
+      "title": "An All-Sky Search for Moving Gamma-Ray Sources with Fermi-LAT",
+      "summary": "arXiv:2610.14058v1 Announce Type: new Abstract: Nearby compact gamma-ray sources can move appreciably during the Fermi-LAT mission and thus evade searches that assume a stationary sky. Compact dark matter halos, dark matter spikes around primordial black holes (PBH), and evaporat…",
+      "published_at": "2026-10-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.14058",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Ultralight scalars and invisible gravitons",
+      "summary": "arXiv:2610.14119v1 Announce Type: new Abstract: Unless the tensor to scalar ratio is small enough, the non-adiabatic mode associated with the ultralight bosons may be dangerously comparable with the adiabatic spectrum of curvature inhomogeneities. We point out here that this stat…",
+      "published_at": "2026-10-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.14119",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Spectroscopic Census of Cluster White Dwarfs from DESI, LAMOST, and SDSS",
+      "summary": "arXiv:2610.14166v1 Announce Type: new Abstract: Gaia has substantially expanded the sample of candidate white dwarfs (WDs) in open clusters, but many remain without spectroscopic characterization. We leverage the increasingly extensive archives of large public spectroscopic surve…",
+      "published_at": "2026-10-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.14166",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Where Cluster Galaxies Reside and How Strongly They Lens",
+      "summary": "arXiv:2610.14167v1 Announce Type: new Abstract: The efficiency of galaxy-galaxy strong lensing (GGSL) in clusters depends jointly on the inner mass distributions of member galaxies and their locations within the cluster potential. Observed GGSL probabilities exceed $\\Lambda$CDM p…",
+      "published_at": "2026-10-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.14167",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Cluster Ages to Reconstruct the Milky Way Assembly (CARMA). VI. The age-metallicity relation of in-situ clusters and the age of the Universe",
+      "summary": "arXiv:2610.14169v1 Announce Type: new Abstract: Within the homogeneous framework for the derivation of GC ages defined by the CARMA collaboration, we focus on the clusters born in-situ in the MW. As they are the oldest among the old GCs, their absolute age provides constraints ab…",
+      "published_at": "2026-10-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.14169",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A first view of interstellar Fe-bearing dust grains with XRISM",
+      "summary": "arXiv:2610.14172v1 Announce Type: new Abstract: Understanding the reservoirs of iron (Fe) in our Galaxy is crucial for probing the mechanisms that drive dust grain growth in the interstellar medium (ISM). High-resolution X-ray absorption spectroscopy offers a powerful tool to inv…",
+      "published_at": "2026-10-14T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.14172",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Organization Release: NSF Kitt Peak National Observatory Welcomes Local Community to Tohono O’odham Nation Open Night",
+      "summary": "<img align=\"left\" alt=\"Elders dancing with staff during the 2026 Tohono O’odham Nation Open Night\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2623a.jpg\" />More than 90 NSF NOIRLab volunteers welcomed visitors from the Tohono O’odh…",
+      "published_at": "2026-10-13T20:52:57Z",
+      "url": "http://noirlab.edu/public/news/noirlab2623/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
     {
       "title": "Photo Release: Gemini North Reveals Pearl-Like Knots in the Remnant of a Supernova Witnessed in the Year 1181",
       "summary": "<img align=\"left\" alt=\"Supernova remnant Pa 30\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2624a.jpg\" />The Gemini North telescope located on Maunakea in Hawai‘i has revealed the most detailed view yet of Pa 30, the likely remnant…",
@@ -63,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin image of the field around the progenitor to supernova SN 2026gzf\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2619a.jpg\" />A rare cosmic explosion has given astronomers an unprecedented view of…",
       "published_at": "2026-08-05T15:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2619/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: NSF–DOE Rubin Observatory Opens Deep Window on Famous Cosmic Field",
-      "summary": "<img align=\"left\" alt=\"Rubin Looks Deep Into a Famous Cosmic Field\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2618a.jpg\" />A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region o…",
-      "published_at": "2026-07-31T20:20:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2618/",
       "tags": [
         "noirlab"
       ],
