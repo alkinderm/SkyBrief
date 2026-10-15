@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-14T15:22:20Z",
+  "generated_at": "2026-10-15T15:16:25Z",
   "items": [
     {
-      "title": "An All-Sky Search for Moving Gamma-Ray Sources with Fermi-LAT",
-      "summary": "arXiv:2610.14058v1 Announce Type: new Abstract: Nearby compact gamma-ray sources can move appreciably during the Fermi-LAT mission and thus evade searches that assume a stationary sky. Compact dark matter halos, dark matter spikes around primordial black holes (PBH), and evaporat…",
-      "published_at": "2026-10-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.14058",
+      "title": "Unveiling photometric transients with the ILMT and their follow-up using DOT",
+      "summary": "arXiv:2610.18909v1 Announce Type: new Abstract: The two 4-m class telescopes at the Devasthal site in India are complementary: the 4-m International Liquid Mirror Telescope (ILMT) is dedicated to the discovery of new transient phenomena, which can be followed up using the 3.6-m D…",
+      "published_at": "2026-10-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.18909",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Ultralight scalars and invisible gravitons",
-      "summary": "arXiv:2610.14119v1 Announce Type: new Abstract: Unless the tensor to scalar ratio is small enough, the non-adiabatic mode associated with the ultralight bosons may be dangerously comparable with the adiabatic spectrum of curvature inhomogeneities. We point out here that this stat…",
-      "published_at": "2026-10-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.14119",
+      "title": "TNGC-SIDM I: Evolution of massive cluster mergers under the self-interacting dark matter paradigm",
+      "summary": "arXiv:2610.18957v1 Announce Type: new Abstract: Merging galaxy clusters provide an ideal laboratory for testing the self-interacting nature of dark matter. In this paper, we present a pilot study of magnetohydrodynamical cosmological zoom-in simulations of two cluster mergers sel…",
+      "published_at": "2026-10-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.18957",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A Spectroscopic Census of Cluster White Dwarfs from DESI, LAMOST, and SDSS",
-      "summary": "arXiv:2610.14166v1 Announce Type: new Abstract: Gaia has substantially expanded the sample of candidate white dwarfs (WDs) in open clusters, but many remain without spectroscopic characterization. We leverage the increasingly extensive archives of large public spectroscopic surve…",
-      "published_at": "2026-10-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.14166",
+      "title": "How JWST is Revolutionizing Our View of Early Galaxy Formation",
+      "summary": "arXiv:2610.18960v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has been revolutionizing our understanding of early galaxy formation over its first four years of science operations. With un- precedented sensitivity, spatial resolution, and wavelength coverag…",
+      "published_at": "2026-10-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.18960",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Where Cluster Galaxies Reside and How Strongly They Lens",
-      "summary": "arXiv:2610.14167v1 Announce Type: new Abstract: The efficiency of galaxy-galaxy strong lensing (GGSL) in clusters depends jointly on the inner mass distributions of member galaxies and their locations within the cluster potential. Observed GGSL probabilities exceed $\\Lambda$CDM p…",
-      "published_at": "2026-10-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.14167",
+      "title": "Identity Crisis: Untangling Mass-Ordering Artifacts from Compact-Object Pairing in Gravitational-Wave Populations",
+      "summary": "arXiv:2610.18962v1 Announce Type: new Abstract: Mass distributions of binary black hole mergers inferred from gravitational-wave observations offer clues to how binaries form. These distributions conventionally label the heavier component as the primary, with mass $m_1$, and the…",
+      "published_at": "2026-10-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.18962",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Cluster Ages to Reconstruct the Milky Way Assembly (CARMA). VI. The age-metallicity relation of in-situ clusters and the age of the Universe",
-      "summary": "arXiv:2610.14169v1 Announce Type: new Abstract: Within the homogeneous framework for the derivation of GC ages defined by the CARMA collaboration, we focus on the clusters born in-situ in the MW. As they are the oldest among the old GCs, their absolute age provides constraints ab…",
-      "published_at": "2026-10-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.14169",
+      "title": "EMRIs in Kerr Spacetime: The Role of Inclination Diffusion",
+      "summary": "arXiv:2610.18964v1 Announce Type: new Abstract: Extreme mass ratio inspirals (EMRIs) are expected to be a major source of gravitational waves (GWs) for the future {\\it Laser Interferometer Space Antenna} ({\\it LISA}). An EMRI occurs when a compact object, driven by the emission o…",
+      "published_at": "2026-10-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.18964",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A first view of interstellar Fe-bearing dust grains with XRISM",
-      "summary": "arXiv:2610.14172v1 Announce Type: new Abstract: Understanding the reservoirs of iron (Fe) in our Galaxy is crucial for probing the mechanisms that drive dust grain growth in the interstellar medium (ISM). High-resolution X-ray absorption spectroscopy offers a powerful tool to inv…",
-      "published_at": "2026-10-14T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.14172",
+      "title": "Any colour you like: The diverse chromaticities of white dwarfs",
+      "summary": "arXiv:2610.18966v1 Announce Type: new Abstract: Main sequence stars have perceived colours ranging from orange to white to blue with increasing effective temperature. This is because their atmospheric opacities cause only minor deviations from blackbody colours when integrated ov…",
+      "published_at": "2026-10-15T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.18966",
       "tags": [
         "arxiv",
         "astro-ph"
