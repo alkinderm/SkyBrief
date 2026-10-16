@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-15T15:16:25Z",
+  "generated_at": "2026-10-16T14:58:13Z",
   "items": [
     {
-      "title": "Unveiling photometric transients with the ILMT and their follow-up using DOT",
-      "summary": "arXiv:2610.18909v1 Announce Type: new Abstract: The two 4-m class telescopes at the Devasthal site in India are complementary: the 4-m International Liquid Mirror Telescope (ILMT) is dedicated to the discovery of new transient phenomena, which can be followed up using the 3.6-m D…",
-      "published_at": "2026-10-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.18909",
+      "title": "A Parsec-scale Circumstellar Shell Around VX Sgr: Mass Loss and RSG/T\\.ZO Nature",
+      "summary": "arXiv:2610.20689v1 Announce Type: new Abstract: A thin, arc-shaped shell is discovered surrounding VX Sagittarii (VX Sgr), the largest known CSM shell around an RSG at a scale $r\\sim0.59\\,\\mathrm{pc}$. The nebula has an extinction-corrected H$\\alpha$ intensity $I_{\\mathrm{H}\\alph…",
+      "published_at": "2026-10-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.20689",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "TNGC-SIDM I: Evolution of massive cluster mergers under the self-interacting dark matter paradigm",
-      "summary": "arXiv:2610.18957v1 Announce Type: new Abstract: Merging galaxy clusters provide an ideal laboratory for testing the self-interacting nature of dark matter. In this paper, we present a pilot study of magnetohydrodynamical cosmological zoom-in simulations of two cluster mergers sel…",
-      "published_at": "2026-10-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.18957",
+      "title": "JWST Observations of RR Lyrae in Leo P",
+      "summary": "arXiv:2610.20692v1 Announce Type: new Abstract: We analyze co-spatial HST/ACS and JWST/NIRCam time-series photometric observations of RR Lyrae in the low-metallicity dwarf galaxy Leo P. This study provides a new opportunity to explore the properties of and potential for metal-poo…",
+      "published_at": "2026-10-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.20692",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "How JWST is Revolutionizing Our View of Early Galaxy Formation",
-      "summary": "arXiv:2610.18960v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) has been revolutionizing our understanding of early galaxy formation over its first four years of science operations. With un- precedented sensitivity, spatial resolution, and wavelength coverag…",
-      "published_at": "2026-10-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.18960",
+      "title": "The impact of nonlinear Landau damping on cosmic ray streaming and the role of external turbulence",
+      "summary": "arXiv:2610.20695v1 Announce Type: new Abstract: Cosmic rays (CRs) streaming faster than the Alfv\\'en speed generate Alfv\\'en waves that scatter them. The saturated wave amplitude is regulated by a damping mechanism. This damping controls the CR scattering rate and drift velocity,…",
+      "published_at": "2026-10-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.20695",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Identity Crisis: Untangling Mass-Ordering Artifacts from Compact-Object Pairing in Gravitational-Wave Populations",
-      "summary": "arXiv:2610.18962v1 Announce Type: new Abstract: Mass distributions of binary black hole mergers inferred from gravitational-wave observations offer clues to how binaries form. These distributions conventionally label the heavier component as the primary, with mass $m_1$, and the…",
-      "published_at": "2026-10-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.18962",
+      "title": "A Vision for Little Red Dots in the Low-Redshift Universe with ALMA2040",
+      "summary": "arXiv:2610.20697v1 Announce Type: new Abstract: The discovery of Little Red Dots (LRDs) at high redshifts with JWST has revealed a previously unknown phase of black-hole growth. However, their black-hole (BH) masses, BH-to-stellar mass ratios, cold-gas reservoirs, and depletion t…",
+      "published_at": "2026-10-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.20697",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "EMRIs in Kerr Spacetime: The Role of Inclination Diffusion",
-      "summary": "arXiv:2610.18964v1 Announce Type: new Abstract: Extreme mass ratio inspirals (EMRIs) are expected to be a major source of gravitational waves (GWs) for the future {\\it Laser Interferometer Space Antenna} ({\\it LISA}). An EMRI occurs when a compact object, driven by the emission o…",
-      "published_at": "2026-10-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.18964",
+      "title": "The Impact of High-Mass Clusters on the Binary Black Hole Merger Rate over Cosmic Time",
+      "summary": "arXiv:2610.20698v1 Announce Type: new Abstract: We present a cosmological calculation of the binary black hole merger rate from dense star clusters, using a $\\texttt{Cluster Monte Carlo}$ ($\\texttt{CMC}$) model grid spanning the full observed parameter space of cluster mass, meta…",
+      "published_at": "2026-10-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.20698",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Any colour you like: The diverse chromaticities of white dwarfs",
-      "summary": "arXiv:2610.18966v1 Announce Type: new Abstract: Main sequence stars have perceived colours ranging from orange to white to blue with increasing effective temperature. This is because their atmospheric opacities cause only minor deviations from blackbody colours when integrated ov…",
-      "published_at": "2026-10-15T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.18966",
+      "title": "A Misaligned Debris Disk relative to the Host Star CPD-72 2713 from JWST/NIRCam Imaging",
+      "summary": "arXiv:2610.20700v1 Announce Type: new Abstract: Observations of debris disks provide a valuable window to investigate the formation and evolution of planetary systems. We present high-contrast JWST/NIRCam observations of CPD-72 2713, a 24 Myr-old star that belongs to the $\\beta$…",
+      "published_at": "2026-10-16T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.20700",
       "tags": [
         "arxiv",
         "astro-ph"
