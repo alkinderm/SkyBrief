@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-18T14:06:32Z",
+  "generated_at": "2026-10-19T17:06:43Z",
   "items": [
+    {
+      "title": "Resolving the heart of the Wolf-Rayet binary Apep with ALMA",
+      "summary": "arXiv:2610.22406v1 Announce Type: new Abstract: The Wolf-Rayet (WR) phase is a critical stage in the evolution of massive stars. During this phase, the stars experience a large mass loss in the form of fast winds that are enriched with heavy elements. There are only a few WR bina…",
+      "published_at": "2026-10-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.22406",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Discovery of eclipses in the cataclysmic variable MASTER OT J232100.42+494614.0",
+      "summary": "arXiv:2610.22443v1 Announce Type: new Abstract: I performed photometric observations of the poorly studied cataclysmic variable MASTER OT J232100.42+494614.0 and discovered eclipses. I observed nine eclipses over two groups of closely spaced nights, separated by a 12-month interv…",
+      "published_at": "2026-10-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.22443",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Resolving the AGN Feeding and Feedback Cycle with ALMA2040",
+      "summary": "arXiv:2610.22449v1 Announce Type: new Abstract: Understanding how supermassive black holes (SMBHs) grow and regulate the growth of their host galaxies requires tracing the cold molecular interstellar medium (ISM) throughout the full AGN feeding-feedback cycle. Molecular gas const…",
+      "published_at": "2026-10-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.22449",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Pathfinder results for populations of planet-forming discs with SKA",
+      "summary": "arXiv:2610.22456v1 Announce Type: new Abstract: Imaging of few-millimetre-sized dust grains (pebbles, on the construction path to planets) in protoplanetary discs has begun. The Planet-Earth Building-Blocks Legacy e-MERLIN Survey is a unique pathfinder for SKAO, imaging a sample…",
+      "published_at": "2026-10-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.22456",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The environments forming stellar and planetary systems",
+      "summary": "arXiv:2610.22462v1 Announce Type: new Abstract: How does a star's birth environment set the mass, angular momentum and chemical complexity delivered to its planet-forming disk, and thereby whether it builds planets, brown dwarfs or stellar companions? This requires following mate…",
+      "published_at": "2026-10-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.22462",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Observational Signatures of Kerr Black Hole Lensing",
+      "summary": "arXiv:2610.22470v1 Announce Type: new Abstract: Gravitational lensing by rotating black holes is modeled, and the null geodesic equations in the strong field regime are integrated numerically. Observational signatures of the black hole spin parameter are identified by comparing i…",
+      "published_at": "2026-10-19T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.22470",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Organization Release: NSF Kitt Peak National Observatory Welcomes Local Community to Tohono O’odham Nation Open Night",
       "summary": "<img align=\"left\" alt=\"Elders dancing with staff during the 2026 Tohono O’odham Nation Open Night\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2623a.jpg\" />More than 90 NSF NOIRLab volunteers welcomed visitors from the Tohono O’odh…",
