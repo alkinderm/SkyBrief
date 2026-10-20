@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-19T17:06:43Z",
+  "generated_at": "2026-10-20T15:17:28Z",
   "items": [
     {
-      "title": "Resolving the heart of the Wolf-Rayet binary Apep with ALMA",
-      "summary": "arXiv:2610.22406v1 Announce Type: new Abstract: The Wolf-Rayet (WR) phase is a critical stage in the evolution of massive stars. During this phase, the stars experience a large mass loss in the form of fast winds that are enriched with heavy elements. There are only a few WR bina…",
-      "published_at": "2026-10-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.22406",
+      "title": "The Local Star Formation Environment Predicts Young Star Cluster Radii: Evidence from PHANGS-MUSE H-alpha Maps",
+      "summary": "arXiv:2610.23876v1 Announce Type: new Abstract: The effective radii of young star clusters correlate with cluster mass, but the large scatter about that relation is not well understood. Theory predicts that a cluster's initial radius depends on the gas surface density of its nata…",
+      "published_at": "2026-10-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.23876",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Discovery of eclipses in the cataclysmic variable MASTER OT J232100.42+494614.0",
-      "summary": "arXiv:2610.22443v1 Announce Type: new Abstract: I performed photometric observations of the poorly studied cataclysmic variable MASTER OT J232100.42+494614.0 and discovered eclipses. I observed nine eclipses over two groups of closely spaced nights, separated by a 12-month interv…",
-      "published_at": "2026-10-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.22443",
+      "title": "Environmental dependence in the halo model informed by the FLAMINGO simulations",
+      "summary": "arXiv:2610.23997v1 Announce Type: new Abstract: Galaxy-galaxy lensing (GGL) measurements around galaxy samples in different environments provide valuable information about the galaxy-halo connection. In such studies the halo model is commonly used to estimate physical parameters…",
+      "published_at": "2026-10-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.23997",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Resolving the AGN Feeding and Feedback Cycle with ALMA2040",
-      "summary": "arXiv:2610.22449v1 Announce Type: new Abstract: Understanding how supermassive black holes (SMBHs) grow and regulate the growth of their host galaxies requires tracing the cold molecular interstellar medium (ISM) throughout the full AGN feeding-feedback cycle. Molecular gas const…",
-      "published_at": "2026-10-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.22449",
+      "title": "Missing Light, Misleading Confidence: Optical-Module Readout Loss and Signal Reliability in Neutrino Telescopes",
+      "summary": "arXiv:2610.24003v1 Announce Type: new Abstract: Optical neutrino telescopes reduce the photomultiplier signals of an optical module or string segment to compact multichannel summaries, and readout loss can make these summaries unreliable. We asked whether availability-based quali…",
+      "published_at": "2026-10-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.24003",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Pathfinder results for populations of planet-forming discs with SKA",
-      "summary": "arXiv:2610.22456v1 Announce Type: new Abstract: Imaging of few-millimetre-sized dust grains (pebbles, on the construction path to planets) in protoplanetary discs has begun. The Planet-Earth Building-Blocks Legacy e-MERLIN Survey is a unique pathfinder for SKAO, imaging a sample…",
-      "published_at": "2026-10-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.22456",
+      "title": "Analysis of Binary O-type Star Systems Using Recurrent Neural Networks",
+      "summary": "arXiv:2610.24015v1 Announce Type: new Abstract: This work presents an initial analysis of the estimation of effective temperature and surface gravity for simulated O-type binary systems using a recurrent neural network. The proposed system uses 34 equivalent-width measurements fr…",
+      "published_at": "2026-10-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.24015",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "The environments forming stellar and planetary systems",
-      "summary": "arXiv:2610.22462v1 Announce Type: new Abstract: How does a star's birth environment set the mass, angular momentum and chemical complexity delivered to its planet-forming disk, and thereby whether it builds planets, brown dwarfs or stellar companions? This requires following mate…",
-      "published_at": "2026-10-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.22462",
+      "title": "Multiline Spectropolarimetric Evidence for Photospheric Reconnection in Ellerman Bombs from DKIST",
+      "summary": "arXiv:2610.24049v1 Announce Type: new Abstract: Ellerman bombs (EBs) are compact, transient brightenings observed in the wings of Balmer lines and are believed to result from magnetic reconnection in the lower solar atmosphere. However, their signatures have rarely been observed…",
+      "published_at": "2026-10-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.24049",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Observational Signatures of Kerr Black Hole Lensing",
-      "summary": "arXiv:2610.22470v1 Announce Type: new Abstract: Gravitational lensing by rotating black holes is modeled, and the null geodesic equations in the strong field regime are integrated numerically. Observational signatures of the black hole spin parameter are identified by comparing i…",
-      "published_at": "2026-10-19T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.22470",
+      "title": "A Two-Population von Mises--Fisher Distribution of the Magnetic Field Direction in the Young Solar Wind",
+      "summary": "arXiv:2610.24057v1 Announce Type: new Abstract: The one-point distribution of the magnetic field direction in the young solar wind is found to be a superposition of two populations rather than a single exponential. Using Parker Solar Probe (PSP) Encounter 1 magnetometer data, we…",
+      "published_at": "2026-10-20T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.24057",
       "tags": [
         "arxiv",
         "astro-ph"
