@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-20T15:17:28Z",
+  "generated_at": "2026-10-21T15:30:23Z",
   "items": [
     {
-      "title": "The Local Star Formation Environment Predicts Young Star Cluster Radii: Evidence from PHANGS-MUSE H-alpha Maps",
-      "summary": "arXiv:2610.23876v1 Announce Type: new Abstract: The effective radii of young star clusters correlate with cluster mass, but the large scatter about that relation is not well understood. Theory predicts that a cluster's initial radius depends on the gas surface density of its nata…",
-      "published_at": "2026-10-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.23876",
+      "title": "Supermassive Black Hole Winds in X-rays -- SUBWAYS. VI. Interplay between the soft X-ray excess and ultra-fast outflows",
+      "summary": "arXiv:2610.26936v1 Announce Type: new Abstract: We present a broadband, multiwavelength study of the interplay between the soft X-ray excess (SE), ultra-fast outflows (UFOs), and warm absorbers (WAs) in 21 active galactic nuclei (AGN; 0.1 <= z <= 0.4) from the SUBWAYS project. We…",
+      "published_at": "2026-10-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.26936",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Environmental dependence in the halo model informed by the FLAMINGO simulations",
-      "summary": "arXiv:2610.23997v1 Announce Type: new Abstract: Galaxy-galaxy lensing (GGL) measurements around galaxy samples in different environments provide valuable information about the galaxy-halo connection. In such studies the halo model is commonly used to estimate physical parameters…",
-      "published_at": "2026-10-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.23997",
+      "title": "On the Nature of the BeWD System Nova FQ Circinus",
+      "summary": "arXiv:2610.26957v1 Announce Type: new Abstract: The classical nova FQ Cir (Schaefer et al. 2026) has recently been shown to have a Be star donor, and has been identified as a High Mass Cataclysmic Variable (HMCV), with an orbital period of $\\sim 2.04d$ (twice the 1.02d periodogra…",
+      "published_at": "2026-10-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.26957",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Missing Light, Misleading Confidence: Optical-Module Readout Loss and Signal Reliability in Neutrino Telescopes",
-      "summary": "arXiv:2610.24003v1 Announce Type: new Abstract: Optical neutrino telescopes reduce the photomultiplier signals of an optical module or string segment to compact multichannel summaries, and readout loss can make these summaries unreliable. We asked whether availability-based quali…",
-      "published_at": "2026-10-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.24003",
+      "title": "Inferring the shapes of low-mass galaxies at $z>6$ from FIREbox$^{HR}$. Where are the disks?",
+      "summary": "arXiv:2610.26969v1 Announce Type: new Abstract: Context. The three-dimensional shapes of galaxies provide clues to their formation and evolution. Inferring intrinsic shapes from projected sizes and axis ratios requires assumptions about the population distribution of shape parame…",
+      "published_at": "2026-10-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.26969",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Analysis of Binary O-type Star Systems Using Recurrent Neural Networks",
-      "summary": "arXiv:2610.24015v1 Announce Type: new Abstract: This work presents an initial analysis of the estimation of effective temperature and surface gravity for simulated O-type binary systems using a recurrent neural network. The proposed system uses 34 equivalent-width measurements fr…",
-      "published_at": "2026-10-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.24015",
+      "title": "Euclid Bypass end-to-end simulations for spectroscopic galaxy clustering performance assessment",
+      "summary": "arXiv:2610.26990v1 Announce Type: new Abstract: We present a simulation framework for Euclid galaxy clustering measurements that reproduces the essential behaviour of the spectroscopic reduction chain, bypassing the computation required by full pixel-level simulations. The framew…",
+      "published_at": "2026-10-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.26990",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Multiline Spectropolarimetric Evidence for Photospheric Reconnection in Ellerman Bombs from DKIST",
-      "summary": "arXiv:2610.24049v1 Announce Type: new Abstract: Ellerman bombs (EBs) are compact, transient brightenings observed in the wings of Balmer lines and are believed to result from magnetic reconnection in the lower solar atmosphere. However, their signatures have rarely been observed…",
-      "published_at": "2026-10-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.24049",
+      "title": "PSR~B0355+54: An Unexpected Compendium of Nearly All Scintillation Arc Morphologies",
+      "summary": "arXiv:2610.27005v1 Announce Type: new Abstract: Scintillation arcs are sensitive probes of multipath propagation, offering a window into the distribution of scattering material in the interstellar medium. Contrary to the common observational finding that individual pulsars exhibi…",
+      "published_at": "2026-10-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.27005",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "A Two-Population von Mises--Fisher Distribution of the Magnetic Field Direction in the Young Solar Wind",
-      "summary": "arXiv:2610.24057v1 Announce Type: new Abstract: The one-point distribution of the magnetic field direction in the young solar wind is found to be a superposition of two populations rather than a single exponential. Using Parker Solar Probe (PSP) Encounter 1 magnetometer data, we…",
-      "published_at": "2026-10-20T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.24057",
+      "title": "Gamma-ray Bursts as Cosmological Probes Calibrated with Strongly Lensed Quasars and Neural Networks",
+      "summary": "arXiv:2610.27009v1 Announce Type: new Abstract: Gamma-ray bursts (GRBs) extend distance measurements to redshifts beyond those routinely probed by Type Ia supernovae, but their use in cosmology is limited by calibration circularity and possible redshift-dependent effects. We inve…",
+      "published_at": "2026-10-21T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.27009",
       "tags": [
         "arxiv",
         "astro-ph"
