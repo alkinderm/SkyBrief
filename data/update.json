@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-21T15:30:23Z",
+  "generated_at": "2026-10-22T15:30:05Z",
   "items": [
     {
-      "title": "Supermassive Black Hole Winds in X-rays -- SUBWAYS. VI. Interplay between the soft X-ray excess and ultra-fast outflows",
-      "summary": "arXiv:2610.26936v1 Announce Type: new Abstract: We present a broadband, multiwavelength study of the interplay between the soft X-ray excess (SE), ultra-fast outflows (UFOs), and warm absorbers (WAs) in 21 active galactic nuclei (AGN; 0.1 <= z <= 0.4) from the SUBWAYS project. We…",
-      "published_at": "2026-10-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.26936",
+      "title": "A Unified Model for the Gravitational Wave Background and Quasar Luminosity Functions",
+      "summary": "arXiv:2610.28680v1 Announce Type: new Abstract: The supermassive black hole mass function (BHMF) is a necessary ingredient in our understanding of how BHs grow and evolve with their host galaxies. Estimations of the BHMF based on observations of local BHs, quasars, and gravitatio…",
+      "published_at": "2026-10-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.28680",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "On the Nature of the BeWD System Nova FQ Circinus",
-      "summary": "arXiv:2610.26957v1 Announce Type: new Abstract: The classical nova FQ Cir (Schaefer et al. 2026) has recently been shown to have a Be star donor, and has been identified as a High Mass Cataclysmic Variable (HMCV), with an orbital period of $\\sim 2.04d$ (twice the 1.02d periodogra…",
-      "published_at": "2026-10-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.26957",
+      "title": "Solar System Surface Technosignatures: Searching for Signs of Artificial Design on Extraterrestrial Terrain",
+      "summary": "arXiv:2610.28687v1 Announce Type: new Abstract: Artificial radio emissions have historically been a major focus of technosignature searches. Here, we apply an anthropological lens to expand this scope to surface technosignatures: non-random, intentional patterning on planetary te…",
+      "published_at": "2026-10-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.28687",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Inferring the shapes of low-mass galaxies at $z>6$ from FIREbox$^{HR}$. Where are the disks?",
-      "summary": "arXiv:2610.26969v1 Announce Type: new Abstract: Context. The three-dimensional shapes of galaxies provide clues to their formation and evolution. Inferring intrinsic shapes from projected sizes and axis ratios requires assumptions about the population distribution of shape parame…",
-      "published_at": "2026-10-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.26969",
+      "title": "Chemical abundance patterns at z=1-7: Carbon, Nitrogen, Neon, Sulphur, and Argon abundances from JWST spectroscopy",
+      "summary": "arXiv:2610.28717v1 Announce Type: new Abstract: The relative abundances of chemical elements in the interstellar medium (ISM) trace the history of star formation and chemical enrichment in galaxies. We investigate the abundance patterns of carbon (C), nitrogen (N), neon (Ne), sul…",
+      "published_at": "2026-10-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.28717",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Euclid Bypass end-to-end simulations for spectroscopic galaxy clustering performance assessment",
-      "summary": "arXiv:2610.26990v1 Announce Type: new Abstract: We present a simulation framework for Euclid galaxy clustering measurements that reproduces the essential behaviour of the spectroscopic reduction chain, bypassing the computation required by full pixel-level simulations. The framew…",
-      "published_at": "2026-10-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.26990",
+      "title": "The Balmer Absorber Strength Problem of Little Red Dots",
+      "summary": "arXiv:2610.28720v1 Announce Type: new Abstract: Little Red Dots (LRDs) commonly show Balmer absorption features. Some observed LRD spectra have weaker absorption in H$\\alpha$ than in H$\\beta$, in apparent contradiction to atomic physics according to standard attenuation models. T…",
+      "published_at": "2026-10-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.28720",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "PSR~B0355+54: An Unexpected Compendium of Nearly All Scintillation Arc Morphologies",
-      "summary": "arXiv:2610.27005v1 Announce Type: new Abstract: Scintillation arcs are sensitive probes of multipath propagation, offering a window into the distribution of scattering material in the interstellar medium. Contrary to the common observational finding that individual pulsars exhibi…",
-      "published_at": "2026-10-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.27005",
+      "title": "Poisson Clustering and Seed Effect of PBHs: Implications for Microlensing, Gravitational Waves, Little Red Dots and Ultra-Faint Dwarf Galaxi…",
+      "summary": "arXiv:2610.28723v1 Announce Type: new Abstract: The existence of primordial black holes (PBHs) could have significant effects on the formation of cosmic structures through both the seed effect and the Poisson effect. For an extended PBH mass function, this should lead to dark vir…",
+      "published_at": "2026-10-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.28723",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Gamma-ray Bursts as Cosmological Probes Calibrated with Strongly Lensed Quasars and Neural Networks",
-      "summary": "arXiv:2610.27009v1 Announce Type: new Abstract: Gamma-ray bursts (GRBs) extend distance measurements to redshifts beyond those routinely probed by Type Ia supernovae, but their use in cosmology is limited by calibration circularity and possible redshift-dependent effects. We inve…",
-      "published_at": "2026-10-21T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.27009",
+      "title": "Arepo-CD: Coupling Collisional $N$-Body Dynamics with Moving-Mesh Magnetohydrodynamics",
+      "summary": "arXiv:2610.28727v1 Announce Type: new Abstract: Star formation is a hierarchical, clustered process in turbulent giant molecular clouds (GMCs), where close stellar encounters can strongly affect cluster evolution and feedback. However, gravitational softening in many hydrodynamic…",
+      "published_at": "2026-10-22T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.28727",
       "tags": [
         "arxiv",
         "astro-ph"
