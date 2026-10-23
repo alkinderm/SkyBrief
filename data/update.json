@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-22T15:30:05Z",
+  "generated_at": "2026-10-23T15:22:57Z",
   "items": [
     {
-      "title": "A Unified Model for the Gravitational Wave Background and Quasar Luminosity Functions",
-      "summary": "arXiv:2610.28680v1 Announce Type: new Abstract: The supermassive black hole mass function (BHMF) is a necessary ingredient in our understanding of how BHs grow and evolve with their host galaxies. Estimations of the BHMF based on observations of local BHs, quasars, and gravitatio…",
-      "published_at": "2026-10-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.28680",
+      "title": "SIGNN++: Robust Graph Neural Star Identification on Earth",
+      "summary": "arXiv:2610.30186v1 Announce Type: new Abstract: We present SIGNN++, a learning-based star identification (SID) framework for celestial navigation in GNSS-denied nighttime environments. Although researchers have developed learning-based SID methods to improve robustness to observa…",
+      "published_at": "2026-10-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.30186",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Solar System Surface Technosignatures: Searching for Signs of Artificial Design on Extraterrestrial Terrain",
-      "summary": "arXiv:2610.28687v1 Announce Type: new Abstract: Artificial radio emissions have historically been a major focus of technosignature searches. Here, we apply an anthropological lens to expand this scope to surface technosignatures: non-random, intentional patterning on planetary te…",
-      "published_at": "2026-10-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.28687",
+      "title": "Confirming candidate self-lensing binary detections with radial velocity measurements",
+      "summary": "arXiv:2610.30203v1 Announce Type: new Abstract: Compact objects in approximately edge-on binary orbits with stars are able to produce a self-lensing effect, amplifying light from their companion once per orbit. To date, five white dwarf self-lensing systems are known, while none…",
+      "published_at": "2026-10-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.30203",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Chemical abundance patterns at z=1-7: Carbon, Nitrogen, Neon, Sulphur, and Argon abundances from JWST spectroscopy",
-      "summary": "arXiv:2610.28717v1 Announce Type: new Abstract: The relative abundances of chemical elements in the interstellar medium (ISM) trace the history of star formation and chemical enrichment in galaxies. We investigate the abundance patterns of carbon (C), nitrogen (N), neon (Ne), sul…",
-      "published_at": "2026-10-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.28717",
+      "title": "Analog Electronic Computation of Stellar Structure: Polytropic Benchmarks, Circuit Scaling, and Error-Controlled Verification",
+      "summary": "arXiv:2610.30230v1 Announce Type: new Abstract: We present an electronic analog-computing framework for static stellar-structure equations and verify it using polytropic Lane-Emden benchmarks with known or high-accuracy reference solutions. Starting from an exploratory operationa…",
+      "published_at": "2026-10-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.30230",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The Balmer Absorber Strength Problem of Little Red Dots",
-      "summary": "arXiv:2610.28720v1 Announce Type: new Abstract: Little Red Dots (LRDs) commonly show Balmer absorption features. Some observed LRD spectra have weaker absorption in H$\\alpha$ than in H$\\beta$, in apparent contradiction to atomic physics according to standard attenuation models. T…",
-      "published_at": "2026-10-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.28720",
+      "title": "General-purpose equations of state for hadron-quark matter: first application to accretion-induced phase transitions in neutron stars",
+      "summary": "arXiv:2610.30233v1 Announce Type: new Abstract: Strong first-order phase transitions in the cores of neutron stars (NSs) can have profound implications for astrophysical observables, however, their existence remains an open question. Since most NSs form in binary systems, they ar…",
+      "published_at": "2026-10-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.30233",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Poisson Clustering and Seed Effect of PBHs: Implications for Microlensing, Gravitational Waves, Little Red Dots and Ultra-Faint Dwarf Galaxi…",
-      "summary": "arXiv:2610.28723v1 Announce Type: new Abstract: The existence of primordial black holes (PBHs) could have significant effects on the formation of cosmic structures through both the seed effect and the Poisson effect. For an extended PBH mass function, this should lead to dark vir…",
-      "published_at": "2026-10-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.28723",
+      "title": "Impact of Gaia-Sausage-Enceladus merger revealed by a single cosmic clock: thick-to-thin disc transition, gas disc shrinking and bar formati…",
+      "summary": "arXiv:2610.30237v1 Announce Type: new Abstract: Whether the formation of the Galactic bar was connected to the Gaia-Sausage-Enceladus (GSE) merger, the last significant merger experienced by the Milky Way, remains an open question. The bar formation epoch has been inferred from t…",
+      "published_at": "2026-10-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.30237",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Arepo-CD: Coupling Collisional $N$-Body Dynamics with Moving-Mesh Magnetohydrodynamics",
-      "summary": "arXiv:2610.28727v1 Announce Type: new Abstract: Star formation is a hierarchical, clustered process in turbulent giant molecular clouds (GMCs), where close stellar encounters can strongly affect cluster evolution and feedback. However, gravitational softening in many hydrodynamic…",
-      "published_at": "2026-10-22T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.28727",
+      "title": "The coupled impacts of atmospheric dynamics and cloud microphysics on hot Jupiter atmospheres. I. An application to WASP-43b",
+      "summary": "arXiv:2610.30243v1 Announce Type: new Abstract: Understanding the influence of cloud-circulation feedback on planetary climates is crucial to interpreting solar system and extrasolar planet observations. Hot Jupiter phase curve observations have reported westward optical phase cu…",
+      "published_at": "2026-10-23T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.30243",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Photo Release: Seagull Nebula Through the Eyes of NSF–DOE Vera C. Rubin Observatory Commissioning Camera",
+      "summary": "<img align=\"left\" alt=\"Seagull Nebula captured by NSF–DOE Vera C. Rubin Observatory ComCam\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2625a.jpg\" />Two years ago this month, NSF–DOE Vera C. Rubin Observatory’s engineering test cam…",
+      "published_at": "2026-10-22T16:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2625/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Messier 96 as Seen with DESI Legacy Survey\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2620a.jpg\" />The newest DESI Legacy Imaging Surveys map, 13 years in the making, covers three-quarters of the sky and ca…",
       "published_at": "2026-08-10T16:10:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2620/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Science Release: Astronomers Catch Massive Star’s Death From the First Explosive Moment",
-      "summary": "<img align=\"left\" alt=\"NSF–DOE Rubin image of the field around the progenitor to supernova SN 2026gzf\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2619a.jpg\" />A rare cosmic explosion has given astronomers an unprecedented view of…",
-      "published_at": "2026-08-05T15:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2619/",
       "tags": [
         "noirlab"
       ],
