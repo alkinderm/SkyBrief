@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-25T14:30:59Z",
+  "generated_at": "2026-10-26T16:53:18Z",
   "items": [
+    {
+      "title": "Alignment-driven binary evolution in warped circumbinary discs: 3D moving-mesh hydrodynamics of eccentric and inclined binaries",
+      "summary": "arXiv:2610.31688v1 Announce Type: new Abstract: We present three-dimensional moving-mesh hydrodynamical simulations (\\arepo{}) of equal-mass binaries in circumbinary discs, spanning binary eccentricity ($e = 0.0,\\,0.3,\\,0.6$) and inclination ($i = 0^\\circ$--$60^\\circ$), using a l…",
+      "published_at": "2026-10-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.31688",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Newtonian I-Love-Q relations: An enthalpy-based approach",
+      "summary": "arXiv:2610.31730v1 Announce Type: new Abstract: We present a pedagogical introduction to the I-Love-Q relations within Newtonian gravity using an enthalpy-based formulation of stellar structure. Introducing the specific enthalpy converts Euler's equation into a first integral of…",
+      "published_at": "2026-10-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.31730",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Study of the 30 May 2026 Meteor Event Employing Data from Raspberry Boom Infrasound Sensors in the Boston Area",
+      "summary": "arXiv:2610.31742v1 Announce Type: new Abstract: Infrasound signals of one and a half cycles of a 0.4 Hz pressure pulse were detected from the 30 May 2026 meteor over Cape Cod Bay at several university and private Raspberry Boom sensors in the Greater Boston area. Our analyses of…",
+      "published_at": "2026-10-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.31742",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Non-Axisymmetric Pillar Structures due to Embedded Stars in AGN Accretion Discs",
+      "summary": "arXiv:2610.31751v1 Announce Type: new Abstract: Gravitationally unstable outer regions of AGN discs may host in situ formation of massive stars whose heating produces localized vertical \"pillars\" on the disc surface, in the same region that emits the broad lines. Here we investig…",
+      "published_at": "2026-10-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.31751",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "An Extra-nuclear Water Maser in NGC 1106 Likely Driven By An AGN Shock: Implications for Maser-based Black Hole Mass Measurements",
+      "summary": "arXiv:2610.31753v1 Announce Type: new Abstract: We present Very Large Array A-configuration ($0.13$'') 22 GHz spectral-line and continuum observations of the Swift-BAT detected Seyfert 2 galaxy, NGC 1106, aimed at localizing a water maser line offset from the host systemic veloci…",
+      "published_at": "2026-10-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.31753",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Image Morphology of Misaligned Magnetically Arrested Disks",
+      "summary": "arXiv:2610.31754v1 Announce Type: new Abstract: Horizon scale images probe the plasma dynamics and spacetime in the vicinity of accreting black holes. Interpreting these images requires models that connect image morphology to the structure of the underlying accretion flow. Disk m…",
+      "published_at": "2026-10-26T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.31754",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: Seagull Nebula Through the Eyes of NSF–DOE Vera C. Rubin Observatory Commissioning Camera",
       "summary": "<img align=\"left\" alt=\"Seagull Nebula captured by NSF–DOE Vera C. Rubin Observatory ComCam\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2625a.jpg\" />Two years ago this month, NSF–DOE Vera C. Rubin Observatory’s engineering test cam…",
