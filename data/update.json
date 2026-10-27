@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-26T16:53:18Z",
+  "generated_at": "2026-10-27T15:58:08Z",
   "items": [
     {
-      "title": "Alignment-driven binary evolution in warped circumbinary discs: 3D moving-mesh hydrodynamics of eccentric and inclined binaries",
-      "summary": "arXiv:2610.31688v1 Announce Type: new Abstract: We present three-dimensional moving-mesh hydrodynamical simulations (\\arepo{}) of equal-mass binaries in circumbinary discs, spanning binary eccentricity ($e = 0.0,\\,0.3,\\,0.6$) and inclination ($i = 0^\\circ$--$60^\\circ$), using a l…",
-      "published_at": "2026-10-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.31688",
+      "title": "Lunar tidal response-induced clock frequency variations on the Moon",
+      "summary": "arXiv:2610.33117v1 Announce Type: new Abstract: As clock performance improves, the instability and uncertainty of the clock's fractional frequency shift (FFS) become comparable to the FFS caused by the lunar tidal response (LTR), so the influence of the LTR on lunar time needs to…",
+      "published_at": "2026-10-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.33117",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Newtonian I-Love-Q relations: An enthalpy-based approach",
-      "summary": "arXiv:2610.31730v1 Announce Type: new Abstract: We present a pedagogical introduction to the I-Love-Q relations within Newtonian gravity using an enthalpy-based formulation of stellar structure. Introducing the specific enthalpy converts Euler's equation into a first integral of…",
-      "published_at": "2026-10-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.31730",
+      "title": "A Composite Rest-Frame UV Spectrum of Galaxies at $5.7 < z < 6.9$: Ionization, Outflows, and Implications for Intergalactic Metal Enrichment",
+      "summary": "arXiv:2610.33154v1 Announce Type: new Abstract: We present a stacked JWST/NIRSpec spectrum of 104 galaxies at $\\lambda_{\\rm rest}=1200\\unicode{x2013}2000\\;\\mathrm{\\mathring{A}}$ to study nebular emission and absorption from the interstellar medium (ISM) and stellar winds. The sam…",
+      "published_at": "2026-10-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.33154",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A Study of the 30 May 2026 Meteor Event Employing Data from Raspberry Boom Infrasound Sensors in the Boston Area",
-      "summary": "arXiv:2610.31742v1 Announce Type: new Abstract: Infrasound signals of one and a half cycles of a 0.4 Hz pressure pulse were detected from the 30 May 2026 meteor over Cape Cod Bay at several university and private Raspberry Boom sensors in the Greater Boston area. Our analyses of…",
-      "published_at": "2026-10-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.31742",
+      "title": "$El\\ Ascua$: An ultra-luminous, radio-loud, Compton-thick AGN at $z\\sim 3.8$ hiding in plain sight revealed by MINERVA multi-band MIRI obser…",
+      "summary": "arXiv:2610.33155v1 Announce Type: new Abstract: Heavily dust-obscured active galactic nuclei (AGN) are crucial for understanding supermassive black hole growth. Using multi-band MIRI photometry from the MINERVA survey, we report the discovery in the UDS field of an extremely mid-…",
+      "published_at": "2026-10-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.33155",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Non-Axisymmetric Pillar Structures due to Embedded Stars in AGN Accretion Discs",
-      "summary": "arXiv:2610.31751v1 Announce Type: new Abstract: Gravitationally unstable outer regions of AGN discs may host in situ formation of massive stars whose heating produces localized vertical \"pillars\" on the disc surface, in the same region that emits the broad lines. Here we investig…",
-      "published_at": "2026-10-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.31751",
+      "title": "Dark Matter and MOND successes and degeneracies in reproducing SPARC rotation curves and weak lensing data",
+      "summary": "arXiv:2610.33157v1 Announce Type: new Abstract: The observed rotation velocities of spiral galaxies at large scales exceed those predicted by their baryonic components, motivating the need for dark matter (DM) or Modified Newtonian Dynamics (MOND). We fit the rotation curves of 1…",
+      "published_at": "2026-10-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.33157",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "An Extra-nuclear Water Maser in NGC 1106 Likely Driven By An AGN Shock: Implications for Maser-based Black Hole Mass Measurements",
-      "summary": "arXiv:2610.31753v1 Announce Type: new Abstract: We present Very Large Array A-configuration ($0.13$'') 22 GHz spectral-line and continuum observations of the Swift-BAT detected Seyfert 2 galaxy, NGC 1106, aimed at localizing a water maser line offset from the host systemic veloci…",
-      "published_at": "2026-10-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.31753",
+      "title": "Assessing the detectability of a realistic massive black hole binary population in LSST",
+      "summary": "arXiv:2610.33159v1 Announce Type: new Abstract: Electromagnetic signatures of massive black hole binaries (MBHB) are expected to be found in quasar light curves. Specifically, MBHB light curves are expected to show periodic modulations which may originate from different physical…",
+      "published_at": "2026-10-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.33159",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Image Morphology of Misaligned Magnetically Arrested Disks",
-      "summary": "arXiv:2610.31754v1 Announce Type: new Abstract: Horizon scale images probe the plasma dynamics and spacetime in the vicinity of accreting black holes. Interpreting these images requires models that connect image morphology to the structure of the underlying accretion flow. Disk m…",
-      "published_at": "2026-10-26T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.31754",
+      "title": "SN Ares: A Strongly Lensed Type IIb Supernova at $\\mathbf{z=1.276}$ with a Predicted 70-Year Time Delay",
+      "summary": "arXiv:2610.33161v1 Announce Type: new Abstract: We present the discovery of supernova (SN) Ares, a strongly lensed supernova at $z_{\\rm spec}=1.276\\pm0.002$ in a massive, triply imaged host galaxy behind the MACS J0308.9+2645 galaxy cluster. JWST/NIRSpec spectroscopy spanning the…",
+      "published_at": "2026-10-27T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.33161",
       "tags": [
         "arxiv",
         "astro-ph"
