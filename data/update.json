@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-10-27T15:58:08Z",
+  "generated_at": "2026-10-28T16:46:05Z",
   "items": [
     {
-      "title": "Lunar tidal response-induced clock frequency variations on the Moon",
-      "summary": "arXiv:2610.33117v1 Announce Type: new Abstract: As clock performance improves, the instability and uncertainty of the clock's fractional frequency shift (FFS) become comparable to the FFS caused by the lunar tidal response (LTR), so the influence of the LTR on lunar time needs to…",
-      "published_at": "2026-10-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.33117",
+      "title": "The [Y/Mg] chemical clock and the stellar ages of solar-type stars in the solar neighbourhood",
+      "summary": "arXiv:2610.35917v1 Announce Type: new Abstract: Stellar ages are an important parameter for studying the chemical evolution of the Galaxy. To improve age estimates, various complementary methods to the conventional isochrone-fitting method have been implemented in the last decade…",
+      "published_at": "2026-10-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.35917",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Composite Rest-Frame UV Spectrum of Galaxies at $5.7 < z < 6.9$: Ionization, Outflows, and Implications for Intergalactic Metal Enrichment",
-      "summary": "arXiv:2610.33154v1 Announce Type: new Abstract: We present a stacked JWST/NIRSpec spectrum of 104 galaxies at $\\lambda_{\\rm rest}=1200\\unicode{x2013}2000\\;\\mathrm{\\mathring{A}}$ to study nebular emission and absorption from the interstellar medium (ISM) and stellar winds. The sam…",
-      "published_at": "2026-10-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.33154",
+      "title": "The SIRMOS mission concept: a space-based near-IR spectroscopic survey of 100 million galaxies in the Euclid Wide Survey footprint",
+      "summary": "arXiv:2610.35945v1 Announce Type: new Abstract: SIRMOS is a mission concept for a future NASA Astrophysics Explorer opportunity that aims to revolutionize our understanding of the universe by mapping the large-scale structure of galaxies in unprecedented breadth and detail to exp…",
+      "published_at": "2026-10-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.35945",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "$El\\ Ascua$: An ultra-luminous, radio-loud, Compton-thick AGN at $z\\sim 3.8$ hiding in plain sight revealed by MINERVA multi-band MIRI obser…",
-      "summary": "arXiv:2610.33155v1 Announce Type: new Abstract: Heavily dust-obscured active galactic nuclei (AGN) are crucial for understanding supermassive black hole growth. Using multi-band MIRI photometry from the MINERVA survey, we report the discovery in the UDS field of an extremely mid-…",
-      "published_at": "2026-10-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.33155",
+      "title": "A High Precision Metacalibration Response Correction",
+      "summary": "arXiv:2610.35998v1 Announce Type: new Abstract: In Metacalibration the shear response of a weak lensing measurement is estimated by applying an artificial shear to the image, but the shear operation imprints a spin-2 modulation on the image noise power, which biases the measured…",
+      "published_at": "2026-10-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.35998",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Dark Matter and MOND successes and degeneracies in reproducing SPARC rotation curves and weak lensing data",
-      "summary": "arXiv:2610.33157v1 Announce Type: new Abstract: The observed rotation velocities of spiral galaxies at large scales exceed those predicted by their baryonic components, motivating the need for dark matter (DM) or Modified Newtonian Dynamics (MOND). We fit the rotation curves of 1…",
-      "published_at": "2026-10-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.33157",
+      "title": "Field-level modeling of halo and galaxy alignments",
+      "summary": "arXiv:2610.36027v1 Announce Type: new Abstract: We develop an effective field theory (EFT) of intrinsic alignments at the level of spin-2 field fluctuations of large-scale structure tracers, such as the shapes of galaxies and dark matter halos. Our perturbative model includes the…",
+      "published_at": "2026-10-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.36027",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Assessing the detectability of a realistic massive black hole binary population in LSST",
-      "summary": "arXiv:2610.33159v1 Announce Type: new Abstract: Electromagnetic signatures of massive black hole binaries (MBHB) are expected to be found in quasar light curves. Specifically, MBHB light curves are expected to show periodic modulations which may originate from different physical…",
-      "published_at": "2026-10-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.33159",
+      "title": "Two-dimensional galaxy cluster shapes using lensing data: a simulated analysis",
+      "summary": "arXiv:2610.36039v1 Announce Type: new Abstract: Context. Cluster morphology reflects assembly history and dynamical state. High-resolution weak lensing can reveal departures from spherical symmetry, but its ability to recover two-dimensional shapes remains less explored. Aims. We…",
+      "published_at": "2026-10-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.36039",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "SN Ares: A Strongly Lensed Type IIb Supernova at $\\mathbf{z=1.276}$ with a Predicted 70-Year Time Delay",
-      "summary": "arXiv:2610.33161v1 Announce Type: new Abstract: We present the discovery of supernova (SN) Ares, a strongly lensed supernova at $z_{\\rm spec}=1.276\\pm0.002$ in a massive, triply imaged host galaxy behind the MACS J0308.9+2645 galaxy cluster. JWST/NIRSpec spectroscopy spanning the…",
-      "published_at": "2026-10-27T04:00:00Z",
-      "url": "https://arxiv.org/abs/2610.33161",
+      "title": "The Stellar Populations of Resolved Galaxies",
+      "summary": "arXiv:2610.36040v1 Announce Type: new Abstract: The study of galaxies outside the Milky Way using observations of resolved stellar populations has experienced extraordinary growth over the past two decades. There now exist panchromatic photometry and precise astrometry for hundre…",
+      "published_at": "2026-10-28T04:00:00Z",
+      "url": "https://arxiv.org/abs/2610.36040",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -90,6 +90,20 @@
         "name": "arXiv astro-ph (recent)",
         "type": "rss",
         "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
+      "summary": "<img align=\"left\" alt=\"2026 ED138 orbital arc (with annotations)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2626a.jpg\" />In the outer reaches of our Solar System, beyond the orbit of Pluto, NSF–DOE Vera C. Rubin Observatory has s…",
+      "published_at": "2026-10-27T18:45:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2626/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
       }
     },
     {
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Nā ʻUhane Māhoe Huki Pū i ke Ola\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2621a.jpg\" />Nā ʻUhane Māhoe Huki Pū i ke Ola is the Hawaiian name given to this image of NGC 7253 — a pair of spiral galaxies cau…",
       "published_at": "2026-09-01T18:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2621/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Organization Release: Scientists Release Biggest 2D Map of the Universe",
-      "summary": "<img align=\"left\" alt=\"Messier 96 as Seen with DESI Legacy Survey\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2620a.jpg\" />The newest DESI Legacy Imaging Surveys map, 13 years in the making, covers three-quarters of the sky and ca…",
-      "published_at": "2026-08-10T16:10:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2620/",
       "tags": [
         "noirlab"
       ],
