@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-01T16:53:16Z",
+  "generated_at": "2026-11-02T20:28:09Z",
   "items": [
+    {
+      "title": "Agentic Systems for Calibrating Cosmological Simulations",
+      "summary": "arXiv:2610.40685v1 Announce Type: new Abstract: Calibrating a cosmological simulation is an expensive, high-dimensional parameter optimization task. Previous works employ Bayesian optimization for automation, which treats the simulator as a black box and precludes the incorporati…",
+      "published_at": "2026-11-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2610.40685",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Likely Metal Scarring in the Magnetic White Dwarf LHS 2534",
+      "summary": "arXiv:2610.40741v1 Announce Type: new Abstract: There are only three white dwarfs known to possess metal-enriched polar caps due to magnetically guided accretion. These rare systems offer a unique opportunity to study planetesimal accretion and how magnetic fields influence the s…",
+      "published_at": "2026-11-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2610.40741",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "SEAMLESS Survey: A Closer Look at Seven Local Volume Dwarf Galaxies in Diverse Environments",
+      "summary": "arXiv:2610.40765v1 Announce Type: new Abstract: We present Hubble Space Telescope (HST) imaging of six Local Volume dwarf galaxies identified by the SEAMLESS survey - Cetus B, Hydrus A, Ursa Major C, Hydra B, Grapes, and M83-dw14 - along with Centaurus C (Cen C), discovered seren…",
+      "published_at": "2026-11-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2610.40765",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Hints of self-interacting dark matter from strong gravitational lensing",
+      "summary": "arXiv:2610.40766v1 Announce Type: new Abstract: An analysis of 29 quadruply imaged quasars hints at dark matter halo densities consistent with gravothermal core collapse, a key prediction of self-interacting dark matter. We interpret this evidence through elastic Yukawa scatterin…",
+      "published_at": "2026-11-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2610.40766",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Chaos and loss: reevaluating the loss-cone formalism in the context of chaotic diving orbits in flattened potentials",
+      "summary": "arXiv:2610.40767v1 Announce Type: new Abstract: The region close to a massive black hole is one of the few truly spherical geometries in galactic dynamics. Stellar structures, which dominate from pc to kpc scales, are generally at least flattened (axisymmetric) if not more irregu…",
+      "published_at": "2026-11-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2610.40767",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "When precise inference is wrong: Diagnosing model misspecification with applications to cosmic dawn and reionisation",
+      "summary": "arXiv:2610.40770v1 Announce Type: new Abstract: As observations of the cosmic dawn (CD) and epoch of reionisation (EoR) rapidly improve in precision, the approximate forward models used to interpret them might struggle to keep pace. Bayesian inference with a misspecified model, o…",
+      "published_at": "2026-11-02T05:00:00Z",
+      "url": "https://arxiv.org/abs/2610.40770",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
       "summary": "<img align=\"left\" alt=\"2026 ED138 orbital arc (with annotations)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2626a.jpg\" />In the outer reaches of our Solar System, beyond the orbit of Pluto, NSF–DOE Vera C. Rubin Observatory has s…",
