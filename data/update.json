@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-02T20:28:09Z",
+  "generated_at": "2026-11-03T17:58:58Z",
   "items": [
     {
-      "title": "Agentic Systems for Calibrating Cosmological Simulations",
-      "summary": "arXiv:2610.40685v1 Announce Type: new Abstract: Calibrating a cosmological simulation is an expensive, high-dimensional parameter optimization task. Previous works employ Bayesian optimization for automation, which treats the simulator as a black box and precludes the incorporati…",
-      "published_at": "2026-11-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2610.40685",
+      "title": "Beyond Point Photo-$z$ Estimates: Normalizing Flows for Tomographic $N(z)$ Reconstruction with DESI DR1",
+      "summary": "arXiv:2611.00121v1 Announce Type: new Abstract: Accurate calibration of tomographic redshift distributions, $N(z)$ is essential for cosmological analysis of weak lensing data. We investigate conditional normalizing flows (NFs) and compare their performance with random forest (RF)…",
+      "published_at": "2026-11-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.00121",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Likely Metal Scarring in the Magnetic White Dwarf LHS 2534",
-      "summary": "arXiv:2610.40741v1 Announce Type: new Abstract: There are only three white dwarfs known to possess metal-enriched polar caps due to magnetically guided accretion. These rare systems offer a unique opportunity to study planetesimal accretion and how magnetic fields influence the s…",
-      "published_at": "2026-11-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2610.40741",
+      "title": "Galaxy cluster thermodynamics at z=1.7: Resolved tSZ and X-ray analysis of CL J0459.6-4946",
+      "summary": "arXiv:2611.00132v1 Announce Type: new Abstract: Measurements of the entropy and temperature distribution of the intracluster medium (ICM) of local clusters have proven pivotal for the study of cluster astrophysics. Here, we extend these measurements to $z=1.7$ with a resolved ana…",
+      "published_at": "2026-11-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.00132",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "SEAMLESS Survey: A Closer Look at Seven Local Volume Dwarf Galaxies in Diverse Environments",
-      "summary": "arXiv:2610.40765v1 Announce Type: new Abstract: We present Hubble Space Telescope (HST) imaging of six Local Volume dwarf galaxies identified by the SEAMLESS survey - Cetus B, Hydrus A, Ursa Major C, Hydra B, Grapes, and M83-dw14 - along with Centaurus C (Cen C), discovered seren…",
-      "published_at": "2026-11-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2610.40765",
+      "title": "Contrastive Astromer: Two-Stage Contrastive Representation Learning for Astronomical Light Curve Classification",
+      "summary": "arXiv:2611.00150v1 Announce Type: new Abstract: Large astronomical surveys collect abundant light curves, but reliable class labels remain scarce. ASTROMER 2 learns from unlabeled light curves by reconstructing masked observations, yet this objective does not explicitly encourage…",
+      "published_at": "2026-11-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.00150",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Hints of self-interacting dark matter from strong gravitational lensing",
-      "summary": "arXiv:2610.40766v1 Announce Type: new Abstract: An analysis of 29 quadruply imaged quasars hints at dark matter halo densities consistent with gravothermal core collapse, a key prediction of self-interacting dark matter. We interpret this evidence through elastic Yukawa scatterin…",
-      "published_at": "2026-11-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2610.40766",
+      "title": "Wide-field search for submicrosecond optical and gamma transients as manifestation of primordial black holes evaporation with the TAIGA-HiSC…",
+      "summary": "arXiv:2611.00160v1 Announce Type: new Abstract: We demonstrated in our papers [Panov, 2021; Panov,2025), that the TAIGA-HiSCORE Cherenkov array physics, originally designed for research in cosmic rays and ultra-high-energy gamma-ray astronomy, can also be used for wide-field sear…",
+      "published_at": "2026-11-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.00160",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Chaos and loss: reevaluating the loss-cone formalism in the context of chaotic diving orbits in flattened potentials",
-      "summary": "arXiv:2610.40767v1 Announce Type: new Abstract: The region close to a massive black hole is one of the few truly spherical geometries in galactic dynamics. Stellar structures, which dominate from pc to kpc scales, are generally at least flattened (axisymmetric) if not more irregu…",
-      "published_at": "2026-11-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2610.40767",
+      "title": "First-principles calculations of far-wing absorption in He-broadened CO2 infrared spectra",
+      "summary": "arXiv:2611.00188v1 Announce Type: new Abstract: We report theoretical predictions and modeling of the far-wing absorption of CO2 broadened by He over a wide temperature range (200-1000 K), which are relevant for exoplanet atmosphere studies. Accurate modeling of He-broadened CO2…",
+      "published_at": "2026-11-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.00188",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "When precise inference is wrong: Diagnosing model misspecification with applications to cosmic dawn and reionisation",
-      "summary": "arXiv:2610.40770v1 Announce Type: new Abstract: As observations of the cosmic dawn (CD) and epoch of reionisation (EoR) rapidly improve in precision, the approximate forward models used to interpret them might struggle to keep pace. Bayesian inference with a misspecified model, o…",
-      "published_at": "2026-11-02T05:00:00Z",
-      "url": "https://arxiv.org/abs/2610.40770",
+      "title": "Developing Environments: Formation and Quenching at Cosmic Noon Traced by the Large-scale Distribution of Gas and Galaxies",
+      "summary": "arXiv:2611.00190v1 Announce Type: new Abstract: Environmental density correlates with galaxy properties in the local Universe, but how and when these trends emerge is unclear: at cosmic noon, large-scale structures are still assembling and galaxies quench rapidly for debated reas…",
+      "published_at": "2026-11-03T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.00190",
       "tags": [
         "arxiv",
         "astro-ph"
