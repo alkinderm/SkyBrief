@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-05T18:11:56Z",
+  "generated_at": "2026-11-06T17:38:54Z",
   "items": [
     {
-      "title": "From Early Concepts to Lunar Hypertelescopes Roadmap for Next-Generation Optical Astronomy on the Moon",
-      "summary": "arXiv:2611.05434v1 Announce Type: new Abstract: Since the dawn of the Space Age, the Moon has been considered one of the most promising locations for astronomical observations. The absence of atmosphere, exceptional mechanical stability, access to the permanently shielded radio-q…",
-      "published_at": "2026-11-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.05434",
+      "title": "Unveiling the Origins of Local Group Galaxies with ELT-SHARP: An Overview of Science Cases",
+      "summary": "arXiv:2611.06963v1 Announce Type: new Abstract: The $\\Lambda$CDM paradigm successfully describes large-scale cosmic structure, yet tensions possibly persist on galactic and sub-galactic scales. The Milky Way and the Local Universe offer a uniquely accessible laboratory to probe t…",
+      "published_at": "2026-11-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.06963",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "From Earth's Harshest Landscapes to Lunar Horizons: Engineering NEA Telescopes for Extreme Environments",
-      "summary": "arXiv:2611.05435v1 Announce Type: new Abstract: Near-Earth Asteroids (NEAs) represent both a scientific opportunity and a potential threat to human civilization. While current survey programs have successfully detected most large NEAs, a significant observational gap remains for…",
-      "published_at": "2026-11-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.05435",
+      "title": "SHARP(ening the) view of unresolved globular clusters in ultra diffuse galaxies",
+      "summary": "arXiv:2611.06966v1 Announce Type: new Abstract: Ultra-Diffuse Galaxies (UDGs) challenge current galaxy formation models within the {\\Lambda}CDM framework, particularly regarding their dark matter content and formation histories. Globular Clusters (GCs) serve as excellent tracers…",
+      "published_at": "2026-11-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.06966",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "HLA-Net: A Physics-Guided Skeleton-Based Framework for Automatic Gravitational Arc Detection in Astronomical Images",
-      "summary": "arXiv:2611.05438v1 Announce Type: new Abstract: Gravitational arcs produced by strong gravitational lensing provide a unique approach for investigating dark matter distribution, galaxy cluster mass reconstruction and the structure of the Universe. Automated detection remains chal…",
-      "published_at": "2026-11-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.05438",
+      "title": "Black Hole Seeds and Little Red Dots: Connecting Formation and Growth with a JWST Multi-Cycle Treasury Program",
+      "summary": "arXiv:2611.07006v1 Announce Type: new Abstract: JWST has revealed an abundant population of faint active galactic nuclei and a new class of compact, high-redshift sources known as Little Red Dots (LRDs), whose physical nature remains debated, with accreting massive black holes am…",
+      "published_at": "2026-11-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.07006",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "The PAU Survey: Self-supervised image denoising for flux-preserving photometry",
-      "summary": "arXiv:2611.05447v1 Announce Type: new Abstract: Context. Deep photometric surveys increasingly rely on low signal-to-noise imaging, where noise affects source detection, flux measurements, photometric redshifts, and sample selection. Self-supervised denoising methods are attracti…",
-      "published_at": "2026-11-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.05447",
+      "title": "Latest $\\nu$s from the Earliest Galaxies: Probing neutrino self-interactions with JWST",
+      "summary": "arXiv:2611.07013v1 Announce Type: new Abstract: Our Universe serves as a complementary laboratory for particle physics interactions. One intriguing possibility is that neutrinos may have beyond-the-Standard-Model (BSM) self-interactions, which can delay their free streaming and h…",
+      "published_at": "2026-11-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.07013",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Brewing another binary in the Teapot: Nandou=Phi Sagittarii",
-      "summary": "arXiv:2611.05455v1 Announce Type: new Abstract: The iconic Teapot asterism in Sagittarius is particularly rich in intermediate-mass stars in multiple systems. Here we combine VLTI/GRAVITY, archival spectroscopic observations, past radial velocity measurements and photometry to so…",
-      "published_at": "2026-11-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.05455",
+      "title": "Phase Offsets Between the Minimum Light and Radial Velocity in Long Secondary Period Stars",
+      "summary": "arXiv:2611.07018v1 Announce Type: new Abstract: Long secondary periods (LSPs), observed in a substantial fraction of luminous red giants, remain one of the longstanding problems in red giant variability. Previous studies have found a systematic phase relation between their photom…",
+      "published_at": "2026-11-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.07018",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Characterizing Gravitational Wave Electromagnetic Counterparts with the Schmidt Observatory System",
-      "summary": "arXiv:2611.05461v1 Announce Type: new Abstract: The emergence of gravitational wave (GW) multimessenger astronomy, marked by the detection of GW170817 and its associated kilonova, has opened a new window into the physics of compact binary mergers. Building a statistical populatio…",
-      "published_at": "2026-11-05T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.05461",
+      "title": "The obscured nucleus of NGC3256 S. I. Anisotropic AGN near-IR radiation field traced by CO v=1-0 with JWST/NIRSpec",
+      "summary": "arXiv:2611.07020v1 Announce Type: new Abstract: The southern nucleus of NGC3256, a nearby luminous infrared (IR) interacting system (d=40 Mpc; L(IR)=10^11.6 Lsun), hosts a deeply obscured low-luminosity active galactic nucleus (AGN) associated with a massive and fast bipolar coll…",
+      "published_at": "2026-11-06T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.07020",
       "tags": [
         "arxiv",
         "astro-ph"
