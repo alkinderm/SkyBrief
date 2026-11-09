@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-08T16:45:23Z",
+  "generated_at": "2026-11-09T20:58:54Z",
   "items": [
+    {
+      "title": "A Sub-Parsec Origin for Rapid Accretion-State Transitions in Radio-Loud AGN",
+      "summary": "arXiv:2611.08497v1 Announce Type: new Abstract: I investigate the physical origin and timescale of accretion-state transitions in radio-loud active galactic nuclei, focusing on the evolution from FRII high-excitation radio galaxies (HERGs) to FRII low-excitation radio galaxies (L…",
+      "published_at": "2026-11-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.08497",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A combined PRIMER+MINERVA study of the evolution of $\\mathbf{[O\\mbox{III}]+H\\beta}$ equivalent width from $\\mathbf{z=3}$ to $\\mathbf{z=8.5}$",
+      "summary": "arXiv:2611.08563v1 Announce Type: new Abstract: We present an analysis of the evolution of $[O\\,III]+\\mathrm{H}\\beta$ equivalent width ($W_{\\lambda}$) over the redshift range $z=3$ to $z=8.5$, based on combining the JWST NIRCam PRIMER and MINERVA imaging in the UDS survey field.…",
+      "published_at": "2026-11-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.08563",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "DarkMatterFM-Registry: A Machine-Readable Registry of Dark-Matter Models Extracted from the arXiv Literature",
+      "summary": "arXiv:2611.08583v1 Announce Type: new Abstract: To use a dark-matter model one needs to know what defines it, which observables it affects, which codes and likelihoods evaluate it, and under what assumptions a published bound applies. That information is scattered across tens of…",
+      "published_at": "2026-11-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.08583",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Primordial or Post-Inflationary: Distinguishing the Origin of Scale-Dependent Features in the CMB",
+      "summary": "arXiv:2611.08585v1 Announce Type: new Abstract: Physics beyond the Standard Model, whether of primordial or post-inflationary origin, can leave scale-dependent signals in the anisotropies of the Cosmic Microwave Background (CMB). In this work, we study how distinguishable these b…",
+      "published_at": "2026-11-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.08585",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Anisotropic three-point statistics of the peculiar velocity and galaxy density fields: modelling in Fourier and configuration space",
+      "summary": "arXiv:2611.08589v1 Announce Type: new Abstract: By the equivalence principle, large-scale peculiar velocities provide a kinematical probe of the matter distribution independent of the biased galaxy distribution. Their three-point correlation with galaxies assesses the nonlinear c…",
+      "published_at": "2026-11-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.08589",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Constraining Dust Attenuation Curves in Star-Forming Galaxies at Cosmic Noon Using Multiple Emission Line Ratios",
+      "summary": "arXiv:2611.08594v1 Announce Type: new Abstract: Dust attenuation remains a dominant systematic uncertainty in measurements of an emission line, and therefore galaxies properties derived from the emission lines such as star formation rates. Corrections based only on the Balmer dec…",
+      "published_at": "2026-11-09T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.08594",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
       "summary": "<img align=\"left\" alt=\"2026 ED138 orbital arc (with annotations)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2626a.jpg\" />In the outer reaches of our Solar System, beyond the orbit of Pluto, NSF–DOE Vera C. Rubin Observatory has s…",
