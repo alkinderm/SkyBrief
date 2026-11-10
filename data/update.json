@@ -1,12 +1,26 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-09T20:58:54Z",
+  "generated_at": "2026-11-10T18:06:32Z",
   "items": [
     {
-      "title": "A Sub-Parsec Origin for Rapid Accretion-State Transitions in Radio-Loud AGN",
-      "summary": "arXiv:2611.08497v1 Announce Type: new Abstract: I investigate the physical origin and timescale of accretion-state transitions in radio-loud active galactic nuclei, focusing on the evolution from FRII high-excitation radio galaxies (HERGs) to FRII low-excitation radio galaxies (L…",
-      "published_at": "2026-11-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.08497",
+      "title": "Science Release: Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
+      "summary": "<img align=\"left\" alt=\"Artist’s impression of Nāpōwawāʻenakaulua above Maunakea\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2627a.jpg\" />The oldest pair of compact quasars ever observed has been found only 900 million years after…",
+      "published_at": "2026-11-10T18:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2627/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Optimal summary statistics to constrain w0waCDM with the DESI BGS",
+      "summary": "arXiv:2611.10084v1 Announce Type: new Abstract: The Dark Energy Spectroscopic Instrument (DESI) is the first stage-4 spectroscopic instrument installed on the 4-m Mayall Telescope at Kitt Peak National Observatory in Arizona. It contains 5000 robotically positioned fibers, allowi…",
+      "published_at": "2026-11-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.10084",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +32,10 @@
       }
     },
     {
-      "title": "A combined PRIMER+MINERVA study of the evolution of $\\mathbf{[O\\mbox{III}]+H\\beta}$ equivalent width from $\\mathbf{z=3}$ to $\\mathbf{z=8.5}$",
-      "summary": "arXiv:2611.08563v1 Announce Type: new Abstract: We present an analysis of the evolution of $[O\\,III]+\\mathrm{H}\\beta$ equivalent width ($W_{\\lambda}$) over the redshift range $z=3$ to $z=8.5$, based on combining the JWST NIRCam PRIMER and MINERVA imaging in the UDS survey field.…",
-      "published_at": "2026-11-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.08563",
+      "title": "Gravitational Production of Non-minimally Coupled Vector Dark Matter in Warm Inflation",
+      "summary": "arXiv:2611.10090v1 Announce Type: new Abstract: We study the purely gravitational production of a massive vector dark matter with a non-minimal coupling to the Einstein tensor, $\\xi G_{\\mu\\nu}X^\\mu X^\\nu$, in warm inflation. The background, $V=\\lambda\\phi^4$ with a dissipation co…",
+      "published_at": "2026-11-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.10090",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +47,10 @@
       }
     },
     {
-      "title": "DarkMatterFM-Registry: A Machine-Readable Registry of Dark-Matter Models Extracted from the arXiv Literature",
-      "summary": "arXiv:2611.08583v1 Announce Type: new Abstract: To use a dark-matter model one needs to know what defines it, which observables it affects, which codes and likelihoods evaluate it, and under what assumptions a published bound applies. That information is scattered across tens of…",
-      "published_at": "2026-11-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.08583",
+      "title": "What observations are needed to advance our theoretical understanding of galaxy formation at high redshift?",
+      "summary": "arXiv:2611.10102v1 Announce Type: new Abstract: Although significant progress has been made over recent decades, a comprehensive and predictive framework for galaxy formation remains elusive. Starting from cosmological initial conditions, current models cannot a priori accurately…",
+      "published_at": "2026-11-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.10102",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +62,10 @@
       }
     },
     {
-      "title": "Primordial or Post-Inflationary: Distinguishing the Origin of Scale-Dependent Features in the CMB",
-      "summary": "arXiv:2611.08585v1 Announce Type: new Abstract: Physics beyond the Standard Model, whether of primordial or post-inflationary origin, can leave scale-dependent signals in the anisotropies of the Cosmic Microwave Background (CMB). In this work, we study how distinguishable these b…",
-      "published_at": "2026-11-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.08585",
+      "title": "DMAJOR: A JWST Legacy Survey of Protoplanetary Disks",
+      "summary": "arXiv:2611.10103v1 Announce Type: new Abstract: We propose an infrared imaging survey of resolved protoplanetary disks spanning a range of galactic environments, directly mapping the 3D structure of planet-forming disks across the IR. DMAJOR (Disk Motions and Architectures JWST O…",
+      "published_at": "2026-11-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.10103",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +77,10 @@
       }
     },
     {
-      "title": "Anisotropic three-point statistics of the peculiar velocity and galaxy density fields: modelling in Fourier and configuration space",
-      "summary": "arXiv:2611.08589v1 Announce Type: new Abstract: By the equivalence principle, large-scale peculiar velocities provide a kinematical probe of the matter distribution independent of the biased galaxy distribution. Their three-point correlation with galaxies assesses the nonlinear c…",
-      "published_at": "2026-11-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.08589",
+      "title": "First detection of the forbidden rotational spectrum of H$_3^+$: JWST/MIRI observations of the shocked gas in HH 168",
+      "summary": "arXiv:2611.10122v1 Announce Type: new Abstract: The H$_3^+$ molecular ion is the cornerstone of interstellar ion-molecule chemistry. Its vibrational transitions have long been observed, in absorption along many interstellar sight lines and in emission from the upper atmospheres o…",
+      "published_at": "2026-11-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.10122",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +92,10 @@
       }
     },
     {
-      "title": "Constraining Dust Attenuation Curves in Star-Forming Galaxies at Cosmic Noon Using Multiple Emission Line Ratios",
-      "summary": "arXiv:2611.08594v1 Announce Type: new Abstract: Dust attenuation remains a dominant systematic uncertainty in measurements of an emission line, and therefore galaxies properties derived from the emission lines such as star formation rates. Corrections based only on the Balmer dec…",
-      "published_at": "2026-11-09T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.08594",
+      "title": "First detection of suprathermal CH$^+$ rotational emissions from chemical pumping: JWST/MIRI observations of the HH 168 molecular shock",
+      "summary": "arXiv:2611.10125v1 Announce Type: new Abstract: The methylidyne cation forms in warm or shocked interstellar gas through the endothermic reaction C$^+$ + H$_2$ -> CH$^+$ + H. Because C$^+$, which is common in irradiated and shocked gas, reacts with H$_2$ only when the reactants s…",
+      "published_at": "2026-11-10T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.10125",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -153,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Most distant galaxy proto-supercluster (annotated)\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2622b.jpg\" />An international team of astronomers has discovered the most distant progenitor to a galaxy supercl…",
       "published_at": "2026-09-08T17:00:00Z",
       "url": "http://noirlab.edu/public/news/noirlab2622/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Hawai‘i Students Name Image of Glittering Galaxy Pair Nā ʻUhane Māhoe Huki Pū i ke Ola",
-      "summary": "<img align=\"left\" alt=\"Nā ʻUhane Māhoe Huki Pū i ke Ola\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2621a.jpg\" />Nā ʻUhane Māhoe Huki Pū i ke Ola is the Hawaiian name given to this image of NGC 7253 — a pair of spiral galaxies cau…",
-      "published_at": "2026-09-01T18:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2621/",
       "tags": [
         "noirlab"
       ],
