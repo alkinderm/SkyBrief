@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-10T18:06:32Z",
+  "generated_at": "2026-11-11T17:59:41Z",
   "items": [
+    {
+      "title": "Spacetime contactability in Galactic civilization networks: Contact counts and percolation",
+      "summary": "arXiv:2611.12923v1 Announce Type: new Abstract: The number of Galactic civilizations does not determine whether they are in contact. Allowing civilizations to appear at different times separates listening, audibility, mutual-listening, and relay networks, with a distinct reply-cl…",
+      "published_at": "2026-11-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.12923",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Early X-ray emission as an observational diagnostic of gamma-ray burst progenitors",
+      "summary": "arXiv:2611.12945v1 Announce Type: new Abstract: Identifying the progenitors of gamma-ray bursts (GRBs) from the properties of their early high-energy emission detected by wide-field satellites is crucial for advancing our understanding of GRB physics and for multi-messenger astro…",
+      "published_at": "2026-11-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.12945",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Standalone Validation of a Pulsar Evolution Subroutine for NBODY6++GPU: Seven Test Scenarios",
+      "summary": "arXiv:2611.12973v1 Announce Type: new Abstract: Pulsars in globular clusters provide critical constraints on the evolution of compact objects. However, the treatment of neutron stars in standard N-body codes is outdated, and requires a better implementation of magnetic field deca…",
+      "published_at": "2026-11-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.12973",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Mitigating oscillatory systematics in MeerKLASS L-band H i intensity maps",
+      "summary": "arXiv:2611.13033v1 Announce Type: new Abstract: HI intensity mapping is a promising probe of the large-scale structure of the Universe, but is limited by foregrounds and instrumental systematics. For the MeerKAT Large Area Synoptic Survey (MeerKLASS) L-band data, it is found that…",
+      "published_at": "2026-11-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.13033",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "The Ordinary Days of Extraordinary Blazar 3C 454.3",
+      "summary": "arXiv:2611.13035v1 Announce Type: new Abstract: The blazar 3C 454.3 (z = 0.859) is one of the brightest and most variable flat-spectrum radio quasars in the sky. Here, we present a multi-wavelength analysis of this enigmatic object in its quiescent states during June 2022 and May…",
+      "published_at": "2026-11-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.13035",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Aster: A Flexible and Robust Collection of Numerical Tools for N-Body Problems",
+      "summary": "arXiv:2611.13060v1 Announce Type: new Abstract: The Aster library is an open-source collection of numerical tools designed for large-scale gravitational N-body simulations. Aster provides a flexible environment to its users, enabling it to be used in the analysis of a broad range…",
+      "published_at": "2026-11-11T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.13060",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Science Release: Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
       "summary": "<img align=\"left\" alt=\"Artist’s impression of Nāpōwawāʻenakaulua above Maunakea\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2627a.jpg\" />The oldest pair of compact quasars ever observed has been found only 900 million years after…",
@@ -14,96 +104,6 @@
         "name": "NOIRLab News",
         "type": "rss",
         "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Optimal summary statistics to constrain w0waCDM with the DESI BGS",
-      "summary": "arXiv:2611.10084v1 Announce Type: new Abstract: The Dark Energy Spectroscopic Instrument (DESI) is the first stage-4 spectroscopic instrument installed on the 4-m Mayall Telescope at Kitt Peak National Observatory in Arizona. It contains 5000 robotically positioned fibers, allowi…",
-      "published_at": "2026-11-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.10084",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Gravitational Production of Non-minimally Coupled Vector Dark Matter in Warm Inflation",
-      "summary": "arXiv:2611.10090v1 Announce Type: new Abstract: We study the purely gravitational production of a massive vector dark matter with a non-minimal coupling to the Einstein tensor, $\\xi G_{\\mu\\nu}X^\\mu X^\\nu$, in warm inflation. The background, $V=\\lambda\\phi^4$ with a dissipation co…",
-      "published_at": "2026-11-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.10090",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "What observations are needed to advance our theoretical understanding of galaxy formation at high redshift?",
-      "summary": "arXiv:2611.10102v1 Announce Type: new Abstract: Although significant progress has been made over recent decades, a comprehensive and predictive framework for galaxy formation remains elusive. Starting from cosmological initial conditions, current models cannot a priori accurately…",
-      "published_at": "2026-11-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.10102",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "DMAJOR: A JWST Legacy Survey of Protoplanetary Disks",
-      "summary": "arXiv:2611.10103v1 Announce Type: new Abstract: We propose an infrared imaging survey of resolved protoplanetary disks spanning a range of galactic environments, directly mapping the 3D structure of planet-forming disks across the IR. DMAJOR (Disk Motions and Architectures JWST O…",
-      "published_at": "2026-11-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.10103",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "First detection of the forbidden rotational spectrum of H$_3^+$: JWST/MIRI observations of the shocked gas in HH 168",
-      "summary": "arXiv:2611.10122v1 Announce Type: new Abstract: The H$_3^+$ molecular ion is the cornerstone of interstellar ion-molecule chemistry. Its vibrational transitions have long been observed, in absorption along many interstellar sight lines and in emission from the upper atmospheres o…",
-      "published_at": "2026-11-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.10122",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "First detection of suprathermal CH$^+$ rotational emissions from chemical pumping: JWST/MIRI observations of the HH 168 molecular shock",
-      "summary": "arXiv:2611.10125v1 Announce Type: new Abstract: The methylidyne cation forms in warm or shocked interstellar gas through the endothermic reaction C$^+$ + H$_2$ -> CH$^+$ + H. Because C$^+$, which is common in irradiated and shocked gas, reacts with H$_2$ only when the reactants s…",
-      "published_at": "2026-11-10T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.10125",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
       }
     },
     {
