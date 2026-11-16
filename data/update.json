@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-15T17:20:51Z",
+  "generated_at": "2026-11-16T20:38:13Z",
   "items": [
+    {
+      "title": "Holographically motivated Hubble-running dark energy: Phantom-divide crossing in VCDM and observational constraints",
+      "summary": "arXiv:2611.17374v1 Announce Type: new Abstract: Motivated by power-law dependences on the expansion scale in holographic dark-energy constructions, we study the Hubble-running equation of state $w_{\\rm DE}=w_0(H/H_0)^q$ (HoloEoS), where $H$ is the Hubble expansion rate, $H_0$ and…",
+      "published_at": "2026-11-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.17374",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "A Large-Scale Technosignature Survey of the Anti-Solar Point with the Allen Telescope Array: Survey Design and Pilot Results",
+      "summary": "arXiv:2611.17376v1 Announce Type: new Abstract: In the search for technosignatures, it can be useful to narrow down the cosmic haystack by prioritizing time-coordinate ``Schelling Points'' at which a beacon may be more likely to be transmitted. One such Schelling Point is the Ant…",
+      "published_at": "2026-11-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.17376",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Simple multi-interacting fluids in SymBoltz",
+      "summary": "arXiv:2611.17384v1 Announce Type: new Abstract: We implement a simple and general way of specifying arbitrary interactions between baryons, dark matter and dark energy in the Einstein--Boltzmann code SymBoltz. Due to the symbolic-numeric interface and approximation-free structure…",
+      "published_at": "2026-11-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.17384",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Mapping the Evolving Cosmic Web on the Lightcone with WebON: HOLI Mock Strategy",
+      "summary": "arXiv:2611.17385v1 Announce Type: new Abstract: Wide-area spectroscopic surveys such as DESI require large ensembles of mock catalogues that follow gravitational evolution and tracer populations across the observer's past lightcone. We present WebON (Web ON the lightcone), a fast…",
+      "published_at": "2026-11-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.17385",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Full-shape analysis of the Lyman-alpha forest power spectrum and bispectrum: validation on simulations",
+      "summary": "arXiv:2611.17405v1 Announce Type: new Abstract: The Lyman-$\\alpha$ (LyA) forest of neutral hydrogen provides a large-volume, high-resolution map of cosmological fluctuations from optical spectra at high redshift. To extract more information from the currently observing Dark Energ…",
+      "published_at": "2026-11-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.17405",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Effect of galaxy-informed merger timescales on massive black hole binaries in LISA",
+      "summary": "arXiv:2611.17409v1 Announce Type: new Abstract: Over a decade of direct N-body simulations tell us that massive black hole binary (MBHB) merger timescales are strongly dependent on the structural and kinematic properties of the host galaxy merger remnant. The physical stages of s…",
+      "published_at": "2026-11-16T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.17409",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: NSF NOIRLab-operated Facilities Capture Brightening Nearby Supernova",
       "summary": "<img align=\"left\" alt=\"Gemini South captures supernova SN 2026ahvu\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2628a.jpg\" />Newly discovered supernova SN 2026ahvu in the nearby spiral galaxy NGC 1433 bedazzles new images from the…",
