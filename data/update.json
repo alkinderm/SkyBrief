@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-16T20:38:13Z",
+  "generated_at": "2026-11-17T19:17:01Z",
   "items": [
     {
-      "title": "Holographically motivated Hubble-running dark energy: Phantom-divide crossing in VCDM and observational constraints",
-      "summary": "arXiv:2611.17374v1 Announce Type: new Abstract: Motivated by power-law dependences on the expansion scale in holographic dark-energy constructions, we study the Hubble-running equation of state $w_{\\rm DE}=w_0(H/H_0)^q$ (HoloEoS), where $H$ is the Hubble expansion rate, $H_0$ and…",
-      "published_at": "2026-11-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.17374",
+      "title": "Thermal emission spectroscopy of the ultra-hot Jupiter HAT-P-70b: NIRPS constraints on its refractory and volatile content",
+      "summary": "arXiv:2611.18835v1 Announce Type: new Abstract: Context. The chemical makeup of exoplanets provides insight into their origins and internal structures. High dayside temperatures on ultra-hot Jupiters vaporise refractory species and dissociate volatile molecules such as water. Coo…",
+      "published_at": "2026-11-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.18835",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "A Large-Scale Technosignature Survey of the Anti-Solar Point with the Allen Telescope Array: Survey Design and Pilot Results",
-      "summary": "arXiv:2611.17376v1 Announce Type: new Abstract: In the search for technosignatures, it can be useful to narrow down the cosmic haystack by prioritizing time-coordinate ``Schelling Points'' at which a beacon may be more likely to be transmitted. One such Schelling Point is the Ant…",
-      "published_at": "2026-11-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.17376",
+      "title": "Interpreting JWST UV luminosity functions and angular correlation functions via a \"universal language\" for high-redshift galaxies",
+      "summary": "arXiv:2611.18850v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) found more bright $z\\gtrsim10$ galaxies than expected before its launch. No consensus has emerged on whether difficulties in reproducing them stem from missing physics, simplifying assumptions t…",
+      "published_at": "2026-11-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.18850",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Simple multi-interacting fluids in SymBoltz",
-      "summary": "arXiv:2611.17384v1 Announce Type: new Abstract: We implement a simple and general way of specifying arbitrary interactions between baryons, dark matter and dark energy in the Einstein--Boltzmann code SymBoltz. Due to the symbolic-numeric interface and approximation-free structure…",
-      "published_at": "2026-11-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.17384",
+      "title": "Developments Towards Superconducting On-Chip Fourier Transform Spectrometers (SOFTS)",
+      "summary": "arXiv:2611.18860v1 Announce Type: new Abstract: We need spectroscopic imaging at sub-millimetre wavelengths to answer fundamental questions about the origins of our universe, structure formation and galaxy evolution. Often, there are steep trade-offs between the number of detecto…",
+      "published_at": "2026-11-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.18860",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Mapping the Evolving Cosmic Web on the Lightcone with WebON: HOLI Mock Strategy",
-      "summary": "arXiv:2611.17385v1 Announce Type: new Abstract: Wide-area spectroscopic surveys such as DESI require large ensembles of mock catalogues that follow gravitational evolution and tracer populations across the observer's past lightcone. We present WebON (Web ON the lightcone), a fast…",
-      "published_at": "2026-11-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.17385",
+      "title": "Searching for Anisotropic Cosmic Birefringence with SPT-3G",
+      "summary": "arXiv:2611.18876v1 Announce Type: new Abstract: We search for anisotropic cosmic birefringence using two years of data from the SPT-3G instrument on the South Pole Telescope. Anisotropic cosmic birefringence refers to a theorized dependence of the refractive index of the vacuum o…",
+      "published_at": "2026-11-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.18876",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Full-shape analysis of the Lyman-alpha forest power spectrum and bispectrum: validation on simulations",
-      "summary": "arXiv:2611.17405v1 Announce Type: new Abstract: The Lyman-$\\alpha$ (LyA) forest of neutral hydrogen provides a large-volume, high-resolution map of cosmological fluctuations from optical spectra at high redshift. To extract more information from the currently observing Dark Energ…",
-      "published_at": "2026-11-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.17405",
+      "title": "On the Prospects of Using Cyclic Spectroscopy on Canonical Pulsars",
+      "summary": "arXiv:2611.18882v1 Announce Type: new Abstract: We use the cyclic figure of merit to determine the likelihood of achieving cyclic deconvolution for 2609 canonical pulsars, a population for which this technique has not previously been used. These pulsars have spin periods between…",
+      "published_at": "2026-11-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.18882",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Effect of galaxy-informed merger timescales on massive black hole binaries in LISA",
-      "summary": "arXiv:2611.17409v1 Announce Type: new Abstract: Over a decade of direct N-body simulations tell us that massive black hole binary (MBHB) merger timescales are strongly dependent on the structural and kinematic properties of the host galaxy merger remnant. The physical stages of s…",
-      "published_at": "2026-11-16T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.17409",
+      "title": "Mid-Infrared Variability as a Probe of Hidden AGN Activity: A Comparison of Seyfert 1 and Seyfert 2 AGNs in the BAT 58-Month Sample",
+      "summary": "arXiv:2611.18904v1 Announce Type: new Abstract: In accordance with the AGN Unification model, the optical variability of Seyfert 2s is expected to be suppressed because the central engine is obscured by a dusty torus. The absorbed UV/optical radiation is reprocessed and re-emitte…",
+      "published_at": "2026-11-17T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.18904",
       "tags": [
         "arxiv",
         "astro-ph"
