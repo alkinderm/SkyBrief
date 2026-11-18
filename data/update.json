@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-17T19:17:01Z",
+  "generated_at": "2026-11-18T18:58:39Z",
   "items": [
     {
-      "title": "Thermal emission spectroscopy of the ultra-hot Jupiter HAT-P-70b: NIRPS constraints on its refractory and volatile content",
-      "summary": "arXiv:2611.18835v1 Announce Type: new Abstract: Context. The chemical makeup of exoplanets provides insight into their origins and internal structures. High dayside temperatures on ultra-hot Jupiters vaporise refractory species and dissociate volatile molecules such as water. Coo…",
-      "published_at": "2026-11-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.18835",
+      "title": "Improving Early Detection of Scientifically Interesting Radio Sources Using Enhanced Isolation Forest",
+      "summary": "arXiv:2611.21674v1 Announce Type: new Abstract: The rapid growth of radio astronomical surveys has created a major challenge in identifying scientifically interesting sources from large populations of observed objects. This study investigates whether enhanced Isolation Forest (iF…",
+      "published_at": "2026-11-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.21674",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Interpreting JWST UV luminosity functions and angular correlation functions via a \"universal language\" for high-redshift galaxies",
-      "summary": "arXiv:2611.18850v1 Announce Type: new Abstract: The James Webb Space Telescope (JWST) found more bright $z\\gtrsim10$ galaxies than expected before its launch. No consensus has emerged on whether difficulties in reproducing them stem from missing physics, simplifying assumptions t…",
-      "published_at": "2026-11-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.18850",
+      "title": "Mass-conservative voxelisation of smoothed particles using cumulative kernels",
+      "summary": "arXiv:2611.21686v1 Announce Type: new Abstract: Smoothed particle hydrodynamics (SPH) simulations are frequently post-processed on Cartesian grids for applications such as radiative transfer calculations, visualisation, and data analysis. While numerous voxelisation algorithms ha…",
+      "published_at": "2026-11-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.21686",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Developments Towards Superconducting On-Chip Fourier Transform Spectrometers (SOFTS)",
-      "summary": "arXiv:2611.18860v1 Announce Type: new Abstract: We need spectroscopic imaging at sub-millimetre wavelengths to answer fundamental questions about the origins of our universe, structure formation and galaxy evolution. Often, there are steep trade-offs between the number of detecto…",
-      "published_at": "2026-11-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.18860",
+      "title": "A PhEW Good Simulations: I. Galaxy Properties",
+      "summary": "arXiv:2611.21716v1 Announce Type: new Abstract: Although galactic outflows driven by stellar feedback are widely implemented in modern cosmological simulations, the interactions between them and the circumgalactic medium (CGM) remains poorly resolved. To overcome this limitation,…",
+      "published_at": "2026-11-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.21716",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Searching for Anisotropic Cosmic Birefringence with SPT-3G",
-      "summary": "arXiv:2611.18876v1 Announce Type: new Abstract: We search for anisotropic cosmic birefringence using two years of data from the SPT-3G instrument on the South Pole Telescope. Anisotropic cosmic birefringence refers to a theorized dependence of the refractive index of the vacuum o…",
-      "published_at": "2026-11-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.18876",
+      "title": "Efficient and Optimal Analysis of Galaxy Surveys on Large Scales",
+      "summary": "arXiv:2611.21718v1 Announce Type: new Abstract: On sufficiently large scales the galaxy overdensity field is approximately Gaussian, so its information can be losslessly compressed into the power spectrum. Standard power spectrum estimators are nevertheless suboptimal on the larg…",
+      "published_at": "2026-11-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.21718",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "On the Prospects of Using Cyclic Spectroscopy on Canonical Pulsars",
-      "summary": "arXiv:2611.18882v1 Announce Type: new Abstract: We use the cyclic figure of merit to determine the likelihood of achieving cyclic deconvolution for 2609 canonical pulsars, a population for which this technique has not previously been used. These pulsars have spin periods between…",
-      "published_at": "2026-11-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.18882",
+      "title": "Velocity Reconstruction from kSZ with SPT-3G and DESI-LS",
+      "summary": "arXiv:2611.21721v1 Announce Type: new Abstract: We reconstruct the large-scale radial velocity field from the kinetic Sunyaev-Zel'dovich effect for the first time with the South Pole Telescope, and measure the galaxy-velocity correlation and the velocity power spectrum. We cross-…",
+      "published_at": "2026-11-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.21721",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Mid-Infrared Variability as a Probe of Hidden AGN Activity: A Comparison of Seyfert 1 and Seyfert 2 AGNs in the BAT 58-Month Sample",
-      "summary": "arXiv:2611.18904v1 Announce Type: new Abstract: In accordance with the AGN Unification model, the optical variability of Seyfert 2s is expected to be suppressed because the central engine is obscured by a dusty torus. The absorbed UV/optical radiation is reprocessed and re-emitte…",
-      "published_at": "2026-11-17T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.18904",
+      "title": "ASAS-SN Rates V: Tidal Disruption Event Volumetric Rates and Luminosity Functions by Optical Spectroscopic Type, X-ray Luminosity, and Host-…",
+      "summary": "arXiv:2611.21731v1 Announce Type: new Abstract: We present volumetric rates and luminosity functions (LFs) of tidal disruption events (TDEs) based on 21 TDEs from the All-Sky Automated Survey for Supernovae (ASAS-SN) between 2014 and 2024. We calculate completeness corrections fr…",
+      "published_at": "2026-11-18T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.21731",
       "tags": [
         "arxiv",
         "astro-ph"
