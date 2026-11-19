@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-18T18:58:39Z",
+  "generated_at": "2026-11-19T19:06:44Z",
   "items": [
     {
-      "title": "Improving Early Detection of Scientifically Interesting Radio Sources Using Enhanced Isolation Forest",
-      "summary": "arXiv:2611.21674v1 Announce Type: new Abstract: The rapid growth of radio astronomical surveys has created a major challenge in identifying scientifically interesting sources from large populations of observed objects. This study investigates whether enhanced Isolation Forest (iF…",
-      "published_at": "2026-11-18T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.21674",
+      "title": "JWST Observations of Starbursts: Polycyclic Aromatic Hydrocarbons in the NGC 253 Superwind",
+      "summary": "arXiv:2611.23367v1 Announce Type: new Abstract: We present the first spatially resolved study of polycyclic aromatic hydrocarbon (PAH) evolution in the galactic superwind of the nearby (d~3.5Mpc) galaxy NGC 253. Using JWST MIRI and NIRCam, we image ~$\\pm$2kpc along the galaxy min…",
+      "published_at": "2026-11-19T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.23367",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Mass-conservative voxelisation of smoothed particles using cumulative kernels",
-      "summary": "arXiv:2611.21686v1 Announce Type: new Abstract: Smoothed particle hydrodynamics (SPH) simulations are frequently post-processed on Cartesian grids for applications such as radiative transfer calculations, visualisation, and data analysis. While numerous voxelisation algorithms ha…",
-      "published_at": "2026-11-18T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.21686",
+      "title": "Seeing through the fog: astrophysical priors and the evidence for new physics in pulsar timing arrays",
+      "summary": "arXiv:2611.23371v1 Announce Type: new Abstract: Pulsar timing arrays (PTAs) have found evidence for a gravitational wave background at nHz frequencies. Inspiralling supermassive black hole binaries (SMBHBs) likely contribute to at least part of the signal, but there may be additi…",
+      "published_at": "2026-11-19T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.23371",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "A PhEW Good Simulations: I. Galaxy Properties",
-      "summary": "arXiv:2611.21716v1 Announce Type: new Abstract: Although galactic outflows driven by stellar feedback are widely implemented in modern cosmological simulations, the interactions between them and the circumgalactic medium (CGM) remains poorly resolved. To overcome this limitation,…",
-      "published_at": "2026-11-18T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.21716",
+      "title": "Gaia's promise to detect compact-object binaries II: Predictions for dormant neutron star binaries in DR4 and beyond",
+      "summary": "arXiv:2611.23372v1 Announce Type: new Abstract: With the fourth data release (DR4) from Gaia imminent, we predict neutron star (NS) binaries with luminous companions (LCs) expected to be detectable in DR4 and the final data release (DR5). We create realistic synthetic populations…",
+      "published_at": "2026-11-19T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.23372",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Efficient and Optimal Analysis of Galaxy Surveys on Large Scales",
-      "summary": "arXiv:2611.21718v1 Announce Type: new Abstract: On sufficiently large scales the galaxy overdensity field is approximately Gaussian, so its information can be losslessly compressed into the power spectrum. Standard power spectrum estimators are nevertheless suboptimal on the larg…",
-      "published_at": "2026-11-18T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.21718",
+      "title": "Fast X-ray Transients as Premature-Dissipated Gamma-Ray Bursts with Magnetic-Dominated Jets",
+      "summary": "arXiv:2611.23380v1 Announce Type: new Abstract: Fast X-ray transients (FXTs) are extragalactic X-ray flashes with little or no accompanying $\\gamma$-ray emission. We propose that FXTs and classical gamma-ray bursts (GRBs) share a common origin in Poynting-flux-dominated jets powe…",
+      "published_at": "2026-11-19T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.23380",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Velocity Reconstruction from kSZ with SPT-3G and DESI-LS",
-      "summary": "arXiv:2611.21721v1 Announce Type: new Abstract: We reconstruct the large-scale radial velocity field from the kinetic Sunyaev-Zel'dovich effect for the first time with the South Pole Telescope, and measure the galaxy-velocity correlation and the velocity power spectrum. We cross-…",
-      "published_at": "2026-11-18T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.21721",
+      "title": "Isotropic diffuse gamma-ray flux limits from Carpet-3 experiment data using neural networks with domain adaptation",
+      "summary": "arXiv:2611.23389v1 Announce Type: new Abstract: Diffuse gamma rays above 100 TeV probe PeV cosmic rays and astrophysical neutrino sources. Their strong attenuation on background radiation makes the observed flux sensitive to the location of the emission and to possible modificati…",
+      "published_at": "2026-11-19T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.23389",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "ASAS-SN Rates V: Tidal Disruption Event Volumetric Rates and Luminosity Functions by Optical Spectroscopic Type, X-ray Luminosity, and Host-…",
-      "summary": "arXiv:2611.21731v1 Announce Type: new Abstract: We present volumetric rates and luminosity functions (LFs) of tidal disruption events (TDEs) based on 21 TDEs from the All-Sky Automated Survey for Supernovae (ASAS-SN) between 2014 and 2024. We calculate completeness corrections fr…",
-      "published_at": "2026-11-18T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.21731",
+      "title": "Are AGN Required? Updated Photoionization Models for Rest-UV Line Diagnostics in Reionization-era Galaxies",
+      "summary": "arXiv:2611.23391v1 Announce Type: new Abstract: Rest-frame ultraviolet (UV) emission lines in galaxies provide important probes of the ionizing radiation, chemical abundances, and interstellar medium conditions. Here, we consider UV emission-line diagnostics for galaxies with the…",
+      "published_at": "2026-11-19T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.23391",
       "tags": [
         "arxiv",
         "astro-ph"
