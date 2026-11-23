@@ -1,7 +1,111 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-22T17:59:11Z",
+  "generated_at": "2026-11-23T22:10:47Z",
   "items": [
+    {
+      "title": "Photo Release: Dark Energy Camera Captures the Betta Fish Nebula Swimming Through Space",
+      "summary": "<img align=\"left\" alt=\"DECam captures Betta Fish Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2629a.jpg\" />Wispy blue ribbons of stellar matter float deep in the cosmos, appearing like the waving tails of betta fish. This st…",
+      "published_at": "2026-11-23T16:00:00Z",
+      "url": "http://noirlab.edu/public/news/noirlab2629/",
+      "tags": [
+        "noirlab"
+      ],
+      "source": {
+        "name": "NOIRLab News",
+        "type": "rss",
+        "url": "https://noirlab.edu/public/news/feed/"
+      }
+    },
+    {
+      "title": "Analytical Modeling of Thermal Shield-Induced Tilt Noise in Lunar Regolith: Constraints on Future Lunar Seismometers and Gravitational waves…",
+      "summary": "arXiv:2611.26658v1 Announce Type: new Abstract: Surface features such as thermal shields, insulating blankets, and exposed rocks modify the absorption of solar radiation in the lunar regolith, producing lateral temperature gradients missed by one-dimensional thermal models. These…",
+      "published_at": "2026-11-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.26658",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "An ALMA Survey of Molecular Gas in the Host Galaxies of Fast Radio Bursts",
+      "summary": "arXiv:2611.26660v1 Announce Type: new Abstract: We present ALMA observations of CO(1-0) and CO(2-1) emission and millimeter continuum measurements for 9 localized fast radio burst (FRB) hosts at z=0.05-0.38. CO emission is significantly detected in 6 hosts and tentatively detecte…",
+      "published_at": "2026-11-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.26660",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Detection of GRB 261010A with GRID-11B",
+      "summary": "arXiv:2611.26662v1 Announce Type: new Abstract: We report GRID-11B observations of the main emission episode of GRB 261010A. We measure $T_{90}=5.68^{+1.04}_{-0.32}$ s and a minimum variability timescale of $51.6^{+10.5}_{-9.8}$ ms. Its spectrum is described by a cutoff power law…",
+      "published_at": "2026-11-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.26662",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Stellar activity demotes GJ 9404 b to a planetary candidate",
+      "summary": "arXiv:2611.26667v1 Announce Type: new Abstract: GJ 9404 is a nearby M dwarf ($d=23.8\\,\\text{pc}$), around which a $13.4586^{+0.0044}_{-0.0067}\\,\\text{d}$ planet has been claimed in a recent study using 54 publicly available HARPS-N radial velocities (RVs). We re-analyse the spect…",
+      "published_at": "2026-11-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.26667",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "PLATON 7: An ultra-fast exoplanet atmospheric retrieval code",
+      "summary": "arXiv:2611.26680v1 Announce Type: new Abstract: PLATON is an open source Python package for atmospheric retrieval, first released in 2018. We introduce PLATON 7, a complete rewrite of PLATON using Claude Fable 5. The biggest changes are that PLATON now uses JAX for all intensive…",
+      "published_at": "2026-11-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.26680",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Lost in the Signal Model: Confusion Between Deterministic and Stochastic Gravitational Wave Signals in Pulsar Timing Array Data",
+      "summary": "arXiv:2611.26681v1 Announce Type: new Abstract: With growing evidence for the presence of a gravitational wave background (GWB) in pulsar timing array (PTA) data, it is imperative to understand how this signal will act as a foreground for other GW signals, particularly those from…",
+      "published_at": "2026-11-23T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.26681",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: NSF NOIRLab-operated Facilities Capture Brightening Nearby Supernova",
       "summary": "<img align=\"left\" alt=\"Gemini South captures supernova SN 2026ahvu\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2628a.jpg\" />Newly discovered supernova SN 2026ahvu in the nearby spiral galaxy NGC 1433 bedazzles new images from the…",
@@ -63,20 +167,6 @@
       "summary": "<img align=\"left\" alt=\"Elders dancing with staff during the 2026 Tohono O’odham Nation Open Night\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2623a.jpg\" />More than 90 NSF NOIRLab volunteers welcomed visitors from the Tohono O’odh…",
       "published_at": "2026-10-13T20:52:57Z",
       "url": "http://noirlab.edu/public/news/noirlab2623/",
-      "tags": [
-        "noirlab"
-      ],
-      "source": {
-        "name": "NOIRLab News",
-        "type": "rss",
-        "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Photo Release: Gemini North Reveals Pearl-Like Knots in the Remnant of a Supernova Witnessed in the Year 1181",
-      "summary": "<img align=\"left\" alt=\"Supernova remnant Pa 30\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2624a.jpg\" />The Gemini North telescope located on Maunakea in Hawai‘i has revealed the most detailed view yet of Pa 30, the likely remnant…",
-      "published_at": "2026-10-06T16:00:00Z",
-      "url": "http://noirlab.edu/public/news/noirlab2624/",
       "tags": [
         "noirlab"
       ],
