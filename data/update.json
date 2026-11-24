@@ -1,7 +1,97 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-23T22:10:47Z",
+  "generated_at": "2026-11-24T20:47:21Z",
   "items": [
+    {
+      "title": "Unveiling the Eigenvector 1 Sequence in BZQ Blazars. I. Mg II and Ultraviolet Fe II Emission in the UV Main Sequence",
+      "summary": "arXiv:2611.27995v1 Announce Type: new Abstract: We investigate the location of flat-spectrum radio quasars confirmed as blazars (BZQ-C), Fanaroff-Riley type II radio-loud (RL) quasars (FRII-Q), and radio non-detected quasars within the ultraviolet (UV) Eigenvector 1 (E1) plane de…",
+      "published_at": "2026-11-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.27995",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Why High-Spin Prograde MAD States Are Not Realized for AGN in Nature: Consequences for AGN Phenomenology",
+      "summary": "arXiv:2611.27999v1 Announce Type: new Abstract: Quasar-like and other bright active galactic nuclei are typically radio quiet despite strong evidence that many host rapidly spinning black holes. In contrast, general relativistic magnetohydrodynamic (GRMHD) simulations show that h…",
+      "published_at": "2026-11-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.27999",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Spectral evolution and secular shift of the Z source GX 340+0: an interpretation in the spreading layer paradigm",
+      "summary": "arXiv:2611.28014v1 Announce Type: new Abstract: We present a comprehensive spectral and timing study of the bright neutron star low-mass X-ray binary and Z source, GX 340+0, using broadband X-ray observations with AstroSat in 2020 and 2024, focusing on the evolution of physical p…",
+      "published_at": "2026-11-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.28014",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Light Shining Through the Moon: A Lunar-Occultation Helioscope for Solar Axions",
+      "summary": "arXiv:2611.28019v1 Announce Type: new Abstract: We propose a lunar-occultation helioscope in which the Moon suppresses the direct solar x-ray beam before solar axions enter the terrestrial magnetosphere, where they may reconvert into keV photons. We evaluate the conversion with a…",
+      "published_at": "2026-11-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.28019",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Making Reconnection Cooler: A relativistic resistive magnetohydrodynamics model for radiative collisionless reconnection",
+      "summary": "arXiv:2611.28035v1 Announce Type: new Abstract: Relativistic magnetic reconnection around astrophysical compact objects is a likely site for particle energization and multiwavelength emission. Kinetic theory has substantially modelled such collisionless radiative relativistic rec…",
+      "published_at": "2026-11-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.28035",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
+    {
+      "title": "Photomeson-threshold origin of the TeV break in astrophysical neutrinos: Spectrum, flavor, resolved sources, and the ultrahigh-energy landsc…",
+      "summary": "arXiv:2611.28037v1 Announce Type: new Abstract: IceCube observes a break near 30 TeV in the diffuse astrophysical neutrino spectrum. We interpret it as the photomeson ($p\\gamma$) threshold. Accelerated protons interact with the soft x rays of accreting black holes through the $\\D…",
+      "published_at": "2026-11-24T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.28037",
+      "tags": [
+        "arxiv",
+        "astro-ph"
+      ],
+      "source": {
+        "name": "arXiv astro-ph (recent)",
+        "type": "rss",
+        "url": "https://rss.arxiv.org/rss/astro-ph"
+      }
+    },
     {
       "title": "Photo Release: Dark Energy Camera Captures the Betta Fish Nebula Swimming Through Space",
       "summary": "<img align=\"left\" alt=\"DECam captures Betta Fish Nebula\" border=\"0\" hspace=\"4\" src=\"https://storage.noirlab.edu/media/archives/images/newsmini/noirlab2629a.jpg\" />Wispy blue ribbons of stellar matter float deep in the cosmos, appearing like the waving tails of betta fish. This st…",
@@ -14,96 +104,6 @@
         "name": "NOIRLab News",
         "type": "rss",
         "url": "https://noirlab.edu/public/news/feed/"
-      }
-    },
-    {
-      "title": "Analytical Modeling of Thermal Shield-Induced Tilt Noise in Lunar Regolith: Constraints on Future Lunar Seismometers and Gravitational waves…",
-      "summary": "arXiv:2611.26658v1 Announce Type: new Abstract: Surface features such as thermal shields, insulating blankets, and exposed rocks modify the absorption of solar radiation in the lunar regolith, producing lateral temperature gradients missed by one-dimensional thermal models. These…",
-      "published_at": "2026-11-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.26658",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "An ALMA Survey of Molecular Gas in the Host Galaxies of Fast Radio Bursts",
-      "summary": "arXiv:2611.26660v1 Announce Type: new Abstract: We present ALMA observations of CO(1-0) and CO(2-1) emission and millimeter continuum measurements for 9 localized fast radio burst (FRB) hosts at z=0.05-0.38. CO emission is significantly detected in 6 hosts and tentatively detecte…",
-      "published_at": "2026-11-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.26660",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Detection of GRB 261010A with GRID-11B",
-      "summary": "arXiv:2611.26662v1 Announce Type: new Abstract: We report GRID-11B observations of the main emission episode of GRB 261010A. We measure $T_{90}=5.68^{+1.04}_{-0.32}$ s and a minimum variability timescale of $51.6^{+10.5}_{-9.8}$ ms. Its spectrum is described by a cutoff power law…",
-      "published_at": "2026-11-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.26662",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Stellar activity demotes GJ 9404 b to a planetary candidate",
-      "summary": "arXiv:2611.26667v1 Announce Type: new Abstract: GJ 9404 is a nearby M dwarf ($d=23.8\\,\\text{pc}$), around which a $13.4586^{+0.0044}_{-0.0067}\\,\\text{d}$ planet has been claimed in a recent study using 54 publicly available HARPS-N radial velocities (RVs). We re-analyse the spect…",
-      "published_at": "2026-11-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.26667",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "PLATON 7: An ultra-fast exoplanet atmospheric retrieval code",
-      "summary": "arXiv:2611.26680v1 Announce Type: new Abstract: PLATON is an open source Python package for atmospheric retrieval, first released in 2018. We introduce PLATON 7, a complete rewrite of PLATON using Claude Fable 5. The biggest changes are that PLATON now uses JAX for all intensive…",
-      "published_at": "2026-11-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.26680",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
-      }
-    },
-    {
-      "title": "Lost in the Signal Model: Confusion Between Deterministic and Stochastic Gravitational Wave Signals in Pulsar Timing Array Data",
-      "summary": "arXiv:2611.26681v1 Announce Type: new Abstract: With growing evidence for the presence of a gravitational wave background (GWB) in pulsar timing array (PTA) data, it is imperative to understand how this signal will act as a foreground for other GW signals, particularly those from…",
-      "published_at": "2026-11-23T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.26681",
-      "tags": [
-        "arxiv",
-        "astro-ph"
-      ],
-      "source": {
-        "name": "arXiv astro-ph (recent)",
-        "type": "rss",
-        "url": "https://rss.arxiv.org/rss/astro-ph"
       }
     },
     {
