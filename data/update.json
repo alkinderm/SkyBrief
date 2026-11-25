@@ -1,12 +1,12 @@
 {
   "project": "SkyBrief",
-  "generated_at": "2026-11-24T20:47:21Z",
+  "generated_at": "2026-11-25T20:03:26Z",
   "items": [
     {
-      "title": "Unveiling the Eigenvector 1 Sequence in BZQ Blazars. I. Mg II and Ultraviolet Fe II Emission in the UV Main Sequence",
-      "summary": "arXiv:2611.27995v1 Announce Type: new Abstract: We investigate the location of flat-spectrum radio quasars confirmed as blazars (BZQ-C), Fanaroff-Riley type II radio-loud (RL) quasars (FRII-Q), and radio non-detected quasars within the ultraviolet (UV) Eigenvector 1 (E1) plane de…",
-      "published_at": "2026-11-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.27995",
+      "title": "In-in formalism & $\\mathcal{T}_{C}^{\\star}$-product: no contribution from total time derivatives",
+      "summary": "arXiv:2611.31272v1 Announce Type: new Abstract: In the in-in formalism, total time derivatives are sometimes argued to contribute nontrivially to inflationary correlators at the evaluation point, i.e., at the end of inflation. In this paper, we disprove this claim based on the pa…",
+      "published_at": "2026-11-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.31272",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -18,10 +18,10 @@
       }
     },
     {
-      "title": "Why High-Spin Prograde MAD States Are Not Realized for AGN in Nature: Consequences for AGN Phenomenology",
-      "summary": "arXiv:2611.27999v1 Announce Type: new Abstract: Quasar-like and other bright active galactic nuclei are typically radio quiet despite strong evidence that many host rapidly spinning black holes. In contrast, general relativistic magnetohydrodynamic (GRMHD) simulations show that h…",
-      "published_at": "2026-11-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.27999",
+      "title": "Magnetar driven Dainotti relation with up to 56\\% reduced uncertainties: probing the Expansion History of the Universe",
+      "summary": "arXiv:2611.31273v1 Announce Type: new Abstract: The persistent tension in Hubble constant measurements and recent DESI hints of dynamical dark energy motivate extending the distance ladder beyond Type~Ia supernovae (SNe~Ia) and Cosmic Chronometers (CC) into the largely unexplored…",
+      "published_at": "2026-11-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.31273",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -33,10 +33,10 @@
       }
     },
     {
-      "title": "Spectral evolution and secular shift of the Z source GX 340+0: an interpretation in the spreading layer paradigm",
-      "summary": "arXiv:2611.28014v1 Announce Type: new Abstract: We present a comprehensive spectral and timing study of the bright neutron star low-mass X-ray binary and Z source, GX 340+0, using broadband X-ray observations with AstroSat in 2020 and 2024, focusing on the evolution of physical p…",
-      "published_at": "2026-11-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.28014",
+      "title": "CosmoMap: Predicting Hot Gas Temperature and Density from Dark Matter with a Conditioned 3D U-Net",
+      "summary": "arXiv:2611.31282v1 Announce Type: new Abstract: Mock X-ray observations of hot gas in galaxy groups, clusters and the cosmic web require its temperature and density over large volumes and many cosmologies, for which hydrodynamical simulations are expensive. We present CosmoMap, a…",
+      "published_at": "2026-11-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.31282",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -48,10 +48,10 @@
       }
     },
     {
-      "title": "Light Shining Through the Moon: A Lunar-Occultation Helioscope for Solar Axions",
-      "summary": "arXiv:2611.28019v1 Announce Type: new Abstract: We propose a lunar-occultation helioscope in which the Moon suppresses the direct solar x-ray beam before solar axions enter the terrestrial magnetosphere, where they may reconvert into keV photons. We evaluate the conversion with a…",
-      "published_at": "2026-11-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.28019",
+      "title": "Self-gravitating dust clumps: linear theory sets the threshold, the onset time and the spacing of their formation, then slow coarsening eras…",
+      "summary": "arXiv:2611.31327v1 Announce Type: new Abstract: Planets form in disks of gas and dust. One step of their formation is the gathering of dust grains into dense clumps, under their own gravity. This work tries to predict when these clumps appear and how far apart they are. The grain…",
+      "published_at": "2026-11-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.31327",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -63,10 +63,10 @@
       }
     },
     {
-      "title": "Making Reconnection Cooler: A relativistic resistive magnetohydrodynamics model for radiative collisionless reconnection",
-      "summary": "arXiv:2611.28035v1 Announce Type: new Abstract: Relativistic magnetic reconnection around astrophysical compact objects is a likely site for particle energization and multiwavelength emission. Kinetic theory has substantially modelled such collisionless radiative relativistic rec…",
-      "published_at": "2026-11-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.28035",
+      "title": "A novel quantum lattice Boltzmann methodology for cosmological radiation transport",
+      "summary": "arXiv:2611.31340v1 Announce Type: new Abstract: Radiation transport is an essential process in many physical simulations, including cosmological codes which track stellar and diffuse radiation. Many present codes utilize ray tracing or moment methods, but these grow increasingly…",
+      "published_at": "2026-11-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.31340",
       "tags": [
         "arxiv",
         "astro-ph"
@@ -78,10 +78,10 @@
       }
     },
     {
-      "title": "Photomeson-threshold origin of the TeV break in astrophysical neutrinos: Spectrum, flavor, resolved sources, and the ultrahigh-energy landsc…",
-      "summary": "arXiv:2611.28037v1 Announce Type: new Abstract: IceCube observes a break near 30 TeV in the diffuse astrophysical neutrino spectrum. We interpret it as the photomeson ($p\\gamma$) threshold. Accelerated protons interact with the soft x rays of accreting black holes through the $\\D…",
-      "published_at": "2026-11-24T05:00:00Z",
-      "url": "https://arxiv.org/abs/2611.28037",
+      "title": "Spectroscopic identification of z>7 quasars with Roman Space Telescope",
+      "summary": "arXiv:2611.31352v1 Announce Type: new Abstract: The Roman Wide Field Instrument grism will cover a large area over 1.0-1.93 micrometers, making it possible to search directly for Lyman-alpha breaks in quasars beyond redshift z = 7. We simulate quasars at z = 7.5-10 under HLWAS-li…",
+      "published_at": "2026-11-25T05:00:00Z",
+      "url": "https://arxiv.org/abs/2611.31352",
       "tags": [
         "arxiv",
         "astro-ph"
